@@ -40,6 +40,26 @@
             border-radius: 4px;
             font-size: 14px;
         }
+        .search-container {
+            position: relative;
+            display: inline-block;
+        }
+        .search-clear {
+            position: absolute;
+            right: 8px;
+            top: 50%;
+            transform: translateY(-50%);
+            cursor: pointer;
+            color: #999;
+            font-size: 18px;
+            display: none;
+            background: none;
+            border: none;
+            padding: 0;
+        }
+        .search-clear:hover {
+            color: #666;
+        }
         .progress {
             display: flex;
             align-items: center;
@@ -81,6 +101,19 @@
             border-radius: 8px 8px 0 0;
             box-shadow: 0 -2px 4px rgba(0,0,0,0.1);
             z-index: 1000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+        .jump-container {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .jump-container input {
+            width: 60px;
+            text-align: center;
         }
         .auto-next-container {
             display: inline-flex;
@@ -141,7 +174,10 @@
             <select id="difficultyFilter" onchange="filterProblems()">
                 <option value="">所有难度</option>
             </select>
-            <input type="text" id="searchInput" placeholder="输入题号或搜索题目..." oninput="filterProblems()">
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="输入题号或搜索题目..." oninput="onSearchInput()">
+                <button class="search-clear" id="searchClear" onclick="clearSearch()">×</button>
+            </div>
         </div>
         <div class="progress">
             <span>进度：<span id="progressText">0/0</span></span>
@@ -159,6 +195,10 @@
     <div id="gliftContainer"></div>
     <div class="controls">
         <button onclick="prevProblem()">上一题</button>
+        <div class="jump-container">
+            <input type="number" id="jumpInput" min="1" placeholder="题号">
+            <button onclick="jumpToProblem()">跳转</button>
+        </div>
         <button onclick="nextProblem()">下一题</button>
         <div class="auto-next-container">
             <input type="checkbox" id="autoNextCheckbox" checked>
@@ -335,12 +375,53 @@
             }
         }
 
+        function jumpToProblem() {
+            const jumpInput = document.getElementById('jumpInput');
+            const problemId = parseInt(jumpInput.value);
+            
+            if (isNaN(problemId) || problemId < 1) {
+                alert('请输入有效的题号');
+                return;
+            }
+
+            // 在所有题目中查找目标题目的索引
+            const targetIndex = filteredProblems.findIndex(p => p.id === problemId);
+            
+            if (targetIndex === -1) {
+                alert('未找到该题号');
+                return;
+            }
+
+            currentProblem = targetIndex;
+            clearCurrentBoard();
+            initGlift();
+            jumpInput.value = ''; // 清空输入框
+        }
+
+        function clearSearch() {
+            document.getElementById('searchInput').value = '';
+            document.getElementById('searchClear').style.display = 'none';
+            filterProblems();
+        }
+
+        function onSearchInput() {
+            const searchInput = document.getElementById('searchInput');
+            const searchClear = document.getElementById('searchClear');
+            searchClear.style.display = searchInput.value ? 'block' : 'none';
+            filterProblems();
+        }
+
         // 键盘导航
         document.addEventListener('keydown', (e) => {
             if (e.key === 'ArrowLeft') {
                 prevProblem();
             } else if (e.key === 'ArrowRight') {
                 nextProblem();
+            } else if (e.key === 'Enter') {
+                // 当焦点在跳转输入框时，按回车键触发跳转
+                if (document.activeElement === document.getElementById('jumpInput')) {
+                    jumpToProblem();
+                }
             }
         });
 
