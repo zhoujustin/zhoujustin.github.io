@@ -361,6 +361,17 @@
             filteredProblems = window.goProblems.getAllProblems();
             initGlift();
         };
+
+        // 添加窗口大小变化监听
+        let resizeTimeout;
+        window.addEventListener('resize', function() {
+            // 使用防抖，避免频繁重绘
+            clearTimeout(resizeTimeout);
+            resizeTimeout = setTimeout(function() {
+                clearCurrentBoard();
+                initGlift();
+            }, 250); // 250ms 防抖延迟
+        });
     </script>
 </body>
 </html>
