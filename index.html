@@ -300,6 +300,7 @@
                 document.getElementById('problemTitle').textContent = "没有找到匹配的题目";
                 document.getElementById('problemCategory').textContent = "";
             }
+            saveToCache(); // 保存筛选状态
         }
 
         function updateProblemInfo() {
@@ -364,6 +365,7 @@
                 currentProblem++;
                 clearCurrentBoard();
                 initGlift();
+                saveToCache();
             }
         }
 
@@ -372,6 +374,7 @@
                 currentProblem--;
                 clearCurrentBoard();
                 initGlift();
+                saveToCache();
             }
         }
 
@@ -396,6 +399,7 @@
             clearCurrentBoard();
             initGlift();
             jumpInput.value = ''; // 清空输入框
+            saveToCache();
         }
 
         function clearSearch() {
@@ -425,6 +429,48 @@
             }
         });
 
+        // 保存当前状态到缓存
+        function saveToCache() {
+            const state = {
+                currentProblem,
+                category: document.getElementById('categoryFilter').value,
+                difficulty: document.getElementById('difficultyFilter').value,
+                searchText: document.getElementById('searchInput').value,
+                autoNext: document.getElementById('autoNextCheckbox').checked,
+                timestamp: new Date().getTime()
+            };
+            localStorage.setItem('problemState', JSON.stringify(state));
+        }
+
+        // 从缓存恢复状态
+        function restoreFromCache() {
+            const state = JSON.parse(localStorage.getItem('problemState'));
+            if (!state) return;
+
+            // 恢复筛选器状态
+            document.getElementById('categoryFilter').value = state.category || '';
+            document.getElementById('difficultyFilter').value = state.difficulty || '';
+            document.getElementById('searchInput').value = state.searchText || '';
+            document.getElementById('autoNextCheckbox').checked = state.autoNext !== undefined ? state.autoNext : true;
+
+            // 应用筛选并恢复当前题目
+            filterProblems();
+            if (filteredProblems.length > 0) {
+                currentProblem = Math.min(state.currentProblem || 0, filteredProblems.length - 1);
+                initGlift();
+            }
+
+            // 更新搜索框清除按钮状态
+            const searchClear = document.getElementById('searchClear');
+            searchClear.style.display = state.searchText ? 'block' : 'none';
+        }
+
+        // 在相关操作后保存状态
+        function updateAndSave() {
+            saveToCache();
+            updateProgress();
+        }
+
         // 初始化
         window.onload = function() {
             // 恢复自动下一题的状态
@@ -440,7 +486,7 @@
 
             initFilters();
             filteredProblems = window.goProblems.getAllProblems();
-            initGlift();
+            restoreFromCache(); // 从缓存恢复状态
         };
 
         // 添加窗口大小变化监听
