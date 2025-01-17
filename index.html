@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>围棋解题</title>
+    <script src="js/glift.min.js"></script>
+    <script src="js/problems.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px 20px 80px 20px;
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+            overflow: hidden; /* Prevent scrollbars */
+            height: 100vh; /* Full viewport height */
+            box-sizing: border-box; /* Include padding in height calculation */
+        }
+        html {
+            overflow: hidden; /* Prevent scrollbars */
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .filters {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+        select, input {
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        .progress {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .progress-bar {
+            width: 200px;
+            height: 8px;
+            background-color: #eee;
+            border-radius: 4px;
+            overflow: hidden;
+        }
+        .progress-fill {
+            height: 100%;
+            background-color: #4CAF50;
+            width: 0%;
+            transition: width 0.3s;
+        }
+        #gliftContainer {
+            width: 100%;
+            height: calc(100vh - 300px);
+            min-height: 400px;
+            max-height: 800px;
+            margin: 0 auto;
+            margin-bottom: 20px;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .controls {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            text-align: center;
+            padding: 15px;
+            background-color: white;
+            border-radius: 8px 8px 0 0;
+            box-shadow: 0 -2px 4px rgba(0,0,0,0.1);
+            z-index: 1000;
+        }
+        .auto-next-container {
+            display: inline-flex;
+            align-items: center;
+            margin-left: 10px;
+            font-size: 14px;
+            color: #666;
+        }
+        .auto-next-container input[type="checkbox"] {
+            margin-right: 5px;
+            cursor: pointer;
+        }
+        button {
+            padding: 10px 20px;
+            margin: 0 10px;
+            font-size: 16px;
+            background-color: #4a4a4a;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #666;
+        }
+        .problem-info {
+            text-align: center;
+            font-size: 20px;
+            margin: 20px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .problem-title {
+            font-size: 16px;
+            color: #666;
+            margin-top: 10px;
+        }
+        .problem-category {
+            font-size: 14px;
+            color: #888;
+            margin-top: 5px;
+        }
+        .solved {
+            color: #4CAF50;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="filters">
+            <select id="categoryFilter" onchange="filterProblems()">
+                <option value="">所有分类</option>
+            </select>
+            <select id="difficultyFilter" onchange="filterProblems()">
+                <option value="">所有难度</option>
+            </select>
+            <input type="text" id="searchInput" placeholder="输入题号或搜索题目..." oninput="filterProblems()">
+        </div>
+        <div class="progress">
+            <span>进度：<span id="progressText">0/0</span></span>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="problem-info">
+        第 <span id="problemNumber">1</span> 题
+        <div class="problem-title" id="problemTitle"></div>
+        <div class="problem-category" id="problemCategory"></div>
+    </div>
+    <div id="gliftContainer"></div>
+    <div class="controls">
+        <button onclick="prevProblem()">上一题</button>
+        <button onclick="nextProblem()">下一题</button>
+        <div class="auto-next-container">
+            <input type="checkbox" id="autoNextCheckbox" checked>
+            <label for="autoNextCheckbox">成功后自动下一题</label>
+        </div>
+    </div>
+
+    <script>
+        let currentProblem = 0;
+        let filteredProblems = [];
+        let solvedProblems = new Set(JSON.parse(localStorage.getItem('solvedProblems') || '[]'));
+        let currentGliftInstance = null;  // 保存当前的 glift 实例
+        let autoNextEnabled = true; // 自动下一题的状态
+
+        // 初始化筛选器
+        function initFilters() {
+            const categories = window.goProblems.getAvailableCategories();
+            const difficulties = window.goProblems.getAvailableDifficulties();
+
+            const categorySelect = document.getElementById('categoryFilter');
+            const difficultySelect = document.getElementById('difficultyFilter');
+
+            categorySelect.innerHTML = '<option value="">所有分类</option>';
+            difficultySelect.innerHTML = '<option value="">所有难度</option>';
+
+            categories.forEach(category => {
+                const option = document.createElement('option');
+                option.value = category;
+                option.textContent = category;
+                categorySelect.appendChild(option);
+            });
+
+            difficulties.forEach(difficulty => {
+                const option = document.createElement('option');
+                option.value = difficulty;
+                option.textContent = difficulty;
+                difficultySelect.appendChild(option);
+            });
+
+            updateProgress();
+        }
+
+        // 更新进度
+        function updateProgress() {
+            const total = window.goProblems.getTotalProblems();
+            const solved = solvedProblems.size;
+            const percentage = (solved / total * 100) || 0;
+            
+            document.getElementById('progressText').textContent = `${solved}/${total}`;
+            document.getElementById('progressFill').style.width = `${percentage}%`;
+        }
+
+        // 清理当前棋盘
+        function clearCurrentBoard() {
+            if (currentGliftInstance) {
+                const container = document.getElementById('gliftContainer');
+                container.innerHTML = '';
+                currentGliftInstance = null;
+            }
+        }
+
+        // 筛选题目
+        function filterProblems() {
+            const category = document.getElementById('categoryFilter').value;
+            const difficulty = document.getElementById('difficultyFilter').value;
+            const searchText = document.getElementById('searchInput').value.trim();
+
+            // 获取所有题目
+            let filtered = window.goProblems.getAllProblems();
+
+            // 如果搜索框输入的是数字，按ID搜索
+            const searchId = parseInt(searchText);
+            if (!isNaN(searchId)) {
+                filtered = filtered.filter(problem => problem.id === searchId);
+            } else if (searchText) {
+                // 如果不是数字且不为空，按标题和分类搜索
+                filtered = filtered.filter(problem => 
+                    problem.title.toLowerCase().includes(searchText.toLowerCase()) ||
+                    problem.category.toLowerCase().includes(searchText.toLowerCase())
+                );
+            }
+
+            // 应用分类和难度筛选
+            filtered = filtered.filter(problem => {
+                const matchesCategory = !category || problem.category === category;
+                const matchesDifficulty = !difficulty || problem.difficulty === difficulty;
+                return matchesCategory && matchesDifficulty;
+            });
+
+            filteredProblems = filtered;
+
+            currentProblem = 0;
+            if (filteredProblems.length > 0) {
+                clearCurrentBoard();
+                initGlift();
+            } else {
+                clearCurrentBoard();
+                document.getElementById('problemNumber').textContent = '0';
+                document.getElementById('problemTitle').textContent = "没有找到匹配的题目";
+                document.getElementById('problemCategory').textContent = "";
+            }
+        }
+
+        function updateProblemInfo() {
+            if (filteredProblems.length === 0) {
+                document.getElementById('problemNumber').textContent = '0';
+                document.getElementById('problemTitle').textContent = "没有题目";
+                document.getElementById('problemCategory').textContent = "";
+                return;
+            }
+
+            const problem = filteredProblems[currentProblem];
+            if (!problem) return;
+
+            document.getElementById('problemNumber').textContent = problem.id;
+            document.getElementById('problemTitle').textContent = problem.title;
+            document.getElementById('problemCategory').textContent = 
+                `${problem.category} · ${problem.difficulty}${solvedProblems.has(problem.id) ? ' · 已解决' : ''}`;
+        }
+
+        function initGlift() {
+            clearCurrentBoard();
+            
+            if (filteredProblems.length === 0) {
+                updateProblemInfo();
+                return;
+            }
+
+            const problem = filteredProblems[currentProblem];
+            if (!problem) return;
+
+            currentGliftInstance = glift.create({
+                divId: "gliftContainer",
+                sgf: {
+                    sgfString: problem.sgf,
+                    widgetType: 'STANDARD_PROBLEM'
+                },
+                display: {
+                    theme: 'TEXTBOOK',
+                    goBoardBackground: '#f5be7e'
+                },
+                hooks: {
+                    problemCorrect: function() {
+                        solvedProblems.add(problem.id);
+                        localStorage.setItem('solvedProblems', JSON.stringify([...solvedProblems]));
+                        updateProblemInfo();
+                        updateProgress();
+                        
+                        // 如果启用了自动下一题，延迟1秒后自动进入下一题
+                        if (document.getElementById('autoNextCheckbox').checked) {
+                            setTimeout(() => {
+                                nextProblem();
+                            }, 1000);
+                        }
+                    }
+                }
+            });
+            updateProblemInfo();
+        }
+
+        function nextProblem() {
+            if (currentProblem < filteredProblems.length - 1) {
+                currentProblem++;
+                clearCurrentBoard();
+                initGlift();
+            }
+        }
+
+        function prevProblem() {
+            if (currentProblem > 0) {
+                currentProblem--;
+                clearCurrentBoard();
+                initGlift();
+            }
+        }
+
+        // 键盘导航
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowLeft') {
+                prevProblem();
+            } else if (e.key === 'ArrowRight') {
+                nextProblem();
+            }
+        });
+
+        // 初始化
+        window.onload = function() {
+            // 恢复自动下一题的状态
+            const savedAutoNext = localStorage.getItem('autoNextEnabled');
+            if (savedAutoNext !== null) {
+                document.getElementById('autoNextCheckbox').checked = savedAutoNext === 'true';
+            }
+
+            // 保存自动下一题的状态
+            document.getElementById('autoNextCheckbox').addEventListener('change', function(e) {
+                localStorage.setItem('autoNextEnabled', e.target.checked.toString());
+            });
+
+            initFilters();
+            filteredProblems = window.goProblems.getAllProblems();
+            initGlift();
+        };
+    </script>
+</body>
+</html>
