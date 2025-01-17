@@ -445,6 +445,17 @@
         // 从缓存恢复状态
         function restoreFromCache() {
             const state = JSON.parse(localStorage.getItem('problemState'));
+            const isFirstTime = !state && !localStorage.getItem('solvedProblems');
+
+            if (isFirstTime) {
+                // 第一次打开时，使用第一题
+                currentProblem = 0;
+                filteredProblems = window.goProblems.getAllProblems();
+                initGlift();
+                saveToCache(); // 保存初始状态
+                return;
+            }
+
             if (!state) return;
 
             // 恢复筛选器状态
