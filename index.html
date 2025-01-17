@@ -65,6 +65,18 @@
             align-items: center;
             gap: 10px;
         }
+        .version-info {
+            margin-left: 20px;
+            color: #666;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+        }
+        .version-info::before {
+            content: "•";
+            margin-right: 8px;
+            color: #999;
+        }
         .progress-bar {
             width: 200px;
             height: 8px;
@@ -184,6 +196,7 @@
             <div class="progress-bar">
                 <div class="progress-fill" id="progressFill"></div>
             </div>
+            <div class="version-info">v1.0.1</div>
         </div>
     </div>
 
@@ -386,6 +399,13 @@
                 alert('请输入有效的题号');
                 return;
             }
+
+            // 重置分类和难度筛选为全部
+            document.getElementById('categoryFilter').value = '';
+            document.getElementById('difficultyFilter').value = '';
+            
+            // 重新获取所有题目
+            filteredProblems = window.goProblems.getAllProblems();
 
             // 在所有题目中查找目标题目的索引
             const targetIndex = filteredProblems.findIndex(p => p.id === problemId);
