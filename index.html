@@ -109,14 +109,28 @@
             right: 0;
             text-align: center;
             padding: 15px;
-            background-color: white;
-            border-radius: 8px 8px 0 0;
-            box-shadow: 0 -2px 4px rgba(0,0,0,0.1);
+            background-color: #fff;
+            box-shadow: 0 -2px 8px rgba(0,0,0,0.1);
             z-index: 1000;
             display: flex;
             align-items: center;
             justify-content: center;
             gap: 10px;
+        }
+        .controls button {
+            padding: 10px 20px;
+            margin: 0 10px;
+            font-size: 16px;
+            background-color: #f5f5f5;
+            color: #333;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .controls button:hover {
+            background-color: #e8e8e8;
+            border-color: #ccc;
         }
         .jump-container {
             display: flex;
@@ -126,6 +140,14 @@
         .jump-container input {
             width: 60px;
             text-align: center;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            color: #333;
+            border-radius: 4px;
+            padding: 8px;
+        }
+        .jump-container input::placeholder {
+            color: #999;
         }
         .auto-next-container {
             display: inline-flex;
@@ -137,20 +159,6 @@
         .auto-next-container input[type="checkbox"] {
             margin-right: 5px;
             cursor: pointer;
-        }
-        button {
-            padding: 10px 20px;
-            margin: 0 10px;
-            font-size: 16px;
-            background-color: #4a4a4a;
-            color: white;
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
-            transition: background-color 0.3s;
-        }
-        button:hover {
-            background-color: #666;
         }
         .problem-info {
             text-align: center;
@@ -196,7 +204,7 @@
             <div class="progress-bar">
                 <div class="progress-fill" id="progressFill"></div>
             </div>
-            <div class="version-info">v1.0.1</div>
+            <div class="version-info">v1.0.3</div>
         </div>
     </div>
 
