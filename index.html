@@ -183,6 +183,81 @@
             color: #4CAF50;
             font-weight: bold;
         }
+
+        /* 移动端响应式样式 */
+        @media screen and (max-width: 768px) {
+            .filters {
+                flex-direction: column;
+                gap: 10px;
+                padding: 10px;
+            }
+            .filters select,
+            .filters .search-container {
+                width: 100%;
+                max-width: 100%;
+            }
+            .search-container input {
+                width: 100%;
+            }
+            .progress {
+                flex-direction: column;
+                gap: 5px;
+            }
+            .progress-bar {
+                width: 100%;
+            }
+            .version-info {
+                margin-left: 0;
+            }
+            .version-info::before {
+                display: none;
+            }
+            .controls {
+                flex-wrap: wrap;
+                padding: 10px;
+                gap: 8px;
+            }
+            .controls button {
+                flex: 1;
+                min-width: 80px;
+                margin: 0;
+                padding: 8px;
+                font-size: 14px;
+            }
+            .jump-container {
+                width: 100%;
+                order: -1;
+                margin-bottom: 8px;
+                justify-content: center;
+            }
+            .jump-container input {
+                width: 80px;
+            }
+            .auto-next-container {
+                width: 100%;
+                justify-content: center;
+                margin: 0;
+                order: 1;
+            }
+            .problem-info {
+                font-size: 16px;
+                padding: 10px;
+            }
+            #gliftContainer {
+                margin-bottom: 160px;
+            }
+        }
+
+        /* 更小屏幕的优化 */
+        @media screen and (max-width: 480px) {
+            .controls button {
+                font-size: 12px;
+                padding: 6px;
+            }
+            .problem-info {
+                font-size: 14px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -204,7 +279,7 @@
             <div class="progress-bar">
                 <div class="progress-fill" id="progressFill"></div>
             </div>
-            <div class="version-info">v1.0.3</div>
+            <div class="version-info">v1.1.0</div>
         </div>
     </div>
 
