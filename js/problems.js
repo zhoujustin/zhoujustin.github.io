@@ -3,7 +3,8 @@ const CATEGORIES = {
     BASIC: '基础题',
     LIFE_DEATH: '死活题',
     TESUJI: '手筋题',
-    KILLING: '对杀题'
+    KILLING: '对杀题',
+    JOSEKI: "定式题"
 };
 
 // 难度等级常量
@@ -42884,6 +42885,51 @@ const problems = [
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
         "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][cd][db][dd][de][ee][fe][ga][gd][ha][hb][hc][hd]AW[ba][cb][dc][ec][ed][fa][fb][fd][gb][gc](;B[da];W[eb];B[cc]C[Correct]))"
+    },
+    {
+        "id": 6125,
+        "title": "定式：",
+        "category": CATEGORIES.JOSEKI,
+        "difficulty": DIFFICULTIES.ELEMENTARY,
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]C[定式1]\
+            ;B[pd]\
+            ;W[nc]\
+            ;B[oc]\
+            ;W[nd]\
+            ;B[qf]\
+            ;W[jc]C[Correct])"
+    },
+    {
+        "id": 6126,
+        "title": "定式：",
+        "category": CATEGORIES.JOSEKI,
+        "difficulty": DIFFICULTIES.ELEMENTARY,
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]C[定式2]\
+            ;B[pd]\
+            ;W[nc]\
+            ;B[qf]\
+            ;W[pb]\
+            ;B[qc]\
+            ;W[kc]C[Correct])"
+    },
+    {
+        "id": 6127,
+        "title": "定式：",
+        "category": CATEGORIES.JOSEKI,
+        "difficulty": DIFFICULTIES.ELEMENTARY,
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]C[定式2]\
+            ;B[pd]\
+            ;W[nc]\
+            ;B[lc]\
+            ;W[qc]\
+            ;B[pc]\
+            ;W[qd]\
+            ;B[pe]\
+            ;W[pb]\
+            ;B[ob]\
+            ;W[qb]\
+            ;B[oc]\
+            ;W[qf]C[Correct])"
     }
 ];
 
