@@ -42888,16 +42888,16 @@ const problems = [
     },
     {
         "id": 6125,
-        "title": "定式：",
+        "title": "定式：小目高挂后接压的变化",
         "category": CATEGORIES.JOSEKI,
         "difficulty": DIFFICULTIES.ELEMENTARY,
         "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]C[定式1]\
             ;B[pd]\
-            ;W[nc]\
+            ;W[nc]C[黑棋小目布局，占据角地，注重实地\n白棋高挂，意在快速建立外势并牵制黑棋]\
             ;B[oc]\
-            ;W[nd]\
+            ;W[nd]C[黑棋直接压迫白棋，试图限制其外势发展，同时巩固角地\n白棋反压，形成对黑棋的反制，同时强化自己的外势]\
             ;B[qf]\
-            ;W[jc]C[Correct])"
+            ;W[jc]C[Correct,黑棋跳出，拓展外势，同时避免被白棋围剿\n白棋转向另一边，占据要点，抢占更大的全局空间])"
     },
     {
         "id": 6126,
@@ -42917,7 +42917,7 @@ const problems = [
         "title": "定式：",
         "category": CATEGORIES.JOSEKI,
         "difficulty": DIFFICULTIES.ELEMENTARY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]C[定式2]\
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]C[定式3]\
             ;B[pd]\
             ;W[nc]\
             ;B[lc]\
@@ -42930,6 +42930,94 @@ const problems = [
             ;W[qb]\
             ;B[oc]\
             ;W[qf]C[Correct])"
+    },
+    {
+        "id": 6128,
+        "title": "定式：",
+        "category": CATEGORIES.JOSEKI,
+        "difficulty": DIFFICULTIES.ELEMENTARY,
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]C[定式4]\
+            ;B[pd]\
+            ;W[nc]\
+            ;B[lc]\
+            ;W[qc]\
+            ;B[qd]\
+            ;W[pc]\
+            ;B[od]\
+            ;W[nb]\
+            ;B[me]C[Correct])"
+    },
+    {
+        "id": 6129,
+        "title": "定式：",
+        "category": CATEGORIES.JOSEKI,
+        "difficulty": DIFFICULTIES.ELEMENTARY,
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]C[定式5]\
+            ;B[pd]\
+            ;W[qc]\
+            ;B[pc]\
+            ;W[qd]\
+            ;B[qe]\
+            ;W[re]\
+            ;B[qf]\
+            ;W[rf]\
+            ;B[qg]\
+            ;W[pb]\
+            ;B[ob]\
+            ;W[qb]\
+            ;B[nc]C[Correct])"
+    },
+    {
+        "id": 6130,
+        "title": "定式：",
+        "category": CATEGORIES.JOSEKI,
+        "difficulty": DIFFICULTIES.ELEMENTARY,
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]C[定式6]\
+            ;B[pd]\
+            ;W[qc]\
+            ;B[pc]\
+            ;W[qd]\
+            ;B[qe]\
+            ;W[re]\
+            ;B[rf]\
+            ;W[qf]\
+            ;B[pe]\
+            ;W[rg]\
+            ;B[rd]\
+            ;W[sf]C[Correct])"
+    },
+    {
+        "id": 6131,
+        "title": "定式：小目高挂后接压定式的变化",
+        "category": CATEGORIES.JOSEKI,
+        "difficulty": DIFFICULTIES.ELEMENTARY,
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]C[定式7]\
+            ;B[qd]\
+            ;W[od]C[黑棋以小目开局，占据角地\n白棋一间高挂，这是常见的布局手法，意图围绕外势发展]\
+            ;B[oc]\
+            ;W[nc]C[直接压迫白棋，抢占角地，同时防止白棋轻易扩张\n白棋反压，试图形成外势，同时牵制黑棋]\
+            ;B[pc]\
+            ;W[nd]C[黑棋挖下，以更强的手段保留角部实地\n白棋补强，同时扩展自身的外势，形成对角部的威胁]\
+            ;B[qf]\
+            ;W[jc]C[Correct, 黑棋另辟蹊径，跳出外围，扩大自身的影响力\n白棋转向另一边，占据更大的全局空间])"
+    },
+    {
+        "id": 6132,
+        "title": "定式：小目一间高挂与外势发展的定式变化",
+        "category": CATEGORIES.JOSEKI,
+        "difficulty": DIFFICULTIES.ELEMENTARY,
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]C[定式4]\
+            ;B[qd]\
+            ;W[oc]C[黑棋小目布局\n白棋一间高挂]\
+            ;B[mc]\
+            ;W[qc]C[黑棋直接守角，压制白棋在角部的发展\n白棋抢占关键点，意图围绕边线和角部发展]\
+            ;B[rc]\
+            ;W[pd]C[黑棋抢占实地，同时对白棋挂角施加压力\n白棋靠近黑棋，形成纠缠，继续争夺外势和角地]\
+            ;B[qe]\
+            ;W[qb]C[黑棋维护角部，同时对白棋外围进行反击\n白棋打入，进一步挑战黑棋的势力]\
+            ;B[qh]\
+            ;W[rb]C[黑棋转向外围，经营大局\n白棋继续围绕角部展开，同时确保实地]\
+            ;B[jc]C[Correct, 黑棋转向另一侧，快速扩大实地])"
     }
 ];
 
