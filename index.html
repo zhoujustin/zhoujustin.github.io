@@ -183,6 +183,35 @@
             color: #4CAF50;
             font-weight: bold;
         }
+        .favorite-btn {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 20px;
+            padding: 5px;
+            margin-left: 10px;
+            color: #ccc;
+            transition: color 0.3s;
+        }
+        .favorite-btn.active {
+            color: #FFD700;
+        }
+        .favorite-btn:hover {
+            color: #FFD700;
+        }
+        .wrong-btn {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+            padding: 5px;
+            margin-left: 10px;
+            color: #f44336;
+            transition: color 0.3s;
+        }
+        .wrong-btn:hover {
+            color: #d32f2f;
+        }
 
         /* 移动端响应式样式 */
         @media screen and (max-width: 768px) {
@@ -279,12 +308,14 @@
             <div class="progress-bar">
                 <div class="progress-fill" id="progressFill"></div>
             </div>
-            <div class="version-info">v1.1.0</div>
+            <div class="version-info">v1.3.1</div>
         </div>
     </div>
 
     <div class="problem-info">
         第 <span id="problemNumber">1</span> 题
+        <button id="favoriteBtn" class="favorite-btn" onclick="toggleFavorite()">★</button>
+        <button id="wrongBtn" class="wrong-btn" onclick="toggleWrong()" style="display: none;">✕</button>
         <div class="problem-title" id="problemTitle"></div>
         <div class="problem-category" id="problemCategory"></div>
     </div>
@@ -306,10 +337,11 @@
         let currentProblem = 0;
         let filteredProblems = [];
         let solvedProblems = new Set(JSON.parse(localStorage.getItem('solvedProblems') || '[]'));
-        let currentGliftInstance = null;  // 保存当前的 glift 实例
-        let autoNextEnabled = true; // 自动下一题的状态
+        let favoriteProblems = new Set(JSON.parse(localStorage.getItem('favoriteProblems') || '[]'));
+        let wrongProblems = new Set(JSON.parse(localStorage.getItem('wrongProblems') || '[]'));
+        let currentGliftInstance = null;
+        let autoNextEnabled = true;
 
-        // 初始化筛选器
         function initFilters() {
             const categories = window.goProblems.getAvailableCategories();
             const difficulties = window.goProblems.getAvailableDifficulties();
@@ -317,7 +349,9 @@
             const categorySelect = document.getElementById('categoryFilter');
             const difficultySelect = document.getElementById('difficultyFilter');
 
-            categorySelect.innerHTML = '<option value="">所有分类</option>';
+            categorySelect.innerHTML = '<option value="">所有分类</option>' +
+                '<option value="favorite">收藏夹</option>' +
+                '<option value="wrong">错题集</option>';
             difficultySelect.innerHTML = '<option value="">所有难度</option>';
 
             categories.forEach(category => {
@@ -337,7 +371,6 @@
             updateProgress();
         }
 
-        // 更新进度
         function updateProgress() {
             const total = window.goProblems.getTotalProblems();
             const solved = solvedProblems.size;
@@ -347,7 +380,6 @@
             document.getElementById('progressFill').style.width = `${percentage}%`;
         }
 
-        // 清理当前棋盘
         function clearCurrentBoard() {
             if (currentGliftInstance) {
                 const container = document.getElementById('gliftContainer');
@@ -356,37 +388,38 @@
             }
         }
 
-        // 筛选题目
         function filterProblems() {
             const category = document.getElementById('categoryFilter').value;
             const difficulty = document.getElementById('difficultyFilter').value;
             const searchText = document.getElementById('searchInput').value.trim();
 
-            // 获取所有题目
             let filtered = window.goProblems.getAllProblems();
 
-            // 如果搜索框输入的是数字，按ID搜索
+            if (category === 'favorite') {
+                filtered = filtered.filter(problem => favoriteProblems.has(problem.id));
+            } else if (category === 'wrong') {
+                filtered = filtered.filter(problem => wrongProblems.has(problem.id));
+            } else if (category) {
+                filtered = filtered.filter(problem => problem.category === category);
+            }
+
             const searchId = parseInt(searchText);
             if (!isNaN(searchId)) {
                 filtered = filtered.filter(problem => problem.id === searchId);
             } else if (searchText) {
-                // 如果不是数字且不为空，按标题和分类搜索
                 filtered = filtered.filter(problem => 
                     problem.title.toLowerCase().includes(searchText.toLowerCase()) ||
                     problem.category.toLowerCase().includes(searchText.toLowerCase())
                 );
             }
 
-            // 应用分类和难度筛选
-            filtered = filtered.filter(problem => {
-                const matchesCategory = !category || problem.category === category;
-                const matchesDifficulty = !difficulty || problem.difficulty === difficulty;
-                return matchesCategory && matchesDifficulty;
-            });
+            if (difficulty) {
+                filtered = filtered.filter(problem => problem.difficulty === difficulty);
+            }
 
             filteredProblems = filtered;
-
             currentProblem = 0;
+
             if (filteredProblems.length > 0) {
                 clearCurrentBoard();
                 initGlift();
@@ -396,24 +429,36 @@
                 document.getElementById('problemTitle').textContent = "没有找到匹配的题目";
                 document.getElementById('problemCategory').textContent = "";
             }
-            saveToCache(); // 保存筛选状态
+            updateFavoriteButton();
+            saveToCache();
         }
 
-        function updateProblemInfo() {
-            if (filteredProblems.length === 0) {
-                document.getElementById('problemNumber').textContent = '0';
-                document.getElementById('problemTitle').textContent = "没有题目";
-                document.getElementById('problemCategory').textContent = "";
+        function updateFavoriteButton() {
+            const favoriteBtn = document.getElementById('favoriteBtn');
+            const problem = filteredProblems[currentProblem];
+            if (!problem) {
+                favoriteBtn.style.display = 'none';
                 return;
             }
+            favoriteBtn.style.display = 'inline-block';
+            favoriteBtn.classList.toggle('active', favoriteProblems.has(problem.id));
+        }
 
+        function toggleFavorite() {
             const problem = filteredProblems[currentProblem];
             if (!problem) return;
 
-            document.getElementById('problemNumber').textContent = problem.id;
-            document.getElementById('problemTitle').textContent = problem.title;
-            document.getElementById('problemCategory').textContent = 
-                `${problem.category} · ${problem.difficulty}${solvedProblems.has(problem.id) ? ' · 已解决' : ''}`;
+            if (favoriteProblems.has(problem.id)) {
+                favoriteProblems.delete(problem.id);
+            } else {
+                favoriteProblems.add(problem.id);
+            }
+            saveFavorites();
+            updateFavoriteButton();
+        }
+
+        function saveFavorites() {
+            localStorage.setItem('favoriteProblems', JSON.stringify([...favoriteProblems]));
         }
 
         function initGlift() {
@@ -444,12 +489,17 @@
                         updateProblemInfo();
                         updateProgress();
                         
-                        // 如果启用了自动下一题，延迟1秒后自动进入下一题
                         if (document.getElementById('autoNextCheckbox').checked) {
                             setTimeout(() => {
                                 nextProblem();
                             }, 1000);
                         }
+                    },
+                    problemIncorrect: function() {
+                        wrongProblems.add(problem.id);
+                        saveWrongProblems();
+                        updateProblemInfo();
+                        updateProgress();
                     }
                 }
             });
@@ -483,14 +533,13 @@
                 return;
             }
 
-            // 重置分类和难度筛选为全部
-            document.getElementById('categoryFilter').value = '';
-            document.getElementById('difficultyFilter').value = '';
-            
-            // 重新获取所有题目
+            const categorySelect = document.getElementById('categoryFilter');
+            categorySelect.value = '';
+            const difficultySelect = document.getElementById('difficultyFilter');
+            difficultySelect.value = '';
+
             filteredProblems = window.goProblems.getAllProblems();
 
-            // 在所有题目中查找目标题目的索引
             const targetIndex = filteredProblems.findIndex(p => p.id === problemId);
             
             if (targetIndex === -1) {
@@ -501,7 +550,7 @@
             currentProblem = targetIndex;
             clearCurrentBoard();
             initGlift();
-            jumpInput.value = ''; // 清空输入框
+            jumpInput.value = '';
             saveToCache();
         }
 
@@ -518,21 +567,18 @@
             filterProblems();
         }
 
-        // 键盘导航
         document.addEventListener('keydown', (e) => {
             if (e.key === 'ArrowLeft') {
                 prevProblem();
             } else if (e.key === 'ArrowRight') {
                 nextProblem();
             } else if (e.key === 'Enter') {
-                // 当焦点在跳转输入框时，按回车键触发跳转
                 if (document.activeElement === document.getElementById('jumpInput')) {
                     jumpToProblem();
                 }
             }
         });
 
-        // 保存当前状态到缓存
         function saveToCache() {
             const state = {
                 currentProblem,
@@ -545,74 +591,115 @@
             localStorage.setItem('problemState', JSON.stringify(state));
         }
 
-        // 从缓存恢复状态
         function restoreFromCache() {
             const state = JSON.parse(localStorage.getItem('problemState'));
             const isFirstTime = !state && !localStorage.getItem('solvedProblems');
 
             if (isFirstTime) {
-                // 第一次打开时，使用第一题
                 currentProblem = 0;
                 filteredProblems = window.goProblems.getAllProblems();
                 initGlift();
-                saveToCache(); // 保存初始状态
+                saveToCache();
                 return;
             }
 
             if (!state) return;
 
-            // 恢复筛选器状态
             document.getElementById('categoryFilter').value = state.category || '';
             document.getElementById('difficultyFilter').value = state.difficulty || '';
             document.getElementById('searchInput').value = state.searchText || '';
             document.getElementById('autoNextCheckbox').checked = state.autoNext !== undefined ? state.autoNext : true;
 
-            // 应用筛选并恢复当前题目
             filterProblems();
             if (filteredProblems.length > 0) {
                 currentProblem = Math.min(state.currentProblem || 0, filteredProblems.length - 1);
                 initGlift();
             }
 
-            // 更新搜索框清除按钮状态
             const searchClear = document.getElementById('searchClear');
             searchClear.style.display = state.searchText ? 'block' : 'none';
         }
 
-        // 在相关操作后保存状态
         function updateAndSave() {
             saveToCache();
             updateProgress();
         }
 
-        // 初始化
         window.onload = function() {
-            // 恢复自动下一题的状态
             const savedAutoNext = localStorage.getItem('autoNextEnabled');
             if (savedAutoNext !== null) {
                 document.getElementById('autoNextCheckbox').checked = savedAutoNext === 'true';
             }
 
-            // 保存自动下一题的状态
             document.getElementById('autoNextCheckbox').addEventListener('change', function(e) {
                 localStorage.setItem('autoNextEnabled', e.target.checked.toString());
             });
 
             initFilters();
             filteredProblems = window.goProblems.getAllProblems();
-            restoreFromCache(); // 从缓存恢复状态
+            restoreFromCache();
         };
 
-        // 添加窗口大小变化监听
-        let resizeTimeout;
         window.addEventListener('resize', function() {
-            // 使用防抖，避免频繁重绘
             clearTimeout(resizeTimeout);
             resizeTimeout = setTimeout(function() {
                 clearCurrentBoard();
                 initGlift();
-            }, 250); // 250ms 防抖延迟
+            }, 250);
         });
+
+        function updateProblemInfo() {
+            if (filteredProblems.length === 0) {
+                document.getElementById('problemNumber').textContent = '0';
+                document.getElementById('problemTitle').textContent = "没有题目";
+                document.getElementById('problemCategory').textContent = "";
+                document.getElementById('wrongBtn').style.display = 'none';
+                return;
+            }
+
+            const problem = filteredProblems[currentProblem];
+            if (!problem) return;
+
+            document.getElementById('problemNumber').textContent = problem.id;
+            document.getElementById('problemTitle').textContent = problem.title;
+            const status = [];
+            if (solvedProblems.has(problem.id)) status.push('已解决');
+            if (wrongProblems.has(problem.id)) status.push('错题');
+            const statusText = status.length > 0 ? ' · ' + status.join(' · ') : '';
+            document.getElementById('problemCategory').textContent = 
+                `${problem.category} · ${problem.difficulty}${statusText}`;
+            
+            // 更新错题按钮显示状态
+            const wrongBtn = document.getElementById('wrongBtn');
+            if (wrongProblems.has(problem.id)) {
+                wrongBtn.style.display = 'inline-block';
+                wrongBtn.title = '从错题集移除';
+            } else {
+                wrongBtn.style.display = 'none';
+            }
+            
+            updateFavoriteButton();
+        }
+
+        function toggleWrong() {
+            const problem = filteredProblems[currentProblem];
+            if (!problem) return;
+
+            removeFromWrongProblems(problem.id);
+        }
+
+        function saveWrongProblems() {
+            localStorage.setItem('wrongProblems', JSON.stringify([...wrongProblems]));
+        }
+
+        function removeFromWrongProblems(problemId) {
+            wrongProblems.delete(problemId);
+            saveWrongProblems();
+            updateProblemInfo();
+            if (document.getElementById('categoryFilter').value === 'wrong') {
+                filterProblems();
+            }
+        }
     </script>
 </body>
 </html>
