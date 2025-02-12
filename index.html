@@ -211,6 +211,17 @@
         .wrong-btn:hover {
             color: #d32f2f;
         }
+        .copy-btn {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 20px;
+            padding: 5px;
+            margin-left: 5px;
+        }
+        .copy-btn:hover {
+            color: #4CAF50;
+        }
 
         /* 移动端响应式样式 */
         @media screen and (max-width: 768px) {
@@ -307,13 +318,14 @@
             <div class="progress-bar">
                 <div class="progress-fill" id="progressFill"></div>
             </div>
-            <div class="version-info">v1.3.1</div>
+            <div class="version-info">v1.4.0</div>
         </div>
     </div>
 
     <div class="problem-info">
         第 <span id="problemNumber">1</span> 题
         <button id="favoriteBtn" class="favorite-btn" onclick="toggleFavorite()">★</button>
+        <button class="copy-btn" onclick="copySgf()">📋</button>
         <button id="wrongBtn" class="wrong-btn" onclick="toggleWrong()" style="display: none;">✕</button>
         <div class="problem-title" id="problemTitle"></div>
         <div class="problem-category" id="problemCategory"></div>
@@ -622,6 +634,27 @@
         function updateAndSave() {
             saveToCache();
             updateProgress();
+        }
+
+        function copySgf() {
+            const problem = filteredProblems[currentProblem];
+            if (problem && problem.sgf) {
+                navigator.clipboard.writeText(problem.sgf)
+                    .then(() => {
+                        const copyBtn = document.querySelector('.copy-btn');
+                        copyBtn.textContent = '✓';
+                        setTimeout(() => {
+                            copyBtn.textContent = '📋';
+                        }, 1000);
+                        console.log('SGF已复制到剪贴板');  
+                    })
+                    .catch(err => {
+                        console.error('复制失败:', err);
+                        alert('复制SGF内容失败');
+                    });
+            } else {
+                console.error('未找到当前题目或SGF内容');
+            }
         }
 
         window.onload = function() {
