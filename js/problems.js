@@ -338,7 +338,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ad][be][ca][cb][cc][ce][db][dc][de][eb][ec][ee][fb][fc][fe][ga][gb][ge][hd][he][ja][jb][jc][jd]AW[ba][bb][bc][bd][cd][dd][ea][ed][fd][gc][gd][ha][hb][hc]((;B[aa]C[Correct])(;B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ad][be][ca][cb][cc][ce][db][dc][de][eb][ec][ee][fb][fc][fe][ga][gb][ge][hd][he][ja][jb][jc][jd]AW[ba][bb][bc][bd][cd][dd][ea][ed][fd][gc][gd][ha][hb][hc](;B[aa]C[Correct])(;B[ab]C[Correct]))"
     },
     {
         "id": 47,
@@ -352,7 +352,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bd][ca][ce][db][df][ec][ee][fd]AW[ac][bc][cb][cc][cd][dc][dd][de][ed]((;B[ab];W[eb];B[ad]C[Correct])(;B[ad];W[eb];B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bd][ca][ce][db][df][ec][ee][fd]AW[ac][bc][cb][cc][cd][dc][dd][de][ed](;B[ab];W[eb];B[ad]C[Correct])(;B[ad];W[eb];B[ab]C[Correct]))"
     },
     {
         "id": 49,
@@ -373,7 +373,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ce][dc][dd][de][eb][ee][fe][gc][gf][hd][he]AW[cb][cc][cd][db][ec][ed][fc][fd][gd][ge][hc][hf][jf][kd]((;B[fb]C[Correct])(;B[gb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ce][dc][dd][de][eb][ee][fe][gc][gf][hd][he]AW[cb][cc][cd][db][ec][ed][fc][fd][gd][ge][hc][hf][jf][kd](;B[fb]C[Correct])(;B[gb]C[Correct]))"
     },
     {
         "id": 52,
@@ -520,7 +520,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bd][be][bf][cb][cc][cf][da][db][dd][eb][ec][ed][fa]AW[ba][bb][bc][ca][cd][ce][de][ee][fb][fc][fd][fe][ga][hb]((;B[aa];W[ea];B[ab]C[Correct])(;B[ab];W[ea];B[aa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bd][be][bf][cb][cc][cf][da][db][dd][eb][ec][ed][fa]AW[ba][bb][bc][ca][cd][ce][de][ee][fb][fc][fd][fe][ga][hb](;B[aa];W[ea];B[ab]C[Correct])(;B[ab];W[ea];B[aa]C[Correct]))"
     },
     {
         "id": 73,
@@ -590,7 +590,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][be][bg][cb][cf][cg][db][dc][dd][de]AW[ab][bb][bd][bf][cc][cd][ce]((;B[ae]C[Correct])(;B[af]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][be][bg][cb][cf][cg][db][dc][dd][de]AW[ab][bb][bd][bf][cc][cd][ce](;B[ae]C[Correct])(;B[af]C[Correct]))"
     },
     {
         "id": 83,
@@ -793,7 +793,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][be][cd][cg][dd][ec][ef][fc][fd][fe][hd]AW[bb][bg][cb][cc][cf][cj][dc][de][eb][ed][ee][ej][fb][gc]((;B[bf];W[dg];B[df]C[Correct])(;B[df];W[ce];B[bf]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][be][cd][cg][dd][ec][ef][fc][fd][fe][hd]AW[bb][bg][cb][cc][cf][cj][dc][de][eb][ed][ee][ej][fb][gc](;B[bf];W[dg];B[df]C[Correct])(;B[df];W[ce];B[bf]C[Correct]))"
     },
     {
         "id": 112,
@@ -940,7 +940,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[db][dc][eb][ed][ee][ef][fd][gc][hc][jd]AW[bd][cb][cc][ce][da][dg][ec][eg][fb][fc][ff][gd][ge]((;B[fa]C[Correct])(;B[gb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[db][dc][eb][ed][ee][ef][fd][gc][hc][jd]AW[bd][cb][cc][ce][da][dg][ec][eg][fb][fc][ff][gd][ge](;B[fa]C[Correct])(;B[gb]C[Correct]))"
     },
     {
         "id": 133,
@@ -1052,7 +1052,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][ac][bc][cd][ce][da][dd][df][dg][ea][ec][ed][fb]AW[af][bb][bd][be][bg][cb][cc][cf][cg][db][dc][eb][fc]((;B[ba]C[Correct])(;B[ca];W[ad];B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][ac][bc][cd][ce][da][dd][df][dg][ea][ec][ed][fb]AW[af][bb][bd][be][bg][cb][cc][cf][cg][db][dc][eb][fc](;B[ba]C[Correct])(;B[ca];W[ad];B[ba]C[Correct]))"
     },
     {
         "id": 149,
@@ -1094,7 +1094,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ad][ae][ba][be][ce][da][db][dc][dd][fd]AW[af][bc][bf][ca][cb][cc][cd][cf][de][df]((;B[ac]C[Correct])(;B[bb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ad][ae][ba][be][ce][da][db][dc][dd][fd]AW[af][bc][bf][ca][cb][cc][cd][cf][de][df](;B[ac]C[Correct])(;B[bb]C[Correct]))"
     },
     {
         "id": 155,
@@ -1269,7 +1269,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bb][bd][cd][dc][ec]AW[bc][bf][cb][cc][ce][dd][de]((;B[ca]C[Correct])(;B[db];W[be];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bb][bd][cd][dc][ec]AW[bc][bf][cb][cc][ce][dd][de](;B[ca]C[Correct])(;B[db];W[be];B[ca]C[Correct]))"
     },
     {
         "id": 180,
@@ -1283,7 +1283,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ba][bb][bc][cc][cd][db][dc][dd][ec][fc][fe][gc]AW[bd][be][ca][cb][cf][da][ea][eb][fa][fb][gb][hc][hd]((;B[hb];W[jb](;B[ga]C[Correct])(;B[ha]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ba][bb][bc][cc][cd][db][dc][dd][ec][fc][fe][gc]AW[bd][be][ca][cb][cf][da][ea][eb][fa][fb][gb][hc][hd](;B[hb];W[jb](;B[ga]C[Correct])(;B[ha]C[Correct])))"
     },
     {
         "id": 182,
@@ -1353,7 +1353,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][cd][dd][ed][fd][ga][gc][hc][ja][jb]AW[db][dc][eb][ec][fa][fc][gb][hb][jc][kc][lb]((;B[ha];W[fb](;B[da]C[Correct])(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][cd][dd][ed][fd][ga][gc][hc][ja][jb]AW[db][dc][eb][ec][fa][fc][gb][hb][jc][kc][lb](;B[ha];W[fb](;B[da]C[Correct])(;B[ea]C[Correct])))"
     },
     {
         "id": 192,
@@ -1444,7 +1444,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bd][be][cb][cf][db][dg][ed][eh][fe][fh][gf][gg]AW[cd][ce][dc][de][df][eb][ee][ef][eg][fc][ff][fg]((;B[cc];W[dd];B[ec]C[Correct])(;B[dd];W[cc];B[ec]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bd][be][cb][cf][db][dg][ed][eh][fe][fh][gf][gg]AW[cd][ce][dc][de][df][eb][ee][ef][eg][fc][ff][fg](;B[cc];W[dd];B[ec]C[Correct])(;B[dd];W[cc];B[ec]C[Correct]))"
     },
     {
         "id": 205,
@@ -1563,7 +1563,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bd][cd][db][dc][de][eb][ee][fe][hd][hf]AW[be][cc][ce][cf][dd][df][ec][ed][fd][fg][ge]((;B[gd];W[fc](;B[fb]C[Correct])(;B[gc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bd][cd][db][dc][de][eb][ee][fe][hd][hf]AW[be][cc][ce][cf][dd][df][ec][ed][fd][fg][ge](;B[gd];W[fc](;B[fb]C[Correct])(;B[gc]C[Correct])))"
     },
     {
         "id": 222,
@@ -1647,7 +1647,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][af][bb][be][ce][db][dc][dd]AW[ad][ae][bc][bd][bg][cb][cd][de][dg][ee]((;B[ac]C[Correct])(;B[cc];W[cf];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][af][bb][be][ce][db][dc][dd]AW[ad][ae][bc][bd][bg][cb][cd][de][dg][ee](;B[ac]C[Correct])(;B[cc];W[cf];B[ac]C[Correct]))"
     },
     {
         "id": 234,
@@ -1724,7 +1724,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ac][ad][bc][cb][db][de][eb][ed][fc]AW[bb][bd][ca][cc][cd][ce][dc][dd][ec]((;B[cf];W[be](;B[ae]C[Correct])(;B[bf]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ac][ad][bc][cb][db][de][eb][ed][fc]AW[bb][bd][ca][cc][cd][ce][dc][dd][ec](;B[cf];W[be](;B[ae]C[Correct])(;B[bf]C[Correct])))"
     },
     {
         "id": 245,
@@ -1920,7 +1920,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bc][bd][cf][eb][ec][ef][fc][ff][gc][gd][ge]AW[ca][cb][cc][dd][ed][fb][gb][hc][jb]((;B[ea]C[Correct])(;B[fa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bc][bd][cf][eb][ec][ef][fc][ff][gc][gd][ge]AW[ca][cb][cc][dd][ed][fb][gb][hc][jb](;B[ea]C[Correct])(;B[fa]C[Correct]))"
     },
     {
         "id": 273,
@@ -1976,7 +1976,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bc][cc][cd][ce][de][ec][ed][ee][fb][gb][gd][ge]AW[be][cb][cf][cg][db][dc][dd][eb][ef][fa][ff][gf][hb][hc][hd][he]((;B[ga]C[Correct])(;B[ha]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bc][cc][cd][ce][de][ec][ed][ee][fb][gb][gd][ge]AW[be][cb][cf][cg][db][dc][dd][eb][ef][fa][ff][gf][hb][hc][hd][he](;B[ga]C[Correct])(;B[ha]C[Correct]))"
     },
     {
         "id": 281,
@@ -2032,7 +2032,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bf][bg][cb][cc][ce][cf][de][dg][fe][ff][he]AW[bh][cg][ch][db][dc][dd][df][ec][ee][ej][fc][fd][fh][hc][hg][jd][kf]((;B[ef]C[Correct])(;B[eg]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bf][bg][cb][cc][ce][cf][de][dg][fe][ff][he]AW[bh][cg][ch][db][dc][dd][df][ec][ee][ej][fc][fd][fh][hc][hg][jd][kf](;B[ef]C[Correct])(;B[eg]C[Correct]))"
     },
     {
         "id": 289,
@@ -2102,7 +2102,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][bb][be][cc][ce][da][db][dc][de][ed][ee]AW[ab][ad][ba][bd][ca][cd][dd][ea][eb][ec][fc][fd]((;B[ac];W[bc];B[ac]C[Correct])(;B[bc];W[ac];B[aa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][bb][be][cc][ce][da][db][dc][de][ed][ee]AW[ab][ad][ba][bd][ca][cd][dd][ea][eb][ec][fc][fd](;B[ac];W[bc];B[ac]C[Correct])(;B[bc];W[ac];B[aa]C[Correct]))"
     },
     {
         "id": 299,
@@ -2186,7 +2186,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][bb][bf][cb][cc][da][db][df][ea][ef][fb][gc][gd][ge][hb]AW[ba][bc][bd][cd][dc][dd][eb][ec][fc][gb]((;B[fa]C[Correct])(;B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][bb][bf][cb][cc][da][db][df][ea][ef][fb][gc][gd][ge][hb]AW[ba][bc][bd][cd][dc][dd][eb][ec][fc][gb](;B[fa]C[Correct])(;B[ga]C[Correct]))"
     },
     {
         "id": 311,
@@ -2214,7 +2214,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ec][ed][ef][fc][fg][gd][gf]AW[fd][fe][ff][gc][gg][hc][jd][ld]((;B[ee]C[Correct])(;B[ge]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ec][ed][ef][fc][fg][gd][gf]AW[fd][fe][ff][gc][gg][hc][jd][ld](;B[ee]C[Correct])(;B[ge]C[Correct]))"
     },
     {
         "id": 315,
@@ -2396,7 +2396,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][bb][cb][cc][dc][ed][fb][fd][ff][gb][gc][hb][hd]AW[ac][bc][bd][cd][db][dd][df][eb][ec][fa][fc][ha][hc][jb][jc][jd]((;B[da];W[ea];B[ga]C[Correct])(;B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][bb][cb][cc][dc][ed][fb][fd][ff][gb][gc][hb][hd]AW[ac][bc][bd][cd][db][dd][df][eb][ec][fa][fc][ha][hc][jb][jc][jd](;B[da];W[ea];B[ga]C[Correct])(;B[ea]C[Correct]))"
     },
     {
         "id": 341,
@@ -2438,7 +2438,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][be][cf][ec][ed][ee][ef][eg][fb][fc][fd][fe][ff][fg][gb]AW[cd][db][dc][dd][eb][fa][gc][gd][ge][hb]((;B[ga]C[Correct])(;B[ha]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][be][cf][ec][ed][ee][ef][eg][fb][fc][fd][fe][ff][fg][gb]AW[cd][db][dc][dd][eb][fa][gc][gd][ge][hb](;B[ga]C[Correct])(;B[ha]C[Correct]))"
     },
     {
         "id": 347,
@@ -2557,7 +2557,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bd][ca][cd][ce][db][dc][de][eb]AW[bb][bc][cb][cc][dd][ec][ed][fb][gc]((;B[ab];W[ea];B[ba]C[Correct])(;B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bd][ca][cd][ce][db][dc][de][eb]AW[bb][bc][cb][cc][dd][ec][ed][fb][gc](;B[ab];W[ea];B[ba]C[Correct])(;B[ba]C[Correct]))"
     },
     {
         "id": 364,
@@ -2942,7 +2942,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[be][ce][de][ed][ef][fd][ff][gb][gf][hc][hf][je]AW[bc][bd][bf][cf][dc][dd][df][eb][ec][ee][fe][gc][ge][he]((;B[gd];W[ae];B[hd]C[Correct])(;B[hd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[be][ce][de][ed][ef][fd][ff][gb][gf][hc][hf][je]AW[bc][bd][bf][cf][dc][dd][df][eb][ec][ee][fe][gc][ge][he](;B[gd];W[ae];B[hd]C[Correct])(;B[hd]C[Correct]))"
     },
     {
         "id": 419,
@@ -3194,7 +3194,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bd][cd][cf][dc][eb][ec][ed][fa][fc][hb][hc]AW[cb][cc][db][dd][de][ee][fb][fd][fe][ga][gb]((;B[gc]C[Correct])(;B[ha]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bd][cd][cf][dc][eb][ec][ed][fa][fc][hb][hc]AW[cb][cc][db][dd][de][ee][fb][fd][fe][ga][gb](;B[gc]C[Correct])(;B[ha]C[Correct]))"
     },
     {
         "id": 455,
@@ -3299,7 +3299,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[db][dc][ec][fa][fb][fc][gb][hb][jc][kc][lb]AW[cb][cc][cd][da][dd][ed][fd][ga][gc][ha][hc][ja][jb]((;B[ka];W[ea];B[kb]C[Correct])(;B[kb];W[ea];B[ka]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[db][dc][ec][fa][fb][fc][gb][hb][jc][kc][lb]AW[cb][cc][cd][da][dd][ed][fd][ga][gc][ha][hc][ja][jb](;B[ka];W[ea];B[kb]C[Correct])(;B[kb];W[ea];B[ka]C[Correct]))"
     },
     {
         "id": 470,
@@ -3453,7 +3453,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[fb][fd][fe][gc][hb][hc][jc][kd][lb][lc][ld]AW[eb][ec][fa][fc][gd][hd][hf][jb][jd][kb][kc]((;B[ha]C[Correct])(;B[ja]C[Correct])(;B[ka];W[gb];B[ja]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[fb][fd][fe][gc][hb][hc][jc][kd][lb][lc][ld]AW[eb][ec][fa][fc][gd][hd][hf][jb][jd][kb][kc](;B[ha]C[Correct])(;B[ja]C[Correct])(;B[ka];W[gb];B[ja]C[Correct]))"
     },
     {
         "id": 492,
@@ -3572,7 +3572,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ag][bb][be][cb][cf][cg][db][dd][de][ec][ed]AW[ac][bc][bf][ca][cc][cd][ce][da][dc][eb][fc][gb]((;B[ad];W[ba];B[bd]C[Correct])(;B[bd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ag][bb][be][cb][cf][cg][db][dd][de][ec][ed]AW[ac][bc][bf][ca][cc][cd][ce][da][dc][eb][fc][gb](;B[ad];W[ba];B[bd]C[Correct])(;B[bd]C[Correct]))"
     },
     {
         "id": 509,
@@ -3663,7 +3663,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][cb][cc][db][dc][eb][ec][ed][fb][fc][ga][gb][gd][ge][hd][jc][jd][je][kb][kc]AW[ba][bb][bc][cd][dd][df][ea][ee][fd][fe][gc][ha][hb][hc]((;B[ja]C[Correct])(;B[jb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][cb][cc][db][dc][eb][ec][ed][fb][fc][ga][gb][gd][ge][hd][jc][jd][je][kb][kc]AW[ba][bb][bc][cd][dd][df][ea][ee][fd][fe][gc][ha][hb][hc](;B[ja]C[Correct])(;B[jb]C[Correct]))"
     },
     {
         "id": 522,
@@ -3782,7 +3782,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][bc][be][bj][cd][ce][cg][ch][cj][df][ef]AW[af][bb][bf][bg][bh][cc][cf][dc][dd][de]((;B[ag];W[ad];B[ah]C[Correct])(;B[ah];W[ad];B[ag]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][bc][be][bj][cd][ce][cg][ch][cj][df][ef]AW[af][bb][bf][bg][bh][cc][cf][dc][dd][de](;B[ag];W[ad];B[ah]C[Correct])(;B[ah];W[ad];B[ag]C[Correct]))"
     },
     {
         "id": 539,
@@ -3943,7 +3943,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bc][be][cb][cd][dd][ed][fa][fb][fc]AW[ba][bb][cc][da][dc][eb][ec][fd][ga][gd][hb][hc]((;B[ea];W[db](;B[aa]C[Correct])(;B[ac]C[Correct])(;B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bc][be][cb][cd][dd][ed][fa][fb][fc]AW[ba][bb][cc][da][dc][eb][ec][fd][ga][gd][hb][hc](;B[ea];W[db](;B[aa]C[Correct])(;B[ac]C[Correct])(;B[ca]C[Correct])))"
     },
     {
         "id": 562,
@@ -3957,14 +3957,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bd][cc][dd][eb][ed][fb][fc][ga][gc][hb][hc]AW[da][db][dc][ea][ec][fd][gd][ha][hd][ja][jb][jc][jd]((;B[ca]C[Correct])(;B[cb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bd][cc][dd][eb][ed][fb][fc][ga][gc][hb][hc]AW[da][db][dc][ea][ec][fd][gd][ha][hd][ja][jb][jc][jd](;B[ca]C[Correct])(;B[cb]C[Correct]))"
     },
     {
         "id": 564,
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[fb][fc][gb][gd][ge][he][jc][je]AW[ec][ed][fd][ff][gc][hc][hd][jb][lb][lc][ld]((;B[hb];W[kc](;B[jd]C[Correct])(;B[kd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[fb][fc][gb][gd][ge][he][jc][je]AW[ec][ed][fd][ff][gc][hc][hd][jb][lb][lc][ld](;B[hb];W[kc](;B[jd]C[Correct])(;B[kd]C[Correct])))"
     },
     {
         "id": 565,
@@ -4104,7 +4104,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bd][be][cf][eb][ed][ef][fc][fd][ff][gb]AW[cd][dc][dd][ec][fb][gc][gd][ge][hb]((;B[fa]C[Correct])(;B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bd][be][cf][eb][ed][ef][fc][fd][ff][gb]AW[cd][dc][dd][ec][fb][gc][gd][ge][hb](;B[fa]C[Correct])(;B[ga]C[Correct]))"
     },
     {
         "id": 585,
@@ -4118,7 +4118,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][af][bb][bd][cb][ce][db][dd][de][ec][fc][fe]AW[ac][bc][be][bf][cc][cd][cf][dc][df][eb][ef][fb][gb]((;B[ad]C[Correct])(;B[ae];W[ad];B[bd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][af][bb][bd][cb][ce][db][dd][de][ec][fc][fe]AW[ac][bc][be][bf][cc][cd][cf][dc][df][eb][ef][fb][gb](;B[ad]C[Correct])(;B[ae];W[ad];B[bd]C[Correct]))"
     },
     {
         "id": 587,
@@ -4195,7 +4195,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bb][bd][ca][cd][cf][da][db][dc]AW[aa][ab][ac][bc][cc][dd][eb][ec][ed]((;B[ba]C[Correct])(;B[cb];W[ea];B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bb][bd][ca][cd][cf][da][db][dc]AW[aa][ab][ac][bc][cc][dd][eb][ec][ed](;B[ba]C[Correct])(;B[cb];W[ea];B[ba]C[Correct]))"
     },
     {
         "id": 598,
@@ -4258,7 +4258,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][cb][cc][cd][de][df][ec][ed][fb][fc][gb]AW[da][db][dc][dd][ee][fd][fe][ga][gc][hb][hd]((;B[ea]C[Correct])(;B[eb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][cb][cc][cd][de][df][ec][ed][fb][fc][gb]AW[da][db][dc][dd][ee][fd][fe][ga][gc][hb][hd](;B[ea]C[Correct])(;B[eb]C[Correct]))"
     },
     {
         "id": 607,
@@ -4307,7 +4307,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[da][db][dc][dd][ee][fa][fe][gb][ge][hc][hd][jd]AW[ea][eb][ec][ed][fd][gc][gd][ha][hb][ja][jc][kb][kc][ld]((;B[fb];W[ga];B[fc]C[Correct])(;B[fc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[da][db][dc][dd][ee][fa][fe][gb][ge][hc][hd][jd]AW[ea][eb][ec][ed][fd][gc][gd][ha][hb][ja][jc][kb][kc][ld](;B[fb];W[ga];B[fc]C[Correct])(;B[fc]C[Correct]))"
     },
     {
         "id": 614,
@@ -4447,7 +4447,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ae][be][ca][cb][ce][db][dc][dd][de]AW[ac][ba][bb][bd][cc][cd]((;B[ab]C[Correct])(;B[ad]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ae][be][ca][cb][ce][db][dc][dd][de]AW[ac][ba][bb][bd][cc][cd](;B[ab]C[Correct])(;B[ad]C[Correct]))"
     },
     {
         "id": 634,
@@ -4573,7 +4573,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ac][ad][bb][bd][cd][dd][ea][eb][ec][fc][fd]AW[ae][ba][bc][be][cc][ce][da][db][dc][de][ed][ee]((;B[ca];W[cb];B[ca]C[Correct])(;B[cb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ac][ad][bb][bd][cd][dd][ea][eb][ec][fc][fd]AW[ae][ba][bc][be][cc][ce][da][db][dc][de][ed][ee](;B[ca];W[cb];B[ca]C[Correct])(;B[cb]C[Correct]))"
     },
     {
         "id": 652,
@@ -4657,7 +4657,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[be][ce][dc][dd][de][eb][fa][gb][hb][hc][hd]AW[ed][fb][fc][ff][ga][gc][gd][ge][he][je][kb][kc]((;B[ea]C[Correct])(;B[ha]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[be][ce][dc][dd][de][eb][fa][gb][hb][hc][hd]AW[ed][fb][fc][ff][ga][gc][gd][ge][he][je][kb][kc](;B[ea]C[Correct])(;B[ha]C[Correct]))"
     },
     {
         "id": 664,
@@ -4713,7 +4713,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ba][bb][bc][bd][cd][de][ec][ed][ee][fb]AW[be][ca][cb][cc][ce][cg][dc][dd][eb][fc][gb][gc]((;B[da];W[db](;B[ea]C[Correct])(;B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ba][bb][bc][bd][cd][de][ec][ed][ee][fb]AW[be][ca][cb][cc][ce][cg][dc][dd][eb][fc][gb][gc](;B[da];W[db](;B[ea]C[Correct])(;B[fa]C[Correct])))"
     },
     {
         "id": 672,
@@ -4755,7 +4755,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][bb][bc][bd][ca][cd][db][dd][eb][ee][ff][gd][hc]AW[ac][ad][ae][be][cb][cc][ce][dc][de][ec][ed][fb][fd][gc]((;B[fe];W[fc](;B[fa]C[Correct])(;B[gb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][bb][bc][bd][ca][cd][db][dd][eb][ee][ff][gd][hc]AW[ac][ad][ae][be][cb][cc][ce][dc][de][ec][ed][fb][fd][gc](;B[fe];W[fc](;B[fa]C[Correct])(;B[gb]C[Correct])))"
     },
     {
         "id": 678,
@@ -4832,7 +4832,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cb][cc][cd][ce][db][df][ef][fc][fe][ff][gd]AW[be][cf][cg][dc][dd][de][ec][ee][fd][ge][hb][hc][hd][he]((;B[eb];W[gc](;B[ed]C[Correct])(;B[fb]C[Correct]))(;B[fb];W[gc];B[eb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cb][cc][cd][ce][db][df][ef][fc][fe][ff][gd]AW[be][cf][cg][dc][dd][de][ec][ee][fd][ge][hb][hc][hd][he](;B[eb];W[gc](;B[ed]C[Correct])(;B[fb]C[Correct]))(;B[fb];W[gc];B[eb]C[Correct]))"
     },
     {
         "id": 689,
@@ -4951,14 +4951,14 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ad][bb][be][cc][ce][db][de][eb][ec][ed]AW[bc][bd][ca][cb][cd][dd][ee][fb][fc][fd][fe]((;B[ac];W[dc];B[cc]C[Correct])(;B[dc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ad][bb][be][cc][ce][db][de][eb][ec][ed]AW[bc][bd][ca][cb][cd][dd][ee][fb][fc][fd][fe](;B[ac];W[dc];B[cc]C[Correct])(;B[dc]C[Correct]))"
     },
     {
         "id": 706,
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bc][cb][dc][eb][ec][fc][gc]AW[cc][cd][db][dd][ed][fb][fd][gb][gd][hc]((;B[da]C[Correct])(;B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bc][cb][dc][eb][ec][fc][gc]AW[cc][cd][db][dd][ed][fb][fd][gb][gd][hc](;B[da]C[Correct])(;B[ea]C[Correct]))"
     },
     {
         "id": 707,
@@ -5224,7 +5224,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ce][dc][dd][de][eb][ee][fe][gc][gf][gg][hd]AW[cb][cc][cd][db][ec][ed][fd][gd][ge][hc][hf][jf][kd]((;B[he];W[fb](;B[ea];W[gb];B[fc]C[Correct])(;B[fc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ce][dc][dd][de][eb][ee][fe][gc][gf][gg][hd]AW[cb][cc][cd][db][ec][ed][fd][gd][ge][hc][hf][jf][kd](;B[he];W[fb](;B[ea];W[gb];B[fc]C[Correct])(;B[fc]C[Correct])))"
     },
     {
         "id": 745,
@@ -5238,7 +5238,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bf][cb][cc][cf][db][ea][ef][fa][ff][ga][hb][hc][hd][he]AW[bc][bd][cd][da][dc][dd][eb][ec][fb][fe][gb][gd]((;B[ca]C[Correct])(;B[ha]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bf][cb][cc][cf][db][ea][ef][fa][ff][ga][hb][hc][hd][he]AW[bc][bd][cd][da][dc][dd][eb][ec][fb][fe][gb][gd](;B[ca]C[Correct])(;B[ha]C[Correct]))"
     },
     {
         "id": 747,
@@ -5497,7 +5497,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ca][cb][cc][cd][de][eb][ee][fb][fc][fd]AW[da][db][dc][dd][ed][fe][gb][gc][gd][ge]((;B[ea]C[Correct])(;B[ec]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ca][cb][cc][cd][de][eb][ee][fb][fc][fd]AW[da][db][dc][dd][ed][fe][gb][gc][gd][ge](;B[ea]C[Correct])(;B[ec]C[Correct]))"
     },
     {
         "id": 784,
@@ -5742,21 +5742,21 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ad][bc][bd][cd][da][db][dc]AW[ae][ba][be][ca][cb][cc][ce][dd][de][ec]((;B[aa];W[eb];B[bb]C[Correct])(;B[bb];W[eb];B[aa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ad][bc][bd][cd][da][db][dc]AW[ae][ba][be][ca][cb][cc][ce][dd][de][ec](;B[aa];W[eb];B[bb]C[Correct])(;B[bb];W[eb];B[aa]C[Correct]))"
     },
     {
         "id": 819,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[gb][hb][jc][kc][lb]AW[fb][gc][hc][jb][kb]((;B[ja]C[Correct])(;B[ka];W[ga];B[ja]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[gb][hb][jc][kc][lb]AW[fb][gc][hc][jb][kb](;B[ja]C[Correct])(;B[ka];W[ga];B[ja]C[Correct]))"
     },
     {
         "id": 820,
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cc][cd][dc][de][ec][ee][fe][gc]AW[bc][bd][ce][cf][dd][eb][ed][fa][fc][gb][hc]((;B[fd]C[Correct])(;B[gd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cc][cd][dc][de][ec][ee][fe][gc]AW[bc][bd][ce][cf][dd][eb][ed][fa][fc][gb][hc](;B[fd]C[Correct])(;B[gd]C[Correct]))"
     },
     {
         "id": 821,
@@ -5910,7 +5910,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[he][hg][jd][ke][kg][kh][le][lf]AW[je][jf][jj][kd][kf][kl][lg][lh][lj]((;B[hf]C[Correct])(;B[jg]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[he][hg][jd][ke][kg][kh][le][lf]AW[je][jf][jj][kd][kf][kl][lg][lh][lj](;B[hf]C[Correct])(;B[jg]C[Correct]))"
     },
     {
         "id": 843,
@@ -5952,7 +5952,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bd][cd][cf][dc][ec][ed][fc][hb][hc][hd]AW[cb][cc][db][dd][de][eb][ee][fb][fe]((;B[fd]C[Correct])(;B[gb]C[Correct])(;B[gc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bd][cd][cf][dc][ec][ed][fc][hb][hc][hd]AW[cb][cc][db][dd][de][eb][ee][fb][fe](;B[fd]C[Correct])(;B[gb]C[Correct])(;B[gc]C[Correct]))"
     },
     {
         "id": 849,
@@ -5973,7 +5973,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ce][dc][dd][de][eb][ee][fd][fe][gc][gf][gg][he]AW[cb][cc][cd][db][ec][ed][fc][gd][ge][hd][hf][jc][jf]((;B[fb]C[Correct])(;B[gb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ce][dc][dd][de][eb][ee][fd][fe][gc][gf][gg][he]AW[cb][cc][cd][db][ec][ed][fc][gd][ge][hd][hf][jc][jf](;B[fb]C[Correct])(;B[gb]C[Correct]))"
     },
     {
         "id": 852,
@@ -6015,7 +6015,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][cb][cc][da][dc][ec][fa][fb][fc][fd][ge][hc][hd][he][jb]AW[ba][bb][bc][cd][dd][eb][ed][fe][ff][ga][gb][gc][gd]((;B[ha]C[Correct])(;B[hb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][cb][cc][da][dc][ec][fa][fb][fc][fd][ge][hc][hd][he][jb]AW[ba][bb][bc][cd][dd][eb][ed][fe][ff][ga][gb][gc][gd](;B[ha]C[Correct])(;B[hb]C[Correct]))"
     },
     {
         "id": 858,
@@ -6057,7 +6057,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cc][cd][dc][de][ee][fb][fd][fe]AW[bc][bd][ce][cf][dd][ed][fc][gb][gd][hc][hd]((;B[eb]C[Correct])(;B[ec]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cc][cd][dc][de][ee][fb][fd][fe]AW[bc][bd][ce][cf][dd][ed][fc][gb][gd][hc][hd](;B[eb]C[Correct])(;B[ec]C[Correct]))"
     },
     {
         "id": 864,
@@ -6120,7 +6120,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bc][ca][cc][cd][da][de][ed][ee][fc][gc]AW[ac][ad][bd][bf][ce][db][dc][dd][df][ea][ec][fb]((;B[cb];W[eb](;B[fa];W[gb];B[hb]C[Correct])(;B[gb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bc][ca][cc][cd][da][de][ed][ee][fc][gc]AW[ac][ad][bd][bf][ce][db][dc][dd][df][ea][ec][fb](;B[cb];W[eb](;B[fa];W[gb];B[hb]C[Correct])(;B[gb]C[Correct])))"
     },
     {
         "id": 873,
@@ -6267,7 +6267,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ad][bb][bd][ca][cd][da][dd][ea][eb][ec]AW[bc][cb][cc][db][dc][ed][fa][fb][fc][fd]((;B[ac]C[Correct])(;B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ad][bb][bd][ca][cd][da][dd][ea][eb][ec]AW[bc][cb][cc][db][dc][ed][fa][fb][fc][fd](;B[ac]C[Correct])(;B[ba]C[Correct]))"
     },
     {
         "id": 894,
@@ -6428,7 +6428,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bd][be][ca][cd][cf][db][dc][de]AW[bc][cb][cc][da][dd][ea][ed][fb][fc]((;B[ac];W[eb];B[bb]C[Correct])(;B[bb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bd][be][ca][cd][cf][db][dc][de]AW[bc][cb][cc][da][dd][ea][ed][fb][fc](;B[ac];W[eb];B[bb]C[Correct])(;B[bb]C[Correct]))"
     },
     {
         "id": 917,
@@ -6554,7 +6554,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ca][cb][cc][cd][ce][cf][dc][dg][eg][fg][gb][gc][gd][ge][gf]AW[da][db][dd][de][df][ea][ec][ef][fb][fc][fd]((;B[fe]C[Correct])(;B[ga];W[fa];B[fe]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ca][cb][cc][cd][ce][cf][dc][dg][eg][fg][gb][gc][gd][ge][gf]AW[da][db][dd][de][df][ea][ec][ef][fb][fc][fd](;B[fe]C[Correct])(;B[ga];W[fa];B[fe]C[Correct]))"
     },
     {
         "id": 935,
@@ -6645,7 +6645,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cb][cc][cd][db][de][ee][gc][ge]AW[bb][bc][bd][be][ce][dc][dd][eb][ed][fc]((;B[fd];W[ec](;B[ea]C[Correct])(;B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cb][cc][cd][db][de][ee][gc][ge]AW[bb][bc][bd][be][ce][dc][dd][eb][ed][fc](;B[fd];W[ec](;B[ea]C[Correct])(;B[fb]C[Correct])))"
     },
     {
         "id": 948,
@@ -6701,7 +6701,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cd][db][dd][ec][fc][fe][gc]AW[bd][be][ca][cb][cc][cf][da][eb][fa][fb][gb][hc][hd]((;B[dc];W[ea];B[hb];W[jb](;B[ga]C[Correct])(;B[ha]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cd][db][dd][ec][fc][fe][gc]AW[bd][be][ca][cb][cc][cf][da][eb][fa][fb][gb][hc][hd](;B[dc];W[ea];B[hb];W[jb](;B[ga]C[Correct])(;B[ha]C[Correct])))"
     },
     {
         "id": 956,
@@ -6813,7 +6813,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.BEGINNER,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[gc][gd][hd][jc][kc][ld][le][lf]AW[fd][fe][ge][hb][hc][he][jd][kd][lb][lc]((;B[je];W[jf](;B[ke]C[Correct])(;B[kf]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[gc][gd][hd][jc][kc][ld][le][lf]AW[fd][fe][ge][hb][hc][he][jd][kd][lb][lc](;B[je];W[jf](;B[ke]C[Correct])(;B[kf]C[Correct])))"
     },
     {
         "id": 972,
@@ -7205,7 +7205,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cc][db][dd][eb][ec][ed][fe][gb][gc][gd][ge]AW[ac][bb][bd][be][cb][cd][da][de][ee][fa][fb][fc][fd]((;B[ca];W[ba];B[ga];W[ea];B[ca]C[Correct])(;B[ga];W[ea];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cc][db][dd][eb][ec][ed][fe][gb][gc][gd][ge]AW[ac][bb][bd][be][cb][cd][da][de][ee][fa][fb][fc][fd](;B[ca];W[ba];B[ga];W[ea];B[ca]C[Correct])(;B[ga];W[ea];B[ca]C[Correct]))"
     },
     {
         "id": 1028,
@@ -7219,7 +7219,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cc][ce][dd][ec][ee][fb][fe]AW[cb][db][dc][ed][fc][fd][gc][ge][hc][he][jd]((;B[eb];W[gb](;B[ca];W[fa];B[da]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cc][ce][dd][ec][ee][fb][fe]AW[cb][db][dc][ed][fc][fd][gc][ge][hc][he][jd](;B[eb];W[gb](;B[ca];W[fa];B[da]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 1030,
@@ -7261,7 +7261,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cd][dd][df][ed][fb][fc]AW[cb][cc][dc][ec][fd][gb][gc][gd]((;B[eb];W[fa](;B[ca]C[Correct])(;B[da]C[Correct])(;B[db]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cd][dd][df][ed][fb][fc]AW[cb][cc][dc][ec][fd][gb][gc][gd](;B[eb];W[fa](;B[ca]C[Correct])(;B[da]C[Correct])(;B[db]C[Correct])))"
     },
     {
         "id": 1036,
@@ -7275,7 +7275,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ag][be][bg][cd][ce][cf][cg][db][dc][dg][eb][ef][fb][fe][gb][gc]AW[ac][bb][bd][bh][cb][cc][ch][dd][de][df][dh][ec][eg][fc][ff][fg][gd][ge][gf][hb][hc]((;B[ed];W[fd];B[ee]C[Correct])(;B[ee];W[ed];B[fd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ag][be][bg][cd][ce][cf][cg][db][dc][dg][eb][ef][fb][fe][gb][gc]AW[ac][bb][bd][bh][cb][cc][ch][dd][de][df][dh][ec][eg][fc][ff][fg][gd][ge][gf][hb][hc](;B[ed];W[fd];B[ee]C[Correct])(;B[ee];W[ed];B[fd]C[Correct]))"
     },
     {
         "id": 1038,
@@ -7303,7 +7303,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bc][bd][cd][dd][eb][ed][fb][fc]AW[bb][cc][db][dc][ec][fd][fe][gb][gc]((;B[da];W[cb](;B[ba]C[Correct])(;B[ca]C[Correct])(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bc][bd][cd][dd][eb][ed][fb][fc]AW[bb][cc][db][dc][ec][fd][fe][gb][gc](;B[da];W[cb](;B[ba]C[Correct])(;B[ca]C[Correct])(;B[ea]C[Correct])))"
     },
     {
         "id": 1042,
@@ -7352,7 +7352,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bc][bd][bg][ce][cf][cg][ef][eg]AW[ag][ba][be][bf][bh][cb][cc][cd][ch][dh][ec]((;B[ae];W[af];B[ah]C[Correct])(;B[af]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bc][bd][bg][ce][cf][cg][ef][eg]AW[ag][ba][be][bf][bh][cb][cc][cd][ch][dh][ec](;B[ae];W[af];B[ah]C[Correct])(;B[af]C[Correct]))"
     },
     {
         "id": 1049,
@@ -7401,7 +7401,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bc][bd][cd][ce][dc][de][eb][ee]AW[bb][cb][cc][dd][ec][ed][fc][fe][gd][hb][hc]((;B[db];W[fb](;B[ba]C[Correct])(;B[ca]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bc][bd][cd][ce][dc][de][eb][ee]AW[bb][cb][cc][dd][ec][ed][fc][fe][gd][hb][hc](;B[db];W[fb](;B[ba]C[Correct])(;B[ca]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 1056,
@@ -7415,14 +7415,14 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bd][cd][dc][dd][eb][ec][fa][fe][gd]AW[bb][bf][cb][cc][cf][db][ea][ef][ff][ga][gb][hc][hd][he]((;B[da]C[Correct])(;B[fb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bd][cd][dc][dd][eb][ec][fa][fe][gd]AW[bb][bf][cb][cc][cf][db][ea][ef][ff][ga][gb][hc][hd][he](;B[da]C[Correct])(;B[fb]C[Correct]))"
     },
     {
         "id": 1058,
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ad][bd][ca][cd][cf][db][dd][ea][eb][ec]AW[ac][ba][bb][bc][cc][dc][ed][fa][fb][fc][fd]((;B[aa]C[Correct])(;B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ad][bd][ca][cd][cf][db][dd][ea][eb][ec]AW[ac][ba][bb][bc][cc][dc][ed][fa][fb][fc][fd](;B[aa]C[Correct])(;B[ab]C[Correct]))"
     },
     {
         "id": 1059,
@@ -7485,7 +7485,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bb][be][bf][ce][dd][ec][ed][fd]AW[bc][bd][bg][cb][cd][cg][db][dc][de][df]((;B[ac];W[cc];B[eb];W[cf](;B[ae]C[Correct])(;B[ca]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bb][be][bf][ce][dd][ec][ed][fd]AW[bc][bd][bg][cb][cd][cg][db][dc][de][df](;B[ac];W[cc];B[eb];W[cf](;B[ae]C[Correct])(;B[ca]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 1068,
@@ -7513,7 +7513,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ba][bb][be][cd][db][dc][de]AW[bc][bg][cb][cc][da][df][eb][ef][fc][fe]((;B[ca];W[ea](;B[ac]C[Correct])(;B[bd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ba][bb][be][cd][db][dc][de]AW[bc][bg][cb][cc][da][df][eb][ef][fc][fe](;B[ca];W[ea](;B[ac]C[Correct])(;B[bd]C[Correct])))"
     },
     {
         "id": 1072,
@@ -7541,7 +7541,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cc][cd][da][dd][df][ea][eb][ec][ee]AW[aa][ab][ac][ba][bc][cb][db][dc][ed][fb][fd][gc]((;B[ca];W[bb](;B[ad]C[Correct])(;B[bd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cc][cd][da][dd][df][ea][eb][ec][ee]AW[aa][ab][ac][ba][bc][cb][db][dc][ed][fb][fd][gc](;B[ca];W[bb](;B[ad]C[Correct])(;B[bd]C[Correct])))"
     },
     {
         "id": 1076,
@@ -7576,14 +7576,14 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bc][cb][cd][ce][db][de][eb][fb][fd]AW[bd][be][bf][cc][cg][dc][dd][ed][fc][gb][ge][hd]((;B[ee];W[ec];B[gc]C[Correct])(;B[fe];W[gc];B[ec];W[ef];B[ee]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bc][cb][cd][ce][db][de][eb][fb][fd]AW[bd][be][bf][cc][cg][dc][dd][ed][fc][gb][ge][hd](;B[ee];W[ec];B[gc]C[Correct])(;B[fe];W[gc];B[ec];W[ef];B[ee]C[Correct]))"
     },
     {
         "id": 1081,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[eb][fa][fc][fd][fe][fg][ge][hd][jc][jd]AW[dc][de][dg][fb][gb][gc][gd][hc][he][hf][jb][ke][lc][le]((;B[ga];W[hb];B[kb]C[Correct])(;B[kb];W[kc];B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[eb][fa][fc][fd][fe][fg][ge][hd][jc][jd]AW[dc][de][dg][fb][gb][gc][gd][hc][he][hf][jb][ke][lc][le](;B[ga];W[hb];B[kb]C[Correct])(;B[kb];W[kc];B[ga]C[Correct]))"
     },
     {
         "id": 1082,
@@ -7625,7 +7625,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][bb][be][ce][da][db][dc][de][ed][ee]AW[ab][ad][bc][bd][cd][dd][ea][eb][ec][fc][fd]((;B[ba];W[cb];B[ca]C[Correct])(;B[cc];W[ca];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][bb][be][ce][da][db][dc][de][ed][ee]AW[ab][ad][bc][bd][cd][dd][ea][eb][ec][fc][fd](;B[ba];W[cb];B[ca]C[Correct])(;B[cc];W[ca];B[ac]C[Correct]))"
     },
     {
         "id": 1088,
@@ -7660,14 +7660,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][be][bf][ca][cc][cd][da][dc][eb][ec][gc]AW[ab][ae][bb][bd][bg][cb][ce][cg][db][de][ed]((;B[bc];W[ad](;B[ac]C[Correct])(;B[af]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][be][bf][ca][cc][cd][da][dc][eb][ec][gc]AW[ab][ae][bb][bd][bg][cb][ce][cg][db][de][ed](;B[bc];W[ad](;B[ac]C[Correct])(;B[af]C[Correct])))"
     },
     {
         "id": 1093,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[aa][ae][ba][be][cb][ce][da][db][dc][de][eb][ed][ee]AW[ab][ad][bb][bd][cc][cd][dd][ec][fc][gb][gc]((;B[ac]C[Correct])(;B[bc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[aa][ae][ba][be][cb][ce][da][db][dc][de][eb][ed][ee]AW[ab][ad][bb][bd][cc][cd][dd][ec][fc][gb][gc](;B[ac]C[Correct])(;B[bc]C[Correct]))"
     },
     {
         "id": 1094,
@@ -7688,7 +7688,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cc][cd][db][dd][eb][ee][fe][hc][hd]AW[bb][bc][bd][cb][dc][ec][ed][fb][fd][gc]((;B[gd];W[fc](;B[fa]C[Correct])(;B[gb];W[da];B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cc][cd][db][dd][eb][ee][fe][hc][hd]AW[bb][bc][bd][cb][dc][ec][ed][fb][fd][gc](;B[gd];W[fc](;B[fa]C[Correct])(;B[gb];W[da];B[fa]C[Correct])))"
     },
     {
         "id": 1097,
@@ -7751,7 +7751,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bd][cd][ce][dc][de][eb][ee]AW[cb][cc][dd][ec][ed][fc][fe][gd][ge][hb][hd]((;B[db];W[fb](;B[bb]C[Correct])(;B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bd][cd][ce][dc][de][eb][ee]AW[cb][cc][dd][ec][ed][fc][fe][gd][ge][hb][hd](;B[db];W[fb](;B[bb]C[Correct])(;B[ca]C[Correct])))"
     },
     {
         "id": 1106,
@@ -7849,7 +7849,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[be][cf][eb][ed][ef][fd][ff]AW[cd][db][dd][ec][gc][gd][ge]((;B[fc];W[dc](;B[fb]C[Correct])(;B[gb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[be][cf][eb][ed][ef][fd][ff]AW[cd][db][dd][ec][gc][gd][ge](;B[fc];W[dc](;B[fb]C[Correct])(;B[gb]C[Correct])))"
     },
     {
         "id": 1120,
@@ -7870,7 +7870,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[fa][fb][fc][gc][hd][jb][jd][kb][kd][lc]AW[dc][eb][ed][fd][gb][gd][ha][hb][hc][jc]((;B[ja];W[ea];B[kc]C[Correct])(;B[kc];W[ec];B[ja]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[fa][fb][fc][gc][hd][jb][jd][kb][kd][lc]AW[dc][eb][ed][fd][gb][gd][ha][hb][hc][jc](;B[ja];W[ea];B[kc]C[Correct])(;B[kc];W[ec];B[ja]C[Correct]))"
     },
     {
         "id": 1123,
@@ -7919,14 +7919,14 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][bc][cb][cc][dc][ed][fa][fb][fc][fd]AW[ad][ba][bb][bd][ca][cd][dd][ea][eb][ec]((;B[da];W[db];B[da]C[Correct])(;B[db];W[ac];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][bc][cb][cc][dc][ed][fa][fb][fc][fd]AW[ad][ba][bb][bd][ca][cd][dd][ea][eb][ec](;B[da];W[db];B[da]C[Correct])(;B[db];W[ac];B[da]C[Correct]))"
     },
     {
         "id": 1130,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][be][cb][cf][cg][db][de][ec][ed][ee]AW[ae][bc][bf][ca][cc][cd][ce][da][dc][dd][eb][fc][gb]((;B[ac];W[bd];B[ad]C[Correct])(;B[ad];W[bd];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][be][cb][cf][cg][db][de][ec][ed][ee]AW[ae][bc][bf][ca][cc][cd][ce][da][dc][dd][eb][fc][gb](;B[ac];W[bd];B[ad]C[Correct])(;B[ad];W[bd];B[ac]C[Correct]))"
     },
     {
         "id": 1131,
@@ -7947,7 +7947,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bd][be][cf][ec][ed][ef][fb][fc][fd][ff]AW[cd][db][dc][dd][eb][gb][gc][gd][ge]((;B[fa]C[Correct])(;B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bd][be][cf][ec][ed][ef][fb][fc][fd][ff]AW[cd][db][dc][dd][eb][gb][gc][gd][ge](;B[fa]C[Correct])(;B[ga]C[Correct]))"
     },
     {
         "id": 1134,
@@ -8045,14 +8045,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bb][be][ce][cf][dd][ec][ed][fc]AW[bc][bd][bg][cb][cd][cg][dc][de][dg][ee][fd][fe][gc][hd]((;B[ac];W[cc](;B[ca]C[Correct])(;B[db]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bb][be][ce][cf][dd][ec][ed][fc]AW[bc][bd][bg][cb][cd][cg][dc][de][dg][ee][fd][fe][gc][hd](;B[ac];W[cc](;B[ca]C[Correct])(;B[db]C[Correct])))"
     },
     {
         "id": 1148,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][be][cb][ce][cg][db][dc][dd]AW[aa][ad][bb][bc][bd][cc][cd][de][ec][ed][ee][fb]((;B[ab];W[eb](;B[ae]C[Correct])(;B[ca];W[ea];B[ae]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][be][cb][ce][cg][db][dc][dd]AW[aa][ad][bb][bc][bd][cc][cd][de][ec][ed][ee][fb](;B[ab];W[eb](;B[ae]C[Correct])(;B[ca];W[ea];B[ae]C[Correct])))"
     },
     {
         "id": 1149,
@@ -8115,7 +8115,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][cb][cc][cd][dd][ea][ee][fe][gb][gd][ge][hb][hc]AW[bd][be][ce][db][dc][de][eb][ed][fb][fc][fd][gc]((;B[da];W[fa];B[ca]C[Correct])(;B[fa];W[da];B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][cb][cc][cd][dd][ea][ee][fe][gb][gd][ge][hb][hc]AW[bd][be][ce][db][dc][de][eb][ed][fb][fc][fd][gc](;B[da];W[fa];B[ca]C[Correct])(;B[fa];W[da];B[ga]C[Correct]))"
     },
     {
         "id": 1158,
@@ -8143,14 +8143,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bc][ca][cb][cc][dc][ed][fb][fd][gc]AW[ab][ac][ae][bb][bd][cd][db][dd][eb][ec]((;B[ea]C[Correct])(;B[fc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bc][ca][cb][cc][dc][ed][fb][fd][gc]AW[ab][ac][ae][bb][bd][cd][db][dd][eb][ec](;B[ea]C[Correct])(;B[fc]C[Correct]))"
     },
     {
         "id": 1162,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bd][cb][cc][dc][dd][ee][fb][fc][fd][fe]AW[ab][bb][bc][be][cd][ce][db][de][eb][ec][ed]((;B[ca];W[ad](;B[da]C[Correct])(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bd][cb][cc][dc][dd][ee][fb][fc][fd][fe]AW[ab][bb][bc][be][cd][ce][db][de][eb][ec][ed](;B[ca];W[ad](;B[da]C[Correct])(;B[ea]C[Correct])))"
     },
     {
         "id": 1163,
@@ -8171,7 +8171,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][cb][cc][cd][de][ea][ee][fc][fd][fe][gb][ha][hb]AW[ba][bb][bc][bd][ce][cf][dd][eb][ec][ed][fb][ga]((;B[db]C[Correct])(;B[fa];W[da];B[db]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][cb][cc][cd][de][ea][ee][fc][fd][fe][gb][ha][hb]AW[ba][bb][bc][bd][ce][cf][dd][eb][ec][ed][fb][ga](;B[db]C[Correct])(;B[fa];W[da];B[db]C[Correct]))"
     },
     {
         "id": 1166,
@@ -8227,14 +8227,14 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cb][cc][dd][ea][ed][fb][fd][gb][hc][hd][kd]AW[bb][bc][bd][ce][eb][ec][ef][fc][ff][gc][gd][ge]((;B[ca]C[Correct])(;B[da]C[Correct])(;B[db]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cb][cc][dd][ea][ed][fb][fd][gb][hc][hd][kd]AW[bb][bc][bd][ce][eb][ec][ef][fc][ff][gc][gd][ge](;B[ca]C[Correct])(;B[da]C[Correct])(;B[db]C[Correct]))"
     },
     {
         "id": 1174,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][ca][cd][da][dd][ed][fc][gc][hc]AW[ac][bd][be][cc][db][dc][df][ea][ec][fb][fd][fe]((;B[cb];W[eb](;B[fa];W[ga];B[gb]C[Correct])(;B[gb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][ca][cd][da][dd][ed][fc][gc][hc]AW[ac][bd][be][cc][db][dc][df][ea][ec][fb][fd][fe](;B[cb];W[eb](;B[fa];W[ga];B[gb]C[Correct])(;B[gb]C[Correct])))"
     },
     {
         "id": 1175,
@@ -8290,7 +8290,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][da][dc][dd][ee][fa][fd][ff][gc][gd][hb]AW[be][cc][db][de][df][eb][ec][ed][fb][fc][gb]((;B[cd];W[bc](;B[ea]C[Correct])(;B[ga]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][da][dc][dd][ee][fa][fd][ff][gc][gd][hb]AW[be][cc][db][de][df][eb][ec][ed][fb][fc][gb](;B[cd];W[bc](;B[ea]C[Correct])(;B[ga]C[Correct])))"
     },
     {
         "id": 1183,
@@ -8311,14 +8311,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cc][da][dd][ed][fa][fc][fd][gb]AW[ad][ba][bd][cb][cd][cf][dc][eb][ec][fb][gc][hc]((;B[db]C[Correct])(;B[ea];W[ab];B[db]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cc][da][dd][ed][fa][fc][fd][gb]AW[ad][ba][bd][cb][cd][cf][dc][eb][ec][fb][gc][hc](;B[db]C[Correct])(;B[ea];W[ab];B[db]C[Correct]))"
     },
     {
         "id": 1186,
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ab][ad][bc][bg][cd][cf][ch][dd][df][ed][ee][ef]AW[ba][bb][bd][be][bf][cb][cc][ce][de][ec][fc]((;B[ae]C[Correct])(;B[af]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ab][ad][bc][bg][cd][cf][ch][dd][df][ed][ee][ef]AW[ba][bb][bd][be][bf][cb][cc][ce][de][ec][fc](;B[ae]C[Correct])(;B[af]C[Correct]))"
     },
     {
         "id": 1187,
@@ -8346,14 +8346,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][db][dc][dd][de][ee][fa][fb][fe][gd][hb][hc][hd]AW[da][eb][ec][ed][fd][ga][gb][gc][ge][he][jc][jd][je][kb]((;B[ea]C[Correct])(;B[ha]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][db][dc][dd][de][ee][fa][fb][fe][gd][hb][hc][hd]AW[da][eb][ec][ed][fd][ga][gb][gc][ge][he][jc][jd][je][kb](;B[ea]C[Correct])(;B[ha]C[Correct]))"
     },
     {
         "id": 1191,
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bd][be][cf][eb][ed][ef][fc][fd][ff]AW[cd][db][dc][dd][ec][gc][gd][ge]((;B[fb]C[Correct])(;B[gb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bd][be][cf][eb][ed][ef][fc][fd][ff]AW[cd][db][dc][dd][ec][gc][gd][ge](;B[fb]C[Correct])(;B[gb]C[Correct]))"
     },
     {
         "id": 1192,
@@ -8451,7 +8451,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cd][dd][eb][ec][fc]AW[ac][bd][be][cb][cc][db][dc][ea][fb][gb][gc][gd]((;B[ca];W[da];B[fa]C[Correct])(;B[da];W[ca];B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cd][dd][eb][ec][fc]AW[ac][bd][be][cb][cc][db][dc][ea][fb][gb][gc][gd](;B[ca];W[da];B[fa]C[Correct])(;B[da];W[ca];B[ba]C[Correct]))"
     },
     {
         "id": 1206,
@@ -8500,7 +8500,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][cb][cc][da][dc][dd][ea][eb][ec][fd][gd][hb][hd]AW[aa][bb][bc][bd][cd][ce][de][ed][ee][fa][fb][fc]((;B[ab];W[ac](;B[ga]C[Correct])(;B[gb]C[Correct])(;B[gc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][cb][cc][da][dc][dd][ea][eb][ec][fd][gd][hb][hd]AW[aa][bb][bc][bd][cd][ce][de][ed][ee][fa][fb][fc](;B[ab];W[ac](;B[ga]C[Correct])(;B[gb]C[Correct])(;B[gc]C[Correct])))"
     },
     {
         "id": 1213,
@@ -8514,7 +8514,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cd][dd][ea][eb][ed][fc][fd]AW[ba][cb][cc][db][dc][ec][fb][gb][gc]((;B[ca];W[da];B[ca]C[Correct])(;B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cd][dd][ea][eb][ed][fc][fd]AW[ba][cb][cc][db][dc][ec][fb][gb][gc](;B[ca];W[da];B[ca]C[Correct])(;B[da]C[Correct]))"
     },
     {
         "id": 1215,
@@ -8563,7 +8563,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[dc][dd][ea][eb][ee][ff][gd][ge][gf][hb][hc][jd]AW[bc][cb][ce][db][df][ec][ef][fb][fd][fe][gb][gc][ha][jb][kc]((;B[ed];W[fc](;B[fa]C[Correct])(;B[ga]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[dc][dd][ea][eb][ee][ff][gd][ge][gf][hb][hc][jd]AW[bc][cb][ce][db][df][ec][ef][fb][fd][fe][gb][gc][ha][jb][kc](;B[ed];W[fc](;B[fa]C[Correct])(;B[ga]C[Correct])))"
     },
     {
         "id": 1222,
@@ -8577,21 +8577,21 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cc][cd][dd][de][ee][fc][fd][ga][gb]AW[aa][bc][bd][be][ca][cb][ce][cg][da][db][dc][ea][eb][ec][ed][fa][fb]((;B[bb];W[ba](;B[ab]C[Correct])(;B[ac];W[ad];B[ab]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cc][cd][dd][de][ee][fc][fd][ga][gb]AW[aa][bc][bd][be][ca][cb][ce][cg][da][db][dc][ea][eb][ec][ed][fa][fb](;B[bb];W[ba](;B[ab]C[Correct])(;B[ac];W[ad];B[ab]C[Correct])))"
     },
     {
         "id": 1224,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][bf][cc][cg][da][db][dd][dg][ed][ef][fe][hc][he][hf][jb][jc][je]AW[cd][ce][dc][de][df][eb][ec][eg][fc][ff][fg][gc][gg][hb]((;B[fd];W[ee];B[gf]C[Correct])(;B[ge]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][bf][cc][cg][da][db][dd][dg][ed][ef][fe][hc][he][hf][jb][jc][je]AW[cd][ce][dc][de][df][eb][ec][eg][fc][ff][fg][gc][gg][hb](;B[fd];W[ee];B[gf]C[Correct])(;B[ge]C[Correct]))"
     },
     {
         "id": 1225,
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bb][be][cc][cf][dc][dd][df][ee]AW[bc][bd][bf][cd][ce][cg][ch][de][eb][ec][eh][ff][gd]((;B[ac];W[ae];B[ad];W[be];B[bg]C[Correct])(;B[ad];W[ae];B[ac];W[be];B[bg]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bb][be][cc][cf][dc][dd][df][ee]AW[bc][bd][bf][cd][ce][cg][ch][de][eb][ec][eh][ff][gd](;B[ac];W[ae];B[ad];W[be];B[bg]C[Correct])(;B[ad];W[ae];B[ac];W[be];B[bg]C[Correct]))"
     },
     {
         "id": 1226,
@@ -8626,7 +8626,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][cd][ce][de][ec][ed][fb][fd][fe]AW[db][dc][dd][eb][ee][ef][ff][gd][ge][hc]((;B[fc];W[gb](;B[da]C[Correct])(;B[ea]C[Correct])(;B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][cd][ce][de][ec][ed][fb][fd][fe]AW[db][dc][dd][eb][ee][ef][ff][gd][ge][hc](;B[fc];W[gb](;B[da]C[Correct])(;B[ea]C[Correct])(;B[fa]C[Correct])))"
     },
     {
         "id": 1231,
@@ -8766,7 +8766,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][be][cc][ce][cf][dc][dd][eb][ec][fb]AW[ab][bc][bd][cb][cd][db][de][ed][ee][fc][gc][jc]((;B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][be][cc][ce][cf][dc][dd][eb][ec][fb]AW[ab][bc][bd][cb][cd][db][de][ed][ee][fc][gc][jc](;B[ba]C[Correct]))"
     },
     {
         "id": 1251,
@@ -8829,7 +8829,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bd][be][cf][eb][ed][ef][fb][fd][ff]AW[cd][db][dc][dd][ea][gb][gc][gd][ge]((;B[fa]C[Correct])(;B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bd][be][cf][eb][ed][ef][fb][fd][ff]AW[cd][db][dc][dd][ea][gb][gc][gd][ge](;B[fa]C[Correct])(;B[ga]C[Correct]))"
     },
     {
         "id": 1260,
@@ -8857,7 +8857,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][be][cd][ce][db][dd][eb][ec]AW[bc][bd][cb][cc][dc][ed][fb][fd][gc]((;B[ca];W[ab];B[ba];W[fc](;B[ac]C[Correct])(;B[ad]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][be][cd][ce][db][dd][eb][ec]AW[bc][bd][cb][cc][dc][ed][fb][fd][gc](;B[ca];W[ab];B[ba];W[fc](;B[ac]C[Correct])(;B[ad]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 1264,
@@ -8871,14 +8871,14 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cd][de][ec][fc][ff][gc][ge][hd][jc][jd][je]AW[cg][ed][fd][fe][gd][gf][hb][hc][jb][kc][kd]((;B[dd];W[he];B[ee];W[ge];B[gg]C[Correct])(;B[ee];W[he];B[dd];W[ge];B[gg];W[hf];B[jf]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cd][de][ec][fc][ff][gc][ge][hd][jc][jd][je]AW[cg][ed][fd][fe][gd][gf][hb][hc][jb][kc][kd](;B[dd];W[he];B[ee];W[ge];B[gg]C[Correct])(;B[ee];W[he];B[dd];W[ge];B[gg];W[hf];B[jf]C[Correct]))"
     },
     {
         "id": 1266,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][dc][ec][ed][fa][fb][fc][gd][hd][jb][jc]AW[bb][bd][cc][db][dd][de][eb][ee][fd][fe][gb][gc][hb]((;B[ha];W[ga];B[hc]C[Correct])(;B[hc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][dc][ec][ed][fa][fb][fc][gd][hd][jb][jc]AW[bb][bd][cc][db][dd][de][eb][ee][fd][fe][gb][gc][hb](;B[ha];W[ga];B[hc]C[Correct])(;B[hc]C[Correct]))"
     },
     {
         "id": 1267,
@@ -8948,14 +8948,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][be][cc][ce][da][db][dc][de][ed][ee]AW[aa][ab][ac][bc][bd][ca][cb][cd][dd][ec][fc][fd]((;B[ba];W[eb];B[bb]C[Correct])(;B[bb];W[eb];B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][be][cc][ce][da][db][dc][de][ed][ee]AW[aa][ab][ac][bc][bd][ca][cb][cd][dd][ec][fc][fd](;B[ba];W[eb];B[bb]C[Correct])(;B[bb];W[eb];B[ba]C[Correct]))"
     },
     {
         "id": 1277,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][cc][dc][ec][fb][fd]AW[ab][ad][bc][be][cb][cd][db][eb]((;B[ca]C[Correct])(;B[da]C[Correct])(;B[ea];W[aa];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][cc][dc][ec][fb][fd]AW[ab][ad][bc][be][cb][cd][db][eb](;B[ca]C[Correct])(;B[da]C[Correct])(;B[ea];W[aa];B[ac]C[Correct]))"
     },
     {
         "id": 1278,
@@ -8976,14 +8976,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bc][ca][cb][cc][dc][ed][fc][fd][gc]AW[ab][ac][bb][bd][cd][db][dd][df][eb][ec]((;B[ea]C[Correct])(;B[fb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bc][ca][cb][cc][dc][ed][fc][fd][gc]AW[ab][ac][bb][bd][cd][db][dd][df][eb][ec](;B[ea]C[Correct])(;B[fb]C[Correct]))"
     },
     {
         "id": 1281,
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ce][dc][dd][de][eb][ee][fe][gb][gc][gf][gg][he]AW[cb][cc][cd][db][ec][ed][fb][fc][gd][ge][hc][hf][jf][kd]((;B[fd];W[ea];B[hd]C[Correct])(;B[hd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ce][dc][dd][de][eb][ee][fe][gb][gc][gf][gg][he]AW[cb][cc][cd][db][ec][ed][fb][fc][gd][ge][hc][hf][jf][kd](;B[fd];W[ea];B[hd]C[Correct])(;B[hd]C[Correct]))"
     },
     {
         "id": 1282,
@@ -9004,7 +9004,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cb][cc][cd][db][de][df][ef][fe][gc]AW[bb][bc][bd][ce][cf][dc][dd][eb][ed][ee][fc]((;B[fd];W[ec](;B[ea]C[Correct])(;B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cb][cc][cd][db][de][df][ef][fe][gc]AW[bb][bc][bd][ce][cf][dc][dd][eb][ed][ee][fc](;B[fd];W[ec](;B[ea]C[Correct])(;B[fb]C[Correct])))"
     },
     {
         "id": 1285,
@@ -9032,7 +9032,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ac][bd][cb][cc][ce][db][de][df][ef][fc][fe]AW[be][bf][cd][cf][ch][dc][dd][ec][ee][fd][ge][hb][hc][hd]((;B[eb];W[ed];B[gd]C[Correct])(;B[ed];W[ee];B[eb];W[ff];B[ed]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ac][bd][cb][cc][ce][db][de][df][ef][fc][fe]AW[be][bf][cd][cf][ch][dc][dd][ec][ee][fd][ge][hb][hc][hd](;B[eb];W[ed];B[gd]C[Correct])(;B[ed];W[ee];B[eb];W[ff];B[ed]C[Correct]))"
     },
     {
         "id": 1289,
@@ -9053,14 +9053,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][cb][cc][dd][ec][gb]AW[bd][cd][da][db][dc][ed]((;B[de];W[eb];B[fc];W[bc](;B[ea]C[Correct])(;B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][cb][cc][dd][ec][gb]AW[bd][cd][da][db][dc][ed](;B[de];W[eb];B[fc];W[bc](;B[ea]C[Correct])(;B[fb]C[Correct])))"
     },
     {
         "id": 1292,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][bb][bf][cb][ce][cf][db][dc][dd][df][ea][eb]AW[ab][ac][ba][bd][be][cc][cd][de][ec][ed][ee][fa][fb][fc]((;B[af];W[ca];B[ad]C[Correct])(;B[bc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][bb][bf][cb][ce][cf][db][dc][dd][df][ea][eb]AW[ab][ac][ba][bd][be][cc][cd][de][ec][ed][ee][fa][fb][fc](;B[af];W[ca];B[ad]C[Correct])(;B[bc]C[Correct]))"
     },
     {
         "id": 1293,
@@ -9095,7 +9095,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bc][be][ca][cc][cd][db][dd][eb][fb]AW[ab][bb][bf][cb][ce][dc][de][ec][ed][ee]((;B[ac]C[Correct])(;B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bc][be][ca][cc][cd][db][dd][eb][fb]AW[ab][bb][bf][cb][ce][dc][de][ec][ed][ee](;B[ac]C[Correct])(;B[ba]C[Correct]))"
     },
     {
         "id": 1298,
@@ -9235,7 +9235,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][ba][bb][bc][cd][ce][de][eb][ee][fc][fe][gd]AW[ab][bd][be][bf][ca][cb][cc][cf][db][dd][ed][fd][gc]((;B[da];W[ea];B[dc]C[Correct])(;B[dc];W[ec];B[dc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][ba][bb][bc][cd][ce][de][eb][ee][fc][fe][gd]AW[ab][bd][be][bf][ca][cb][cc][cf][db][dd][ed][fd][gc](;B[da];W[ea];B[dc]C[Correct])(;B[dc];W[ec];B[dc]C[Correct]))"
     },
     {
         "id": 1318,
@@ -9277,7 +9277,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][ce][dd][eb][ec][ed][fe][ga][gb][gc][gd]AW[bc][ca][cb][cd][da][db][dc][ea][fa][fb][fc][fd][ge][hb][hd][he]((;B[ba];W[cc](;B[ac]C[Correct])(;B[bd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][ce][dd][eb][ec][ed][fe][ga][gb][gc][gd]AW[bc][ca][cb][cd][da][db][dc][ea][fa][fb][fc][fd][ge][hb][hd][he](;B[ba];W[cc](;B[ac]C[Correct])(;B[bd]C[Correct])))"
     },
     {
         "id": 1324,
@@ -9382,7 +9382,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][be][cf][ed][ef][fb][fc][fd][ff]AW[cd][dc][dd][eb][fa][gc][gd][ge]((;B[ga]C[Correct])(;B[gb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][be][cf][ed][ef][fb][fc][fd][ff]AW[cd][dc][dd][eb][fa][gc][gd][ge](;B[ga]C[Correct])(;B[gb]C[Correct]))"
     },
     {
         "id": 1339,
@@ -9431,7 +9431,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[af][ah][bb][bd][be][bh][cc][ch][dc][df][dg][ed][ff]AW[ac][ag][ba][bc][bg][cb][cd][ce][cf][cg][ck][dh][dj]((;B[dd](;W[bj];B[de]C[Correct])(;W[cj];B[bf]C[Correct]))(;B[de];W[cj](;B[bf]C[Correct])(;B[dd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[af][ah][bb][bd][be][bh][cc][ch][dc][df][dg][ed][ff]AW[ac][ag][ba][bc][bg][cb][cd][ce][cf][cg][ck][dh][dj](;B[dd](;W[bj];B[de]C[Correct])(;W[cj];B[bf]C[Correct]))(;B[de];W[cj](;B[bf]C[Correct])(;B[dd]C[Correct])))"
     },
     {
         "id": 1346,
@@ -9445,7 +9445,7 @@ const problems = [
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ab][ad][bc][be][cc][cd][db][dc][ed][fc][fd][gb]AW[ae][af][ba][bb][bf][cb][ce][cg][da][dd][de][ea][eb][ec]((;B[fa]C[Correct])(;B[fb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ab][ad][bc][be][cc][cd][db][dc][ed][fc][fd][gb]AW[ae][af][ba][bb][bf][cb][ce][cg][da][dd][de][ea][eb][ec](;B[fa]C[Correct])(;B[fb]C[Correct]))"
     },
     {
         "id": 1348,
@@ -9550,21 +9550,21 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][dc][ec][fd][ga][gb][gc][gd]AW[ba][bb][bc][ca][cd][dd][ed][fa][fb][fc]((;B[ea]C[Correct])(;B[eb];W[ea];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][dc][ec][fd][ga][gb][gc][gd]AW[ba][bb][bc][ca][cd][dd][ed][fa][fb][fc](;B[ea]C[Correct])(;B[eb];W[ea];B[da]C[Correct]))"
     },
     {
         "id": 1363,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][cb][cc][cd][de][ea][ee][fc][fd][fe][gb][ha][hb]AW[ba][bb][bc][bd][ce][cf][db][dd][eb][ec][ed][ga]((;B[da];W[fa];B[fb]C[Correct])(;B[fb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][cb][cc][cd][de][ea][ee][fc][fd][fe][gb][ha][hb]AW[ba][bb][bc][bd][ce][cf][db][dd][eb][ec][ed][ga](;B[da];W[fa];B[fb]C[Correct])(;B[fb]C[Correct]))"
     },
     {
         "id": 1364,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][af][bd][bf][bj][ce][cf][ch][dg][dh]AW[ab][ag][bc][bg][cd][cg][dd][de][df]((;B[ah];W[ae];B[bh]C[Correct])(;B[bh];W[ae];B[ah]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][af][bd][bf][bj][ce][cf][ch][dg][dh]AW[ab][ag][bc][bg][cd][cg][dd][de][df](;B[ah];W[ae];B[bh]C[Correct])(;B[bh];W[ae];B[ah]C[Correct]))"
     },
     {
         "id": 1365,
@@ -9634,14 +9634,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bd][ce][cf][dd][ea][eb][ec][ee]AW[ba][be][bf][bg][cc][cd][ch][da][db][dc]((;B[bb]C[Correct])(;B[ca];W[cb];B[bb]C[Correct])(;B[cb];W[ca];B[bb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bd][ce][cf][dd][ea][eb][ec][ee]AW[ba][be][bf][bg][cc][cd][ch][da][db][dc](;B[bb]C[Correct])(;B[ca];W[cb];B[bb]C[Correct])(;B[cb];W[ca];B[bb]C[Correct]))"
     },
     {
         "id": 1375,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ac][bb][bc][bf][cb][cg][dc][dg][eg][fa][fb][fc][ff][gd][gf]AW[ae][be][ca][cc][cd][ce][db][de][ea][ec][ed][ee]((;B[eb];W[dd](;B[ba]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ac][bb][bc][bf][cb][cg][dc][dg][eg][fa][fb][fc][ff][gd][gf]AW[ae][be][ca][cc][cd][ce][db][de][ea][ec][ed][ee](;B[eb];W[dd](;B[ba]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 1376,
@@ -9662,7 +9662,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bc][cd][cf][cg][dd][de][dh][ee][fd][hd]AW[bd][be][cc][ce][dc][df][ec][ef][fc][ff]((;B[fe]C[Correct])(;B[gd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bc][cd][cf][cg][dd][de][dh][ee][fd][hd]AW[bd][be][cc][ce][dc][df][ec][ef][fc][ff](;B[fe]C[Correct])(;B[gd]C[Correct]))"
     },
     {
         "id": 1379,
@@ -9676,7 +9676,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cd][dd][ea][ec][fb][fc]AW[ab][ac][ae][bd][bf][cb][cc][ce][db][eb]((;B[ca]C[Correct])(;B[da]C[Correct])(;B[dc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cd][dd][ea][ec][fb][fc]AW[ab][ac][ae][bd][bf][cb][cc][ce][db][eb](;B[ca]C[Correct])(;B[da]C[Correct])(;B[dc]C[Correct]))"
     },
     {
         "id": 1381,
@@ -9690,7 +9690,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bb][bd][cd][dc][ec]AW[ba][bc][bf][cb][cc][dd][de]((;B[ab];W[ce];B[db];W[be](;B[ad];W[ae];B[ca]C[Correct])(;B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bb][bd][cd][dc][ec]AW[ba][bc][bf][cb][cc][dd][de](;B[ab];W[ce];B[db];W[be](;B[ad];W[ae];B[ca]C[Correct])(;B[ca]C[Correct])))"
     },
     {
         "id": 1383,
@@ -9732,7 +9732,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cc][cd][dc][de][ee][fb][fe][gc]AW[bc][bd][ce][cf][dd][eb][ed][fc][gb][hd]((;B[ec];W[fa](;B[fd]C[Correct])(;B[gd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cc][cd][dc][de][ee][fb][fe][gc]AW[bc][bd][ce][cf][dd][eb][ed][fc][gb][hd](;B[ec];W[fa](;B[fd]C[Correct])(;B[gd]C[Correct])))"
     },
     {
         "id": 1389,
@@ -9760,7 +9760,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ad][ba][be][ca][ce][da][dc][dd][de][eb][fb]AW[ae][af][bb][bf][cb][cc][cf][db][df][ec][ed][ee]((;B[bc];W[cd];B[bd]C[Correct])(;B[bd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ad][ba][be][ca][ce][da][dc][dd][de][eb][fb]AW[ae][af][bb][bf][cb][cc][cf][db][df][ec][ed][ee](;B[bc];W[cd];B[bd]C[Correct])(;B[bd]C[Correct]))"
     },
     {
         "id": 1393,
@@ -9900,7 +9900,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][af][bb][bf][ca][cb][cf][db][dc][dd][df][ee][fe]AW[ac][ae][ba][bc][be][cd][ce][da][de][ea][eb][ec][ed][gc]((;B[ad]C[Correct])(;B[bd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][af][bb][bf][ca][cb][cf][db][dc][dd][df][ee][fe]AW[ac][ae][ba][bc][be][cd][ce][da][de][ea][eb][ec][ed][gc](;B[ad]C[Correct])(;B[bd]C[Correct]))"
     },
     {
         "id": 1413,
@@ -9984,7 +9984,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bc][cb][cc][cd][dd][ee][ef][fa][fb][fc][fd]AW[ab][ac][bb][bd][be][ce][cg][da][de][ea][eb][ec][ed]((;B[ca]C[Correct])(;B[db];W[ad];B[ca]C[Correct])(;B[dc];W[ad];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bc][cb][cc][cd][dd][ee][ef][fa][fb][fc][fd]AW[ab][ac][bb][bd][be][ce][cg][da][de][ea][eb][ec][ed](;B[ca]C[Correct])(;B[db];W[ad];B[ca]C[Correct])(;B[dc];W[ad];B[ca]C[Correct]))"
     },
     {
         "id": 1425,
@@ -9998,7 +9998,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bf][ca][cb][cc][cf][db][ea][ef][fa][ff][ga][hb][hc][hd][he]AW[ab][bc][bd][cd][dc][dd][eb][ec][fb][fe][gb][gd]((;B[ba]C[Correct])(;B[da]C[Correct])(;B[ha]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bf][ca][cb][cc][cf][db][ea][ef][fa][ff][ga][hb][hc][hd][he]AW[ab][bc][bd][cd][dc][dd][eb][ec][fb][fe][gb][gd](;B[ba]C[Correct])(;B[da]C[Correct])(;B[ha]C[Correct]))"
     },
     {
         "id": 1427,
@@ -10012,7 +10012,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][be][ce][db][dc][dd][fd]AW[bc][bd][bg][cb][cd][cf][de][dg][ee][fe]((;B[ad];W[ac](;B[ae]C[Correct])(;B[cc]C[Correct]))(;B[ae]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][be][ce][db][dc][dd][fd]AW[bc][bd][bg][cb][cd][cf][de][dg][ee][fe](;B[ad];W[ac](;B[ae]C[Correct])(;B[cc]C[Correct]))(;B[ae]C[Correct]))"
     },
     {
         "id": 1429,
@@ -10026,7 +10026,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][be][ca][cb][ce][cg][db][dc][dd]AW[aa][ad][ba][bb][bc][bd][cc][cd][de][ec][ed][ee][fb]((;B[ab]C[Correct])(;B[ac];W[eb];B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][be][ca][cb][ce][cg][db][dc][dd]AW[aa][ad][ba][bb][bc][bd][cc][cd][de][ec][ed][ee][fb](;B[ab]C[Correct])(;B[ac];W[eb];B[ab]C[Correct]))"
     },
     {
         "id": 1431,
@@ -10096,7 +10096,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][ca][cb][cc][dc][ed][fc][fd]AW[aa][ac][ad][bb][bd][cd][db][dd][eb][ec]((;B[ea]C[Correct])(;B[fb];W[ab](;B[da]C[Correct])(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][ca][cb][cc][dc][ed][fc][fd]AW[aa][ac][ad][bb][bd][cd][db][dd][eb][ec](;B[ea]C[Correct])(;B[fb];W[ab](;B[da]C[Correct])(;B[ea]C[Correct])))"
     },
     {
         "id": 1441,
@@ -10152,7 +10152,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bd][ce][cf][dc][dd][eb][ec][fb][ga][gd][hb][hc][hd]AW[cb][cc][cd][db][de][ed][ee][eg][fc][fd][gb][gc]((;B[fa]C[Correct])(;B[ha]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bd][ce][cf][dc][dd][eb][ec][fb][ga][gd][hb][hc][hd]AW[cb][cc][cd][db][de][ed][ee][eg][fc][fd][gb][gc](;B[fa]C[Correct])(;B[ha]C[Correct]))"
     },
     {
         "id": 1449,
@@ -10180,14 +10180,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][ca][cb][cc][cd][dc][ed][fb][fd][gc]AW[aa][ac][ae][bb][bd][be][ce][db][dd][de][eb][ec]((;B[ea];W[ba];B[ab]C[Correct])(;B[fc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][ca][cb][cc][cd][dc][ed][fb][fd][gc]AW[aa][ac][ae][bb][bd][be][ce][db][dd][de][eb][ec](;B[ea];W[ba];B[ab]C[Correct])(;B[fc]C[Correct]))"
     },
     {
         "id": 1453,
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cb][cc][ce][da][dd][de][ee][fb][gc]AW[bd][be][cd][cf][db][dc][eb][ed][fc][fd]((;B[ea];W[ec](;B[fe];W[gd];B[hd]C[Correct])(;B[gd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cb][cc][ce][da][dd][de][ee][fb][gc]AW[bd][be][cd][cf][db][dc][eb][ed][fc][fd](;B[ea];W[ec](;B[fe];W[gd];B[hd]C[Correct])(;B[gd]C[Correct])))"
     },
     {
         "id": 1454,
@@ -10271,7 +10271,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ad][ae][bc][be][cb][cf][db][df][ec][ee][ef][fe][gc][gd][ge]AW[bd][cd][ce][dc][de][ed][fb][fc][gb][hb][hc][hd]((;B[cc];W[dd];B[fd]C[Correct])(;B[fd];W[eb];B[cc];W[ec];B[dd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ad][ae][bc][be][cb][cf][db][df][ec][ee][ef][fe][gc][gd][ge]AW[bd][cd][ce][dc][de][ed][fb][fc][gb][hb][hc][hd](;B[cc];W[dd];B[fd]C[Correct])(;B[fd];W[eb];B[cc];W[ec];B[dd]C[Correct]))"
     },
     {
         "id": 1466,
@@ -10306,7 +10306,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][cc][ce][dd][de][eb][ec][ee][fc][fe]AW[bd][be][bf][cb][cd][cf][db][dc][ed][gb][gc][gd]((;B[bb];W[fd](;B[ca]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][cc][ce][dd][de][eb][ec][ee][fc][fe]AW[bd][be][bf][cb][cd][cf][db][dc][ed][gb][gc][gd](;B[bb];W[fd](;B[ca]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 1471,
@@ -10341,7 +10341,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[db][dc][dd][ee][fe][ga][gc][ge][hb][hc][hd]AW[bc][cb][cd][ce][da][de][eb][ed][fa][fb][fd][gb][gd]((;B[ec];W[fc];B[ea]C[Correct])(;B[fc];W[ec];B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[db][dc][dd][ee][fe][ga][gc][ge][hb][hc][hd]AW[bc][cb][cd][ce][da][de][eb][ed][fa][fb][fd][gb][gd](;B[ec];W[fc];B[ea]C[Correct])(;B[fc];W[ec];B[ea]C[Correct]))"
     },
     {
         "id": 1476,
@@ -10355,7 +10355,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][bd][cd][dd][ea][eb][ec]AW[ab][bb][ca][cc][db][dc][ed][fb][fd][gc]((;B[da];W[cb](;B[aa]C[Correct])(;B[ba]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][bd][cd][dd][ea][eb][ec]AW[ab][bb][ca][cc][db][dc][ed][fb][fd][gc](;B[da];W[cb](;B[aa]C[Correct])(;B[ba]C[Correct])))"
     },
     {
         "id": 1478,
@@ -10509,14 +10509,14 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][ba][bb][cc][cd][dd][de][ee][fa][fb][fd][fe][gb][gc]AW[ac][bc][bd][be][ca][cb][ce][da][dc][eb][ec][ed][fc][gd][hd]((;B[ea];W[aa](;B[bb]C[Correct])(;B[db]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][ba][bb][cc][cd][dd][de][ee][fa][fb][fd][fe][gb][gc]AW[ac][bc][bd][be][ca][cb][ce][da][dc][eb][ec][ed][fc][gd][hd](;B[ea];W[aa](;B[bb]C[Correct])(;B[db]C[Correct])))"
     },
     {
         "id": 1500,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][bd][ce][de][eb][ee][fc][fd]AW[ab][ac][ad][be][bf][cd][cg][db][dd][ec][ed][gb]((;B[cc]C[Correct])(;B[dc];W[cc];B[cb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][bd][ce][de][eb][ee][fc][fd]AW[ab][ac][ad][be][bf][cd][cg][db][dd][ec][ed][gb](;B[cc]C[Correct])(;B[dc];W[cc];B[cb]C[Correct]))"
     },
     {
         "id": 1501,
@@ -10537,7 +10537,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][bd][be][ce][dd][ed]AW[bf][cc][cd][cf][de][eb][ee][fe][gc][gd]((;B[db]C[Correct])(;B[dc];W[db];B[cb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][bd][be][ce][dd][ed]AW[bf][cc][cd][cf][de][eb][ee][fe][gc][gd](;B[db]C[Correct])(;B[dc];W[db];B[cb]C[Correct]))"
     },
     {
         "id": 1504,
@@ -10579,7 +10579,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cc][dc][eb][ed][ee][fe][ge][hd][jc][jd]AW[bb][bc][be][cd][dd][ec][fc][fd][gb][gd][hc][lb]((;B[fb];W[gc](;B[ga]C[Correct])(;B[hb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cc][dc][eb][ed][ee][fe][ge][hd][jc][jd]AW[bb][bc][be][cd][dd][ec][fc][fd][gb][gd][hc][lb](;B[fb];W[gc](;B[ga]C[Correct])(;B[hb]C[Correct])))"
     },
     {
         "id": 1510,
@@ -10670,7 +10670,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[db][dc][dd][de][ea][hb][hc][he]AW[bb][bd][ce][cf][df][eb][ec][ee][fc][fe][gc][ge]((;B[fa];W[gb];B[ga]C[Correct])(;B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[db][dc][dd][de][ea][hb][hc][he]AW[bb][bd][ce][cf][df][eb][ec][ee][fc][fe][gc][ge](;B[fa];W[gb];B[ga]C[Correct])(;B[ga]C[Correct]))"
     },
     {
         "id": 1523,
@@ -10684,7 +10684,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][bf][cb][cd][cf][cg][dc][de][dg][ee][ef]AW[ae][be][bg][bh][ce][ch][dd][dh][ed][eh][fd][fe][ff][fg]((;B[ad];W[eg];B[af]C[Correct])(;B[af];W[eg];B[ad]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][bf][cb][cd][cf][cg][dc][de][dg][ee][ef]AW[ae][be][bg][bh][ce][ch][dd][dh][ed][eh][fd][fe][ff][fg](;B[ad];W[eg];B[af]C[Correct])(;B[af];W[eg];B[ad]C[Correct]))"
     },
     {
         "id": 1525,
@@ -10719,7 +10719,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[be][cb][cf][cg][db][dc][dd][eb][ef][fa][ff][gb][gf][hc][hd][he]AW[bb][bc][cc][cd][ce][de][ec][ed][ee][fb][fc][gc][ge]((;B[hb]C[Correct])(;B[jb];W[ca];B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[be][cb][cf][cg][db][dc][dd][eb][ef][fa][ff][gb][gf][hc][hd][he]AW[bb][bc][cc][cd][ce][de][ec][ed][ee][fb][fc][gc][ge](;B[hb]C[Correct])(;B[jb];W[ca];B[ea]C[Correct]))"
     },
     {
         "id": 1530,
@@ -10754,14 +10754,14 @@ const problems = [
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ab][af][ba][bf][cb][cf][da][db][dc][dd][df][ee][ef]AW[ac][ae][bb][bc][be][cc][cd][ce][de][eb][ec][ed][fb][fd]((;B[ad]C[Correct])(;B[bd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ab][af][ba][bf][cb][cf][da][db][dc][dd][df][ee][ef]AW[ac][ae][bb][bc][be][cc][cd][ce][de][eb][ec][ed][fb][fd](;B[ad]C[Correct])(;B[bd]C[Correct]))"
     },
     {
         "id": 1535,
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cc][db][dc][ec][ed][fa][fe][ff][gc][gd][jd]AW[bc][bd][dd][de][eb][ee][eg][fb][fc][fd][fg][ge][gf][gg]((;B[ea];W[ef];B[gb]C[Correct])(;B[gb];W[ef];B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cc][db][dc][ec][ed][fa][fe][ff][gc][gd][jd]AW[bc][bd][dd][de][eb][ee][eg][fb][fc][fd][fg][ge][gf][gg](;B[ea];W[ef];B[gb]C[Correct])(;B[gb];W[ef];B[ea]C[Correct]))"
     },
     {
         "id": 1536,
@@ -10852,7 +10852,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][da][dd][ed][fb][fd][ga][gc]AW[ba][bd][ca][cd][cf][db][dc][fa]((;B[eb];W[ea];B[ec];W[da];B[bb]C[Correct])(;B[ec];W[ea];B[eb];W[da];B[bb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][da][dd][ed][fb][fd][ga][gc]AW[ba][bd][ca][cd][cf][db][dc][fa](;B[eb];W[ea];B[ec];W[da];B[bb]C[Correct])(;B[ec];W[ea];B[eb];W[da];B[bb]C[Correct]))"
     },
     {
         "id": 1549,
@@ -10894,7 +10894,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][bd][ca][cd][db][dd][eb][ee][ef][fc][ff][hc]AW[ab][ac][ad][be][cb][cc][ce][dc][de][ec][ed][fb][fd][fe]((;B[ge];W[gc];B[gd];W[fc](;B[fa]C[Correct])(;B[gb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][bd][ca][cd][db][dd][eb][ee][ef][fc][ff][hc]AW[ab][ac][ad][be][cb][cc][ce][dc][de][ec][ed][fb][fd][fe](;B[ge];W[gc];B[gd];W[fc](;B[fa]C[Correct])(;B[gb]C[Correct])))"
     },
     {
         "id": 1555,
@@ -10915,7 +10915,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cb][cc][dc][ea][ed][fd][gb][gc][gd]AW[ac][bc][bd][cd][da][db][dd][ec][fa][fb][fc]((;B[ca];W[eb];B[ga];W[ab];B[ea]C[Correct])(;B[ga];W[eb];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cb][cc][dc][ea][ed][fd][gb][gc][gd]AW[ac][bc][bd][cd][da][db][dd][ec][fa][fb][fc](;B[ca];W[eb];B[ga];W[ab];B[ea]C[Correct])(;B[ga];W[eb];B[ca]C[Correct]))"
     },
     {
         "id": 1558,
@@ -10936,7 +10936,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cb][cc][cd][de][ec][ee][fe][gc]AW[bb][bc][bd][ce][cf][dd][eb][ed][fc]((;B[fd];W[dc];B[db];W[ec](;B[ea]C[Correct])(;B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cb][cc][cd][de][ec][ee][fe][gc]AW[bb][bc][bd][ce][cf][dd][eb][ed][fc](;B[fd];W[dc];B[db];W[ec](;B[ea]C[Correct])(;B[fb]C[Correct])))"
     },
     {
         "id": 1561,
@@ -10964,7 +10964,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bb][bd][cd][dc][ec]AW[bc][bf][cb][cc][db][dd][de]((;B[eb];W[ce](;B[ab];W[be];B[ad]C[Correct])(;B[ad]C[Correct])(;B[ca]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bb][bd][cd][dc][ec]AW[bc][bf][cb][cc][db][dd][de](;B[eb];W[ce](;B[ab];W[be];B[ad]C[Correct])(;B[ad]C[Correct])(;B[ca]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 1565,
@@ -11006,7 +11006,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ad][ba][be][ca][ce][da][dc][dd][de][eb][fb]AW[ae][af][bb][bc][bf][cb][cc][cf][db][df][ec][ed][ee]((;B[ac];W[bd];B[cd]C[Correct])(;B[bd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ad][ba][be][ca][ce][da][dc][dd][de][eb][fb]AW[ae][af][bb][bc][bf][cb][cc][cf][db][df][ec][ed][ee](;B[ac];W[bd];B[cd]C[Correct])(;B[bd]C[Correct]))"
     },
     {
         "id": 1571,
@@ -11062,7 +11062,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][be][bf][cb][cc][cd][cg][ch][dh]AW[bc][bd][bg][ca][ce][cf][db][dc][dd][de][dg][ef][eg]((;B[ac];W[ba];B[ad]C[Correct])(;B[ad]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][be][bf][cb][cc][cd][cg][ch][dh]AW[bc][bd][bg][ca][ce][cf][db][dc][dd][de][dg][ef][eg](;B[ac];W[ba];B[ad]C[Correct])(;B[ad]C[Correct]))"
     },
     {
         "id": 1579,
@@ -11174,7 +11174,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][cd][db][de][ee][gc][ge][hd]AW[bb][bc][bd][be][ce][dc][dd][eb][ed][fc][gd]((;B[fd];W[ec](;B[ea]C[Correct])(;B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][cd][db][de][ee][gc][ge][hd]AW[bb][bc][bd][be][ce][dc][dd][eb][ed][fc][gd](;B[fd];W[ec](;B[ea]C[Correct])(;B[fb]C[Correct])))"
     },
     {
         "id": 1595,
@@ -11188,21 +11188,21 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bc][bd][ce][cf][cg][dc][dd][dg][eb]AW[ba][be][bf][bg][bj][cb][cc][cd][ch][db][de][ec][ef]((;B[ed];W[fc](;B[ca]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bc][bd][ce][cf][cg][dc][dd][dg][eb]AW[ba][be][bf][bg][bj][cb][cc][cd][ch][db][de][ec][ef](;B[ed];W[fc](;B[ca]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 1597,
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[be][ce][dc][dd][de][eb][fc][gb][hb][hc][hd]AW[bg][cd][dg][ed][fb][fd][ff][ga][gc][gd][he][je][kb][kc]((;B[ec]C[Correct])(;B[fa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[be][ce][dc][dd][de][eb][fc][gb][hb][hc][hd]AW[bg][cd][dg][ed][fb][fd][ff][ga][gc][gd][he][je][kb][kc](;B[ec]C[Correct])(;B[fa]C[Correct]))"
     },
     {
         "id": 1598,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cc][ce][dc][df][ec][fc][fe][gd][gf][gg][he][je]AW[bf][cd][cg][de][dg][ed][ef][eg][fd][gc][gh][hb][hf][hg][hh][jc][kd][ke][kf]((;B[ee];W[cf](;B[bd];W[be];B[dd]C[Correct])(;B[dd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cc][ce][dc][df][ec][fc][fe][gd][gf][gg][he][je]AW[bf][cd][cg][de][dg][ed][ef][eg][fd][gc][gh][hb][hf][hg][hh][jc][kd][ke][kf](;B[ee];W[cf](;B[bd];W[be];B[dd]C[Correct])(;B[dd]C[Correct])))"
     },
     {
         "id": 1599,
@@ -11223,7 +11223,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][ca][cb][cc][dc][dd][ee][fb][fd][fe][gb]AW[ab][ad][ba][bd][bf][cd][db][de][df][eb][ec][ed]((;B[ea];W[da];B[fc]C[Correct])(;B[fc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][ca][cb][cc][dc][dd][ee][fb][fd][fe][gb]AW[ab][ad][ba][bd][bf][cd][db][de][df][eb][ec][ed](;B[ea];W[da];B[fc]C[Correct])(;B[fc]C[Correct]))"
     },
     {
         "id": 1602,
@@ -11237,7 +11237,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ag][bc][bd][bh][cc][ce][cf][ch][cj][dg][dk][eb][ef]AW[be][bf][bg][cd][cg][dd][dh][ee][eh][ff]((;B[ae];W[df];B[af]C[Correct])(;B[af];W[df];B[ae]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ag][bc][bd][bh][cc][ce][cf][ch][cj][dg][dk][eb][ef]AW[be][bf][bg][cd][cg][dd][dh][ee][eh][ff](;B[ae];W[df];B[af]C[Correct])(;B[af];W[df];B[ae]C[Correct]))"
     },
     {
         "id": 1604,
@@ -11251,7 +11251,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ad][bd][ca][cd][cf][da][db][dc]AW[aa][ab][ac][bc][cc][dd][ea][eb][ec][ed]((;B[ba]C[Correct])(;B[bb]C[Correct])(;B[cb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ad][bd][ca][cd][cf][da][db][dc]AW[aa][ab][ac][bc][cc][dd][ea][eb][ec][ed](;B[ba]C[Correct])(;B[bb]C[Correct])(;B[cb]C[Correct]))"
     },
     {
         "id": 1606,
@@ -11300,7 +11300,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][ca][cd][ce][dc][de][ee][fe][gb][gc][gd]AW[ac][bd][be][bf][bg][cb][cc][da][db][dd][ed][fc]((;B[eb];W[ec];B[ea];W[dc](;B[fb]C[Correct])(;B[fd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][ca][cd][ce][dc][de][ee][fe][gb][gc][gd]AW[ac][bd][be][bf][bg][cb][cc][da][db][dd][ed][fc](;B[eb];W[ec];B[ea];W[dc](;B[fb]C[Correct])(;B[fd]C[Correct])))"
     },
     {
         "id": 1613,
@@ -11328,7 +11328,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][ca][cc][db][dc][ed][fb][fd][gc]AW[bd][cd][da][dd][eb][ec][fa][gd][ha][hb][hc][hd]((;B[ea];W[da];B[fc]C[Correct])(;B[fc];W[ea];B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][ca][cc][db][dc][ed][fb][fd][gc]AW[bd][cd][da][dd][eb][ec][fa][gd][ha][hb][hc][hd](;B[ea];W[da];B[fc]C[Correct])(;B[fc];W[ea];B[ga]C[Correct]))"
     },
     {
         "id": 1617,
@@ -11356,7 +11356,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[dc][ec][fc][gd][ge][hc][he][je][lf]AW[eb][fb][fd][fe][gb][gc][gf][hd][jd][jf][kd]((;B[hf];W[hg];B[ke]C[Correct])(;B[ke]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[dc][ec][fc][gd][ge][hc][he][je][lf]AW[eb][fb][fd][fe][gb][gc][gf][hd][jd][jf][kd](;B[hf];W[hg];B[ke]C[Correct])(;B[ke]C[Correct]))"
     },
     {
         "id": 1621,
@@ -11391,7 +11391,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cd][dc][dd][ed][fe][gb][gc][ge][hd][he]AW[cf][ec][ee][ef][fc][fd][gd][hb][hc][jc]((;B[eb]C[Correct])(;B[fb];W[ga];B[eb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cd][dc][dd][ed][fe][gb][gc][ge][hd][he]AW[cf][ec][ee][ef][fc][fd][gd][hb][hc][jc](;B[eb]C[Correct])(;B[fb];W[ga];B[eb]C[Correct]))"
     },
     {
         "id": 1626,
@@ -11433,7 +11433,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][bh][bk][cd][ce][cf][cg][ch][cj]AW[ac][af][ah][aj][bd][be][bf][bg][bj][ck][cl]((;B[ak];W[ag](;B[ad]C[Correct])(;B[ae];W[ad];B[ab]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][bh][bk][cd][ce][cf][cg][ch][cj]AW[ac][af][ah][aj][bd][be][bf][bg][bj][ck][cl](;B[ak];W[ag](;B[ad]C[Correct])(;B[ae];W[ad];B[ab]C[Correct])))"
     },
     {
         "id": 1632,
@@ -11468,7 +11468,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][cc][cd][ce][df][eb][ee][ef][fc][ge][gf]AW[bd][be][cf][cg][dd][de][ec][fb][fd][gd][hb][hd]((;B[ed];W[gc](;B[db]C[Correct])(;B[dc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][cc][cd][ce][df][eb][ee][ef][fc][ge][gf]AW[bd][be][cf][cg][dd][de][ec][fb][fd][gd][hb][hd](;B[ed];W[gc](;B[db]C[Correct])(;B[dc]C[Correct])))"
     },
     {
         "id": 1637,
@@ -11503,7 +11503,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ce][db][dd][de][df][eb]AW[be][cc][cd][cf][dg]((;B[bf];W[cg](;B[bd]C[Correct])(;B[bg];W[bh];B[bd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ce][db][dd][de][df][eb]AW[be][cc][cd][cf][dg](;B[bf];W[cg](;B[bd]C[Correct])(;B[bg];W[bh];B[bd]C[Correct])))"
     },
     {
         "id": 1642,
@@ -11517,7 +11517,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bd][cc][dd][de][ec][ef][eg][fc][fg][gc][ge]AW[bb][cb][db][dc][df][dg][dh][ed][ee][ff][gd][he][hf]((;B[fd]C[Correct])(;B[fe];W[fd];B[hd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bd][cc][dd][de][ec][ef][eg][fc][fg][gc][ge]AW[bb][cb][db][dc][df][dg][dh][ed][ee][ff][gd][he][hf](;B[fd]C[Correct])(;B[fe];W[fd];B[hd]C[Correct]))"
     },
     {
         "id": 1644,
@@ -11629,7 +11629,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][da][db][dc][ed][fb][fd][gc]AW[ab][ac][bc][cd][dd][ea][eb][ec]((;B[fa]C[Correct])(;B[fc];W[ca];B[fa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][da][db][dc][ed][fb][fd][gc]AW[ab][ac][bc][cd][dd][ea][eb][ec](;B[fa]C[Correct])(;B[fc];W[ca];B[fa]C[Correct]))"
     },
     {
         "id": 1660,
@@ -11664,14 +11664,14 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[gd][ge][hb][hc][ja][jc][jf][kb][kc][ke][ld][le]AW[ec][gb][gc][ha][hd][jd][ka][kd][la][lb][lc]((;B[ga];W[fa](;B[he];W[ha];B[je]C[Correct])(;B[je]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[gd][ge][hb][hc][ja][jc][jf][kb][kc][ke][ld][le]AW[ec][gb][gc][ha][hd][jd][ka][kd][la][lb][lc](;B[ga];W[fa](;B[he];W[ha];B[je]C[Correct])(;B[je]C[Correct])))"
     },
     {
         "id": 1665,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][ca][cd][dd][ed][fb][fc][ga]AW[cb][cc][dc][ea][eb][ec][fa][fd][gd][hb]((;B[da];W[gb];B[db]C[Correct])(;B[db]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][ca][cd][dd][ed][fb][fc][ga]AW[cb][cc][dc][ea][eb][ec][fa][fd][gd][hb](;B[da];W[gb];B[db]C[Correct])(;B[db]C[Correct]))"
     },
     {
         "id": 1666,
@@ -11727,7 +11727,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][cd][dd][ec][ed][ee][fa][fb][fd]AW[bd][be][ca][cb][cc][ce][dc][ea][eb][fc][gb][gc][hc]((;B[da];W[ga];B[db]C[Correct])(;B[db];W[da];B[db]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][cd][dd][ec][ed][ee][fa][fb][fd]AW[bd][be][ca][cb][cc][ce][dc][ea][eb][fc][gb][gc][hc](;B[da];W[ga];B[db]C[Correct])(;B[db];W[da];B[db]C[Correct]))"
     },
     {
         "id": 1674,
@@ -11755,7 +11755,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bc][cc][cd][da][dd][ed][fb][fd][gb][gc]AW[ba][cb][dc][ea][ec][fc][gd][hb][hc][hd]((;B[db];W[eb];B[fa]C[Correct])(;B[eb];W[db](;B[ca]C[Correct])(;B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bc][cc][cd][da][dd][ed][fb][fd][gb][gc]AW[ba][cb][dc][ea][ec][fc][gd][hb][hc][hd](;B[db];W[eb];B[fa]C[Correct])(;B[eb];W[db](;B[ca]C[Correct])(;B[fa]C[Correct])))"
     },
     {
         "id": 1678,
@@ -11832,7 +11832,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cd][ce][de][ea][ee][fb][fe][gb][gc][gd]AW[ab][ac][bd][be][bf][cb][cc][db][dc][dd][eb][ed][fc][fd]((;B[ca]C[Correct])(;B[da];W[ca];B[ec]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cd][ce][de][ea][ee][fb][fe][gb][gc][gd]AW[ab][ac][bd][be][bf][cb][cc][db][dc][dd][eb][ed][fc][fd](;B[ca]C[Correct])(;B[da];W[ca];B[ec]C[Correct]))"
     },
     {
         "id": 1689,
@@ -11881,7 +11881,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ad][bd][ca][cd][cf][db][dd][eb][ec][fa][fb]AW[ac][ba][bb][bc][cc][dc][ea][ed][fc][fd][ga][gb][hc]((;B[aa]C[Correct])(;B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ad][bd][ca][cd][cf][db][dd][eb][ec][fa][fb]AW[ac][ba][bb][bc][cc][dc][ea][ed][fc][fd][ga][gb][hc](;B[aa]C[Correct])(;B[ab]C[Correct]))"
     },
     {
         "id": 1696,
@@ -11923,7 +11923,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[af][be][bg][cb][cc][cd][cf]AW[bc][bd][ce][db][dc][dd][de]((;B[bb];W[ab](;B[ac]C[Correct])(;B[ad]C[Correct])(;B[ba]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[af][be][bg][cb][cc][cd][cf]AW[bc][bd][ce][db][dc][dd][de](;B[bb];W[ab](;B[ac]C[Correct])(;B[ad]C[Correct])(;B[ba]C[Correct])))"
     },
     {
         "id": 1702,
@@ -11986,7 +11986,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][be][cc][ce][da][db][dc][de][ed][ee]AW[aa][ac][ad][bb][bd][cb][cd][dd][eb][ec][fc]((;B[ae];W[ab](;B[ba]C[Correct])(;B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][be][cc][ce][da][db][dc][de][ed][ee]AW[aa][ac][ad][bb][bd][cb][cd][dd][eb][ec][fc](;B[ae];W[ab](;B[ba]C[Correct])(;B[ca]C[Correct])))"
     },
     {
         "id": 1711,
@@ -12098,7 +12098,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cd][dc][de][eb][ee][ef][fb][fd]AW[bd][be][bf][cb][cc][db][df][dg][ec][fc][gc]((;B[dd];W[gb](;B[ca]C[Correct])(;B[da]C[Correct])(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cd][dc][de][eb][ee][ef][fb][fd]AW[bd][be][bf][cb][cc][db][df][dg][ec][fc][gc](;B[dd];W[gb](;B[ca]C[Correct])(;B[da]C[Correct])(;B[ea]C[Correct])))"
     },
     {
         "id": 1727,
@@ -12126,7 +12126,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bc][bd][cd][dd][ed][fb][fc]AW[bb][cc][dc][ec][fd][fe][gb][gc]((;B[eb];W[cb](;B[da]C[Correct])(;B[db];W[fa];B[ba]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bc][bd][cd][dd][ed][fb][fc]AW[bb][cc][dc][ec][fd][fe][gb][gc](;B[eb];W[cb](;B[da]C[Correct])(;B[db];W[fa];B[ba]C[Correct])))"
     },
     {
         "id": 1731,
@@ -12168,7 +12168,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cd][ce][dc][de][df][eb][ee][fe][ga][gb][gc][gd][ge]AW[bc][bd][be][cc][cf][cg][db][dg][ec][ed][ef][fb][fc][fd]((;B[dd];W[ea];B[fa];W[cb];B[eb]C[Correct])(;B[fa];W[ea];B[dd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cd][ce][dc][de][df][eb][ee][fe][ga][gb][gc][gd][ge]AW[bc][bd][be][cc][cf][cg][db][dg][ec][ed][ef][fb][fc][fd](;B[dd];W[ea];B[fa];W[cb];B[eb]C[Correct])(;B[fa];W[ea];B[dd]C[Correct]))"
     },
     {
         "id": 1737,
@@ -12196,7 +12196,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][da][dc][eb][ec][fa][fd][gd][hb][hc]AW[ba][bb][bc][cd][dd][ed][fb][fc][ga]((;B[gb];W[ea];B[ha]C[Correct])(;B[gc];W[ea];B[gb]C[Correct])(;B[ha];W[ea];B[gb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][da][dc][eb][ec][fa][fd][gd][hb][hc]AW[ba][bb][bc][cd][dd][ed][fb][fc][ga](;B[gb];W[ea];B[ha]C[Correct])(;B[gc];W[ea];B[gb]C[Correct])(;B[ha];W[ea];B[gb]C[Correct]))"
     },
     {
         "id": 1741,
@@ -12252,14 +12252,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][cc][cd][de][eb][ee][fd]AW[bd][ce][cf][db][dc][dd][ed][gb][gc][hd]((;B[cb];W[fc];B[ec]C[Correct])(;B[ec]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][cc][cd][de][eb][ee][fd]AW[bd][ce][cf][db][dc][dd][ed][gb][gc][hd](;B[cb];W[fc];B[ec]C[Correct])(;B[ec]C[Correct]))"
     },
     {
         "id": 1749,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bd][be][cb][cd][da][de][ea][ee][fb][fd]AW[bc][bf][cc][ce][cf][db][dd][eb][ed][fc]((;B[dc];W[ec];B[gc]C[Correct])(;B[ec];W[dc];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bd][be][cb][cd][da][de][ea][ee][fb][fd]AW[bc][bf][cc][ce][cf][db][dd][eb][ed][fc](;B[dc];W[ec];B[gc]C[Correct])(;B[ec];W[dc];B[ac]C[Correct]))"
     },
     {
         "id": 1750,
@@ -12273,7 +12273,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bd][cb][cc][ce][da][dg][eg][fb][fc][ff][gd][ge]AW[db][eb][ed][ee][ef][fd][gb][gc][hc][jd]((;B[ea]C[Correct])(;B[fa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bd][cb][cc][ce][da][dg][eg][fb][fc][ff][gd][ge]AW[db][eb][ed][ee][ef][fd][gb][gc][hc][jd](;B[ea]C[Correct])(;B[fa]C[Correct]))"
     },
     {
         "id": 1752,
@@ -12294,7 +12294,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bb][bd][cd][dc][ec]AW[bc][bf][ca][cb][cc][dd][de]((;B[db];W[ba];B[ab];W[ce](;B[ad];W[be];B[da];W[ae];B[aa]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bb][bd][cd][dc][ec]AW[bc][bf][ca][cb][cc][dd][de](;B[db];W[ba];B[ab];W[ce](;B[ad];W[be];B[da];W[ae];B[aa]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 1755,
@@ -12336,14 +12336,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ad][ba][bd][ce][db][dc][dd][de]AW[ae][bc][be][bf][cb][cc][cd][cf][df][eb][ec][fd]((;B[ac];W[ca](;B[da]C[Correct])(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ad][ba][bd][ce][db][dc][dd][de]AW[ae][bc][be][bf][cb][cc][cd][cf][df][eb][ec][fd](;B[ac];W[ca](;B[da]C[Correct])(;B[ea]C[Correct])))"
     },
     {
         "id": 1761,
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bc][cd][db][dd][df][dg][ea][fb][gb][gc][gd]AW[ca][cb][cc][da][ec][ee][ef][fc][ge][hb][he][jc]((;B[dc]C[Correct])(;B[ed];W[fd];B[dc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bb][bc][cd][db][dd][df][dg][ea][fb][gb][gc][gd]AW[ca][cb][cc][da][ec][ee][ef][fc][ge][hb][he][jc](;B[dc]C[Correct])(;B[ed];W[fd];B[dc]C[Correct]))"
     },
     {
         "id": 1762,
@@ -12364,7 +12364,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][be][bg][cb][cc][cd][cf][df]AW[ab][bc][bd][ce][db][dc][dd][de]((;B[ac]C[Correct])(;B[ad];W[ca];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][be][bg][cb][cc][cd][cf][df]AW[ab][bc][bd][ce][db][dc][dd][de](;B[ac]C[Correct])(;B[ad];W[ca];B[ac]C[Correct]))"
     },
     {
         "id": 1765,
@@ -12378,14 +12378,14 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][cd][cf][ed][ee][fb][fc][gb][gd][hd]AW[cb][eb][ec][fd][fe][ff][gc][hc]((;B[jc];W[hb](;B[ha]C[Correct])(;B[jb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][cd][cf][ed][ee][fb][fc][gb][gd][hd]AW[cb][eb][ec][fd][fe][ff][gc][hc](;B[jc];W[hb](;B[ha]C[Correct])(;B[jb]C[Correct])))"
     },
     {
         "id": 1767,
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bh][cd][ch][db][dc][dg][ed][ee][ef][eg]AW[bf][bg][ce][cg][cj][dd][de][df][dh][dj][ec][fc][gd]((;B[be];W[bj](;B[af]C[Correct])(;B[cf]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bh][cd][ch][db][dc][dg][ed][ee][ef][eg]AW[bf][bg][ce][cg][cj][dd][de][df][dh][dj][ec][fc][gd](;B[be];W[bj](;B[af]C[Correct])(;B[cf]C[Correct])))"
     },
     {
         "id": 1768,
@@ -12406,7 +12406,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[af][ba][bf][cb][cc][ce][cf][da][de][eb][ec][ed][ee]AW[ab][ae][bb][bc][bd][be][cd][db][dc][dd]((;B[ac]C[Correct])(;B[ad]C[Correct])(;B[ca];W[ea];B[fa]C[Correct])(;B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[af][ba][bf][cb][cc][ce][cf][da][de][eb][ec][ed][ee]AW[ab][ae][bb][bc][bd][be][cd][db][dc][dd](;B[ac]C[Correct])(;B[ad]C[Correct])(;B[ca];W[ea];B[fa]C[Correct])(;B[ea]C[Correct]))"
     },
     {
         "id": 1771,
@@ -12427,14 +12427,14 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][bb][cb][cc][dc][ed][ef][fb][fd][gc][hb][hd]AW[ac][bc][bd][cd][cf][db][dd][eb][ec][fa][fc][hc][ja][jb][jc][jd][je]((;B[gb];W[ha](;B[da];W[ga];B[ea]C[Correct])(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][bb][cb][cc][dc][ed][ef][fb][fd][gc][hb][hd]AW[ac][bc][bd][cd][cf][db][dd][eb][ec][fa][fc][hc][ja][jb][jc][jd][je](;B[gb];W[ha](;B[da];W[ga];B[ea]C[Correct])(;B[ea]C[Correct])))"
     },
     {
         "id": 1774,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][cc][cd][eb][ec][ed]AW[ab][bc][bd][be][cb][db]((;B[da];W[ca];B[dc]C[Correct])(;B[dc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][cc][cd][eb][ec][ed]AW[ab][bc][bd][be][cb][db](;B[da];W[ca];B[dc]C[Correct])(;B[dc]C[Correct]))"
     },
     {
         "id": 1775,
@@ -12448,7 +12448,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][be][cb][cf][dc][df][ec][ed][ee]AW[ac][bc][bd][ca][cc][db][dd][de][eb][fb]((;B[ad];W[ae];B[cd];W[ba];B[ad]C[Correct])(;B[cd];W[ba];B[ad]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][be][cb][cf][dc][df][ec][ed][ee]AW[ac][bc][bd][ca][cc][db][dd][de][eb][fb](;B[ad];W[ae];B[cd];W[ba];B[ad]C[Correct])(;B[cd];W[ba];B[ad]C[Correct]))"
     },
     {
         "id": 1777,
@@ -12504,7 +12504,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cb][dc][ec][fb][fc][gc][hc][jb][kb]AW[bb][cc][cd][db][eb][fa][gb][hb][jc][jd][lb][lc]((;B[ea];W[da](;B[ga];W[ha];B[ja]C[Correct])(;B[ha]C[Correct]))(;B[ga]C[Correct])(;B[ha]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cb][dc][ec][fb][fc][gc][hc][jb][kb]AW[bb][cc][cd][db][eb][fa][gb][hb][jc][jd][lb][lc](;B[ea];W[da](;B[ga];W[ha];B[ja]C[Correct])(;B[ha]C[Correct]))(;B[ga]C[Correct])(;B[ha]C[Correct]))"
     },
     {
         "id": 1785,
@@ -12574,7 +12574,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[be][cb][cf][cg][db][dc][dd][eb][ef][fb][fc][ff][gf][hc][hd][he]AW[ba][bb][bc][ca][cc][cd][ce][de][ec][ed][ee][fd][gb][gc][ge]((;B[gd];W[da](;B[ga]C[Correct])(;B[hb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[be][cb][cf][cg][db][dc][dd][eb][ef][fb][fc][ff][gf][hc][hd][he]AW[ba][bb][bc][ca][cc][cd][ce][de][ec][ed][ee][fd][gb][gc][ge](;B[gd];W[da](;B[ga]C[Correct])(;B[hb]C[Correct])))"
     },
     {
         "id": 1795,
@@ -12658,7 +12658,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][cc][cd][ce][cg]AW[ba][bc][bd][cb][db][ec][gc]((;B[ad]C[Correct])(;B[be];W[ca](;B[ac]C[Correct])(;B[ad]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][cc][cd][ce][cg]AW[ba][bc][bd][cb][db][ec][gc](;B[ad]C[Correct])(;B[be];W[ca](;B[ac]C[Correct])(;B[ad]C[Correct])))"
     },
     {
         "id": 1807,
@@ -12700,7 +12700,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][ca][cd][ce][de][eb][ee]AW[bd][be][bf][cb][cc][cf][da][db][dc][dd][gc][gd]((;B[ea]C[Correct])(;B[ec]C[Correct])(;B[ed];W[ec];B[fc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][ca][cd][ce][de][eb][ee]AW[bd][be][bf][cb][cc][cf][da][db][dc][dd][gc][gd](;B[ea]C[Correct])(;B[ec]C[Correct])(;B[ed];W[ec];B[fc]C[Correct]))"
     },
     {
         "id": 1813,
@@ -12812,7 +12812,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bj][cc][cf][cj][db][dd][de][df][dg][dj][ed][eg][fd][fe][ff][fh]AW[be][bf][cd][ce][cg][dc][dh][ec][eh][fc][fg][gc][gd][ge][gf][gg]((;B[bg];W[ch];B[ej]C[Correct])(;B[ch]C[Correct])(;B[ej];W[ch];B[bg]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][bj][cc][cf][cj][db][dd][de][df][dg][dj][ed][eg][fd][fe][ff][fh]AW[be][bf][cd][ce][cg][dc][dh][ec][eh][fc][fg][gc][gd][ge][gf][gg](;B[bg];W[ch];B[ej]C[Correct])(;B[ch]C[Correct])(;B[ej];W[ch];B[bg]C[Correct]))"
     },
     {
         "id": 1829,
@@ -12882,14 +12882,14 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ab][ac][ad][bb][bd][cb][ce][cf][eb][ee][fc][fd]AW[bc][be][bf][bg][cc][cd][cg][ec][ed][fb][fe][gb][gd][ge]((;B[dc];W[dd];B[de]C[Correct])(;B[dd];W[dc];B[db]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ab][ac][ad][bb][bd][cb][ce][cf][eb][ee][fc][fd]AW[bc][be][bf][bg][cc][cd][cg][ec][ed][fb][fe][gb][gd][ge](;B[dc];W[dd];B[de]C[Correct])(;B[dd];W[dc];B[db]C[Correct]))"
     },
     {
         "id": 1839,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bf][cb][cf][cj][dc][dd][de][dj][ef][eg][ej]AW[bc][be][cc][cd][ce][ch][df][dg][dh]((;B[bh];W[bg](;B[ag]C[Correct])(;B[eh]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bf][cb][cf][cj][dc][dd][de][dj][ef][eg][ej]AW[bc][be][cc][cd][ce][ch][df][dg][dh](;B[bh];W[bg](;B[ag]C[Correct])(;B[eh]C[Correct])))"
     },
     {
         "id": 1840,
@@ -12931,7 +12931,7 @@ const problems = [
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[cb][cc][da][dc][eb][ec][fa][fd][gd][hb][hc]AW[ba][bb][bc][ca][cd][dd][ed][fb][fc][ga]((;B[gb]C[Correct])(;B[gc]C[Correct])(;B[ha]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[cb][cc][da][dc][eb][ec][fa][fd][gd][hb][hc]AW[ba][bb][bc][ca][cd][dd][ed][fb][fc][ga](;B[gb]C[Correct])(;B[gc]C[Correct])(;B[ha]C[Correct]))"
     },
     {
         "id": 1846,
@@ -12959,7 +12959,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][bf][bg][bh][cb][ce][cf][dc][dd]AW[ac][ae][af][ah][bc][be][bj][cc][cd][cj][de][df][dg]((;B[ad];W[bd];B[ag]C[Correct])(;B[bd];W[ad];B[ag]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][bf][bg][bh][cb][ce][cf][dc][dd]AW[ac][ae][af][ah][bc][be][bj][cc][cd][cj][de][df][dg](;B[ad];W[bd];B[ag]C[Correct])(;B[bd];W[ad];B[ag]C[Correct]))"
     },
     {
         "id": 1850,
@@ -13015,7 +13015,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bd][cb][cd][cf][dc][dd][df][ee][ef][fb][fc][fd][fe]AW[ad][bb][be][ce][db][de][eb][ec][ed]((;B[da]C[Correct])(;B[ea];W[bc];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bd][cb][cd][cf][dc][dd][df][ee][ef][fb][fc][fd][fe]AW[ad][bb][be][ce][db][de][eb][ec][ed](;B[da]C[Correct])(;B[ea];W[bc];B[da]C[Correct]))"
     },
     {
         "id": 1858,
@@ -13155,7 +13155,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ac][be][cb][cf][db][dc][dd][de][df]AW[ag][bb][bf][bh][cc][cd][ce][cg][dg]((;B[bc];W[bd](;B[ad]C[Correct])(;B[ae];W[af];B[ad]C[Correct]))(;B[bd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ac][be][cb][cf][db][dc][dd][de][df]AW[ag][bb][bf][bh][cc][cd][ce][cg][dg](;B[bc];W[bd](;B[ad]C[Correct])(;B[ae];W[af];B[ad]C[Correct]))(;B[bd]C[Correct]))"
     },
     {
         "id": 1878,
@@ -13183,7 +13183,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bf][cb][ce][de][df][ec][ed][eg][eh][fh][ge][gh][hj]AW[bd][bg][cd][cg][ck][dd][dg][ee][ef][fg][gc][gf][gg][hd]((;B[fe];W[ff];B[hf];W[hg];B[jg]C[Correct])(;B[ff];W[fe];B[fd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bf][cb][ce][de][df][ec][ed][eg][eh][fh][ge][gh][hj]AW[bd][bg][cd][cg][ck][dd][dg][ee][ef][fg][gc][gf][gg][hd](;B[fe];W[ff];B[hf];W[hg];B[jg]C[Correct])(;B[ff];W[fe];B[fd]C[Correct]))"
     },
     {
         "id": 1882,
@@ -13232,7 +13232,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bd][cb][cc][cd][dd][ea][eb][ec]AW[ad][ba][bb][bc][ca][da][db][dc][ed][fb][fd]((;B[ab];W[aa](;B[ab];W[ac];B[ae]C[Correct])(;B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bd][cb][cc][cd][dd][ea][eb][ec]AW[ad][ba][bb][bc][ca][da][db][dc][ed][fb][fd](;B[ab];W[aa](;B[ab];W[ac];B[ae]C[Correct])(;B[ac]C[Correct])))"
     },
     {
         "id": 1889,
@@ -13246,14 +13246,14 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bf][bg][cb][cc][ce][cf][dg][ed][fe][ff][he]AW[bh][cg][ch][db][dc][dd][df][ee][ej][fc][fd][fh][hc][hg][jd][kf]((;B[de];W[ec](;B[ef]C[Correct])(;B[eg]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bf][bg][cb][cc][ce][cf][dg][ed][fe][ff][he]AW[bh][cg][ch][db][dc][dd][df][ee][ej][fc][fd][fh][hc][hg][jd][kf](;B[de];W[ec](;B[ef]C[Correct])(;B[eg]C[Correct])))"
     },
     {
         "id": 1891,
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[be][cb][cf][cg][db][dc][dd][eb][ef][fb][ff][gf][hc][hd][he]AW[bb][bc][cc][cd][ce][de][ec][ed][ee][fc][gc][ge]((;B[gb]C[Correct])(;B[hb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[be][cb][cf][cg][db][dc][dd][eb][ef][fb][ff][gf][hc][hd][he]AW[bb][bc][cc][cd][ce][de][ec][ed][ee][fc][gc][ge](;B[gb]C[Correct])(;B[hb]C[Correct]))"
     },
     {
         "id": 1892,
@@ -13337,7 +13337,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[aa][ac][ba][bb][bc][bf][cb][cc][cf][db][dd][de]AW[bd][be][ca][cd][da][dc][ea][eb][ec][gc]((;B[ae]C[Correct])(;B[ce]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[aa][ac][ba][bb][bc][bf][cb][cc][cf][db][dd][de]AW[bd][be][ca][cd][da][dc][ea][eb][ec][gc](;B[ae]C[Correct])(;B[ce]C[Correct]))"
     },
     {
         "id": 1904,
@@ -13372,7 +13372,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][ca][cc][cd][db][dc][de][ea][ee][ff][ga][gb][gc][gd][ge][gf]AW[aa][ab][bb][bc][bd][cb][ce][cf][df][ed][ef][fa][fb][fc][fd][fe]((;B[dd];W[da];B[ca];W[ba](;B[eb]C[Correct])(;B[ec]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][ca][cc][cd][db][dc][de][ea][ee][ff][ga][gb][gc][gd][ge][gf]AW[aa][ab][bb][bc][bd][cb][ce][cf][df][ed][ef][fa][fb][fc][fd][fe](;B[dd];W[da];B[ca];W[ba](;B[eb]C[Correct])(;B[ec]C[Correct])))"
     },
     {
         "id": 1909,
@@ -13393,7 +13393,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cd][ce][cf][db][dc][eb]AW[ba][cb][cc][da][dd][ed][fb][fc]((;B[bc];W[ca](;B[aa];W[ab];B[ea];W[fa];B[aa]C[Correct])(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cd][ce][cf][db][dc][eb]AW[ba][cb][cc][da][dd][ed][fb][fc](;B[bc];W[ca](;B[aa];W[ab];B[ea];W[fa];B[aa]C[Correct])(;B[ea]C[Correct])))"
     },
     {
         "id": 1912,
@@ -13407,7 +13407,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cc][dd][ed][fa][fc][fd][gb]AW[bd][cb][cd][cf][dc][eb][ec][fb][gc][hc]((;B[da];W[ca];B[ea]C[Correct])(;B[ea];W[hb];B[db]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cc][dd][ed][fa][fc][fd][gb]AW[bd][cb][cd][cf][dc][eb][ec][fb][gc][hc](;B[da];W[ca];B[ea]C[Correct])(;B[ea];W[hb];B[db]C[Correct]))"
     },
     {
         "id": 1914,
@@ -13435,7 +13435,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ad][ba][bb][bc][cd][ce][de][eb][ee][fc][fe][gd]AW[bd][be][bf][ca][cb][cc][cf][db][dd][ed][fb][fd][gc][hc]((;B[ec];W[dc](;B[da]C[Correct])(;B[ea];W[fa];B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ad][ba][bb][bc][cd][ce][de][eb][ee][fc][fe][gd]AW[bd][be][bf][ca][cb][cc][cf][db][dd][ed][fb][fd][gc][hc](;B[ec];W[dc](;B[da]C[Correct])(;B[ea];W[fa];B[da]C[Correct])))"
     },
     {
         "id": 1918,
@@ -13554,7 +13554,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][ca][cd][dc][dd][fa][fb][fc][fd]AW[ab][ac][ad][bd][be][cb][cc][ce][db][de][eb][ee]((;B[da]C[Correct])(;B[ea];W[da];B[ec]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][ca][cd][dc][dd][fa][fb][fc][fd]AW[ab][ac][ad][bd][be][cb][cc][ce][db][de][eb][ee](;B[da]C[Correct])(;B[ea];W[da];B[ec]C[Correct]))"
     },
     {
         "id": 1935,
@@ -13568,7 +13568,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cc][cd][dd][de][ee][eg][fa][fc][fd][ga][gb]AW[aa][bc][bd][be][ca][cb][ce][cg][da][dc][eb][ec][ed][fb]((;B[ea];W[db];B[bb];W[ba](;B[ab]C[Correct])(;B[ac];W[ab];B[bb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cc][cd][dd][de][ee][eg][fa][fc][fd][ga][gb]AW[aa][bc][bd][be][ca][cb][ce][cg][da][dc][eb][ec][ed][fb](;B[ea];W[db];B[bb];W[ba](;B[ab]C[Correct])(;B[ac];W[ab];B[bb]C[Correct])))"
     },
     {
         "id": 1937,
@@ -13582,7 +13582,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][ca][cc][db][eb]AW[ab][bb][be][cb][cd][da][dc][dd]((;B[ba];W[aa](;B[ba];W[bd];B[ca]C[Correct])(;B[ca];W[bd];B[ba]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][ca][cc][db][eb]AW[ab][bb][be][cb][cd][da][dc][dd](;B[ba];W[aa](;B[ba];W[bd];B[ca]C[Correct])(;B[ca];W[bd];B[ba]C[Correct])))"
     },
     {
         "id": 1939,
@@ -13610,7 +13610,7 @@ const problems = [
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ad][bd][ca][cd][cf][db][dd][ea][eb][ec]AW[ac][ba][bb][bc][cb][cc][dc][ed][fb][fc][fd]((;B[aa]C[Correct])(;B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ad][bd][ca][cd][cf][db][dd][ea][eb][ec]AW[ac][ba][bb][bc][cb][cc][dc][ed][fb][fc][fd](;B[aa]C[Correct])(;B[ab]C[Correct]))"
     },
     {
         "id": 1943,
@@ -13631,7 +13631,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][bd][cb][dc][ec][fc]AW[cc][cd][ce][db][eb][ed][fd][gc][gd]((;B[fb];W[gb](;B[da]C[Correct])(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][bd][cb][dc][ec][fc]AW[cc][cd][ce][db][eb][ed][fd][gc][gd](;B[fb];W[gb](;B[da]C[Correct])(;B[ea]C[Correct])))"
     },
     {
         "id": 1946,
@@ -13687,7 +13687,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ba][bb][bc][cd][dd][eb][ee][fb][fe][ge]AW[bd][be][cb][cc][cf][db][dc][ec][gc][hc]((;B[fc];W[ed];B[de];W[fd];B[gd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ba][bb][bc][cd][dd][eb][ee][fb][fe][ge]AW[bd][be][cb][cc][cf][db][dc][ec][gc][hc](;B[fc];W[ed];B[de];W[fd];B[gd]C[Correct]))"
     },
     {
         "id": 1954,
@@ -13722,14 +13722,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cd][ce][dd][ed][fb][fc]AW[ad][bd][cc][cf][dc][ec][ee][fd][gd]((;B[be];W[bf](;B[ac]C[Correct])(;B[ae]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cd][ce][dd][ed][fb][fc]AW[ad][bd][cc][cf][dc][ec][ee][fd][gd](;B[be];W[bf](;B[ac]C[Correct])(;B[ae]C[Correct])))"
     },
     {
         "id": 1959,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][be][ca][ce][dd][de][eb][ec][fb]AW[bc][cb][cd][cf][db][dc][df][ed][ee][ef][fc][gb][gd]((;B[da];W[cc](;B[ac]C[Correct])(;B[bd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][be][ca][ce][dd][de][eb][ec][fb]AW[bc][cb][cd][cf][db][dc][df][ed][ee][ef][fc][gb][gd](;B[da];W[cc](;B[ac]C[Correct])(;B[bd]C[Correct])))"
     },
     {
         "id": 1960,
@@ -13750,7 +13750,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[be][cb][cf][cg][db][dc][dd][eb][ef][fb][ff][gf][hc][hd][he]AW[bb][bc][cc][cd][ce][de][ec][ed][ee][fc][gb][ge]((;B[gc]C[Correct])(;B[hb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[be][cb][cf][cg][db][dc][dd][eb][ef][fb][ff][gf][hc][hd][he]AW[bb][bc][cc][cd][ce][de][ec][ed][ee][fc][gb][ge](;B[gc]C[Correct])(;B[hb]C[Correct]))"
     },
     {
         "id": 1963,
@@ -13778,7 +13778,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][cc][cd][de][eb][ee][fd]AW[ae][bd][bf][ce][cf][db][dd][ed][fc][gc][hd]((;B[ec];W[dc](;B[cb]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][cc][cd][de][eb][ee][fd]AW[ae][bd][bf][ce][cf][db][dd][ed][fc][gc][hd](;B[ec];W[dc](;B[cb]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 1967,
@@ -13918,7 +13918,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bd][be][bf][cb][cc][da][db][dd][eb][ec][ed][fc]AW[ba][bb][bc][ca][cd][ce][de][ea][ee][fb][fd][fe][gb][gc][gd]((;B[fa];W[ga](;B[aa]C[Correct])(;B[ab];W[ea];B[aa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bd][be][bf][cb][cc][da][db][dd][eb][ec][ed][fc]AW[ba][bb][bc][ca][cd][ce][de][ea][ee][fb][fd][fe][gb][gc][gd](;B[fa];W[ga](;B[aa]C[Correct])(;B[ab];W[ea];B[aa]C[Correct])))"
     },
     {
         "id": 1987,
@@ -13939,7 +13939,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][cc][cd][de][ed][ee][fa][fc][fd][gb][hb]AW[bd][be][ce][cg][dc][dd][df][ea][eb][ec][fb][hc][hd][he][jb][jc]((;B[da];W[ga];B[db]C[Correct])(;B[db];W[ga];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bc][cc][cd][de][ed][ee][fa][fc][fd][gb][hb]AW[bd][be][ce][cg][dc][dd][df][ea][eb][ec][fb][hc][hd][he][jb][jc](;B[da];W[ga];B[db]C[Correct])(;B[db];W[ga];B[da]C[Correct]))"
     },
     {
         "id": 1990,
@@ -13967,28 +13967,28 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[gc][gd][he][hf][jb][jc][jd]AW[ec][ed][gb][hb][hc][hd][je][ke][lb][ld]((;B[fb];W[fc](;B[ga]C[Correct])(;B[ha]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[gc][gd][he][hf][jb][jc][jd]AW[ec][ed][gb][hb][hc][hd][je][ke][lb][ld](;B[fb];W[fc](;B[ga]C[Correct])(;B[ha]C[Correct])))"
     },
     {
         "id": 1994,
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ba][bc][ca][cb][db][dc][ea][ed][fd][gb][gc]AW[ab][bb][bd][cc][cd][dd][df][eb][ec][fa]((;B[fb]C[Correct])(;B[fc]C[Correct])(;B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ba][bc][ca][cb][db][dc][ea][ed][fd][gb][gc]AW[ab][bb][bd][cc][cd][dd][df][eb][ec][fa](;B[fb]C[Correct])(;B[fc]C[Correct])(;B[ga]C[Correct]))"
     },
     {
         "id": 1995,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][be][ca][ce][de][ea][eb][ec][ee][fd][fe]AW[cb][cd][da][db][dd][ed][fb][fc][gc][gd]((;B[cc];W[dc];B[bd]C[Correct])(;B[dc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][be][ca][ce][de][ea][eb][ec][ee][fd][fe]AW[cb][cd][da][db][dd][ed][fb][fc][gc][gd](;B[cc];W[dc];B[bd]C[Correct])(;B[dc]C[Correct]))"
     },
     {
         "id": 1996,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ae][be][cb][ce][da][dc][dd][eb][ed]AW[ad][ba][bb][bd][cc][cd][de][ee][fb][fc][fd][fe]((;B[ac];W[bc];B[ca]C[Correct])(;B[bc];W[ac];B[bc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ae][be][cb][ce][da][dc][dd][eb][ed]AW[ad][ba][bb][bd][cc][cd][de][ee][fb][fc][fd][fe](;B[ac];W[bc];B[ca]C[Correct])(;B[bc];W[ac];B[bc]C[Correct]))"
     },
     {
         "id": 1997,
@@ -14016,7 +14016,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][cd][dc][dd]AW[bd][be][cb][cc][ce][fc]((;B[bb];W[db];B[eb];W[ec](;B[ca]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][cd][dc][dd]AW[bd][be][cb][cc][ce][fc](;B[bb];W[db];B[eb];W[ec](;B[ca]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 2001,
@@ -14135,7 +14135,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bd][be][cc][ce][da][db][dc][fa][gb][gc]AW[bb][bc][ca][cb][cd][dd][ec][ed][fc][ga]((;B[ea];W[fb];B[ha]C[Correct])(;B[fb];W[eb];B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bd][be][cc][ce][da][db][dc][fa][gb][gc]AW[bb][bc][ca][cb][cd][dd][ec][ed][fc][ga](;B[ea];W[fb];B[ha]C[Correct])(;B[fb];W[eb];B[ea]C[Correct]))"
     },
     {
         "id": 2018,
@@ -14198,7 +14198,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][cb][cc][ce][cf][dd][ec][ee][fc][gb][gc]AW[ba][bc][bd][ca][cd][db][dc][ea][eb][fb]((;B[ad]C[Correct])(;B[be]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][cb][cc][ce][cf][dd][ec][ee][fc][gb][gc]AW[ba][bc][bd][ca][cd][db][dc][ea][eb][fb](;B[ad]C[Correct])(;B[be]C[Correct]))"
     },
     {
         "id": 2027,
@@ -14226,7 +14226,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ad][bd][cd][da][db][de][df][eb][ec][ed]AW[ac][ba][bc][ca][cb][cc][dc][dd][ee][fb][fd][fe][gb]((;B[aa]C[Correct])(;B[bb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ad][bd][cd][da][db][de][df][eb][ec][ed]AW[ac][ba][bc][ca][cb][cc][dc][dd][ee][fb][fd][fe][gb](;B[aa]C[Correct])(;B[bb]C[Correct]))"
     },
     {
         "id": 2031,
@@ -14261,7 +14261,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ELEMENTRY,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][bd][cd][ce][da][de][ee][fa][fb][fc][fd]AW[cb][cc][db][dd][eb][ec][ed][fe][gb][gc][gd][ge][hc]((;B[ca];W[ga];B[ea]C[Correct])(;B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][bd][cd][ce][da][de][ee][fa][fb][fc][fd]AW[cb][cc][db][dd][eb][ec][ed][fe][gb][gc][gd][ge][hc](;B[ca];W[ga];B[ea]C[Correct])(;B[ea]C[Correct]))"
     },
     {
         "id": 2036,
@@ -14345,7 +14345,7 @@ const problems = [
         "title": "死活题：黑先，死活问题，净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先，死活问题，净活]AB[dc][dd][de][eb][ed][fb][fd][gd][hd][jc]AW[be][cb][cc][db][ec][fc][gc][hb][hc]((;B[jb];W[ga](;B[gb]C[Correct])(;B[ja];W[ea];B[ha]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先，死活问题，净活]AB[dc][dd][de][eb][ed][fb][fd][gd][hd][jc]AW[be][cb][cc][db][ec][fc][gc][hb][hc](;B[jb];W[ga](;B[gb]C[Correct])(;B[ja];W[ea];B[ha]C[Correct])))"
     },
     {
         "id": 2048,
@@ -14366,7 +14366,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][cd][dd][ee][ef][fb][gc][gd][ge]AW[bb][bc][bd][bf][ce][de][eb][ed][fc][fd]((;B[ec];W[dc];B[fe];W[ec](;B[db]C[Correct])(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][cd][dd][ee][ef][fb][gc][gd][ge]AW[bb][bc][bd][bf][ce][de][eb][ed][fc][fd](;B[ec];W[dc];B[fe];W[ec](;B[db]C[Correct])(;B[ea]C[Correct])))"
     },
     {
         "id": 2051,
@@ -14394,7 +14394,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cd][de][fc][gc][ge][hd][jc][jd][je]AW[cg][ed][fd][gd][hb][hc][jb][kc][kd]((;B[ec];W[fe];B[ff];W[gf](;B[dd];W[he];B[ee];W[ge];B[gg]C[Correct])(;B[ee];W[he];B[dd];W[ge];B[gg]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cd][de][fc][gc][ge][hd][jc][jd][je]AW[cg][ed][fd][gd][hb][hc][jb][kc][kd](;B[ec];W[fe];B[ff];W[gf](;B[dd];W[he];B[ee];W[ge];B[gg]C[Correct])(;B[ee];W[he];B[dd];W[ge];B[gg]C[Correct])))"
     },
     {
         "id": 2055,
@@ -14408,7 +14408,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ea][eb][ed][fb][fd][gb][gc][hc][ja][jb][jc]AW[cb][cd][db][dd][df][fc][fe][ff][ga][gd][ha][hd][jd][kb][kc][kd]((;B[dc];W[cc];B[ec]C[Correct])(;B[ec]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ea][eb][ed][fb][fd][gb][gc][hc][ja][jb][jc]AW[cb][cd][db][dd][df][fc][fe][ff][ga][gd][ha][hd][jd][kb][kc][kd](;B[dc];W[cc];B[ec]C[Correct])(;B[ec]C[Correct]))"
     },
     {
         "id": 2057,
@@ -14429,7 +14429,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[db][dc][dd][ea][ee][fe][ge][hb][hc][hd]AW[bc][cb][cd][ce][de][eb][ed][fb][fd][gb][gd]((;B[ga];W[fa](;B[ec]C[Correct])(;B[fc]C[Correct])(;B[gc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[db][dc][dd][ea][ee][fe][ge][hb][hc][hd]AW[bc][cb][cd][ce][de][eb][ed][fb][fd][gb][gd](;B[ga];W[fa](;B[ec]C[Correct])(;B[fc]C[Correct])(;B[gc]C[Correct])))"
     },
     {
         "id": 2060,
@@ -14457,14 +14457,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cc][da][dd][ed][fb][fc]AW[ab][ac][bd][cb][cd][cf][db][dc][eb]((;B[ea];W[aa];B[ad]C[Correct])(;B[ec]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cc][da][dd][ed][fb][fc]AW[ab][ac][bd][cb][cd][cf][db][dc][eb](;B[ea];W[aa];B[ad]C[Correct])(;B[ec]C[Correct]))"
     },
     {
         "id": 2064,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][cb][cc][dd][ec][gd]AW[bd][cd][da][db][dc][ed]((;B[de];W[eb];B[fc];W[bc](;B[ea];W[fa];B[fb]C[Correct])(;B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][cb][cc][dd][ec][gd]AW[bd][cd][da][db][dc][ed](;B[de];W[eb];B[fc];W[bc](;B[ea];W[fa];B[fb]C[Correct])(;B[fb]C[Correct])))"
     },
     {
         "id": 2065,
@@ -14520,14 +14520,14 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][bd][be][bf][cc][cd][cf][de][ed][ee][fa][fc][gb][gc][hc][kc]AW[ab][ad][bc][ca][cb][dc][dd][ea][eb][ec][fb]((;B[da];W[aa];B[db]C[Correct])(;B[db];W[aa];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][bd][be][bf][cc][cd][cf][de][ed][ee][fa][fc][gb][gc][hc][kc]AW[ab][ad][bc][ca][cb][dc][dd][ea][eb][ec][fb](;B[da];W[aa];B[db]C[Correct])(;B[db];W[aa];B[da]C[Correct]))"
     },
     {
         "id": 2073,
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][ac][ae][be][cb][ce][db][dd][de][eb][ee][fb][fd][gc][gd][ge][gf]AW[ba][bb][bc][bf][cc][cd][cf][dc][df][ec][ed][ef][fc][fe][ff]((;B[ad];W[af];B[ca]C[Correct])(;B[ca];W[af];B[ad]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][ac][ae][be][cb][ce][db][dd][de][eb][ee][fb][fd][gc][gd][ge][gf]AW[ba][bb][bc][bf][cc][cd][cf][dc][df][ec][ed][ef][fc][fe][ff](;B[ad];W[af];B[ca]C[Correct])(;B[ca];W[af];B[ad]C[Correct]))"
     },
     {
         "id": 2074,
@@ -14541,7 +14541,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cd][ce][dc][eb][ec][fb][gc][gd][ge]AW[bb][bc][ca][cc][dd][ed][fc][fd][gb][hb]((;B[de]C[Correct])(;B[ee]C[Correct])(;B[fe]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cd][ce][dc][eb][ec][fb][gc][gd][ge]AW[bb][bc][ca][cc][dd][ed][fc][fd][gb][hb](;B[de]C[Correct])(;B[ee]C[Correct])(;B[fe]C[Correct]))"
     },
     {
         "id": 2076,
@@ -14562,7 +14562,7 @@ const problems = [
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ab][af][be][bf][ca][cc][cd][cf][db][dc][ea][eb]AW[ad][ae][ba][bb][bc][bd][cb][ce][dd][de][ec][fc][gb]((;B[aa]C[Correct])(;B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ab][af][be][bf][ca][cc][cd][cf][db][dc][ea][eb]AW[ad][ae][ba][bb][bc][bd][cb][ce][dd][de][ec][fc][gb](;B[aa]C[Correct])(;B[ac]C[Correct]))"
     },
     {
         "id": 2079,
@@ -14597,7 +14597,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[aa][ad][af][ba][bd][bf][ca][cb][cc][cd][cf][df][ec][ed][ee][fb]AW[ab][ae][bb][bc][be][ce][da][db][dc][dd][de]((;B[ac];W[bb](;B[ea]C[Correct])(;B[eb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[aa][ad][af][ba][bd][bf][ca][cb][cc][cd][cf][df][ec][ed][ee][fb]AW[ab][ae][bb][bc][be][ce][da][db][dc][dd][de](;B[ac];W[bb](;B[ea]C[Correct])(;B[eb]C[Correct])))"
     },
     {
         "id": 2084,
@@ -14611,7 +14611,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][af][bf][cb][cf][db][dc][dd][de]AW[ab][ae][ba][bb][be][cc][cd]((;B[bd]C[Correct])(;B[ce];W[bc];B[bd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][af][bf][cb][cf][db][dc][dd][de]AW[ab][ae][ba][bb][be][cc][cd](;B[bd]C[Correct])(;B[ce];W[bc];B[bd]C[Correct]))"
     },
     {
         "id": 2086,
@@ -14653,7 +14653,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[dc][df][ec][ee][fd][fe][gc][gf]AW[bc][be][cd][dd][ed][fb][fc][gd][hd][jc]((;B[gb];W[hb](;B[eb]C[Correct])(;B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[dc][df][ec][ee][fd][fe][gc][gf]AW[bc][be][cd][dd][ed][fb][fc][gd][hd][jc](;B[gb];W[hb](;B[eb]C[Correct])(;B[fa]C[Correct])))"
     },
     {
         "id": 2092,
@@ -14681,14 +14681,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][be][cb][cc][ce][da][dc][eb][fb]AW[ba][bb][bc][ca][cd][dd][ed][fc][gb][gc]((;B[ec];W[fa](;B[aa]C[Correct])(;B[ab]C[Correct])(;B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][be][cb][cc][ce][da][dc][eb][fb]AW[ba][bb][bc][ca][cd][dd][ed][fc][gb][gc](;B[ec];W[fa](;B[aa]C[Correct])(;B[ab]C[Correct])(;B[ac]C[Correct])))"
     },
     {
         "id": 2096,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][bc][ca][cc][cd][da][de][ed][ee][fc][gc]AW[ad][ba][bd][bf][ce][db][dc][dd][df][ea][ec][fb]((;B[cb];W[eb](;B[fa];W[ga];B[gb]C[Correct])(;B[gb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][bc][ca][cc][cd][da][de][ed][ee][fc][gc]AW[ad][ba][bd][bf][ce][db][dc][dd][df][ea][ec][fb](;B[cb];W[eb](;B[fa];W[ga];B[gb]C[Correct])(;B[gb]C[Correct])))"
     },
     {
         "id": 2097,
@@ -14702,7 +14702,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][be][cb][cc][ce][da][dc][eb][ec][fb]AW[ba][bb][bc][ca][cd][dd][ed][fa][fc][fd][gb][hc]((;B[aa]C[Correct])(;B[ab]C[Correct])(;B[ac];W[ea];B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][be][cb][cc][ce][da][dc][eb][ec][fb]AW[ba][bb][bc][ca][cd][dd][ed][fa][fc][fd][gb][hc](;B[aa]C[Correct])(;B[ab]C[Correct])(;B[ac];W[ea];B[ga]C[Correct]))"
     },
     {
         "id": 2099,
@@ -14737,7 +14737,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][cb][cc][cd][db][dc][de][ec][ed][ee][fb][gb]AW[ab][bc][bd][bf][ca][ce][cf][df][ea][eb][ef][fc][fd][fe][ga][gc][hb][hc]((;B[ba]C[Correct])(;B[da];W[fa];B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][cb][cc][cd][db][dc][de][ec][ed][ee][fb][gb]AW[ab][bc][bd][bf][ca][ce][cf][df][ea][eb][ef][fc][fd][fe][ga][gc][hb][hc](;B[ba]C[Correct])(;B[da];W[fa];B[ba]C[Correct]))"
     },
     {
         "id": 2104,
@@ -14779,28 +14779,28 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][ca][cd][ce][db][eb][fb][gc][gd]AW[bd][be][cb][cc][cf][dc][ec][fc][gb][hb]((;B[ed];W[ee](;B[dd]C[Correct])(;B[fd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][ca][cd][ce][db][eb][fb][gc][gd]AW[bd][be][cb][cc][cf][dc][ec][fc][gb][hb](;B[ed];W[ee](;B[dd]C[Correct])(;B[fd]C[Correct])))"
     },
     {
         "id": 2110,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][be][cb][cd][ce][db][dd][eb][ed][fc][fd]AW[ad][bb][bc][bd][cc][dc][ec][fb][gb][hc]((;B[ab];W[ea](;B[ae]C[Correct])(;B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][be][cb][cd][ce][db][dd][eb][ed][fc][fd]AW[ad][bb][bc][bd][cc][dc][ec][fb][gb][hc](;B[ab];W[ea](;B[ae]C[Correct])(;B[ca]C[Correct])))"
     },
     {
         "id": 2111,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cc][cd][dd][ea][ed][fb][fd][gb][gc]AW[ba][cb][db][dc][ec][fc][ga][gd][hb][hc][hd]((;B[da]C[Correct])(;B[eb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cc][cd][dd][ea][ed][fb][fd][gb][gc]AW[ba][cb][db][dc][ec][fc][ga][gd][hb][hc][hd](;B[da]C[Correct])(;B[eb]C[Correct]))"
     },
     {
         "id": 2112,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][bd][cd][dd][ea][eb][ec]AW[ab][bb][ca][cc][dc][ed][fb][fd][gc]((;B[cb];W[db];B[da];W[cb](;B[aa]C[Correct])(;B[ba]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][bd][cd][dd][ea][eb][ec]AW[ab][bb][ca][cc][dc][ed][fb][fd][gc](;B[cb];W[db];B[da];W[cb](;B[aa]C[Correct])(;B[ba]C[Correct])))"
     },
     {
         "id": 2113,
@@ -14849,28 +14849,28 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][da][db][dc][ed][fd][gb][gc]AW[ba][bc][bd][cb][cd][dd][eb][ec][fb]((;B[fa];W[ab](;B[ea]C[Correct])(;B[fc]C[Correct]))(;B[fc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][da][db][dc][ed][fd][gb][gc]AW[ba][bc][bd][cb][cd][dd][eb][ec][fb](;B[fa];W[ab](;B[ea]C[Correct])(;B[fc]C[Correct]))(;B[fc]C[Correct]))"
     },
     {
         "id": 2120,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ab][bb][cb][cc][dc][ed][fb][fd][ff][gc][hd]AW[bc][bd][cd][db][dd][df][eb][ec][gb][ha][hc][jb][jc][jd]((;B[da];W[fa];B[fc]C[Correct])(;B[ea]C[Correct])(;B[fc];W[fa](;B[da];W[ea];B[ga]C[Correct])(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ab][bb][cb][cc][dc][ed][fb][fd][ff][gc][hd]AW[bc][bd][cd][db][dd][df][eb][ec][gb][ha][hc][jb][jc][jd](;B[da];W[fa];B[fc]C[Correct])(;B[ea]C[Correct])(;B[fc];W[fa](;B[da];W[ea];B[ga]C[Correct])(;B[ea]C[Correct])))"
     },
     {
         "id": 2121,
         "title": "死活题：黑先劫杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[aa][ae][bb][bd][be][ca][cb][cd][dd][ec][fc][ga][gb][gc]AW[ab][ac][ad][bc][cc][db][dc][eb][fa][fb]((;B[da]C[Correct])(;B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[aa][ae][bb][bd][be][ca][cb][cd][dd][ec][fc][ga][gb][gc]AW[ab][ac][ad][bc][cc][db][dc][eb][fa][fb](;B[da]C[Correct])(;B[ea]C[Correct]))"
     },
     {
         "id": 2122,
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][ad][bc][bg][cb][cc][cf][dd][de]AW[ae][bd][ca][cd][da][db][dc][fc]((;B[ac];W[ba](;B[af]C[Correct])(;B[be]C[Correct])(;B[ce]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][ad][bc][bg][cb][cc][cf][dd][de]AW[ae][bd][ca][cd][da][db][dc][fc](;B[ac];W[ba](;B[af]C[Correct])(;B[be]C[Correct])(;B[ce]C[Correct])))"
     },
     {
         "id": 2123,
@@ -14884,7 +14884,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ab][ac][ae][bb][bf][cb][cc][dd][ed]AW[ad][bc][bd][cd][ce][dc][ec][fc]((;B[df];W[cf];B[cg];W[dg](;B[be]C[Correct])(;B[de]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ab][ac][ae][bb][bf][cb][cc][dd][ed]AW[ad][bc][bd][cd][ce][dc][ec][fc](;B[df];W[cf];B[cg];W[dg](;B[be]C[Correct])(;B[de]C[Correct])))"
     },
     {
         "id": 2125,
@@ -14898,7 +14898,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ae][af][bf][ca][cb][cc][cd][cf][de][df][ec][ed][fc][gb][gc]AW[aa][ac][ad][ba][bb][bd][be][ce][db][dc][dd][eb][fb]((;B[da]C[Correct])(;B[ea];W[fa];B[ga];W[da];B[ea]C[Correct])(;B[fa];W[da];B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ae][af][bf][ca][cb][cc][cd][cf][de][df][ec][ed][fc][gb][gc]AW[aa][ac][ad][ba][bb][bd][be][ce][db][dc][dd][eb][fb](;B[da]C[Correct])(;B[ea];W[fa];B[ga];W[da];B[ea]C[Correct])(;B[fa];W[da];B[ea]C[Correct]))"
     },
     {
         "id": 2127,
@@ -14919,7 +14919,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][dc][dd][ed][fa][fd][gb][gc][ge][he][jc][jd][kb]AW[bb][cc][cd][db][ea][eb][ec][fc][gd][ha][hb][hc][hd]((;B[ja]C[Correct])(;B[jb];W[ca];B[ja]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][dc][dd][ed][fa][fd][gb][gc][ge][he][jc][jd][kb]AW[bb][cc][cd][db][ea][eb][ec][fc][gd][ha][hb][hc][hd](;B[ja]C[Correct])(;B[jb];W[ca];B[ja]C[Correct]))"
     },
     {
         "id": 2130,
@@ -14989,7 +14989,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][bd][ce][db][de]AW[be][bf][cb][cc][cd][cg][dc][gb][gc][gd]((;B[ec];W[eb](;B[ca];W[da];B[dd];W[db];B[fb]C[Correct])(;B[dd];W[da];B[ca];W[db];B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][bd][ce][db][de]AW[be][bf][cb][cc][cd][cg][dc][gb][gc][gd](;B[ec];W[eb](;B[ca];W[da];B[dd];W[db];B[fb]C[Correct])(;B[dd];W[da];B[ca];W[db];B[fb]C[Correct])))"
     },
     {
         "id": 2140,
@@ -15073,7 +15073,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][bb][be][ce][dd][de][ea][eb][ec]AW[ba][bd][cb][cc][cd][da][db][dc]((;B[ab];W[ac];B[bc];W[aa];B[ca]C[Correct])(;B[bc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][bb][be][ce][dd][de][ea][eb][ec]AW[ba][bd][cb][cc][cd][da][db][dc](;B[ab];W[ac];B[bc];W[aa];B[ca]C[Correct])(;B[bc]C[Correct]))"
     },
     {
         "id": 2152,
@@ -15129,7 +15129,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][af][bc][bd][bg][cc][cd][ce][cg][dc][df][dg][ed][ee]AW[ab][ac][ag][ah][bb][be][bf][bh][cb][ch][db][dh][ec][ef][eg][eh][fc][fd][fe]((;B[ae]C[Correct])(;B[cf]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][af][bc][bd][bg][cc][cd][ce][cg][dc][df][dg][ed][ee]AW[ab][ac][ag][ah][bb][be][bf][bh][cb][ch][db][dh][ec][ef][eg][eh][fc][fd][fe](;B[ae]C[Correct])(;B[cf]C[Correct]))"
     },
     {
         "id": 2160,
@@ -15192,7 +15192,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][cb][cc][dd][ed][ee][fc][gc][ha][hb][hc]AW[ab][ad][af][bc][be][cd][cf][db][dc][de][df][eb][ec][fb][ga][gb]((;B[da];W[ac](;B[ea]C[Correct])(;B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][cb][cc][dd][ed][ee][fc][gc][ha][hb][hc]AW[ab][ad][af][bc][be][cd][cf][db][dc][de][df][eb][ec][fb][ga][gb](;B[da];W[ac](;B[ea]C[Correct])(;B[fa]C[Correct])))"
     },
     {
         "id": 2169,
@@ -15213,7 +15213,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][dc][ea][eb][ec][fd][gd][hb][hc]AW[ba][bc][cb][cd][db][dd][ed][fb][fc][gb]((;B[ga];W[ab](;B[fa]C[Correct])(;B[gc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][dc][ea][eb][ec][fd][gd][hb][hc]AW[ba][bc][cb][cd][db][dd][ed][fb][fc][gb](;B[ga];W[ab](;B[fa]C[Correct])(;B[gc]C[Correct])))"
     },
     {
         "id": 2172,
@@ -15241,7 +15241,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][bd][cc][dc][ed][fc][fd][gb][hb][hd]AW[ba][be][cb][cd][cf][da][db][dd][df][ea][eb][ec][fb]((;B[ab];W[ad];B[ga];W[ae];B[fa];W[ac];B[ca]C[Correct])(;B[ga];W[ad](;B[ab];W[ae];B[fa];W[ac];B[ca]C[Correct])(;B[fa];W[ac];B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][bd][cc][dc][ed][fc][fd][gb][hb][hd]AW[ba][be][cb][cd][cf][da][db][dd][df][ea][eb][ec][fb](;B[ab];W[ad];B[ga];W[ae];B[fa];W[ac];B[ca]C[Correct])(;B[ga];W[ad](;B[ab];W[ae];B[fa];W[ac];B[ca]C[Correct])(;B[fa];W[ac];B[ca]C[Correct])))"
     },
     {
         "id": 2176,
@@ -15297,7 +15297,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bd][cd][cf][da][db][dc]AW[ba][bc][ca][cb][cc][dd][ed][fb][fc]((;B[ab];W[ec](;B[aa]C[Correct])(;B[bb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bd][cd][cf][da][db][dc]AW[ba][bc][ca][cb][cc][dd][ed][fb][fc](;B[ab];W[ec](;B[aa]C[Correct])(;B[bb]C[Correct])))"
     },
     {
         "id": 2184,
@@ -15311,7 +15311,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][cb][db][dc][ec][fc][gd][hb][hc][hd]AW[bb][bc][cc][cd][dd][eb][ed][fb][fd][gb][gc]((;B[ea];W[da];B[ca];W[ab](;B[fa]C[Correct])(;B[ga]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][cb][db][dc][ec][fc][gd][hb][hc][hd]AW[bb][bc][cc][cd][dd][eb][ed][fb][fd][gb][gc](;B[ea];W[da];B[ca];W[ab](;B[fa]C[Correct])(;B[ga]C[Correct])))"
     },
     {
         "id": 2186,
@@ -15325,7 +15325,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][be][cc][dc][dd][de][eb][fa][fb]AW[ab][bb][ca][cb][db][ea][ec][ed][gb][gc][gd]((;B[aa];W[ga];B[da]C[Correct])(;B[ba];W[fc];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][be][cc][dc][dd][de][eb][fa][fb]AW[ab][bb][ca][cb][db][ea][ec][ed][gb][gc][gd](;B[aa];W[ga];B[da]C[Correct])(;B[ba];W[fc];B[da]C[Correct]))"
     },
     {
         "id": 2188,
@@ -15353,7 +15353,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[af][bd][bf][cc][cf][db][df][ee][fa][fb][fc][fd][ff]AW[ae][bb][bc][be][cb][ce][de][ea][eb][ec][ed]((;B[dd];W[da](;B[ad];W[dc];B[cd]C[Correct])(;B[cd];W[dc];B[ad]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[af][bd][bf][cc][cf][db][df][ee][fa][fb][fc][fd][ff]AW[ae][bb][bc][be][cb][ce][de][ea][eb][ec][ed](;B[dd];W[da](;B[ad];W[dc];B[cd]C[Correct])(;B[cd];W[dc];B[ad]C[Correct])))"
     },
     {
         "id": 2192,
@@ -15409,7 +15409,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ba][bc][cb][cc][cd][de][eb][ed][ee][fb]AW[ab][ad][bb][bd][be][ce][cg][da][db][dc][dd]((;B[aa];W[bb](;B[ea]C[Correct])(;B[ec]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ba][bc][cb][cc][cd][de][eb][ed][ee][fb]AW[ab][ad][bb][bd][be][ce][cg][da][db][dc][dd](;B[aa];W[bb](;B[ea]C[Correct])(;B[ec]C[Correct])))"
     },
     {
         "id": 2200,
@@ -15486,7 +15486,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][ba][bb][bd][cc][cd][dc][ec][fb][gb][gc]AW[ab][ac][ae][be][ca][cb][ce][db][de][eb][ed][fc][fd]((;B[da];W[dd];B[ea]C[Correct])(;B[ea];W[dd];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][ba][bb][bd][cc][cd][dc][ec][fb][gb][gc]AW[ab][ac][ae][be][ca][cb][ce][db][de][eb][ed][fc][fd](;B[da];W[dd];B[ea]C[Correct])(;B[ea];W[dd];B[da]C[Correct]))"
     },
     {
         "id": 2211,
@@ -15528,7 +15528,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][ae][ba][bb][be][ce][db][dc][de][ed][ee]AW[ab][ac][bc][bd][ca][cb][cd][dd][ec][fb][fc][fd]((;B[cc];W[aa](;B[ba];W[bb];B[da]C[Correct])(;B[bb];W[ba];B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][ae][ba][bb][be][ce][db][dc][de][ed][ee]AW[ab][ac][bc][bd][ca][cb][cd][dd][ec][fb][fc][fd](;B[cc];W[aa](;B[ba];W[bb];B[da]C[Correct])(;B[bb];W[ba];B[da]C[Correct])))"
     },
     {
         "id": 2217,
@@ -15591,14 +15591,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][cb][cc][cf][dd][de]AW[ba][bd][cd][db][dc][fc]((;B[ad]C[Correct])(;B[be]C[Correct])(;B[ce]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][cb][cc][cf][dd][de]AW[ba][bd][cd][db][dc][fc](;B[ad]C[Correct])(;B[be]C[Correct])(;B[ce]C[Correct]))"
     },
     {
         "id": 2226,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bc][cc][dd][eb][ec][ed]AW[ac][bd][cb][cd][cf][db][dc]((;B[bb];W[ba];B[ad];W[ae](;B[ca];W[da];B[ea];W[ac];B[ca]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bc][cc][dd][eb][ec][ed]AW[ac][bd][cb][cd][cf][db][dc](;B[bb];W[ba];B[ad];W[ae](;B[ca];W[da];B[ea];W[ac];B[ca]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 2227,
@@ -15612,7 +15612,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ab][ba][bb][cc][cd][dd][de][ee][fb][fd][fe][gb][gc]AW[bc][bd][be][ca][cb][ce][da][dc][eb][ec][ed][fc][gd][hd]((;B[fa];W[ac];B[ea];W[aa](;B[bb]C[Correct])(;B[db]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ab][ba][bb][cc][cd][dd][de][ee][fb][fd][fe][gb][gc]AW[bc][bd][be][ca][cb][ce][da][dc][eb][ec][ed][fc][gd][hd](;B[fa];W[ac];B[ea];W[aa](;B[bb]C[Correct])(;B[db]C[Correct])))"
     },
     {
         "id": 2229,
@@ -15626,7 +15626,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cc][dc][ec][ed][fa][fe][ff][gc][gd][jd]AW[bc][bd][dd][de][ee][eg][fb][fc][fd][ga][ge][gf][gg]((;B[eb];W[ea];B[gb]C[Correct])(;B[gb];W[ea];B[eb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cc][dc][ec][ed][fa][fe][ff][gc][gd][jd]AW[bc][bd][dd][de][ee][eg][fb][fc][fd][ga][ge][gf][gg](;B[eb];W[ea];B[gb]C[Correct])(;B[gb];W[ea];B[eb]C[Correct]))"
     },
     {
         "id": 2231,
@@ -15703,7 +15703,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ca][cb][dc][ec][ed][fb][fd][ga][gb][gc][gd]AW[bb][bd][cc][da][db][dd][de][ee][fe][ge][ha][hb][hc][hd]((;B[ea];W[ba];B[eb]C[Correct])(;B[eb];W[ba];B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ca][cb][dc][ec][ed][fb][fd][ga][gb][gc][gd]AW[bb][bd][cc][da][db][dd][de][ee][fe][ge][ha][hb][hc][hd](;B[ea];W[ba];B[eb]C[Correct])(;B[eb];W[ba];B[ea]C[Correct]))"
     },
     {
         "id": 2242,
@@ -15752,21 +15752,21 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bd][cb][cc][cd][db]AW[ba][be][ce][dc][dd][de][eb][fc]((;B[ad];W[bb];B[bc]C[Correct])(;B[bb];W[ad];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bd][cb][cc][cd][db]AW[ba][be][ce][dc][dd][de][eb][fc](;B[ad];W[bb];B[bc]C[Correct])(;B[bb];W[ad];B[ac]C[Correct]))"
     },
     {
         "id": 2249,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][ca][cd][dd][ea][eb][ec]AW[aa][bb][cb][cc][dc][ed][fb][fc][fd]((;B[ab];W[ba](;B[da];W[fa];B[db]C[Correct])(;B[db]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][ca][cd][dd][ea][eb][ec]AW[aa][bb][cb][cc][dc][ed][fb][fc][fd](;B[ab];W[ba](;B[da];W[fa];B[db]C[Correct])(;B[db]C[Correct])))"
     },
     {
         "id": 2250,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cd][ce][da][dc][eb][ec][fb][gc][gd][ge]AW[ba][bb][bc][cc][dd][ed][fa][fc][fd][gb][hb]((;B[de]C[Correct])(;B[ee]C[Correct])(;B[fe]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cd][ce][da][dc][eb][ec][fb][gc][gd][ge]AW[ba][bb][bc][cc][dd][ed][fa][fc][fd][gb][hb](;B[de]C[Correct])(;B[ee]C[Correct])(;B[fe]C[Correct]))"
     },
     {
         "id": 2251,
@@ -15822,7 +15822,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bb][bd][cd][ce][da][dc][de][ea][eb][ec]AW[ab][ac][bc][ca][cb][cc][db][dd][ed][fc][fd][gb]((;B[ba];W[aa](;B[ba];W[fb];B[bb]C[Correct])(;B[bb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bb][bd][cd][ce][da][dc][de][ea][eb][ec]AW[ab][ac][bc][ca][cb][cc][db][dd][ed][fc][fd][gb](;B[ba];W[aa](;B[ba];W[fb];B[bb]C[Correct])(;B[bb]C[Correct])))"
     },
     {
         "id": 2259,
@@ -15871,7 +15871,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ae][be][ce][db][dc][dd][eb]AW[ad][bb][bd][cc][cd][de][ec][ed][ee][fb][fc]((;B[cb];W[ca](;B[ac]C[Correct])(;B[bc];W[ac];B[bc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ae][be][ce][db][dc][dd][eb]AW[ad][bb][bd][cc][cd][de][ec][ed][ee][fb][fc](;B[cb];W[ca](;B[ac]C[Correct])(;B[bc];W[ac];B[bc]C[Correct])))"
     },
     {
         "id": 2266,
@@ -15892,14 +15892,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ad][ae][ba][bb][be][ce][de][ea][eb][ec][ed]AW[bc][bd][cb][cd][db][dc][dd][ee][fb][fc][fd][fe]((;B[ca]C[Correct])(;B[da];W[fa];B[ca];W[ab];B[cc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ad][ae][ba][bb][be][ce][de][ea][eb][ec][ed]AW[bc][bd][cb][cd][db][dc][dd][ee][fb][fc][fd][fe](;B[ca]C[Correct])(;B[da];W[fa];B[ca];W[ab];B[cc]C[Correct]))"
     },
     {
         "id": 2269,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][cd][db][dd][ed][fc][gc][hb][hc]AW[ba][cb][cc][da][dc][ec][fb][gb]((;B[eb]C[Correct])(;B[ga];W[fa];B[eb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][cd][db][dd][ed][fc][gc][hb][hc]AW[ba][cb][cc][da][dc][ec][fb][gb](;B[eb]C[Correct])(;B[ga];W[fa];B[eb]C[Correct]))"
     },
     {
         "id": 2270,
@@ -15962,7 +15962,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][bd][be][ce][da][db][dc][dd]AW[ac][ba][bc][cb][cc][cd][de][eb][ed][ee][fb]((;B[ca];W[aa](;B[ab];W[ec];B[bb]C[Correct])(;B[bb];W[ec];B[ab]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][bd][be][ce][da][db][dc][dd]AW[ac][ba][bc][cb][cc][cd][de][eb][ed][ee][fb](;B[ca];W[aa](;B[ab];W[ec];B[bb]C[Correct])(;B[bb];W[ec];B[ab]C[Correct])))"
     },
     {
         "id": 2279,
@@ -16004,7 +16004,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bd][ce][de][ea][eb][ec][ed]AW[ab][bb][db][dc][dd][ee][fb][fe][gb][gc]((;B[cb];W[cc](;B[ba]C[Correct])(;B[ca]C[Correct])(;B[cd]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bd][ce][de][ea][eb][ec][ed]AW[ab][bb][db][dc][dd][ee][fb][fe][gb][gc](;B[cb];W[cc](;B[ba]C[Correct])(;B[ca]C[Correct])(;B[cd]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 2285,
@@ -16137,7 +16137,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][be][ca][ce][da][db][dc][dd]AW[aa][ac][ba][bc][cb][cc][cd][de][eb][ed][ee][fb]((;B[ab];W[bb];B[ad]C[Correct])(;B[bb];W[ec];B[ab];W[ea];B[ad]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][be][ca][ce][da][db][dc][dd]AW[aa][ac][ba][bc][cb][cc][cd][de][eb][ed][ee][fb](;B[ab];W[bb];B[ad]C[Correct])(;B[bb];W[ec];B[ab];W[ea];B[ad]C[Correct]))"
     },
     {
         "id": 2304,
@@ -16179,7 +16179,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cc][cd][ce][dc][de][ea][ec][ed][fb][fd]AW[bb][bc][bd][be][cf][df][eb][ef][fc][ff][gb][gc][gd]((;B[db];W[ga];B[fa];W[ca](;B[cb];W[ba];B[da]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cc][cd][ce][dc][de][ea][ec][ed][fb][fd]AW[bb][bc][bd][be][cf][df][eb][ef][fc][ff][gb][gc][gd](;B[db];W[ga];B[fa];W[ca](;B[cb];W[ba];B[da]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 2310,
@@ -16193,7 +16193,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][be][cb][cc][ce][dc][de][ed][fb][fc][fd]AW[aa][ab][ac][ad][ba][bd][ca][cd][dd][ea][eb][ec]((;B[db]C[Correct])(;B[fa];W[bb];B[db];W[da];B[cc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][be][cb][cc][ce][dc][de][ed][fb][fc][fd]AW[aa][ab][ac][ad][ba][bd][ca][cd][dd][ea][eb][ec](;B[db]C[Correct])(;B[fa];W[bb];B[db];W[da];B[cc]C[Correct]))"
     },
     {
         "id": 2312,
@@ -16221,7 +16221,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ag][bd][bf][bh][cd][cf][cg][dd][dg][dk][dl][ed][ee][ef][ej][el][em][ff][fg][fh][fj][fk][fl]AW[ad][ae][bb][bc][be][bj][ce][ch][cj][ck][cl][cm][db][dc][df][dh][dm][eg][eh][en][fc][fm][ge][gf][gg][gh][gj][gk][gl][gm]((;B[ac]C[Correct])(;B[af];W[ac];B[de]C[Correct])(;B[de]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ag][bd][bf][bh][cd][cf][cg][dd][dg][dk][dl][ed][ee][ef][ej][el][em][ff][fg][fh][fj][fk][fl]AW[ad][ae][bb][bc][be][bj][ce][ch][cj][ck][cl][cm][db][dc][df][dh][dm][eg][eh][en][fc][fm][ge][gf][gg][gh][gj][gk][gl][gm](;B[ac]C[Correct])(;B[af];W[ac];B[de]C[Correct])(;B[de]C[Correct]))"
     },
     {
         "id": 2316,
@@ -16263,7 +16263,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][bd][be][ce][db][de][ea][ec][ed][fa][fb]AW[ab][ba][ca][cb][cc][cd][dd][ee][fc][fd][fe][ga][gb][gc]((;B[da]C[Correct])(;B[dc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][bd][be][ce][db][de][ea][ec][ed][fa][fb]AW[ab][ba][ca][cb][cc][cd][dd][ee][fc][fd][fe][ga][gb][gc](;B[da]C[Correct])(;B[dc]C[Correct]))"
     },
     {
         "id": 2322,
@@ -16333,7 +16333,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bd][cd][db][dd][df][eb][ec][hc][jb][jc][jd][je]AW[ab][bb][cb][cc][dc][ed][fd][ff][gb][hb][hd]((;B[gc];W[fc];B[fb];W[da](;B[ga]C[Correct])(;B[ha]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bd][cd][db][dd][df][eb][ec][hc][jb][jc][jd][je]AW[ab][bb][cb][cc][dc][ed][fd][ff][gb][hb][hd](;B[gc];W[fc];B[fb];W[da](;B[ga]C[Correct])(;B[ha]C[Correct])))"
     },
     {
         "id": 2332,
@@ -16368,7 +16368,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ab][bb][cb][cc][dc][ed][fd][ff][gc][hb][hd]AW[bc][bd][cd][db][dd][df][eb][ec][gb][hc][jb][jc][jd][je]((;B[fb];W[ha](;B[da]C[Correct])(;B[ea]C[Correct])(;B[fc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ab][bb][cb][cc][dc][ed][fd][ff][gc][hb][hd]AW[bc][bd][cd][db][dd][df][eb][ec][gb][hc][jb][jc][jd][je](;B[fb];W[ha](;B[da]C[Correct])(;B[ea]C[Correct])(;B[fc]C[Correct])))"
     },
     {
         "id": 2337,
@@ -16501,7 +16501,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][ca][cb][cc][dc][ed][fb][fd][gc]AW[aa][ac][ad][bb][bd][cd][db][dd][eb][ec]((;B[ea]C[Correct])(;B[fc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][ca][cb][cc][dc][ed][fb][fd][gc]AW[aa][ac][ad][bb][bd][cd][db][dd][eb][ec](;B[ea]C[Correct])(;B[fc]C[Correct]))"
     },
     {
         "id": 2356,
@@ -16515,7 +16515,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][bc][cc][ce][de][eb][ee][fe][ga][gd][ge][hc][ja][jb][jc]AW[ca][cb][db][dd][ed][fb][fd][gb][gc][ha][hb]((;B[dc];W[ec](;B[da]C[Correct])(;B[ea];W[fa];B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][bc][cc][ce][de][eb][ee][fe][ga][gd][ge][hc][ja][jb][jc]AW[ca][cb][db][dd][ed][fb][fd][gb][gc][ha][hb](;B[dc];W[ec](;B[da]C[Correct])(;B[ea];W[fa];B[da]C[Correct])))"
     },
     {
         "id": 2358,
@@ -16536,7 +16536,7 @@ const problems = [
         "title": "死活题：黑先，死活问题，净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先，死活问题，净活]AB[ab][ad][bb][bd][cb][db][de][ed]AW[ac][bc][cc][cf][dd][df][ee][fb][fc][fd][fe]((;B[cd];W[ec];B[dc]C[Correct])(;B[dc];W[ec];B[cd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先，死活问题，净活]AB[ab][ad][bb][bd][cb][db][de][ed]AW[ac][bc][cc][cf][dd][df][ee][fb][fc][fd][fe](;B[cd];W[ec];B[dc]C[Correct])(;B[dc];W[ec];B[cd]C[Correct]))"
     },
     {
         "id": 2361,
@@ -16550,7 +16550,7 @@ const problems = [
         "title": "死活题：黑先，死活问题，净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先，死活问题，净活]AB[cd][dc][dd][ed][fe][gb][gc][ge][hd][he]AW[cf][ec][ee][ef][fb][fc][fd][gd][hc][jc]((;B[eb];W[hb];B[fa]C[Correct])(;B[fa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先，死活问题，净活]AB[cd][dc][dd][ed][fe][gb][gc][ge][hd][he]AW[cf][ec][ee][ef][fb][fc][fd][gd][hc][jc](;B[eb];W[hb];B[fa]C[Correct])(;B[fa]C[Correct]))"
     },
     {
         "id": 2363,
@@ -16564,7 +16564,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bd][cb][cd][db][de][ec][ee][fd][fe][gc]AW[ac][bc][cc][ce][cf][dc][dd][df][eb][ed][ef][ff][gf][hb][hc][hd]((;B[ab];W[fc];B[ad]C[Correct])(;B[ad];W[fc];B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bd][cb][cd][db][de][ec][ee][fd][fe][gc]AW[ac][bc][cc][ce][cf][dc][dd][df][eb][ed][ef][ff][gf][hb][hc][hd](;B[ab];W[fc];B[ad]C[Correct])(;B[ad];W[fc];B[ab]C[Correct]))"
     },
     {
         "id": 2365,
@@ -16578,7 +16578,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bf][cb][ce][cg][db][dc][dd][de]AW[bb][bd][be][cc][cd]((;B[ac]C[Correct])(;B[ae]C[Correct])(;B[ba];W[ac];B[ae]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bf][cb][ce][cg][db][dc][dd][de]AW[bb][bd][be][cc][cd](;B[ac]C[Correct])(;B[ae]C[Correct])(;B[ba];W[ac];B[ae]C[Correct]))"
     },
     {
         "id": 2367,
@@ -16627,7 +16627,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bd][ca][cb][ce][dc][ee][fc]AW[ab][bb][be][cc][cd][db][dd][fd]((;B[ed];W[ec];B[de];W[dc](;B[da]C[Correct])(;B[eb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bd][ca][cb][ce][dc][ee][fc]AW[ab][bb][be][cc][cd][db][dd][fd](;B[ed];W[ec];B[de];W[dc](;B[da]C[Correct])(;B[eb]C[Correct])))"
     },
     {
         "id": 2374,
@@ -16655,7 +16655,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][fb][fc][fd]AW[ca][cd][ce][db][ea][ed][ee]((;B[dc];W[cc];B[cb];W[ec];B[eb];W[dd](;B[da]C[Correct])(;B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][fb][fc][fd]AW[ca][cd][ce][db][ea][ed][ee](;B[dc];W[cc];B[cb];W[ec];B[eb];W[dd](;B[da]C[Correct])(;B[fa]C[Correct])))"
     },
     {
         "id": 2378,
@@ -16676,7 +16676,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][cc][cf][dd][de][df][ed][fc][fd][gb][hc]AW[bd][cb][cd][ce][dc][eb][ec][fb]((;B[bb];W[ba](;B[ad]C[Correct])(;B[be]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][cc][cf][dd][de][df][ed][fc][fd][gb][hc]AW[bd][cb][cd][ce][dc][eb][ec][fb](;B[bb];W[ba](;B[ad]C[Correct])(;B[be]C[Correct])))"
     },
     {
         "id": 2381,
@@ -16697,7 +16697,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ac][bc][bf][cd][ce][dd][df][dg][ea][ec][ed][fb]AW[bb][bd][be][bg][cb][cc][cf][cg][ch][db][dc][eb]((;B[ba]C[Correct])(;B[da];W[af](;B[ba]C[Correct])(;B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ac][bc][bf][cd][ce][dd][df][dg][ea][ec][ed][fb]AW[bb][bd][be][bg][cb][cc][cf][cg][ch][db][dc][eb](;B[ba]C[Correct])(;B[da];W[af](;B[ba]C[Correct])(;B[ca]C[Correct])))"
     },
     {
         "id": 2384,
@@ -16746,7 +16746,7 @@ const problems = [
         "title": "死活题：黑先，死活问题，净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先，死活问题，净活]AB[cb][cc][cd][db][de][ee][fe][gb][ge][hb][hc][hd]AW[bb][bc][bd][ce][cf][dc][dd][eb][ed][fc][gc][gd]((;B[fd];W[ec](;B[ea]C[Correct])(;B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先，死活问题，净活]AB[cb][cc][cd][db][de][ee][fe][gb][ge][hb][hc][hd]AW[bb][bc][bd][ce][cf][dc][dd][eb][ed][fc][gc][gd](;B[fd];W[ec](;B[ea]C[Correct])(;B[fb]C[Correct])))"
     },
     {
         "id": 2391,
@@ -16767,7 +16767,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][bd][cf][eb][ec][ef][ff][gc][ge]AW[cb][cc][dd][ed][gb][hc][hd][jb][kd]((;B[fc];W[gd];B[fd]C[Correct])(;B[fd];W[gd];B[fc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][bd][cf][eb][ec][ef][ff][gc][ge]AW[cb][cc][dd][ed][gb][hc][hd][jb][kd](;B[fc];W[gd];B[fd]C[Correct])(;B[fd];W[gd];B[fc]C[Correct]))"
     },
     {
         "id": 2394,
@@ -16816,14 +16816,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ac][bc][bd][ca][cb][cd][dd][ec][fb][fc][fd]AW[ad][ae][ba][bb][be][ce][da][db][dc][de][ed][ee]((;B[aa];W[bb](;B[ea]C[Correct])(;B[eb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ac][bc][bd][ca][cb][cd][dd][ec][fb][fc][fd]AW[ad][ae][ba][bb][be][ce][da][db][dc][de][ed][ee](;B[aa];W[bb](;B[ea]C[Correct])(;B[eb]C[Correct])))"
     },
     {
         "id": 2401,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][ca][cc][dd][ea][eb][ec][ed][fe][gd][ge][hb][hc]AW[bb][bc][cb][cd][ce][de][ee][fa][fb][fc][fd]((;B[ga]C[Correct])(;B[gb]C[Correct])(;B[gc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][ca][cc][dd][ea][eb][ec][ed][fe][gd][ge][hb][hc]AW[bb][bc][cb][cd][ce][de][ee][fa][fb][fc][fd](;B[ga]C[Correct])(;B[gb]C[Correct])(;B[gc]C[Correct]))"
     },
     {
         "id": 2402,
@@ -16921,7 +16921,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bd][cc][db][fb][fc][fd][fe]AW[be][cd][cf][dc][dd][eb][ed][ef]((;B[ca];W[ec];B[ea]C[Correct])(;B[cb];W[ec];B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bd][cc][db][fb][fc][fd][fe]AW[be][cd][cf][dc][dd][eb][ed][ef](;B[ca];W[ec];B[ea]C[Correct])(;B[cb];W[ec];B[ea]C[Correct]))"
     },
     {
         "id": 2416,
@@ -16942,7 +16942,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][bd][cd][db][de][ea][ee][fd][fe][ga][gb][gc][gd]AW[ad][ae][be][ca][cb][cc][ce][cg][dc][dd][ec][ed][fa][fb][fc]((;B[da];W[eb];B[da]C[Correct])(;B[eb];W[da];B[eb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][bd][cd][db][de][ea][ee][fd][fe][ga][gb][gc][gd]AW[ad][ae][be][ca][cb][cc][ce][cg][dc][dd][ec][ed][fa][fb][fc](;B[da];W[eb];B[da]C[Correct])(;B[eb];W[da];B[eb]C[Correct]))"
     },
     {
         "id": 2419,
@@ -16970,14 +16970,14 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][cc][da][db][dc][ed][fd][gb][gc]AW[ab][bc][bd][cb][cd][dd][eb][ec][fb]((;B[ba];W[ac](;B[fa]C[Correct])(;B[fc];W[aa];B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][cc][da][db][dc][ed][fd][gb][gc]AW[ab][bc][bd][cb][cd][dd][eb][ec][fb](;B[ba];W[ac](;B[fa]C[Correct])(;B[fc];W[aa];B[ca]C[Correct])))"
     },
     {
         "id": 2423,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][bb][be][ce][da][db][dc][de][ed][ee]AW[ab][ad][bd][cc][cd][dd][ea][eb][ec][fc][fd]((;B[cb];W[ba](;B[ac];W[bc];B[ac]C[Correct])(;B[bc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][bb][be][ce][da][db][dc][de][ed][ee]AW[ab][ad][bd][cc][cd][dd][ea][eb][ec][fc][fd](;B[cb];W[ba](;B[ac];W[bc];B[ac]C[Correct])(;B[bc]C[Correct])))"
     },
     {
         "id": 2424,
@@ -17047,7 +17047,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ac][bb][bf][cb][cd][dc][df][ec][ee]AW[ad][bc][bd][be][cc][cf][db][de][eb][fb]((;B[cg];W[ca](;B[ae];W[af];B[ce];W[ba];B[ae]C[Correct])(;B[ce];W[ba];B[ae]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ac][bb][bf][cb][cd][dc][df][ec][ee]AW[ad][bc][bd][be][cc][cf][db][de][eb][fb](;B[cg];W[ca](;B[ae];W[af];B[ce];W[ba];B[ae]C[Correct])(;B[ce];W[ba];B[ae]C[Correct])))"
     },
     {
         "id": 2434,
@@ -17103,7 +17103,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bf][cc][cd][cf][dc][df][ec][ed][ef][fe][ge]AW[ae][bb][be][ce][db][dd][de][eb][ee][fc][fd][gb]((;B[bd];W[cb](;B[ad]C[Correct])(;B[af]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bf][cc][cd][cf][dc][df][ec][ed][ef][fe][ge]AW[ae][bb][be][ce][db][dd][de][eb][ee][fc][fd][gb](;B[bd];W[cb](;B[ad]C[Correct])(;B[af]C[Correct])))"
     },
     {
         "id": 2442,
@@ -17131,7 +17131,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][bc][ca][cd][dd][eb][ed][fd][gc][hc][jb][jc]AW[cb][cc][db][dc][ec][fa][fc][gb][ha][hb]((;B[da];W[fb];B[ea]C[Correct])(;B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][bc][ca][cd][dd][eb][ed][fd][gc][hc][jb][jc]AW[cb][cc][db][dc][ec][fa][fc][gb][ha][hb](;B[da];W[fb];B[ea]C[Correct])(;B[ea]C[Correct]))"
     },
     {
         "id": 2446,
@@ -17159,7 +17159,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][bd][cb][cd][db][dc][ed][fc][fd][gb][gc]AW[ab][ad][ae][bb][be][ce][dd][de][ea][eb][ec][fb]((;B[da];W[cc];B[fa]C[Correct])(;B[ga];W[cc];B[fa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][bd][cb][cd][db][dc][ed][fc][fd][gb][gc]AW[ab][ad][ae][bb][be][ce][dd][de][ea][eb][ec][fb](;B[da];W[cc];B[fa]C[Correct])(;B[ga];W[cc];B[fa]C[Correct]))"
     },
     {
         "id": 2450,
@@ -17180,7 +17180,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][cc][ce][dd][de][ec][ee][fc][fe]AW[bd][be][bf][cd][cf][db][dc][ed][gb][gc][gd]((;B[eb];W[cb];B[bb];W[fd](;B[ca]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][cc][ce][dd][de][ec][ee][fc][fe]AW[bd][be][bf][cd][cf][db][dc][ed][gb][gc][gd](;B[eb];W[cb];B[bb];W[fd](;B[ca]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 2453,
@@ -17194,21 +17194,21 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][ba][bc][be][bf][ca][cb][cd][ce][cg][dg][ef][eg][fc][fd][gb][hc]AW[ab][bb][cc][cf][db][dc][dd][de][df][ea][ec][fb]((;B[ac]C[Correct])(;B[ga];W[fa];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][ba][bc][be][bf][ca][cb][cd][ce][cg][dg][ef][eg][fc][fd][gb][hc]AW[ab][bb][cc][cf][db][dc][dd][de][df][ea][ec][fb](;B[ac]C[Correct])(;B[ga];W[fa];B[ac]C[Correct]))"
     },
     {
         "id": 2455,
         "title": "死活题：黑先，死活问题，净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先，死活问题，净活]AB[fa][fb][fc][gd][ge][hb][he][jd]AW[fd][fe][ff][ga][gb][gc][hc][hd][kb][kc]((;B[jc];W[jb](;B[ha]C[Correct])(;B[ja];W[ka];B[ha]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先，死活问题，净活]AB[fa][fb][fc][gd][ge][hb][he][jd]AW[fd][fe][ff][ga][gb][gc][hc][hd][kb][kc](;B[jc];W[jb](;B[ha]C[Correct])(;B[ja];W[ka];B[ha]C[Correct])))"
     },
     {
         "id": 2456,
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ba][be][ca][cc][cd][da][dc][eb][ec][gc]AW[ab][ae][bb][bd][cb][ce][cg][db][de][ed]((;B[bc];W[ac];B[bf]C[Correct])(;B[bf];W[bg];B[bc];W[ad];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ba][be][ca][cc][cd][da][dc][eb][ec][gc]AW[ab][ae][bb][bd][cb][ce][cg][db][de][ed](;B[bc];W[ac];B[bf]C[Correct])(;B[bf];W[bg];B[bc];W[ad];B[ac]C[Correct]))"
     },
     {
         "id": 2457,
@@ -17229,7 +17229,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bd][cc][ce][db][df][ee][fd]AW[bc][cd][dc][dd][de][ec][ed]((;B[eb];W[fc];B[gc];W[fb](;B[fa];W[cb];B[gb]C[Correct])(;B[gb];W[cb];B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bd][cc][ce][db][df][ee][fd]AW[bc][cd][dc][dd][de][ec][ed](;B[eb];W[fc];B[gc];W[fb](;B[fa];W[cb];B[gb]C[Correct])(;B[gb];W[cb];B[fa]C[Correct])))"
     },
     {
         "id": 2460,
@@ -17243,7 +17243,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ad][bb][bd][cb][cd][dd][ec][fb][fc]AW[ab][bc][be][bf][ca][cc][db][dc][de][eb][ed][ee]((;B[aa];W[ce](;B[da]C[Correct])(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ad][bb][bd][cb][cd][dd][ec][fb][fc]AW[ab][bc][be][bf][ca][cc][db][dc][de][eb][ed][ee](;B[aa];W[ce](;B[da]C[Correct])(;B[ea]C[Correct])))"
     },
     {
         "id": 2462,
@@ -17313,7 +17313,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][be][cb][ce][db][dd][eb][ed][fc][fd]AW[ad][bc][cc][cf][dc][de][df][ec][fb][fe][ff][gb][gc][gd]((;B[bd];W[bf];B[cd];W[ac];B[ae]C[Correct])(;B[cd];W[bf](;B[ab];W[ae];B[ac]C[Correct])(;B[bd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][be][cb][ce][db][dd][eb][ed][fc][fd]AW[ad][bc][cc][cf][dc][de][df][ec][fb][fe][ff][gb][gc][gd](;B[bd];W[bf];B[cd];W[ac];B[ae]C[Correct])(;B[cd];W[bf](;B[ab];W[ae];B[ac]C[Correct])(;B[bd]C[Correct])))"
     },
     {
         "id": 2472,
@@ -17334,7 +17334,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][db][ea][ec][fc][gd][hb][hc][hd]AW[ba][bb][cc][dc][de][ed][fb][fd][gb][gc]((;B[eb];W[ca](;B[fa]C[Correct])(;B[ga]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][db][ea][ec][fc][gd][hb][hc][hd]AW[ba][bb][cc][dc][de][ed][fb][fd][gb][gc](;B[eb];W[ca](;B[fa]C[Correct])(;B[ga]C[Correct])))"
     },
     {
         "id": 2475,
@@ -17348,7 +17348,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bd][cb][cd][dd][ec][fa][fb][fc]AW[bb][be][cc][ce][db][dc][de][eb][ed][fd]((;B[da];W[ca];B[ea]C[Correct])(;B[ea];W[ca];B[da];W[cb];B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bd][cb][cd][dd][ec][fa][fb][fc]AW[bb][be][cc][ce][db][dc][de][eb][ed][fd](;B[da];W[ca];B[ea]C[Correct])(;B[ea];W[ca];B[da];W[cb];B[ab]C[Correct]))"
     },
     {
         "id": 2477,
@@ -17376,7 +17376,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ae][be][ca][cd][ce][da][db][dc][dd]AW[ad][ba][bb][bd][cb][cc]((;B[ab]C[Correct])(;B[ac];W[bc];B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ae][be][ca][cd][ce][da][db][dc][dd]AW[ad][ba][bb][bd][cb][cc](;B[ab]C[Correct])(;B[ac];W[bc];B[ab]C[Correct]))"
     },
     {
         "id": 2481,
@@ -17397,7 +17397,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[da][dc][dd][de][df][dg][eb][ec][eg][ff][fg][gc][gd][ge][gf][ha][hc][jb][jc]AW[bb][cb][cc][ce][cf][cg][db][dh][ea][ed][ee][ef][eh][fb][fh][ga][gb][gg][hd][hf][hg][jd][kb][kc][kd]((;B[fc];W[ca];B[hb]C[Correct])(;B[hb];W[ca];B[fc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[da][dc][dd][de][df][dg][eb][ec][eg][ff][fg][gc][gd][ge][gf][ha][hc][jb][jc]AW[bb][cb][cc][ce][cf][cg][db][dh][ea][ed][ee][ef][eh][fb][fh][ga][gb][gg][hd][hf][hg][jd][kb][kc][kd](;B[fc];W[ca];B[hb]C[Correct])(;B[hb];W[ca];B[fc]C[Correct]))"
     },
     {
         "id": 2484,
@@ -17446,7 +17446,7 @@ const problems = [
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ab][bc][bd][cd][db][dd][ec][fc][hc]AW[ba][bb][be][cb][cc][cf][dc][de][ed][ee]((;B[ea];W[ce](;B[ac];W[ae];B[ca]C[Correct])(;B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ab][bc][bd][cd][db][dd][ec][fc][hc]AW[ba][bb][be][cb][cc][cf][dc][de][ed][ee](;B[ea];W[ce](;B[ac];W[ae];B[ca]C[Correct])(;B[ca]C[Correct])))"
     },
     {
         "id": 2491,
@@ -17516,14 +17516,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ae][bc][bf][cc][cd][ce][da][dc][eb][fc][gb]AW[ab][ag][bb][be][bg][cb][cf][cg][db][dd][de][ec][ed]((;B[aa]C[Correct])(;B[ba]C[Correct])(;B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ae][bc][bf][cc][cd][ce][da][dc][eb][fc][gb]AW[ab][ag][bb][be][bg][cb][cf][cg][db][dd][de][ec][ed](;B[aa]C[Correct])(;B[ba]C[Correct])(;B[ca]C[Correct]))"
     },
     {
         "id": 2501,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cc][cd][db][de][eb][ed][fd][hc]AW[bb][bc][bd][cb][dc][ec][fc]((;B[fb];W[gc];B[gd];W[gb];B[hb];W[da](;B[dd]C[Correct])(;B[ga]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cc][cd][db][de][eb][ed][fd][hc]AW[bb][bc][bd][cb][dc][ec][fc](;B[fb];W[gc];B[gd];W[gb];B[hb];W[da](;B[dd]C[Correct])(;B[ga]C[Correct])))"
     },
     {
         "id": 2502,
@@ -17537,7 +17537,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][cc][cd][ce][df][eb][ee][ef][ge][gf]AW[bd][be][cf][cg][dd][de][ec][fb][gd][hb][hd]((;B[fc];W[fd];B[ed];W[gc](;B[db]C[Correct])(;B[dc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][cc][cd][ce][df][eb][ee][ef][ge][gf]AW[bd][be][cf][cg][dd][de][ec][fb][gd][hb][hd](;B[fc];W[fd];B[ed];W[gc](;B[db]C[Correct])(;B[dc]C[Correct])))"
     },
     {
         "id": 2504,
@@ -17705,7 +17705,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][bf][cb][cf][db][dc][dd][de][df]AW[ae][ba][bb][be][cc][cd][ce]((;B[bc];W[ab](;B[af]C[Correct])(;B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][bf][cb][cf][db][dc][dd][de][df]AW[ae][ba][bb][be][cc][cd][ce](;B[bc];W[ab](;B[af]C[Correct])(;B[ca]C[Correct])))"
     },
     {
         "id": 2528,
@@ -17754,7 +17754,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bf][bg][cf][db][dc][de][ee][fc][fe][gb]AW[ac][ad][af][bb][bc][be][cb][cc][ce][dd]((;B[ca];W[cd];B[ba]C[Correct])(;B[cd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bf][bg][cf][db][dc][de][ee][fc][fe][gb]AW[ac][ad][af][bb][bc][be][cb][cc][ce][dd](;B[ca];W[cd];B[ba]C[Correct])(;B[cd]C[Correct]))"
     },
     {
         "id": 2535,
@@ -17817,7 +17817,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bg][cb][cc][cg][cj][dh]AW[cd][ce][cf][db][dc][dg][ec][ed][eg]((;B[ad];W[bf];B[af]C[Correct])(;B[af];W[ae];B[be];W[bd];B[ad];W[bf];B[ae]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bg][cb][cc][cg][cj][dh]AW[cd][ce][cf][db][dc][dg][ec][ed][eg](;B[ad];W[bf];B[af]C[Correct])(;B[af];W[ae];B[be];W[bd];B[ad];W[bf];B[ae]C[Correct]))"
     },
     {
         "id": 2544,
@@ -17838,21 +17838,21 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bc][bd][cc][cd][dd][ea][eb][ec]AW[ab][ac][bb][cb][da][db][dc][ed][fd][gb][gc]((;B[ba];W[fa](;B[aa]C[Correct])(;B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bc][bd][cc][cd][dd][ea][eb][ec]AW[ab][ac][bb][cb][da][db][dc][ed][fd][gb][gc](;B[ba];W[fa](;B[aa]C[Correct])(;B[ca]C[Correct])))"
     },
     {
         "id": 2547,
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][bb][bg][cc][cg][dc][dd][df][eb][ef][fc]AW[ac][ae][bc][bf][cb][cd][ce][db]((;B[bd];W[ad](;B[ba]C[Correct])(;B[ca]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][bb][bg][cc][cg][dc][dd][df][eb][ef][fc]AW[ac][ae][bc][bf][cb][cd][ce][db](;B[bd];W[ad](;B[ba]C[Correct])(;B[ca]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 2548,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][cb][cc][cd][de][ee][fa][fc][fd][fe][gb][gc][ha]AW[ba][bb][bc][bd][be][ce][db][dd][eb][ec][ed][fb]((;B[da]C[Correct])(;B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][cb][cc][cd][de][ee][fa][fc][fd][fe][gb][gc][ha]AW[ba][bb][bc][bd][be][ce][db][dd][eb][ec][ed][fb](;B[da]C[Correct])(;B[ea]C[Correct]))"
     },
     {
         "id": 2549,
@@ -17873,7 +17873,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cd][ce][dc][de][df][ee][fe][ga][gb][gc][gd][ge]AW[bc][bd][be][cc][cf][cg][db][dg][ed][ef][fb][fc][fd]((;B[eb];W[ec](;B[dd];W[ea];B[fa]C[Correct])(;B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cd][ce][dc][de][df][ee][fe][ga][gb][gc][gd][ge]AW[bc][bd][be][cc][cf][cg][db][dg][ed][ef][fb][fc][fd](;B[eb];W[ec](;B[dd];W[ea];B[fa]C[Correct])(;B[fa]C[Correct])))"
     },
     {
         "id": 2552,
@@ -17929,7 +17929,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cb][cc][ec][ee][ef][fc][ge][hb][he][jc]AW[bb][bc][cd][db][dd][df][dg][fb][gb][gc][gd]((;B[dc];W[ca];B[eb];W[ea];B[da]C[Correct])(;B[eb];W[ea];B[dc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cb][cc][ec][ee][ef][fc][ge][hb][he][jc]AW[bb][bc][cd][db][dd][df][dg][fb][gb][gc][gd](;B[dc];W[ca];B[eb];W[ea];B[da]C[Correct])(;B[eb];W[ea];B[dc]C[Correct]))"
     },
     {
         "id": 2560,
@@ -17978,7 +17978,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ag][bc][bd][be][bg][ce][cf][cg]AW[ah][bb][bh][cb][cc][cd][ch][dd][de][df][dg]((;B[ac];W[ae];B[af]C[Correct])(;B[af]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ag][bc][bd][be][bg][ce][cf][cg]AW[ah][bb][bh][cb][cc][cd][ch][dd][de][df][dg](;B[ac];W[ae];B[af]C[Correct])(;B[af]C[Correct]))"
     },
     {
         "id": 2567,
@@ -18013,7 +18013,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[be][ca][cb][ce][da][dd][de][eb][ec]AW[bb][bd][cc][cd][db][dc][ed][fd][gb][gc]((;B[ac]C[Correct])(;B[ad]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[be][ca][cb][ce][da][dd][de][eb][ec]AW[bb][bd][cc][cd][db][dc][ed][fd][gb][gc](;B[ac]C[Correct])(;B[ad]C[Correct]))"
     },
     {
         "id": 2572,
@@ -18027,7 +18027,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ba][bd][be][ca][ce][ch][da][de][ea][eb][ec][ed]AW[ab][bb][cc][cd][db][dd][ee][ef][fa][fb][fc][fd]((;B[ac];W[cb];B[bc]C[Correct])(;B[bc];W[cb];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ba][bd][be][ca][ce][ch][da][de][ea][eb][ec][ed]AW[ab][bb][cc][cd][db][dd][ee][ef][fa][fb][fc][fd](;B[ac];W[cb];B[bc]C[Correct])(;B[bc];W[cb];B[ac]C[Correct]))"
     },
     {
         "id": 2574,
@@ -18041,7 +18041,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][be][ce][db][dc][dd][fd]AW[bc][bd][bg][cb][cd][de][dg][ee]((;B[bb];W[bf](;B[ad];W[cf];B[ae];W[af];B[ac]C[Correct])(;B[ae]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][be][ce][db][dc][dd][fd]AW[bc][bd][bg][cb][cd][de][dg][ee](;B[bb];W[bf](;B[ad];W[cf];B[ae];W[af];B[ac]C[Correct])(;B[ae]C[Correct])))"
     },
     {
         "id": 2576,
@@ -18062,14 +18062,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][af][ba][bf][ca][ce][cf][da][db][dc][dd][df][eb][fb]AW[ab][bb][bd][be][cb][cc][cd][de][ec][ed][ee][fc][gb][gc]((;B[ad];W[fa];B[ae]C[Correct])(;B[ae];W[fa];B[ad]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][af][ba][bf][ca][ce][cf][da][db][dc][dd][df][eb][fb]AW[ab][bb][bd][be][cb][cc][cd][de][ec][ed][ee][fc][gb][gc](;B[ad];W[fa];B[ae]C[Correct])(;B[ae];W[fa];B[ad]C[Correct]))"
     },
     {
         "id": 2579,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][ae][be][cc][ce][db][dc][de][ed][ee]AW[aa][ab][ac][bc][bd][ca][cb][cd][dd][ec][fb][fc][fd]((;B[ba];W[bb];B[da]C[Correct])(;B[bb];W[ba];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][ae][be][cc][ce][db][dc][de][ed][ee]AW[aa][ab][ac][bc][bd][ca][cb][cd][dd][ec][fb][fc][fd](;B[ba];W[bb];B[da]C[Correct])(;B[bb];W[ba];B[da]C[Correct]))"
     },
     {
         "id": 2580,
@@ -18097,7 +18097,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ab][bc][bd][ca][cb][ce][dd][de][ee][fc]AW[ad][be][bf][cc][cd][cg][db][dc][eb][ed][hb][hc][hd]((;B[fb];W[fd];B[ec];W[gc](;B[da]C[Correct])(;B[ea]C[Correct])(;B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ab][bc][bd][ca][cb][ce][dd][de][ee][fc]AW[ad][be][bf][cc][cd][cg][db][dc][eb][ed][hb][hc][hd](;B[fb];W[fd];B[ec];W[gc](;B[da]C[Correct])(;B[ea]C[Correct])(;B[fa]C[Correct])))"
     },
     {
         "id": 2584,
@@ -18118,7 +18118,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cc][cd][db][dd][ed][fd][gd][hc]AW[bb][bc][bd][cb][ce][dc][ec][fc][gc]((;B[eb];W[fb](;B[fa]C[Correct])(;B[gb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cc][cd][db][dd][ed][fd][gd][hc]AW[bb][bc][bd][cb][ce][dc][ec][fc][gc](;B[eb];W[fb](;B[fa]C[Correct])(;B[gb]C[Correct])))"
     },
     {
         "id": 2587,
@@ -18132,7 +18132,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ac][ae][bc][be][ce][df][eb][ef][fa][fb][fc][fd][fe]AW[ab][ad][bd][cd][da][db][dc][de][ea][ec][ed][ee]((;B[cc];W[dd](;B[ca]C[Correct])(;B[cb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ac][ae][bc][be][ce][df][eb][ef][fa][fb][fc][fd][fe]AW[ab][ad][bd][cd][da][db][dc][de][ea][ec][ed][ee](;B[cc];W[dd](;B[ca]C[Correct])(;B[cb]C[Correct])))"
     },
     {
         "id": 2589,
@@ -18167,7 +18167,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][dc][ec][fb][fc][fe]AW[ad][bc][cb][cd][ce][cg][db][eb]((;B[ba];W[ab](;B[ca]C[Correct])(;B[da]C[Correct])(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][dc][ec][fb][fc][fe]AW[ad][bc][cb][cd][ce][cg][db][eb](;B[ba];W[ab](;B[ca]C[Correct])(;B[da]C[Correct])(;B[ea]C[Correct])))"
     },
     {
         "id": 2594,
@@ -18188,7 +18188,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cc][dd][ed][fa][fc][fd][gb]AW[ba][bd][cb][cd][cf][cg][dc][de][eb][ec][fb][gc][hc]((;B[ea];W[db](;B[ca]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cc][dd][ed][fa][fc][fd][gb]AW[ba][bd][cb][cd][cf][cg][dc][de][eb][ec][fb][gc][hc](;B[ea];W[db](;B[ca]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 2597,
@@ -18244,7 +18244,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][cc][cd][dd][ec][fc]AW[bb][bd][be][ce][de]((;B[ac]C[Correct])(;B[ad]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][cc][cd][dd][ec][fc]AW[bb][bd][be][ce][de](;B[ac]C[Correct])(;B[ad]C[Correct]))"
     },
     {
         "id": 2605,
@@ -18293,7 +18293,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][be][ca][cd][ce][da][db][dc]AW[ab][ad][bd][cb][cc][dd][eb][ec][ed]((;B[bb];W[bc](;B[ac]C[Correct])(;B[ba];W[ea];B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][be][ca][cd][ce][da][db][dc]AW[ab][ad][bd][cb][cc][dd][eb][ec][ed](;B[bb];W[bc](;B[ac]C[Correct])(;B[ba];W[ea];B[ac]C[Correct])))"
     },
     {
         "id": 2612,
@@ -18342,7 +18342,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][ac][ba][bb][cb][cc][dc][ed][fd][gb][gc][gd]AW[ad][bc][bd][be][cd][da][db][dd][de][ec][fa][fb][fc]((;B[ea];W[eb];B[ga]C[Correct])(;B[eb];W[ea];B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ab][ac][ba][bb][cb][cc][dc][ed][fd][gb][gc][gd]AW[ad][bc][bd][be][cd][da][db][dd][de][ec][fa][fb][fc](;B[ea];W[eb];B[ga]C[Correct])(;B[eb];W[ea];B[ga]C[Correct]))"
     },
     {
         "id": 2619,
@@ -18356,7 +18356,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ac][bc][cb][cc][dd][ec][ed]AW[ad][bd][cd][cf][db][dc][eb][gc][gd]((;B[fb];W[fc](;B[da]C[Correct])(;B[ea]C[Correct])(;B[gb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ac][bc][cb][cc][dd][ec][ed]AW[ad][bd][cd][cf][db][dc][eb][gc][gd](;B[fb];W[fc](;B[da]C[Correct])(;B[ea]C[Correct])(;B[gb]C[Correct])))"
     },
     {
         "id": 2621,
@@ -18461,7 +18461,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[eb][fa][fb][gb][gc][ha][hd][ja][jd][kc][lb][lc]AW[db][dc][ec][fc][gd][ge][hb][hc][jb][ka][kb]((;B[jc];W[ga];B[ha]C[Correct])(;B[la];W[ga];B[ha];W[ja];B[jc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[eb][fa][fb][gb][gc][ha][hd][ja][jd][kc][lb][lc]AW[db][dc][ec][fc][gd][ge][hb][hc][jb][ka][kb](;B[jc];W[ga];B[ha]C[Correct])(;B[la];W[ga];B[ha];W[ja];B[jc]C[Correct]))"
     },
     {
         "id": 2636,
@@ -18608,7 +18608,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bh][cf][ch][db][dc][dg][ed][ee][ef][eg]AW[bf][bg][cg][cj][dd][de][df][dh][dj][ec][fc][gd]((;B[be];W[ce];B[cd]C[Correct])(;B[cd];W[ce];B[be];W[cf](;B[af]C[Correct])(;B[ag]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bh][cf][ch][db][dc][dg][ed][ee][ef][eg]AW[bf][bg][cg][cj][dd][de][df][dh][dj][ec][fc][gd](;B[be];W[ce];B[cd]C[Correct])(;B[cd];W[ce];B[be];W[cf](;B[af]C[Correct])(;B[ag]C[Correct])))"
     },
     {
         "id": 2657,
@@ -18622,7 +18622,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ac][ba][bb][bc][bg][cb][cd][ce][cf][cg][ck][dh][dj]AW[af][ah][bd][be][bh][cc][ch][dc][df][dg][ed][ff]((;B[ae];W[ag];B[bf]C[Correct])(;B[bf];W[ag];B[ae];W[ad];B[ae]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ac][ba][bb][bc][bg][cb][cd][ce][cf][cg][ck][dh][dj]AW[af][ah][bd][be][bh][cc][ch][dc][df][dg][ed][ff](;B[ae];W[ag];B[bf]C[Correct])(;B[bf];W[ag];B[ae];W[ad];B[ae]C[Correct]))"
     },
     {
         "id": 2659,
@@ -18692,7 +18692,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][ba][bd][cd][dd][ea][ed][fa][fb][fc][fd]AW[ac][bc][ca][cc][da][dc][eb][ec]((;B[cb];W[db](;B[ab]C[Correct])(;B[bb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][ba][bd][cd][dd][ea][ed][fa][fb][fc][fd]AW[ac][bc][ca][cc][da][dc][eb][ec](;B[cb];W[db](;B[ab]C[Correct])(;B[bb]C[Correct])))"
     },
     {
         "id": 2669,
@@ -18741,14 +18741,14 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][bc][bd][cd][dd][ec][fc][gc][ha][hb][hc]AW[ca][cb][cc][dc][eb][fb][ga][gb]((;B[da];W[db];B[ea]C[Correct])(;B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][bc][bd][cd][dd][ec][fc][gc][ha][hb][hc]AW[ca][cb][cc][dc][eb][fb][ga][gb](;B[da];W[db];B[ea]C[Correct])(;B[ea]C[Correct]))"
     },
     {
         "id": 2676,
         "title": "死活题：黑先，死活问题，净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先，死活问题，净活]AB[dc][ec][fc][gd][ge][hb][hc]AW[cc][db][dd][ed][fd][gb][gc]((;B[fb];W[eb](;B[fa]C[Correct])(;B[ga]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先，死活问题，净活]AB[dc][ec][fc][gd][ge][hb][hc]AW[cc][db][dd][ed][fd][gb][gc](;B[fb];W[eb](;B[fa]C[Correct])(;B[ga]C[Correct])))"
     },
     {
         "id": 2677,
@@ -18790,14 +18790,14 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ac][aj][bc][bj][cb][cd][ch][dd][dg][dh][ee][ef]AW[ad][ah][bd][bf][bh][ce][cg]((;B[af];W[ae];B[be]C[Correct])(;B[df];W[cf];B[af];W[ae];B[be]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ac][aj][bc][bj][cb][cd][ch][dd][dg][dh][ee][ef]AW[ad][ah][bd][bf][bh][ce][cg](;B[af];W[ae];B[be]C[Correct])(;B[df];W[cf];B[af];W[ae];B[be]C[Correct]))"
     },
     {
         "id": 2683,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][bc][be][cd][ce][cg][ch][ck][df][ef]AW[ad][bb][bf][bg][cc][cf][dc][dd][de]((;B[ag];W[ah];B[bh];W[af];B[ag]C[Correct])(;B[bh];W[af];B[ag]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][bc][be][cd][ce][cg][ch][ck][df][ef]AW[ad][bb][bf][bg][cc][cf][dc][dd][de](;B[ag];W[ah];B[bh];W[af];B[ag]C[Correct])(;B[bh];W[af];B[ag]C[Correct]))"
     },
     {
         "id": 2684,
@@ -18839,7 +18839,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][cd][da][dd][eb][ec][ee][fe][gb][gd][ge][hb][hd]AW[ba][bb][bc][bd][ca][ce][de][ed][fa][fb][fc][fd]((;B[ga]C[Correct])(;B[gc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][cd][da][dd][eb][ec][ee][fe][gb][gd][ge][hb][hd]AW[ba][bb][bc][bd][ca][ce][de][ed][fa][fb][fc][fd](;B[ga]C[Correct])(;B[gc]C[Correct]))"
     },
     {
         "id": 2690,
@@ -18888,7 +18888,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ae][be][cb][cd][ce][da][db][dc][de][eb][ee][fb]AW[ad][ba][bb][bc][bd][ca][cc][dd][ec][ed][fc][gb][gc]((;B[aa]C[Correct])(;B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ae][be][cb][cd][ce][da][db][dc][de][eb][ee][fb]AW[ad][ba][bb][bc][bd][ca][cc][dd][ec][ed][fc][gb][gc](;B[aa]C[Correct])(;B[ac]C[Correct]))"
     },
     {
         "id": 2697,
@@ -18965,7 +18965,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][cc][cd][de][ee][fd]AW[bd][be][cb][ce][cf][db][dd][ed][gb][gc][hc]((;B[eb];W[fc];B[ec];W[dc](;B[ca]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][cc][cd][de][ee][fd]AW[bd][be][cb][ce][cf][db][dd][ed][gb][gc][hc](;B[eb];W[fc];B[ec];W[dc](;B[ca]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 2708,
@@ -18986,7 +18986,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[fc][gb][gd][gg][hd][hg][jc][jf][jh][kh][lh]AW[eb][ec][ed][fd][ge][hf][jg][kb][kg][lc][le][lg]((;B[fe];W[ff];B[gf];W[ee](;B[he]C[Correct])(;B[je]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[fc][gb][gd][gg][hd][hg][jc][jf][jh][kh][lh]AW[eb][ec][ed][fd][ge][hf][jg][kb][kg][lc][le][lg](;B[fe];W[ff];B[gf];W[ee](;B[he]C[Correct])(;B[je]C[Correct])))"
     },
     {
         "id": 2711,
@@ -19007,7 +19007,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bd][cd][dc][dd][eb][ec][fe][gd]AW[bb][bf][cb][cc][cf][db][ea][ef][fb][ff][hc][hd][he]((;B[gb];W[gc];B[fc];W[ga];B[fa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bd][cd][dc][dd][eb][ec][fe][gd]AW[bb][bf][cb][cc][cf][db][ea][ef][fb][ff][hc][hd][he](;B[gb];W[gc];B[fc];W[ga];B[fa]C[Correct]))"
     },
     {
         "id": 2714,
@@ -19021,14 +19021,14 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bd][bf][cb][cc][cf][dd][de][ef][ff]AW[ad][bb][bc][be][bh][ce][cg][df][dg][eg]((;B[cd];W[ae](;B[ac];W[ab];B[af]C[Correct])(;B[af]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bd][bf][cb][cc][cf][dd][de][ef][ff]AW[ad][bb][bc][be][bh][ce][cg][df][dg][eg](;B[cd];W[ae](;B[ac];W[ab];B[af]C[Correct])(;B[af]C[Correct])))"
     },
     {
         "id": 2716,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bc][cb][cc][cd][dc][ed][fc][fd][gb][gc]AW[ac][ae][bd][bf][ce][da][db][dd][de][eb][ec][fb]((;B[ca]C[Correct])(;B[ea];W[ab];B[ca]C[Correct])(;B[fa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bc][cb][cc][cd][dc][ed][fc][fd][gb][gc]AW[ac][ae][bd][bf][ce][da][db][dd][de][eb][ec][fb](;B[ca]C[Correct])(;B[ea];W[ab];B[ca]C[Correct])(;B[fa]C[Correct]))"
     },
     {
         "id": 2717,
@@ -19154,7 +19154,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][be][cc][ce][db][dc][de][ed][ee]AW[ac][ad][bb][bd][cd][dd][eb][ec][fc][fd]((;B[ab];W[aa];B[ae];W[ab](;B[ca]C[Correct])(;B[cb];W[da];B[ba]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][be][cc][ce][db][dc][de][ed][ee]AW[ac][ad][bb][bd][cd][dd][eb][ec][fc][fd](;B[ab];W[aa];B[ae];W[ab](;B[ca]C[Correct])(;B[cb];W[da];B[ba]C[Correct])))"
     },
     {
         "id": 2735,
@@ -19217,21 +19217,21 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[da][db][dc][dd][ee][fe][ga][gb][ge][hb][hc][hd][he]AW[bb][ca][cc][cd][ce][de][eb][ec][ed][fb][fd][gc][gd]((;B[ea];W[fa];B[fc]C[Correct])(;B[fa];W[cb];B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[da][db][dc][dd][ee][fe][ga][gb][ge][hb][hc][hd][he]AW[bb][ca][cc][cd][ce][de][eb][ec][ed][fb][fd][gc][gd](;B[ea];W[fa];B[fc]C[Correct])(;B[fa];W[cb];B[ea]C[Correct]))"
     },
     {
         "id": 2744,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cc][dc][ec][ed][fa][fe][ff][gc][gd][jd][kc]AW[bc][bd][dd][de][ee][eg][fb][fc][fd][gb][ge][gf][gg]((;B[hb];W[ef](;B[eb];W[fg];B[ga]C[Correct])(;B[ga]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cc][dc][ec][ed][fa][fe][ff][gc][gd][jd][kc]AW[bc][bd][dd][de][ee][eg][fb][fc][fd][gb][ge][gf][gg](;B[hb];W[ef](;B[eb];W[fg];B[ga]C[Correct])(;B[ga]C[Correct])))"
     },
     {
         "id": 2745,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cb][cc][cd][de][ed][ee]AW[bd][be][ce][cg][dc][dd][df][eb][ef]((;B[ec];W[db];B[fb];W[bb](;B[ba];W[bc];B[ca]C[Correct])(;B[ca]C[Correct])(;B[da]C[Correct])(;B[ea]C[Correct]))(;B[fb];W[fc];B[ec]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cb][cc][cd][de][ed][ee]AW[bd][be][ce][cg][dc][dd][df][eb][ef](;B[ec];W[db];B[fb];W[bb](;B[ba];W[bc];B[ca]C[Correct])(;B[ca]C[Correct])(;B[da]C[Correct])(;B[ea]C[Correct]))(;B[fb];W[fc];B[ec]C[Correct]))"
     },
     {
         "id": 2746,
@@ -19294,7 +19294,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][ba][bd][be][cb][cc][ce][db][de][eb][ee]AW[bb][bc][ca][cd][dc][dd][ea][fa][fb][fc][fd]((;B[ab];W[aa];B[ac]C[Correct])(;B[ac];W[aa];B[ab];W[ba];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][ba][bd][be][cb][cc][ce][db][de][eb][ee]AW[bb][bc][ca][cd][dc][dd][ea][fa][fb][fc][fd](;B[ab];W[aa];B[ac]C[Correct])(;B[ac];W[aa];B[ab];W[ba];B[da]C[Correct]))"
     },
     {
         "id": 2755,
@@ -19308,7 +19308,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ba][be][ca][cb][ce][dc][de][df][ea][eb][ec][ed][fc]AW[ab][ad][bb][bd][cc][cd][dd][ee][fa][fb][fd][fe][gb][gc][gd]((;B[ac];W[db];B[da];W[bc];B[ae]C[Correct])(;B[bc];W[db];B[da];W[ac];B[ae]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ba][be][ca][cb][ce][dc][de][df][ea][eb][ec][ed][fc]AW[ab][ad][bb][bd][cc][cd][dd][ee][fa][fb][fd][fe][gb][gc][gd](;B[ac];W[db];B[da];W[bc];B[ae]C[Correct])(;B[bc];W[db];B[da];W[ac];B[ae]C[Correct]))"
     },
     {
         "id": 2757,
@@ -19322,7 +19322,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][cd][dd][eb][ed][fc][fe][gc][hb][hc]AW[bd][be][ca][cb][cc][ce][da][de][ea][fb][gb][ha][jb][jc][jd]((;B[db];W[ga];B[dc]C[Correct])(;B[dc];W[ga];B[db];W[ja];B[fa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][cd][dd][eb][ed][fc][fe][gc][hb][hc]AW[bd][be][ca][cb][cc][ce][da][de][ea][fb][gb][ha][jb][jc][jd](;B[db];W[ga];B[dc]C[Correct])(;B[dc];W[ga];B[db];W[ja];B[fa]C[Correct]))"
     },
     {
         "id": 2759,
@@ -19336,7 +19336,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ac][ae][bd][be][cd][da][dc][eb][ec][fc]AW[aa][ba][bb][bc][bf][cc][cf][db][dd][de]((;B[ca];W[ad];B[ac]C[Correct])(;B[cb];W[ad];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ac][ae][bd][be][cd][da][dc][eb][ec][fc]AW[aa][ba][bb][bc][bf][cc][cf][db][dd][de](;B[ca];W[ad];B[ac]C[Correct])(;B[cb];W[ad];B[ac]C[Correct]))"
     },
     {
         "id": 2761,
@@ -19385,7 +19385,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][cb][dc][ec][fc][gb][gc][hc][jc]AW[cc][cd][db][dd][de][ea][eb][fb][fe][ga][hb][he][jb][kc][kd]((;B[ca];W[kb];B[da];W[ha];B[fa]C[Correct])(;B[ha];W[ja];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][cb][dc][ec][fc][gb][gc][hc][jc]AW[cc][cd][db][dd][de][ea][eb][fb][fe][ga][hb][he][jb][kc][kd](;B[ca];W[kb];B[da];W[ha];B[fa]C[Correct])(;B[ha];W[ja];B[ca]C[Correct]))"
     },
     {
         "id": 2768,
@@ -19413,7 +19413,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ae][bc][be][cb][cc][ce][dc][dd][de]AW[af][bb][bf][ca][cf][db][df][ec][ed][ee][fb]((;B[ac];W[ba];B[bd]C[Correct])(;B[ba];W[aa];B[ac];W[da];B[bd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ae][bc][be][cb][cc][ce][dc][dd][de]AW[af][bb][bf][ca][cf][db][df][ec][ed][ee][fb](;B[ac];W[ba];B[bd]C[Correct])(;B[ba];W[aa];B[ac];W[da];B[bd]C[Correct]))"
     },
     {
         "id": 2772,
@@ -19434,7 +19434,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ad][bb][bd][be][ce][de][ec][ed][fc][gc][gd]AW[bc][bf][cb][cc][cd][cf][db][dc][dd][df][ee][fd][fe]((;B[ab]C[Correct])(;B[eb];W[ba];B[ab];W[ca];B[ea];W[af];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ad][bb][bd][be][ce][de][ec][ed][fc][gc][gd]AW[bc][bf][cb][cc][cd][cf][db][dc][dd][df][ee][fd][fe](;B[ab]C[Correct])(;B[eb];W[ba];B[ab];W[ca];B[ea];W[af];B[da]C[Correct]))"
     },
     {
         "id": 2775,
@@ -19455,7 +19455,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[be][bf][cb][cd][dd][eb][ec][ed][fe][ff]AW[bc][bd][cc][ce][de][ea][ee][fb][fc][fd]((;B[db];W[bb](;B[cf];W[ca];B[df]C[Correct])(;B[df]C[Correct])(;B[ef]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[be][bf][cb][cd][dd][eb][ec][ed][fe][ff]AW[bc][bd][cc][ce][de][ea][ee][fb][fc][fd](;B[db];W[bb](;B[cf];W[ca];B[df]C[Correct])(;B[df]C[Correct])(;B[ef]C[Correct])))"
     },
     {
         "id": 2778,
@@ -19476,14 +19476,14 @@ const problems = [
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ba][bc][cb][cc][cd][dd][ee][fa][fe][ga][gb][gd][ge][hb][hc]AW[ab][ac][bd][be][ce][db][dc][de][ea][ed][fb][fc][fd][gc]((;B[eb];W[ec];B[da]C[Correct])(;B[ec];W[eb];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ba][bc][cb][cc][cd][dd][ee][fa][fe][ga][gb][gd][ge][hb][hc]AW[ab][ac][bd][be][ce][db][dc][de][ea][ed][fb][fc][fd][gc](;B[eb];W[ec];B[da]C[Correct])(;B[ec];W[eb];B[da]C[Correct]))"
     },
     {
         "id": 2781,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bd][cd][da][dd][eb][ed][fc]AW[ab][bb][cc][db][dc][fa][fb][gb][gc][gd]((;B[ea];W[fd];B[ec]C[Correct])(;B[ec]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bd][cd][da][dd][eb][ed][fc]AW[ab][bb][cc][db][dc][fa][fb][gb][gc][gd](;B[ea];W[fd];B[ec]C[Correct])(;B[ec]C[Correct]))"
     },
     {
         "id": 2782,
@@ -19532,14 +19532,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][be][ca][cb][cc][cf][dc][eb][fa]AW[ba][bb][bc][cd][dd][ed][fb][fc][ga]((;B[aa]C[Correct])(;B[ab]C[Correct])(;B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][be][ca][cb][cc][cf][dc][eb][fa]AW[ba][bb][bc][cd][dd][ed][fb][fc][ga](;B[aa]C[Correct])(;B[ab]C[Correct])(;B[ac]C[Correct]))"
     },
     {
         "id": 2789,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cd][dd][ec][ed][ee][fb][fc]AW[ac][bd][be][ca][cb][cc][ce][dc][de][ea][eb]((;B[da];W[db];B[fa]C[Correct])(;B[db];W[da];B[fa];W[ab];B[db]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cd][dd][ec][ed][ee][fb][fc]AW[ac][bd][be][ca][cb][cc][ce][dc][de][ea][eb](;B[da];W[db];B[fa]C[Correct])(;B[db];W[da];B[fa];W[ab];B[db]C[Correct]))"
     },
     {
         "id": 2790,
@@ -19637,7 +19637,7 @@ const problems = [
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[bd][be][ca][cb][cc][ce][dc][eb][fa]AW[ba][bb][bc][cd][db][dd][ec][ed][fb][fc][hb]((;B[da];W[ga](;B[aa]C[Correct])(;B[ab]C[Correct])(;B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[bd][be][ca][cb][cc][ce][dc][eb][fa]AW[ba][bb][bc][cd][db][dd][ec][ed][fb][fc][hb](;B[da];W[ga](;B[aa]C[Correct])(;B[ab]C[Correct])(;B[ac]C[Correct])))"
     },
     {
         "id": 2804,
@@ -19749,7 +19749,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][be][cc][ce][da][db][dc][de][ed][ee]AW[ab][ad][ba][bd][cd][dd][ea][eb][ec][fc][fd]((;B[bb]C[Correct])(;B[bc];W[ac];B[bb];W[ca];B[aa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][be][cc][ce][da][db][dc][de][ed][ee]AW[ab][ad][ba][bd][cd][dd][ea][eb][ec][fc][fd](;B[bb]C[Correct])(;B[bc];W[ac];B[bb];W[ca];B[aa]C[Correct]))"
     },
     {
         "id": 2820,
@@ -19763,7 +19763,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][bb][be][ce][da][db][dc][de][ed][ee]AW[ab][ad][bd][cb][cd][dd][ea][eb][ec][fc][fd]((;B[cc];W[ba](;B[bc]C[Correct])(;B[ca];W[bc];B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][bb][be][ce][da][db][dc][de][ed][ee]AW[ab][ad][bd][cb][cd][dd][ea][eb][ec][fc][fd](;B[cc];W[ba](;B[bc]C[Correct])(;B[ca];W[bc];B[ac]C[Correct])))"
     },
     {
         "id": 2822,
@@ -19784,7 +19784,7 @@ const problems = [
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ac][ae][bb][be][ce][db][dc][dd][de][ea][eb]AW[ad][af][ba][bd][bf][ca][cb][cc][cd][cf][df][ef][fa][fb][fc][fd][fe]((;B[aa]C[Correct])(;B[da];W[ee];B[aa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ac][ae][bb][be][ce][db][dc][dd][de][ea][eb]AW[ad][af][ba][bd][bf][ca][cb][cc][cd][cf][df][ef][fa][fb][fc][fd][fe](;B[aa]C[Correct])(;B[da];W[ee];B[aa]C[Correct]))"
     },
     {
         "id": 2825,
@@ -19805,7 +19805,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][bc][cc][cd][ce][de][ec][ed][ee][gb][gc][ge]AW[be][cb][cf][cg][db][dc][dd][eb][ef][fc][ff][gd][gf][hc][hd][he][jb]((;B[fb];W[fd](;B[ca];W[hb];B[ea]C[Correct])(;B[da]C[Correct])(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][bc][cc][cd][ce][de][ec][ed][ee][gb][gc][ge]AW[be][cb][cf][cg][db][dc][dd][eb][ef][fc][ff][gd][gf][hc][hd][he][jb](;B[fb];W[fd](;B[ca];W[hb];B[ea]C[Correct])(;B[da]C[Correct])(;B[ea]C[Correct])))"
     },
     {
         "id": 2828,
@@ -19826,14 +19826,14 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bc][ca][cb][dc][eb][ec][ed][fc][gb][gd][ge][hb][hc]AW[ab][bb][bd][cc][cd][da][db][dd][ea][ee][fa][fd][ff][gf][he][hf][jb][jc][jd]((;B[fb];W[aa];B[fe]C[Correct])(;B[fe]C[Correct])(;B[ga];W[aa];B[fe]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bc][ca][cb][dc][eb][ec][ed][fc][gb][gd][ge][hb][hc]AW[ab][bb][bd][cc][cd][da][db][dd][ea][ee][fa][fd][ff][gf][he][hf][jb][jc][jd](;B[fb];W[aa];B[fe]C[Correct])(;B[fe]C[Correct])(;B[ga];W[aa];B[fe]C[Correct]))"
     },
     {
         "id": 2831,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[da][db][ec][fc][ga][gb][gc][gd][he][jd][je][kb][kc]AW[cb][dc][dd][ea][eb][ed][fd][fe][ge][ha][hb][hc][hd]((;B[ja]C[Correct])(;B[jb]C[Correct])(;B[jc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[da][db][ec][fc][ga][gb][gc][gd][he][jd][je][kb][kc]AW[cb][dc][dd][ea][eb][ed][fd][fe][ge][ha][hb][hc][hd](;B[ja]C[Correct])(;B[jb]C[Correct])(;B[jc]C[Correct]))"
     },
     {
         "id": 2832,
@@ -19889,14 +19889,14 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bd][be][cf][eb][ed][ef][fd][ff]AW[cd][dd][ec][fb][gc][gd][ge]((;B[fc];W[gb](;B[db]C[Correct])(;B[dc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bd][be][cf][eb][ed][ef][fd][ff]AW[cd][dd][ec][fb][gc][gd][ge](;B[fc];W[gb](;B[db]C[Correct])(;B[dc]C[Correct])))"
     },
     {
         "id": 2840,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bd][cd][dc][ec]AW[bc][bf][cb][cc][dd][de]((;B[ac];W[ba];B[ab];W[ca];B[db];W[be](;B[ad];W[ce];B[da];W[ae];B[aa]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bd][cd][dc][ec]AW[bc][bf][cb][cc][dd][de](;B[ac];W[ba];B[ab];W[ca];B[db];W[be](;B[ad];W[ce];B[da];W[ae];B[aa]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 2841,
@@ -19924,7 +19924,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][cc][cf][dc][dg][ec][ed][eh][fe][ff]AW[bb][bd][cb][cd][ce][db][dd][df][eb][ee][ef][fc][fd]((;B[eg];W[de](;B[ad]C[Correct])(;B[be]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][cc][cf][dc][dg][ec][ed][eh][fe][ff]AW[bb][bd][cb][cd][ce][db][dd][df][eb][ee][ef][fc][fd](;B[eg];W[de](;B[ad]C[Correct])(;B[be]C[Correct])))"
     },
     {
         "id": 2845,
@@ -19980,7 +19980,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bd][be][bf][ca][cb][cc][dd][eb][ed][fc][gb][gc][gd]AW[ba][bb][bc][cd][ce][da][dc][de][ee][fb][fd][fe]((;B[db];W[ec](;B[ea]C[Correct])(;B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bd][be][bf][ca][cb][cc][dd][eb][ed][fc][gb][gc][gd]AW[ba][bb][bc][cd][ce][da][dc][de][ee][fb][fd][fe](;B[db];W[ec](;B[ea]C[Correct])(;B[fa]C[Correct])))"
     },
     {
         "id": 2853,
@@ -20043,14 +20043,14 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ff][fg][gc][gd][ge][gg][hc][hg][jd][jg]AW[fc][fd][fe][gb][gf][hb][hd][hf][jb][kc][kd][ke]((;B[je]C[Correct])(;B[jf];W[je];B[he]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ff][fg][gc][gd][ge][gg][hc][hg][jd][jg]AW[fc][fd][fe][gb][gf][hb][hd][hf][jb][kc][kd][ke](;B[je]C[Correct])(;B[jf];W[je];B[he]C[Correct]))"
     },
     {
         "id": 2862,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cd][de][ea][ee][fa][fb][fe][gb][gc][gd]AW[cc][da][db][dc][eb][ed][fc][fd][ge][hb][hd][he]((;B[dd];W[ec](;B[ca];W[hc];B[cb]C[Correct])(;B[cb];W[hc];B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cd][de][ea][ee][fa][fb][fe][gb][gc][gd]AW[cc][da][db][dc][eb][ed][fc][fd][ge][hb][hd][he](;B[dd];W[ec](;B[ca];W[hc];B[cb]C[Correct])(;B[cb];W[hc];B[ca]C[Correct])))"
     },
     {
         "id": 2863,
@@ -20064,7 +20064,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][bb][bd][be][cc][cd]AW[ae][bf][cb][ce][cf][db][dc][dd]((;B[ba];W[af];B[ad];W[ab];B[aa]C[Correct])(;B[ca];W[da];B[ba];W[af];B[ad]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][bb][bd][be][cc][cd]AW[ae][bf][cb][ce][cf][db][dc][dd](;B[ba];W[af];B[ad];W[ab];B[aa]C[Correct])(;B[ca];W[da];B[ba];W[af];B[ad]C[Correct]))"
     },
     {
         "id": 2865,
@@ -20120,7 +20120,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ad][bb][bc][bd][cd][dd][ed][fe][gb][gc][gd][ge]AW[ae][ba][be][ca][cc][ce][db][dc][de][ea][eb][ec][ee][fc][fd]((;B[cb];W[da](;B[fa]C[Correct])(;B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ad][bb][bc][bd][cd][dd][ed][fe][gb][gc][gd][ge]AW[ae][ba][be][ca][cc][ce][db][dc][de][ea][eb][ec][ee][fc][fd](;B[cb];W[da](;B[fa]C[Correct])(;B[fb]C[Correct])))"
     },
     {
         "id": 2873,
@@ -20148,7 +20148,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][af][bb][bf][ca][ce][cg][da][db][dc][dd][de]AW[ac][ae][ba][bc][be][cb][cc][cd]((;B[ad];W[aa](;B[ab];W[bd];B[bb]C[Correct])(;B[bb];W[ab];B[bd]C[Correct])(;B[bd]C[Correct]))(;B[bd];W[aa](;B[ab];W[bb];B[ad]C[Correct])(;B[ad]C[Correct])(;B[bb];W[ab];B[ad]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][af][bb][bf][ca][ce][cg][da][db][dc][dd][de]AW[ac][ae][ba][bc][be][cb][cc][cd](;B[ad];W[aa](;B[ab];W[bd];B[bb]C[Correct])(;B[bb];W[ab];B[bd]C[Correct])(;B[bd]C[Correct]))(;B[bd];W[aa](;B[ab];W[bb];B[ad]C[Correct])(;B[ad]C[Correct])(;B[bb];W[ab];B[ad]C[Correct])))"
     },
     {
         "id": 2877,
@@ -20239,7 +20239,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bd][bf][ce][da][db][dc][dd][df][ed][fb][fc]AW[ab][bb][ca][cb][cc][cd][de][ee][fa][fd][fe][gb][gc][gd]((;B[aa]C[Correct])(;B[ac]C[Correct])(;B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bd][bf][ce][da][db][dc][dd][df][ed][fb][fc]AW[ab][bb][ca][cb][cc][cd][de][ee][fa][fd][fe][gb][gc][gd](;B[aa]C[Correct])(;B[ac]C[Correct])(;B[ba]C[Correct]))"
     },
     {
         "id": 2890,
@@ -20267,14 +20267,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][bd][be][cd][da][db][dc][fc]AW[ac][ba][bc][bf][cb][cc][cf][dd][de]((;B[ca];W[aa](;B[ab];W[ce];B[bb]C[Correct])(;B[bb];W[ce];B[ab]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][bd][be][cd][da][db][dc][fc]AW[ac][ba][bc][bf][cb][cc][cf][dd][de](;B[ca];W[aa](;B[ab];W[ce];B[bb]C[Correct])(;B[bb];W[ce];B[ab]C[Correct])))"
     },
     {
         "id": 2894,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][cd][dd][ea][ed][fa][fb][fc]AW[ab][bb][cc][da][dc][eb][ec]((;B[cb];W[db](;B[ba];W[ca];B[cb]C[Correct])(;B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][cd][dd][ea][ed][fa][fb][fc]AW[ab][bb][cc][da][dc][eb][ec](;B[cb];W[db](;B[ba];W[ca];B[cb]C[Correct])(;B[ca]C[Correct])))"
     },
     {
         "id": 2895,
@@ -20316,14 +20316,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[aa][ab][ac][ba][bc][cb][db][dc][ed][fb][fd][gc]AW[bd][cc][cd][da][dd][df][ea][eb][ec][ee]((;B[fa]C[Correct])(;B[fc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[aa][ab][ac][ba][bc][cb][db][dc][ed][fb][fd][gc]AW[bd][cc][cd][da][dd][df][ea][eb][ec][ee](;B[fa]C[Correct])(;B[fc]C[Correct]))"
     },
     {
         "id": 2901,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][be][bf][ca][cb][cd][cf][da][dc][eb][ec][ed][fb]AW[ba][bb][bc][cc][ce][dd][de][ee][fa][fc][fd][fe][gb][hc]((;B[aa]C[Correct])(;B[ab]C[Correct])(;B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][be][bf][ca][cb][cd][cf][da][dc][eb][ec][ed][fb]AW[ba][bb][bc][cc][ce][dd][de][ee][fa][fc][fd][fe][gb][hc](;B[aa]C[Correct])(;B[ab]C[Correct])(;B[ac]C[Correct]))"
     },
     {
         "id": 2902,
@@ -20372,14 +20372,14 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][bd][ce][de][ec]AW[be][bf][cb][cc][cd][cf][eb][gb][gc][gd]((;B[db];W[dc](;B[ca];W[da];B[dd];W[db];B[fb]C[Correct])(;B[dd];W[da];B[ca];W[db];B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][bd][ce][de][ec]AW[be][bf][cb][cc][cd][cf][eb][gb][gc][gd](;B[db];W[dc](;B[ca];W[da];B[dd];W[db];B[fb]C[Correct])(;B[dd];W[da];B[ca];W[db];B[fb]C[Correct])))"
     },
     {
         "id": 2909,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][be][cd][cf][db][dc][eb][ed][fc]AW[cb][cc][dd][de][ee][fb][fd][gc]((;B[bb];W[ec](;B[bc]C[Correct])(;B[ca]C[Correct]))(;B[bc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][be][cd][cf][db][dc][eb][ed][fc]AW[cb][cc][dd][de][ee][fb][fd][gc](;B[bb];W[ec](;B[bc]C[Correct])(;B[ca]C[Correct]))(;B[bc]C[Correct]))"
     },
     {
         "id": 2910,
@@ -20428,14 +20428,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][dc][eb][ec][fd][gd][hb][hc]AW[bb][bc][ca][cd][dd][ed][fb][fc]((;B[da];W[ba](;B[ga]C[Correct])(;B[gb]C[Correct])(;B[gc];W[fa];B[gb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][dc][eb][ec][fd][gd][hb][hc]AW[bb][bc][ca][cd][dd][ed][fb][fc](;B[da];W[ba](;B[ga]C[Correct])(;B[gb]C[Correct])(;B[gc];W[fa];B[gb]C[Correct])))"
     },
     {
         "id": 2917,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][ce][da][de][eb][ec][ed][fa]AW[ca][db][dc][dd][ee][fb][fe][gb][gd][hc]((;B[ea];W[cb](;B[ba]C[Correct])(;B[cc]C[Correct])(;B[cd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][ce][da][de][eb][ec][ed][fa]AW[ca][db][dc][dd][ee][fb][fe][gb][gd][hc](;B[ea];W[cb](;B[ba]C[Correct])(;B[cc]C[Correct])(;B[cd]C[Correct])))"
     },
     {
         "id": 2918,
@@ -20610,14 +20610,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cd][dd][ed][fa][fb][fc]AW[bd][be][cb][cc][cf][da][dc][eb][ec]((;B[ca];W[ac];B[ea]C[Correct])(;B[ea];W[ac];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cd][dd][ed][fa][fb][fc]AW[bd][be][cb][cc][cf][da][dc][eb][ec](;B[ca];W[ac];B[ea]C[Correct])(;B[ea];W[ac];B[ca]C[Correct]))"
     },
     {
         "id": 2943,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ac][bd][be][ce][de][ec][ee][fb][fc][fe][gc][hb][hc]AW[ba][bb][bc][cd][db][dc][dd][eb][ed][ga][gb]((;B[cb];W[ea];B[ca]C[Correct])(;B[ea];W[da];B[cb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ac][bd][be][ce][de][ec][ee][fb][fc][fe][gc][hb][hc]AW[ba][bb][bc][cd][db][dc][dd][eb][ed][ga][gb](;B[cb];W[ea];B[ca]C[Correct])(;B[ea];W[da];B[cb]C[Correct]))"
     },
     {
         "id": 2944,
@@ -20652,7 +20652,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][da][db][dc][ed][fc][fd][hc]AW[ba][bc][bd][cb][cd][dd][eb][ec][fb]((;B[gb];W[ab](;B[ea]C[Correct])(;B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][da][db][dc][ed][fc][fd][hc]AW[ba][bc][bd][cb][cd][dd][eb][ec][fb](;B[gb];W[ab](;B[ea]C[Correct])(;B[fa]C[Correct])))"
     },
     {
         "id": 2949,
@@ -20673,7 +20673,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][be][ce][da][de][ea][eb][ec][ed]AW[ca][cb][db][dc][dd][ee][fb][fe][gb][gd]((;B[ba]C[Correct])(;B[cc]C[Correct])(;B[cd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][be][ce][da][de][ea][eb][ec][ed]AW[ca][cb][db][dc][dd][ee][fb][fe][gb][gd](;B[ba]C[Correct])(;B[cc]C[Correct])(;B[cd]C[Correct]))"
     },
     {
         "id": 2952,
@@ -20729,21 +20729,21 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bd][cd][ce][dc][de][ea][eb][ec][fb]AW[bc][cb][cc][db][dd][ed][fc][fd][gb][gc]((;B[ac];W[ba];B[ab]C[Correct])(;B[ca];W[da];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bd][cd][ce][dc][de][ea][eb][ec][fb]AW[bc][cb][cc][db][dd][ed][fc][fd][gb][gc](;B[ac];W[ba];B[ab]C[Correct])(;B[ca];W[da];B[ac]C[Correct]))"
     },
     {
         "id": 2960,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ad][aj][bc][be][bf][bj][cd][ce][cj][df][dh][ef]AW[ab][af][ag][ah][bb][bg][bh][cc][cf][cg][dc][dd][de]((;B[ch]C[Correct])(;B[dg];W[ae];B[ch]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ad][aj][bc][be][bf][bj][cd][ce][cj][df][dh][ef]AW[ab][af][ag][ah][bb][bg][bh][cc][cf][cg][dc][dd][de](;B[ch]C[Correct])(;B[dg];W[ae];B[ch]C[Correct]))"
     },
     {
         "id": 2961,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bf][bh][ca][cb][cc][cd][ce][cf]AW[ba][bb][bc][bd][be]((;B[ab];W[ae];B[ac]C[Correct])(;B[ae];W[ad];B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bf][bh][ca][cb][cc][cd][ce][cf]AW[ba][bb][bc][bd][be](;B[ab];W[ae];B[ac]C[Correct])(;B[ae];W[ad];B[ab]C[Correct]))"
     },
     {
         "id": 2962,
@@ -20764,14 +20764,14 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][cd][ce][de][ee][fa][fc][fe][gc][hc][ja][jb][jc]AW[cb][cc][da][dd][ea][ec][ed][fb][ha][hb]((;B[gb];W[db](;B[eb]C[Correct])(;B[ga]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][cd][ce][de][ee][fa][fc][fe][gc][hc][ja][jb][jc]AW[cb][cc][da][dd][ea][ec][ed][fb][ha][hb](;B[gb];W[db](;B[eb]C[Correct])(;B[ga]C[Correct])))"
     },
     {
         "id": 2965,
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ae][ba][bc][be][cd][ce][de][ea][eb][ec][ed][gc]AW[ab][af][bb][bf][cb][cf][da][db][dc][dd][df][ee][ef]((;B[ac];W[ad](;B[aa]C[Correct])(;B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ae][ba][bc][be][cd][ce][de][ea][eb][ec][ed][gc]AW[ab][af][bb][bf][cb][cf][da][db][dc][dd][df][ee][ef](;B[ac];W[ad](;B[aa]C[Correct])(;B[ca]C[Correct])))"
     },
     {
         "id": 2966,
@@ -20855,7 +20855,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][bd][bh][cb][ce][cf][dd][dh][ee][ef][eh]AW[be][bf][cc][cd][ch][cj][db][dc][de][dj][ec][ej][gc]((;B[bg];W[cg];B[df];W[bj](;B[ae]C[Correct])(;B[af]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][bd][bh][cb][ce][cf][dd][dh][ee][ef][eh]AW[be][bf][cc][cd][ch][cj][db][dc][de][dj][ec][ej][gc](;B[bg];W[cg];B[df];W[bj](;B[ae]C[Correct])(;B[af]C[Correct])))"
     },
     {
         "id": 2978,
@@ -20883,7 +20883,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[aa][bb][bd][ca][cb][ce][db][dd][ec][ed]AW[ac][bc][cc][da][dc][ea][eb][fc][gb]((;B[ad]C[Correct])(;B[cd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[aa][bb][bd][ca][cb][ce][db][dd][ec][ed]AW[ac][bc][cc][da][dc][ea][eb][fc][gb](;B[ad]C[Correct])(;B[cd]C[Correct]))"
     },
     {
         "id": 2982,
@@ -20904,7 +20904,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ad][bd][cd][cf][db][dc][eb]AW[aa][ab][bc][ca][cb][cc][dd][ed][fb][fc]((;B[bb];W[ba];B[da];W[ec];B[bb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ad][bd][cd][cf][db][dc][eb]AW[aa][ab][bc][ca][cb][cc][dd][ed][fb][fc](;B[bb];W[ba];B[da];W[ec];B[bb]C[Correct]))"
     },
     {
         "id": 2985,
@@ -20939,7 +20939,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][ba][bc][cb][cc][cd][ce][dd][eb][ec][ed][fd][gc][gd]AW[ab][ac][af][bd][be][bg][ca][cf][cg][da][db][dc][ea][ef][fb][fc][gb][gf][hc][he][jc][ke]((;B[fa];W[hb](;B[da];W[ae];B[bb]C[Correct])(;B[db]C[Correct])(;B[ea]C[Correct]))(;B[hb];W[jb];B[fa];W[ha];B[da];W[ae];B[bb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][ba][bc][cb][cc][cd][ce][dd][eb][ec][ed][fd][gc][gd]AW[ab][ac][af][bd][be][bg][ca][cf][cg][da][db][dc][ea][ef][fb][fc][gb][gf][hc][he][jc][ke](;B[fa];W[hb](;B[da];W[ae];B[bb]C[Correct])(;B[db]C[Correct])(;B[ea]C[Correct]))(;B[hb];W[jb];B[fa];W[ha];B[da];W[ae];B[bb]C[Correct]))"
     },
     {
         "id": 2990,
@@ -21072,7 +21072,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cc][dd][ed][fc][ga][gb][gd]AW[ad][bd][ca][cb][cd][cf][db][dc][ec][fb]((;B[ea];W[ac](;B[da];W[ab];B[eb]C[Correct])(;B[eb];W[ab];B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cc][dd][ed][fc][ga][gb][gd]AW[ad][bd][ca][cb][cd][cf][db][dc][ec][fb](;B[ea];W[ac](;B[da];W[ab];B[eb]C[Correct])(;B[eb];W[ab];B[da]C[Correct])))"
     },
     {
         "id": 3009,
@@ -21100,7 +21100,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ab][bb][be][ce][db][dc][dd][fd]AW[ae][bc][bd][bg][cb][cd][de][dg][ee]((;B[ad]C[Correct])(;B[af];W[ad](;B[ac]C[Correct])(;B[cc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ab][bb][be][ce][db][dc][dd][fd]AW[ae][bc][bd][bg][cb][cd][de][dg][ee](;B[ad]C[Correct])(;B[af];W[ad](;B[ac]C[Correct])(;B[cc]C[Correct])))"
     },
     {
         "id": 3013,
@@ -21163,7 +21163,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cd][ce][da][db][dc][df][ec][fa][fc][gb][gd][ge][gf]AW[bd][ca][cb][cc][dd][ed][fb][fd][gc][ha][hb][hc][hd]((;B[de]C[Correct])(;B[ee]C[Correct])(;B[fe]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cd][ce][da][db][dc][df][ec][fa][fc][gb][gd][ge][gf]AW[bd][ca][cb][cc][dd][ed][fb][fd][gc][ha][hb][hc][hd](;B[de]C[Correct])(;B[ee]C[Correct])(;B[fe]C[Correct]))"
     },
     {
         "id": 3022,
@@ -21247,7 +21247,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][cc][cd][da][dd][df][ea][eb][ec]AW[aa][ac][ba][bc][ca][cb][db][dc][ed][fc][fd][gb][gc]((;B[ab];W[bb];B[ad]C[Correct])(;B[bb];W[fa];B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][cc][cd][da][dd][df][ea][eb][ec]AW[aa][ac][ba][bc][ca][cb][db][dc][ed][fc][fd][gb][gc](;B[ab];W[bb];B[ad]C[Correct])(;B[bb];W[fa];B[ab]C[Correct]))"
     },
     {
         "id": 3034,
@@ -21366,7 +21366,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cb][cc][cd][db][de][ee][gc][ge][hd]AW[bb][bc][bd][be][ce][dc][dd][eb][ed][gd]((;B[ec];W[fc];B[fd];W[ec](;B[ea]C[Correct])(;B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cb][cc][cd][db][de][ee][gc][ge][hd]AW[bb][bc][bd][be][ce][dc][dd][eb][ed][gd](;B[ec];W[fc];B[fd];W[ec](;B[ea]C[Correct])(;B[fb]C[Correct])))"
     },
     {
         "id": 3051,
@@ -21394,7 +21394,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.LOWER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[db][dc][dd][de][hb][hc][he]AW[bb][bd][ce][cf][df][ec][ee][fc][fe][gc]((;B[ea];W[ga];B[gb]C[Correct])(;B[ga];W[ea];B[eb];W[fb];B[fa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[db][dc][dd][de][hb][hc][he]AW[bb][bd][ce][cf][df][ec][ee][fc][fe][gc](;B[ea];W[ga];B[gb]C[Correct])(;B[ga];W[ea];B[eb];W[fb];B[fa]C[Correct]))"
     },
     {
         "id": 3055,
@@ -21478,7 +21478,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bd][cd][dd][df][ee][fe]AW[bb][bf][ce][ch][dc][de][dh][ec][ed][gc]((;B[cf];W[be];B[bg];W[cg](;B[ae]C[Correct])(;B[af]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bd][cd][dd][df][ee][fe]AW[bb][bf][ce][ch][dc][de][dh][ec][ed][gc](;B[cf];W[be];B[bg];W[cg](;B[ae]C[Correct])(;B[af]C[Correct])))"
     },
     {
         "id": 3067,
@@ -21695,7 +21695,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ba][bc][bd][cc][dd][ed][fb][fc][fd]AW[ad][ae][bb][be][cd][ce][cg][da][db][dc][ec]((;B[cb];W[ab];B[aa];W[bb](;B[ea]C[Correct])(;B[eb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ba][bc][bd][cc][dd][ed][fb][fc][fd]AW[ad][ae][bb][be][cd][ce][cg][da][db][dc][ec](;B[cb];W[ab];B[aa];W[bb](;B[ea]C[Correct])(;B[eb]C[Correct])))"
     },
     {
         "id": 3098,
@@ -21723,7 +21723,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][cb][cd][dd][ea][ec][fa][fb][fc]AW[ab][bb][ca][da][db][dc][eb][ed][ee][gc][gd][hb]((;B[cc];W[ba](;B[ac]C[Correct])(;B[bc];W[fd];B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][cb][cd][dd][ea][ec][fa][fb][fc]AW[ab][bb][ca][da][db][dc][eb][ed][ee][gc][gd][hb](;B[cc];W[ba](;B[ac]C[Correct])(;B[bc];W[fd];B[ac]C[Correct])))"
     },
     {
         "id": 3102,
@@ -21765,7 +21765,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cb][cc][cd][dd][de][df][dg][ee][eg][fh][gc][gh][hd][he][hg][je]AW[bf][ch][cj][dc][ec][ed][ef][eh][ej][fc][fe][ff][fg][gb][jc][jd][lc][ld]((;B[gd]C[Correct])(;B[hb];W[hc];B[gd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cb][cc][cd][dd][de][df][dg][ee][eg][fh][gc][gh][hd][he][hg][je]AW[bf][ch][cj][dc][ec][ed][ef][eh][ej][fc][fe][ff][fg][gb][jc][jd][lc][ld](;B[gd]C[Correct])(;B[hb];W[hc];B[gd]C[Correct]))"
     },
     {
         "id": 3108,
@@ -21786,7 +21786,7 @@ const problems = [
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ab][ad][bc][cb][cc][ce][dd][de][ec][fb][fc]AW[ba][bd][be][bf][ca][cd][cf][da][db][dc][eb]((;B[aa];W[ae];B[fa]C[Correct])(;B[bb];W[ae];B[fa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ab][ad][bc][cb][cc][ce][dd][de][ec][fb][fc]AW[ba][bd][be][bf][ca][cd][cf][da][db][dc][eb](;B[aa];W[ae];B[fa]C[Correct])(;B[bb];W[ae];B[fa]C[Correct]))"
     },
     {
         "id": 3111,
@@ -21800,14 +21800,14 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][be][ce][dc][dd][de][eb][fc]AW[ab][bd][cb][cc][cd][db]((;B[ba];W[ac](;B[bb]C[Correct])(;B[da];W[ca];B[bb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][be][ce][dc][dd][de][eb][fc]AW[ab][bd][cb][cc][cd][db](;B[ba];W[ac](;B[bb]C[Correct])(;B[da];W[ca];B[bb]C[Correct])))"
     },
     {
         "id": 3113,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cd][dd][de][ed][fb][fc][gb][gc][hc][jb]AW[ea][eb][ec][ee][fa][fd][fe][hb][hd][jc][jd][kc]((;B[ga];W[gd];B[ha];W[kb](;B[da];W[ka];B[db]C[Correct])(;B[db]C[Correct])(;B[dc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cd][dd][de][ed][fb][fc][gb][gc][hc][jb]AW[ea][eb][ec][ee][fa][fd][fe][hb][hd][jc][jd][kc](;B[ga];W[gd];B[ha];W[kb](;B[da];W[ka];B[db]C[Correct])(;B[db]C[Correct])(;B[dc]C[Correct])))"
     },
     {
         "id": 3114,
@@ -21842,7 +21842,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ae][ba][bb][be][cb][cc][ce][de][ec][ed][ee][fa][fb]AW[aa][ab][ad][bc][bd][cd][db][dc][dd][eb]((;B[ac];W[ab];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ae][ba][bb][be][cb][cc][ce][de][ec][ed][ee][fa][fb]AW[aa][ab][ad][bc][bd][cd][db][dc][dd][eb](;B[ac];W[ab];B[da]C[Correct]))"
     },
     {
         "id": 3119,
@@ -21898,7 +21898,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][cb][ce][cf][cg][de][ec][ee][fc][fd]AW[bb][cc][db][dd][df][ed][ef][fe][ff][gb][gc][gd]((;B[dc];W[ca](;B[bd]C[Correct])(;B[cd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][cb][ce][cf][cg][de][ec][ee][fc][fd]AW[bb][cc][db][dd][df][ed][ef][fe][ff][gb][gc][gd](;B[dc];W[ca](;B[bd]C[Correct])(;B[cd]C[Correct])))"
     },
     {
         "id": 3127,
@@ -21926,7 +21926,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cd][ce][de][ee][fa][fb][fc][fd]AW[bd][ca][cc][dd][ea][eb][ec][ed][fe][gd][ge][hb][hc]((;B[db];W[cb](;B[ba]C[Correct])(;B[da];W[dc];B[ba]C[Correct])(;B[dc];W[da];B[ba]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cd][ce][de][ee][fa][fb][fc][fd]AW[bd][ca][cc][dd][ea][eb][ec][ed][fe][gd][ge][hb][hc](;B[db];W[cb](;B[ba]C[Correct])(;B[da];W[dc];B[ba]C[Correct])(;B[dc];W[da];B[ba]C[Correct])))"
     },
     {
         "id": 3131,
@@ -21954,7 +21954,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][cd][db][de][df][ef][fe][gc]AW[bb][bc][bd][ce][cf][dc][dd][eb][ee][fc]((;B[ec];W[ed];B[fd];W[ec](;B[ea]C[Correct])(;B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][cd][db][de][df][ef][fe][gc]AW[bb][bc][bd][ce][cf][dc][dd][eb][ee][fc](;B[ec];W[ed];B[fd];W[ec](;B[ea]C[Correct])(;B[fb]C[Correct])))"
     },
     {
         "id": 3135,
@@ -21996,7 +21996,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[db][dc][dd][ee][fb][fe][gb][gd][hc]AW[bb][bc][ca][ce][de][eb][ec][ed][fa]((;B[da];W[ea](;B[fc]C[Correct])(;B[fd]C[Correct])(;B[ga]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[db][dc][dd][ee][fb][fe][gb][gd][hc]AW[bb][bc][ca][ce][de][eb][ec][ed][fa](;B[da];W[ea](;B[fc]C[Correct])(;B[fd]C[Correct])(;B[ga]C[Correct])))"
     },
     {
         "id": 3141,
@@ -22024,14 +22024,14 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][bd][be][bf][cb][cc][cf][cg][db][dg][eb][eg][fb][fg][gb][gg][hb][hc][hd][he][hf][hg]AW[cd][ce][dc][df][ec][ef][fc][ff][gc][gd][ge][gf]((;B[dd];W[de];B[ed]C[Correct])(;B[de];W[dd];B[ee];W[fe];B[ed]C[Correct])(;B[ed];W[ee];B[dd];W[de];B[fd]C[Correct])(;B[ee];W[ed];B[de];W[dd];B[fe]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][bd][be][bf][cb][cc][cf][cg][db][dg][eb][eg][fb][fg][gb][gg][hb][hc][hd][he][hf][hg]AW[cd][ce][dc][df][ec][ef][fc][ff][gc][gd][ge][gf](;B[dd];W[de];B[ed]C[Correct])(;B[de];W[dd];B[ee];W[fe];B[ed]C[Correct])(;B[ed];W[ee];B[dd];W[de];B[fd]C[Correct])(;B[ee];W[ed];B[de];W[dd];B[fe]C[Correct]))"
     },
     {
         "id": 3145,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[be][ce][cg][db][dc][dd][df][ea][gb][gc]AW[ca][cb][cc][cd][de][eb][ee][fc][fd]((;B[da];W[fa];B[fb];W[ec];B[ga]C[Correct])(;B[fb];W[ec];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[be][ce][cg][db][dc][dd][df][ea][gb][gc]AW[ca][cb][cc][cd][de][eb][ee][fc][fd](;B[da];W[fa];B[fb];W[ec];B[ga]C[Correct])(;B[fb];W[ec];B[da]C[Correct]))"
     },
     {
         "id": 3146,
@@ -22087,7 +22087,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][cc][da][dd][ec][ed][fb][ha][hb]AW[bb][bc][cd][ce][de][ee][fc][fe][gb][gc][hc][jb][jc]((;B[fa];W[ga](;B[db]C[Correct])(;B[eb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][cc][da][dd][ec][ed][fb][ha][hb]AW[bb][bc][cd][ce][de][ee][fc][fe][gb][gc][hc][jb][jc](;B[fa];W[ga](;B[db]C[Correct])(;B[eb]C[Correct])))"
     },
     {
         "id": 3154,
@@ -22150,7 +22150,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[af][ba][bf][ca][cb][cc][ce][cg][dc][de][dg][ec][ed][fb][gb][hc]AW[ab][ae][bb][bc][bd][be][cd][da][dd][eb][ee][fc][fd][fe][fg]((;B[ac]C[Correct])(;B[ad]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[af][ba][bf][ca][cb][cc][ce][cg][dc][de][dg][ec][ed][fb][gb][hc]AW[ab][ae][bb][bc][bd][be][cd][da][dd][eb][ee][fc][fd][fe][fg](;B[ac]C[Correct])(;B[ad]C[Correct]))"
     },
     {
         "id": 3163,
@@ -22171,7 +22171,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[aa][ae][ba][be][cb][ce][da][db][dd][eb][ed][fc][fd]AW[ab][ad][bb][bd][cc][cd][dc][ec][fa][fb][gb][gc]((;B[ac];W[bc];B[ac]C[Correct])(;B[bc];W[ac];B[bc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[aa][ae][ba][be][cb][ce][da][db][dd][eb][ed][fc][fd]AW[ab][ad][bb][bd][cc][cd][dc][ec][fa][fb][gb][gc](;B[ac];W[bc];B[ac]C[Correct])(;B[bc];W[ac];B[bc]C[Correct]))"
     },
     {
         "id": 3166,
@@ -22220,7 +22220,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ea][eb][ec][ee][fd][fe][ga][hd][jc][jd][kc]AW[cb][cd][dd][de][ed][fb][fc][gb][gc][ha][hc][jb]((;B[fa];W[kb](;B[gd];W[hb];B[lb];W[db](;B[ja]C[Correct])(;B[ka]C[Correct]))(;B[lb];W[db];B[gd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ea][eb][ec][ee][fd][fe][ga][hd][jc][jd][kc]AW[cb][cd][dd][de][ed][fb][fc][gb][gc][ha][hc][jb](;B[fa];W[kb](;B[gd];W[hb];B[lb];W[db](;B[ja]C[Correct])(;B[ka]C[Correct]))(;B[lb];W[db];B[gd]C[Correct])))"
     },
     {
         "id": 3173,
@@ -22297,7 +22297,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bc][bd][cc][dc][ea][ec][fb][fc]AW[bb][bf][cd][ce][db][df][eb][ee][fa][fd][ga][gb][gc][gd]((;B[cb];W[da](;B[ab];W[ad](;B[ba]C[Correct])(;B[ca];W[ea];B[ba]C[Correct]))(;B[ca];W[ea];B[ab]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bc][bd][cc][dc][ea][ec][fb][fc]AW[bb][bf][cd][ce][db][df][eb][ee][fa][fd][ga][gb][gc][gd](;B[cb];W[da](;B[ab];W[ad](;B[ba]C[Correct])(;B[ca];W[ea];B[ba]C[Correct]))(;B[ca];W[ea];B[ab]C[Correct])))"
     },
     {
         "id": 3184,
@@ -22374,7 +22374,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cb][cc][cd][da][db][dc][ed][fd][gb][gc]AW[ab][ad][bc][bd][ca][ce][dd][de][ea][eb][ec]((;B[ba];W[ac];B[be];W[bf](;B[fa]C[Correct])(;B[fb]C[Correct])(;B[fc];W[ae](;B[fa]C[Correct])(;B[fb]C[Correct])))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cb][cc][cd][da][db][dc][ed][fd][gb][gc]AW[ab][ad][bc][bd][ca][ce][dd][de][ea][eb][ec](;B[ba];W[ac];B[be];W[bf](;B[fa]C[Correct])(;B[fb]C[Correct])(;B[fc];W[ae](;B[fa]C[Correct])(;B[fb]C[Correct]))))"
     },
     {
         "id": 3195,
@@ -22402,7 +22402,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][dc][eb][fb][fc]AW[bc][cc][ce][dd][fd][fe][gb][gc]((;B[bb];W[ab];B[da]C[Correct])(;B[da];W[bb];B[fa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][dc][eb][fb][fc]AW[bc][cc][ce][dd][fd][fe][gb][gc](;B[bb];W[ab];B[da]C[Correct])(;B[da];W[bb];B[fa]C[Correct]))"
     },
     {
         "id": 3199,
@@ -22423,7 +22423,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][cb][db][dc][eb][fb][fc][gd][ge][hc][hf][kf][ld]AW[bb][bd][ca][cc][dd][ec][ed][fd][gb][gc][hb]((;B[jb];W[jc](;B[ga];W[hd];B[ha];W[hc];B[kb]C[Correct])(;B[ha];W[hd];B[ga];W[hc];B[kb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][cb][db][dc][eb][fb][fc][gd][ge][hc][hf][kf][ld]AW[bb][bd][ca][cc][dd][ec][ed][fd][gb][gc][hb](;B[jb];W[jc](;B[ga];W[hd];B[ha];W[hc];B[kb]C[Correct])(;B[ha];W[hd];B[ga];W[hc];B[kb]C[Correct])))"
     },
     {
         "id": 3202,
@@ -22472,7 +22472,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bd][bg][ce][cf][de][dg][ee][ef][eg]AW[bc][bh][cb][cd][cg][ch][dd][dh][eh][fc][fd][fg][gf]((;B[ae]C[Correct])(;B[af];W[ah];B[ad]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bd][bg][ce][cf][de][dg][ee][ef][eg]AW[bc][bh][cb][cd][cg][ch][dd][dh][eh][fc][fd][fg][gf](;B[ae]C[Correct])(;B[af];W[ah];B[ad]C[Correct]))"
     },
     {
         "id": 3209,
@@ -22584,7 +22584,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cb][cc][cd][da][db][dc][ed][fd][gb][gc]AW[ab][ac][ad][bd][ce][dd][de][ea][eb][ec]((;B[be];W[bf](;B[fa]C[Correct])(;B[fb]C[Correct])(;B[fc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cb][cc][cd][da][db][dc][ed][fd][gb][gc]AW[ab][ac][ad][bd][ce][dd][de][ea][eb][ec](;B[be];W[bf](;B[fa]C[Correct])(;B[fb]C[Correct])(;B[fc]C[Correct])))"
     },
     {
         "id": 3225,
@@ -22675,7 +22675,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cc][ce][dd][eb][ec][ed][fe][ga][gb][gc][gd]AW[bc][ca][cb][da][db][dc][ea][fa][fb][fc][fd][ge][hc][hd][he]((;B[bb];W[cd];B[ba];W[cc](;B[ac]C[Correct])(;B[bd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cc][ce][dd][eb][ec][ed][fe][ga][gb][gc][gd]AW[bc][ca][cb][da][db][dc][ea][fa][fb][fc][fd][ge][hc][hd][he](;B[bb];W[cd];B[ba];W[cc](;B[ac]C[Correct])(;B[bd]C[Correct])))"
     },
     {
         "id": 3238,
@@ -22794,7 +22794,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][bc][cb][cc][cd][dd][ea][eb][ec][ed]AW[ab][ae][ba][bb][bd][be][ce][de][ee][fa][fb][fc][fd][fe]((;B[ac];W[ca];B[da]C[Correct])(;B[ca];W[ac];B[db]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][bc][cb][cc][cd][dd][ea][eb][ec][ed]AW[ab][ae][ba][bb][bd][be][ce][de][ee][fa][fb][fc][fd][fe](;B[ac];W[ca];B[da]C[Correct])(;B[ca];W[ac];B[db]C[Correct]))"
     },
     {
         "id": 3255,
@@ -22808,7 +22808,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][da][db][dc][ed][fc][fd][hc]AW[ba][bc][be][cb][cd][dd][eb][ec][fb]((;B[gb];W[ab](;B[ea]C[Correct])(;B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][da][db][dc][ed][fc][fd][hc]AW[ba][bc][be][cb][cd][dd][eb][ec][fb](;B[gb];W[ab](;B[ea]C[Correct])(;B[fa]C[Correct])))"
     },
     {
         "id": 3257,
@@ -22927,7 +22927,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[af][bc][bd][bg][bh][cd][ce][cf][cg]AW[aa][ac][ad][bb][bf][bk][cb][cc][ch][cj][dg][dk][ec][ee][ef]((;B[ah]C[Correct])(;B[aj]C[Correct])(;B[bj]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[af][bc][bd][bg][bh][cd][ce][cf][cg]AW[aa][ac][ad][bb][bf][bk][cb][cc][ch][cj][dg][dk][ec][ee][ef](;B[ah]C[Correct])(;B[aj]C[Correct])(;B[bj]C[Correct]))"
     },
     {
         "id": 3274,
@@ -22955,7 +22955,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][da][db][dc][ed][fc][fd][gc][hb][hd]AW[ba][bc][cb][cd][cf][dd][df][eb][ec][fb][ga]((;B[gb];W[ab](;B[ea]C[Correct])(;B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][da][db][dc][ed][fc][fd][gc][hb][hd]AW[ba][bc][cb][cd][cf][dd][df][eb][ec][fb][ga](;B[gb];W[ab](;B[ea]C[Correct])(;B[fa]C[Correct])))"
     },
     {
         "id": 3278,
@@ -22983,7 +22983,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[aa][ab][ac][ad][ba][bd][ca][cd][db][dc][ea][eb][ec][fa][fb]AW[ae][be][cb][cc][ce][dd][ed][fd][ga][gb][gc]((;B[bb];W[fc];B[bc]C[Correct])(;B[bc];W[fc];B[bb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[aa][ab][ac][ad][ba][bd][ca][cd][db][dc][ea][eb][ec][fa][fb]AW[ae][be][cb][cc][ce][dd][ed][fd][ga][gb][gc](;B[bb];W[fc];B[bc]C[Correct])(;B[bc];W[fc];B[bb]C[Correct]))"
     },
     {
         "id": 3282,
@@ -23060,7 +23060,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bd][bh][ce][cg][db][dc][dd][de]AW[ac][ae][bb][be][cc][cd]((;B[ba];W[ca];B[cb]C[Correct])(;B[cb];W[bc];B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bd][bh][ce][cg][db][dc][dd][de]AW[ac][ae][bb][be][cc][cd](;B[ba];W[ca];B[cb]C[Correct])(;B[cb];W[bc];B[ba]C[Correct]))"
     },
     {
         "id": 3293,
@@ -23109,7 +23109,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bf][cd][ce][dc][df][dg][ec][fc][fe][fg]AW[bb][be][bg][cb][cc][cf][cg][ch][dd][de][ee]((;B[bd];W[af](;B[ed]C[Correct])(;B[ef]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bf][cd][ce][dc][df][dg][ec][fc][fe][fg]AW[bb][be][bg][cb][cc][cf][cg][ch][dd][de][ee](;B[bd];W[af](;B[ed]C[Correct])(;B[ef]C[Correct])))"
     },
     {
         "id": 3300,
@@ -23158,7 +23158,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][dc][ed][fa][fd][gc][gd][hc][kc][lc]AW[bb][bc][bd][db][dd][de][eb][ec][ee][fc][fe][ge][hd][jd]((;B[ca]C[Correct])(;B[da];W[cd];B[ca];W[ba];B[ea];W[ga];B[fb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][dc][ed][fa][fd][gc][gd][hc][kc][lc]AW[bb][bc][bd][db][dd][de][eb][ec][ee][fc][fe][ge][hd][jd](;B[ca]C[Correct])(;B[da];W[cd];B[ca];W[ba];B[ea];W[ga];B[fb]C[Correct]))"
     },
     {
         "id": 3307,
@@ -23228,7 +23228,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cd][ce][de][eb][ee][fe][gb][gc][gd]AW[ac][bd][be][bf][cb][cc][db][dd][ec][ed][fc]((;B[ca];W[da];B[ea]C[Correct])(;B[da];W[ca](;B[dc]C[Correct])(;B[ea]C[Correct]))(;B[ea];W[fb](;B[ca]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cd][ce][de][eb][ee][fe][gb][gc][gd]AW[ac][bd][be][bf][cb][cc][db][dd][ec][ed][fc](;B[ca];W[da];B[ea]C[Correct])(;B[da];W[ca](;B[dc]C[Correct])(;B[ea]C[Correct]))(;B[ea];W[fb](;B[ca]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 3317,
@@ -23312,7 +23312,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][cb][cc][dc][ec][fa][fb][fc][fd][ge][hc][hd][he][jb]AW[ba][bb][bc][cd][db][dd][ea][eb][ed][fe][ff][ga][gb][gc][gd]((;B[da];W[eb](;B[ha]C[Correct])(;B[hb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][cb][cc][dc][ec][fa][fb][fc][fd][ge][hc][hd][he][jb]AW[ba][bb][bc][cd][db][dd][ea][eb][ed][fe][ff][ga][gb][gc][gd](;B[da];W[eb](;B[ha]C[Correct])(;B[hb]C[Correct])))"
     },
     {
         "id": 3329,
@@ -23375,7 +23375,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][bb][bf][bg][cc][cg][dd][de][df][ec]AW[bc][bd][be][bh][cb][cd][ce][cf][ch][dg][dh]((;B[ac];W[dc];B[ad];W[cc](;B[ca]C[Correct])(;B[db]C[Correct]))(;B[ad];W[dc];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][bb][bf][bg][cc][cg][dd][de][df][ec]AW[bc][bd][be][bh][cb][cd][ce][cf][ch][dg][dh](;B[ac];W[dc];B[ad];W[cc](;B[ca]C[Correct])(;B[db]C[Correct]))(;B[ad];W[dc];B[ac]C[Correct]))"
     },
     {
         "id": 3338,
@@ -23410,7 +23410,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][cc][dc][de][ea][fe][gd][hd][ja][jb][jc][jd]AW[ba][ca][cb][db][fb][fd][gc][ha][hb][hc]((;B[eb];W[ec];B[ed];W[fc](;B[fa]C[Correct])(;B[ga]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][cc][dc][de][ea][fe][gd][hd][ja][jb][jc][jd]AW[ba][ca][cb][db][fb][fd][gc][ha][hb][hc](;B[eb];W[ec];B[ed];W[fc](;B[fa]C[Correct])(;B[ga]C[Correct])))"
     },
     {
         "id": 3343,
@@ -23438,7 +23438,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bb][be][cb][cd][ce][cf][db][dc]AW[ab][af][bf][bh][ca][cg][da][dd][de][df][dg][ea][eb][ec][fd]((;B[ad]C[Correct])(;B[bc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bb][be][cb][cd][ce][cf][db][dc]AW[ab][af][bf][bh][ca][cg][da][dd][de][df][dg][ea][eb][ec][fd](;B[ad]C[Correct])(;B[bc]C[Correct]))"
     },
     {
         "id": 3347,
@@ -23459,14 +23459,14 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ca][cb][db][eb][fb][gb][hb][ja]AW[ba][bb][bc][cc][dc][ec][fc][gc][hc][jb][jc][lb]((;B[ea]C[Correct])(;B[ha];W[fa];B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ca][cb][db][eb][fb][gb][hb][ja]AW[ba][bb][bc][cc][dc][ec][fc][gc][hc][jb][jc][lb](;B[ea]C[Correct])(;B[ha];W[fa];B[ea]C[Correct]))"
     },
     {
         "id": 3350,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bb][bc][bd][ca][cc][dd][ec][ed][fc][gb][gc]AW[aa][ab][ae][be][cb][cd][ce][db][dc][de][eb][ee][fb]((;B[da]C[Correct])(;B[ea]C[Correct])(;B[fa];W[ba];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bb][bc][bd][ca][cc][dd][ec][ed][fc][gb][gc]AW[aa][ab][ae][be][cb][cd][ce][db][dc][de][eb][ee][fb](;B[da]C[Correct])(;B[ea]C[Correct])(;B[fa];W[ba];B[ac]C[Correct]))"
     },
     {
         "id": 3351,
@@ -23522,7 +23522,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cb][cc][cd][dd][ec][ee][fe][gc][ge][hc]AW[bb][bc][bd][ce][de][eb][ed][fc][fd]((;B[fb];W[dc];B[gd];W[ec](;B[db]C[Correct])(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cb][cc][cd][dd][ec][ee][fe][gc][ge][hc]AW[bb][bc][bd][ce][de][eb][ed][fc][fd](;B[fb];W[dc];B[gd];W[ec](;B[db]C[Correct])(;B[ea]C[Correct])))"
     },
     {
         "id": 3359,
@@ -23557,7 +23557,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][bb][bd][cc][cd][da][dd][ea][ee][fa][fd][ff][gc][he][hf][jb][jc][jd]AW[ba][bc][ca][cb][db][dc][eb][ec][ed][fb][gb][gd][hb][hc]((;B[fe]C[Correct])(;B[hd];W[fc];B[fe]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][bb][bd][cc][cd][da][dd][ea][ee][fa][fd][ff][gc][he][hf][jb][jc][jd]AW[ba][bc][ca][cb][db][dc][eb][ec][ed][fb][gb][gd][hb][hc](;B[fe]C[Correct])(;B[hd];W[fc];B[fe]C[Correct]))"
     },
     {
         "id": 3364,
@@ -23571,14 +23571,14 @@ const problems = [
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ad][ae][be][cd][ce][da][db][dc][ec]AW[ac][bb][bc][bd][cc][dd][ed][fb][fc][fd]((;B[ba];W[aa](;B[ab]C[Correct])(;B[ca]C[Correct])(;B[cb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ad][ae][be][cd][ce][da][db][dc][ec]AW[ac][bb][bc][bd][cc][dd][ed][fb][fc][fd](;B[ba];W[aa](;B[ab]C[Correct])(;B[ca]C[Correct])(;B[cb]C[Correct])))"
     },
     {
         "id": 3366,
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cd][da][db][de][ea][ec][ee][fe][gb][gc][gd]AW[ab][bc][bd][cb][ce][cf][dc][df][eb][ed][ef][ff][ge][ha][hb][hc][hd][he]((;B[fb];W[ga](;B[dd]C[Correct])(;B[fd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cd][da][db][de][ea][ec][ee][fe][gb][gc][gd]AW[ab][bc][bd][cb][ce][cf][dc][df][eb][ed][ef][ff][ge][ha][hb][hc][hd][he](;B[fb];W[ga](;B[dd]C[Correct])(;B[fd]C[Correct])))"
     },
     {
         "id": 3367,
@@ -23669,14 +23669,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[fb][fd][fe][gb][gc][gf][jc][jf][kd][ke]AW[dd][ec][fc][gd][ge][hc][he][jb][jd][je][lf]((;B[kc];W[hb](;B[hf];W[hd];B[kb];W[eb](;B[ha]C[Correct])(;B[ja]C[Correct]))(;B[kb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[fb][fd][fe][gb][gc][gf][jc][jf][kd][ke]AW[dd][ec][fc][gd][ge][hc][he][jb][jd][je][lf](;B[kc];W[hb](;B[hf];W[hd];B[kb];W[eb](;B[ha]C[Correct])(;B[ja]C[Correct]))(;B[kb]C[Correct])))"
     },
     {
         "id": 3380,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ad][bd][cd][cf][db][dc][ec][fa][fb][fc]AW[aa][ab][bc][ca][cb][cc][dd][ea][ed][fd][gb][gc][gd]((;B[ba];W[bb];B[da]C[Correct])(;B[bb];W[ba];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ad][bd][cd][cf][db][dc][ec][fa][fb][fc]AW[aa][ab][bc][ca][cb][cc][dd][ea][ed][fd][gb][gc][gd](;B[ba];W[bb];B[da]C[Correct])(;B[bb];W[ba];B[da]C[Correct]))"
     },
     {
         "id": 3381,
@@ -23690,7 +23690,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][be][cb][cc][ce][db][dd][ed][fc][fd]AW[ac][bc][bd][ca][cd][dc][ea][eb][ec]((;B[bb];W[ab](;B[da]C[Correct])(;B[fa]C[Correct])(;B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][be][cb][cc][ce][db][dd][ed][fc][fd]AW[ac][bc][bd][ca][cd][dc][ea][eb][ec](;B[bb];W[ab](;B[da]C[Correct])(;B[fa]C[Correct])(;B[fb]C[Correct])))"
     },
     {
         "id": 3383,
@@ -23711,7 +23711,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[af][bf][ca][cb][ce][cf][dc][dd][eb]AW[ac][ba][bb][bd][be][cc]((;B[ae];W[cd](;B[ab];W[aa];B[ad]C[Correct])(;B[ad]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[af][bf][ca][cb][ce][cf][dc][dd][eb]AW[ac][ba][bb][bd][be][cc](;B[ae];W[cd](;B[ab];W[aa];B[ad]C[Correct])(;B[ad]C[Correct])))"
     },
     {
         "id": 3386,
@@ -23760,14 +23760,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][dc][ec][fd][gc][gd]AW[bb][bc][cd][dd][df][ed][fb][fc][jc][kb]((;B[eb];W[gb];B[hb];W[hc](;B[fa]C[Correct])(;B[ga]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][dc][ec][fd][gc][gd]AW[bb][bc][cd][dd][df][ed][fb][fc][jc][kb](;B[eb];W[gb];B[hb];W[hc](;B[fa]C[Correct])(;B[ga]C[Correct])))"
     },
     {
         "id": 3393,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ac][bd][be][cb][cd][de][ec][ed][ee][fa][fb][fc]AW[bb][bf][cc][ce][cf][db][dc][dd][ea][eb][fe][ff][ga][gb][gc][gd]((;B[ca];W[ba];B[bc];W[da](;B[ca];W[cb];B[aa]C[Correct])(;B[cb];W[ca];B[aa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ac][bd][be][cb][cd][de][ec][ed][ee][fa][fb][fc]AW[bb][bf][cc][ce][cf][db][dc][dd][ea][eb][fe][ff][ga][gb][gc][gd](;B[ca];W[ba];B[bc];W[da](;B[ca];W[cb];B[aa]C[Correct])(;B[cb];W[ca];B[aa]C[Correct])))"
     },
     {
         "id": 3394,
@@ -23795,7 +23795,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bb][bc][cc][cd][db][dd][df][eb][ed][ef][fd][gd]AW[bd][be][ca][ce][cf][da][dc][dg][dh][ea][ec][fb][fc][ff][fg][hc][hd][he][sm]((;B[cb];W[fa];B[gc];W[gb];B[hb]C[Correct])(;B[gc];W[gb];B[cb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bb][bc][cc][cd][db][dd][df][eb][ed][ef][fd][gd]AW[bd][be][ca][ce][cf][da][dc][dg][dh][ea][ec][fb][fc][ff][fg][hc][hd][he][sm](;B[cb];W[fa];B[gc];W[gb];B[hb]C[Correct])(;B[gc];W[gb];B[cb]C[Correct]))"
     },
     {
         "id": 3398,
@@ -23823,7 +23823,7 @@ const problems = [
         "title": "死活题：黑先劫杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[ac][ba][bc][be][cd][de][eb][ee][fd][ga][gb][gc]AW[ab][bb][cb][cc][dc][ea][ec][fb]((;B[fa];W[db];B[fc];W[ca];B[eb]C[Correct])(;B[fc];W[db];B[fa];W[ca];B[eb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[ac][ba][bc][be][cd][de][eb][ee][fd][ga][gb][gc]AW[ab][bb][cb][cc][dc][ea][ec][fb](;B[fa];W[db];B[fc];W[ca];B[eb]C[Correct])(;B[fc];W[db];B[fa];W[ca];B[eb]C[Correct]))"
     },
     {
         "id": 3402,
@@ -23886,7 +23886,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bd][cc][dc][eb][fc][fd]AW[be][cd][cf][db][dd][ec][ed][fe][ge]((;B[fb]C[Correct])(;B[gb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bd][cc][dc][eb][fc][fd]AW[be][cd][cf][db][dd][ec][ed][fe][ge](;B[fb]C[Correct])(;B[gb]C[Correct]))"
     },
     {
         "id": 3411,
@@ -23984,7 +23984,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][cb][dc][dd][dg][dh][dj][eb][ee][ef]AW[bc][cc][cd][cg][ch][cj][de][df]((;B[ce];W[cf];B[be];W[bf](;B[ac]C[Correct])(;B[bd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][cb][dc][dd][dg][dh][dj][eb][ee][ef]AW[bc][cc][cd][cg][ch][cj][de][df](;B[ce];W[cf];B[be];W[bf](;B[ac]C[Correct])(;B[bd]C[Correct])))"
     },
     {
         "id": 3425,
@@ -24012,7 +24012,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][be][bh][ce][ch][dd][dh][ed][eh][fe][ff][fg]AW[bd][bf][cb][cd][cf][cg][dc][de][ee][ef]((;B[df];W[dg];B[eg];W[df](;B[af]C[Correct])(;B[ag]C[Correct])(;B[bg]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][be][bh][ce][ch][dd][dh][ed][eh][fe][ff][fg]AW[bd][bf][cb][cd][cf][cg][dc][de][ee][ef](;B[df];W[dg];B[eg];W[df](;B[af]C[Correct])(;B[ag]C[Correct])(;B[bg]C[Correct])))"
     },
     {
         "id": 3429,
@@ -24061,7 +24061,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ag][bb][be][bh][bk][cc][cd][ch][db][dd][dh][ed][eh][fe][ff][fg]AW[ae][af][bc][bd][bg][ce][cf][cg][de][dg][ee][ef]((;B[ac];W[bf];B[ad]C[Correct])(;B[ad];W[bf];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ag][bb][be][bh][bk][cc][cd][ch][db][dd][dh][ed][eh][fe][ff][fg]AW[ae][af][bc][bd][bg][ce][cf][cg][de][dg][ee][ef](;B[ac];W[bf];B[ad]C[Correct])(;B[ad];W[bf];B[ac]C[Correct]))"
     },
     {
         "id": 3436,
@@ -24117,14 +24117,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][bb][be][ce][da][db][dc][de][ed][ee]AW[ab][ad][ba][bd][cd][dd][ea][eb][ec][fc][fd]((;B[bc];W[ac];B[cc]C[Correct])(;B[cc];W[ca](;B[ac];W[bc];B[ac]C[Correct])(;B[bc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][bb][be][ce][da][db][dc][de][ed][ee]AW[ab][ad][ba][bd][cd][dd][ea][eb][ec][fc][fd](;B[bc];W[ac];B[cc]C[Correct])(;B[cc];W[ca](;B[ac];W[bc];B[ac]C[Correct])(;B[bc]C[Correct])))"
     },
     {
         "id": 3444,
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][ad][ag][bb][bd][be][bh][bj][cf][cg][de]AW[af][aj][bc][bf][bk][cc][cd][ce][ch][cj][dd][dk][ed][ee][eg]((;B[ab];W[cb];B[ba]C[Correct])(;B[cb];W[db];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][ad][ag][bb][bd][be][bh][bj][cf][cg][de]AW[af][aj][bc][bf][bk][cc][cd][ce][ch][cj][dd][dk][ed][ee][eg](;B[ab];W[cb];B[ba]C[Correct])(;B[cb];W[db];B[ca]C[Correct]))"
     },
     {
         "id": 3445,
@@ -24180,14 +24180,14 @@ const problems = [
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[be][cb][ce][db][dd][eb][ed][fc][fd]AW[bb][bd][cc][dc][ec][fb][gb][gc]((;B[bc];W[ac](;B[ba];W[ea];B[cd]C[Correct])(;B[cd];W[bc];B[ba];W[ea];B[ab]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[be][cb][ce][db][dd][eb][ed][fc][fd]AW[bb][bd][cc][dc][ec][fb][gb][gc](;B[bc];W[ac](;B[ba];W[ea];B[cd]C[Correct])(;B[cd];W[bc];B[ba];W[ea];B[ab]C[Correct])))"
     },
     {
         "id": 3453,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bd][be][ce][dd][de][ea][eb][ec]AW[ae][bb][bf][cc][cd][cf][da][db][dc][ed][ee][ef]((;B[ba];W[ac](;B[ca]C[Correct])(;B[cb];W[ca];B[cb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bd][be][ce][dd][de][ea][eb][ec]AW[ae][bb][bf][cc][cd][cf][da][db][dc][ed][ee][ef](;B[ba];W[ac](;B[ca]C[Correct])(;B[cb];W[ca];B[cb]C[Correct])))"
     },
     {
         "id": 3454,
@@ -24264,7 +24264,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bf][cb][ce][cg][db][de][ec][ed][fb][ff]AW[ab][ae][bb][bd][be][ca][cd][dd]((;B[ba];W[ac];B[cc]C[Correct])(;B[cc];W[bc];B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bf][cb][ce][cg][db][de][ec][ed][fb][ff]AW[ab][ae][bb][bd][be][ca][cd][dd](;B[ba];W[ac];B[cc]C[Correct])(;B[cc];W[bc];B[ba]C[Correct]))"
     },
     {
         "id": 3465,
@@ -24334,7 +24334,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][cd][dc][dd]AW[bd][be][cb][cc][ce][db][fc]((;B[eb];W[ec](;B[ca];W[fb];B[da]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][cd][dc][dd]AW[bd][be][cb][cc][ce][db][fc](;B[eb];W[ec](;B[ca];W[fb];B[da]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 3475,
@@ -24348,7 +24348,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][cc][dc][ed][fc][fd]AW[ac][bd][cd][dd][eb][ec][hc][jb]((;B[db];W[fb];B[gb];W[gc](;B[ea]C[Correct])(;B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][cc][dc][ed][fc][fd]AW[ac][bd][cd][dd][eb][ec][hc][jb](;B[db];W[fb];B[gb];W[gc](;B[ea]C[Correct])(;B[fa]C[Correct])))"
     },
     {
         "id": 3477,
@@ -24376,7 +24376,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][ca][cb][cc][cd][dc][ed][fb][fd][gc]AW[ac][ae][bb][bd][be][ce][db][dd][de][eb][ec]((;B[ab];W[aa](;B[ea];W[da];B[fc]C[Correct])(;B[fc]C[Correct]))(;B[ba];W[ab](;B[ea]C[Correct])(;B[fc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][ca][cb][cc][cd][dc][ed][fb][fd][gc]AW[ac][ae][bb][bd][be][ce][db][dd][de][eb][ec](;B[ab];W[aa](;B[ea];W[da];B[fc]C[Correct])(;B[fc]C[Correct]))(;B[ba];W[ab](;B[ea]C[Correct])(;B[fc]C[Correct])))"
     },
     {
         "id": 3481,
@@ -24460,14 +24460,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][af][bb][bf][ca][cf][db][dc][dd][df][ee][fe]AW[ae][ba][bc][be][cc][cd][ce][de][ea][eb][ec][ed][gc]((;B[cb];W[da](;B[ac];W[ad];B[bd]C[Correct])(;B[ad]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][af][bb][bf][ca][cf][db][dc][dd][df][ee][fe]AW[ae][ba][bc][be][cc][cd][ce][de][ea][eb][ec][ed][gc](;B[cb];W[da](;B[ac];W[ad];B[bd]C[Correct])(;B[ad]C[Correct])))"
     },
     {
         "id": 3493,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bd][be][bf][cb][cc][dd][ec][fa][fb][gb][gc][jc]AW[ba][bb][bc][cd][ce][de][eb][ed][fc][fd]((;B[da];W[dc];B[db]C[Correct])(;B[db];W[dc];B[da]C[Correct])(;B[ea];W[dc];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bd][be][bf][cb][cc][dd][ec][fa][fb][gb][gc][jc]AW[ba][bb][bc][cd][ce][de][eb][ed][fc][fd](;B[da];W[dc];B[db]C[Correct])(;B[db];W[dc];B[da]C[Correct])(;B[ea];W[dc];B[da]C[Correct]))"
     },
     {
         "id": 3494,
@@ -24481,7 +24481,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bd][bf][cd][de][ec][ee][fb][fc][fd][fe][gc][ge][hd]AW[ad][bc][cc][dc][dd][ea][ed][fa][gb][hc][jc][kd]((;B[db]C[Correct])(;B[hb];W[ga];B[db];W[cb];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bd][bf][cd][de][ec][ee][fb][fc][fd][fe][gc][ge][hd]AW[ad][bc][cc][dc][dd][ea][ed][fa][gb][hc][jc][kd](;B[db]C[Correct])(;B[hb];W[ga];B[db];W[cb];B[da]C[Correct]))"
     },
     {
         "id": 3496,
@@ -24502,7 +24502,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][cd][ce][cg]AW[bc][bd][cb][db][ec]((;B[ab];W[ba](;B[ad]C[Correct])(;B[be]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][cd][ce][cg]AW[bc][bd][cb][db][ec](;B[ab];W[ba](;B[ad]C[Correct])(;B[be]C[Correct])))"
     },
     {
         "id": 3499,
@@ -24544,7 +24544,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][be][ca][cb][cd][ce][ea][ed][fb][fc][fd]AW[ad][ba][bb][bd][cc][dc][eb][ec]((;B[da]C[Correct])(;B[dd];W[ac];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][be][ca][cb][cd][ce][ea][ed][fb][fc][fd]AW[ad][ba][bb][bd][cc][dc][eb][ec](;B[da]C[Correct])(;B[dd];W[ac];B[da]C[Correct]))"
     },
     {
         "id": 3505,
@@ -24593,7 +24593,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bd][bf][bg][cc][cg][dc][dg][ec][ef][eg][fd]AW[ad][af][be][cd][cf][dd][df][eb][ed][ee][fc][ff][gb][gd]((;B[ce];W[de](;B[ac];W[ae];B[ag]C[Correct])(;B[ag];W[ae];B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bd][bf][bg][cc][cg][dc][dg][ec][ef][eg][fd]AW[ad][af][be][cd][cf][dd][df][eb][ed][ee][fc][ff][gb][gd](;B[ce];W[de](;B[ac];W[ae];B[ag]C[Correct])(;B[ag];W[ae];B[ac]C[Correct])))"
     },
     {
         "id": 3512,
@@ -24656,7 +24656,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ac][ae][be][cb][ce][cg][db][dc][dd]AW[ad][ba][bb][bc][bd][cc][cd][de][ec][ed][ee][fb]((;B[ca];W[aa](;B[ab]C[Correct])(;B[ac];W[eb];B[ab]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ac][ae][be][cb][ce][cg][db][dc][dd]AW[ad][ba][bb][bc][bd][cc][cd][de][ec][ed][ee][fb](;B[ca];W[aa](;B[ab]C[Correct])(;B[ac];W[eb];B[ab]C[Correct])))"
     },
     {
         "id": 3521,
@@ -24670,7 +24670,7 @@ const problems = [
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ad][ba][bb][bc][ca][cd][dd][ec][fb][fd]AW[ac][bd][be][cb][cc][ce][da][db]((;B[ab];W[ae](;B[dc]C[Correct])(;B[ea]C[Correct])(;B[eb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ad][ba][bb][bc][ca][cd][dd][ec][fb][fd]AW[ac][bd][be][cb][cc][ce][da][db](;B[ab];W[ae](;B[dc]C[Correct])(;B[ea]C[Correct])(;B[eb]C[Correct])))"
     },
     {
         "id": 3523,
@@ -24684,7 +24684,7 @@ const problems = [
         "title": "死活题：黑先劫活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫活]AB[ba][bd][cb][da][dc][dd][de]AW[bb][cc][cf][db][df][eb][ec][ee][ef][gc]((;B[ab]C[Correct])(;B[bc]C[Correct])(;B[cd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫活]AB[ba][bd][cb][da][dc][dd][de]AW[bb][cc][cf][db][df][eb][ec][ee][ef][gc](;B[ab]C[Correct])(;B[bc]C[Correct])(;B[cd]C[Correct]))"
     },
     {
         "id": 3525,
@@ -24712,7 +24712,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cd][dd][ed][fc][gc][hd]AW[ac][bd][be][cb][cc][cf][dc][ec][fb][fd][fe]((;B[eb];W[ea](;B[ca];W[db];B[da]C[Correct])(;B[da];W[db];B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][cd][dd][ed][fc][gc][hd]AW[ac][bd][be][cb][cc][cf][dc][ec][fb][fd][fe](;B[eb];W[ea](;B[ca];W[db];B[da]C[Correct])(;B[da];W[db];B[ca]C[Correct])))"
     },
     {
         "id": 3529,
@@ -24838,14 +24838,14 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[be][ce][de][eb][ee][fc][fd]AW[db][dd][ed][fe][gb][gc][gd][ge]((;B[dc];W[cc](;B[cd];W[ec];B[dc]C[Correct])(;B[ec]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[be][ce][de][eb][ee][fc][fd]AW[db][dd][ed][fe][gb][gc][gd][ge](;B[dc];W[cc](;B[cd];W[ec];B[dc]C[Correct])(;B[ec]C[Correct])))"
     },
     {
         "id": 3547,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ba][bb][cb][cc][cd][de][ee][fb][fd][ga][gc]AW[bc][bd][bf][ca][ce][da][db][dc][dd][df][eb][ed][fa]((;B[ea]C[Correct])(;B[ec];W[fc];B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ba][bb][cb][cc][cd][de][ee][fb][fd][ga][gc]AW[bc][bd][bf][ca][ce][da][db][dc][dd][df][eb][ed][fa](;B[ea]C[Correct])(;B[ec];W[fc];B[ea]C[Correct]))"
     },
     {
         "id": 3548,
@@ -24894,7 +24894,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][be][bf][bg][bl][cd][ce][ck][cl][df][dg][dh][dj]AW[ab][ae][af][ag][aj][bb][bh][bj][bk][cb][cf][cg][ch][dc][dd][de]((;B[ad];W[ah](;B[ak]C[Correct])(;B[cj];W[cc];B[ak]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][be][bf][bg][bl][cd][ce][ck][cl][df][dg][dh][dj]AW[ab][ae][af][ag][aj][bb][bh][bj][bk][cb][cf][cg][ch][dc][dd][de](;B[ad];W[ah](;B[ak]C[Correct])(;B[cj];W[cc];B[ak]C[Correct])))"
     },
     {
         "id": 3555,
@@ -24908,14 +24908,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bd][cc][cg][dc][dg][ed][ee][ef]AW[bb][be][cb][cd][db][dd][de][ec][eg][eh][fc][fe][ff][gb]((;B[ce];W[cf];B[df];W[ce](;B[ae]C[Correct])(;B[bf]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bd][cc][cg][dc][dg][ed][ee][ef]AW[bb][be][cb][cd][db][dd][de][ec][eg][eh][fc][fe][ff][gb](;B[ce];W[cf];B[df];W[ce](;B[ae]C[Correct])(;B[bf]C[Correct])))"
     },
     {
         "id": 3557,
         "title": "死活题：黑先劫杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[ab][bd][bf][cd][ce][db][df][ea][ef][fb][fd][gc][hb]AW[ba][bc][cb][cc][da][dd][de][eb][ec]((;B[ac];W[bb];B[ca]C[Correct])(;B[ca];W[da];B[ac];W[bb];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[ab][bd][bf][cd][ce][db][df][ea][ef][fb][fd][gc][hb]AW[ba][bc][cb][cc][da][dd][de][eb][ec](;B[ac];W[bb];B[ca]C[Correct])(;B[ca];W[da];B[ac];W[bb];B[ca]C[Correct]))"
     },
     {
         "id": 3558,
@@ -24964,7 +24964,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ae][bd][bf][ce][db][dd][de][eb][ec][fb]AW[bb][bc][cb][cc][cd][dc][ed][fc][fd][gb][hc]((;B[ab];W[ba](;B[ad];W[da];B[aa]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ae][bd][bf][ce][db][dd][de][eb][ec][fb]AW[bb][bc][cb][cc][cd][dc][ed][fc][fd][gb][hc](;B[ab];W[ba](;B[ad];W[da];B[aa]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 3565,
@@ -25027,7 +25027,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][cd][dc][dd][ed][fc][fe][gc][hb][hc]AW[bd][be][ca][cb][cc][ce][da][de][ea][fb][gb][ha][jb][jc][jd]((;B[db];W[ja];B[eb]C[Correct])(;B[eb];W[ja];B[db];W[ga];B[fa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][cd][dc][dd][ed][fc][fe][gc][hb][hc]AW[bd][be][ca][cb][cc][ce][da][de][ea][fb][gb][ha][jb][jc][jd](;B[db];W[ja];B[eb]C[Correct])(;B[eb];W[ja];B[db];W[ga];B[fa]C[Correct]))"
     },
     {
         "id": 3574,
@@ -25076,7 +25076,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][da][dc][ec][fc][ga][gc][hb]AW[bb][bc][cc][dd][ed][fd][gd][hc][ja][jb][jc]((;B[ea]C[Correct])(;B[eb]C[Correct])(;B[fb];W[ha];B[eb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][da][dc][ec][fc][ga][gc][hb]AW[bb][bc][cc][dd][ed][fd][gd][hc][ja][jb][jc](;B[ea]C[Correct])(;B[eb]C[Correct])(;B[fb];W[ha];B[eb]C[Correct]))"
     },
     {
         "id": 3581,
@@ -25097,14 +25097,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bd][cd][ce][da][db][dc][de]AW[bb][bc][ca][cb][cc][dd][ed][fc][gc]((;B[ac];W[aa];B[ad];W[ec];B[ab]C[Correct])(;B[ad];W[aa];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bd][cd][ce][da][db][dc][de]AW[bb][bc][ca][cb][cc][dd][ed][fc][gc](;B[ac];W[aa];B[ad];W[ec];B[ab]C[Correct])(;B[ad];W[aa];B[ac]C[Correct]))"
     },
     {
         "id": 3584,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][af][bb][be][bf][cb][cd][db][de][ee][fa][fd][gb][gc][gd][jb]AW[ad][ae][ba][bc][bd][cc][da][dc][ea][ec][fb][fc]((;B[ca];W[ga](;B[dd];W[eb];B[ed]C[Correct])(;B[ed];W[eb];B[dd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][af][bb][be][bf][cb][cd][db][de][ee][fa][fd][gb][gc][gd][jb]AW[ad][ae][ba][bc][bd][cc][da][dc][ea][ec][fb][fc](;B[ca];W[ga](;B[dd];W[eb];B[ed]C[Correct])(;B[ed];W[eb];B[dd]C[Correct])))"
     },
     {
         "id": 3585,
@@ -25125,7 +25125,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[be][ce][cg][db][dc][dd][hb][hc][hd]AW[ca][cb][cc][cd][de][ed][ee]((;B[eb]C[Correct])(;B[fc];W[ec];B[eb];W[fb];B[gb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[be][ce][cg][db][dc][dd][hb][hc][hd]AW[ca][cb][cc][cd][de][ed][ee](;B[eb]C[Correct])(;B[fc];W[ec];B[eb];W[fb];B[gb]C[Correct]))"
     },
     {
         "id": 3588,
@@ -25146,7 +25146,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cd][dd][de][ed][fa][fb][fc][gc][hc][jb]AW[ea][eb][ec][ee][fd][fe][gb][hb][hd][jc][jd][kc]((;B[ha];W[gd];B[ga];W[kb](;B[da]C[Correct])(;B[db]C[Correct])(;B[dc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cd][dd][de][ed][fa][fb][fc][gc][hc][jb]AW[ea][eb][ec][ee][fd][fe][gb][hb][hd][jc][jd][kc](;B[ha];W[gd];B[ga];W[kb](;B[da]C[Correct])(;B[db]C[Correct])(;B[dc]C[Correct])))"
     },
     {
         "id": 3591,
@@ -25160,7 +25160,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][bc][bd][be][cb]AW[bf][bh][cc][cd][ce][cf][db][ec]((;B[ab]C[Correct])(;B[ae];W[ac];B[ab];W[ca];B[ba]C[Correct])(;B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][bc][bd][be][cb]AW[bf][bh][cc][cd][ce][cf][db][ec](;B[ab]C[Correct])(;B[ae];W[ac];B[ab];W[ca];B[ba]C[Correct])(;B[ca]C[Correct]))"
     },
     {
         "id": 3593,
@@ -25216,7 +25216,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cd][ce][dc][de][df][eb][ee][fe][ga][gb][gc][gd][ge]AW[bc][bd][be][cc][cf][cg][db][dg][ea][ed][ef][fb][fc][fd]((;B[dd];W[ec];B[fa]C[Correct])(;B[fa];W[ec];B[dd];W[cb];B[eb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cd][ce][dc][de][df][eb][ee][fe][ga][gb][gc][gd][ge]AW[bc][bd][be][cc][cf][cg][db][dg][ea][ed][ef][fb][fc][fd](;B[dd];W[ec];B[fa]C[Correct])(;B[fa];W[ec];B[dd];W[cb];B[eb]C[Correct]))"
     },
     {
         "id": 3601,
@@ -25279,7 +25279,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][ae][ba][bc][bd][cc][db]AW[af][be][bf][cb][cd][ce][dc][dd][eb][fd]((;B[ab];W[da];B[ca]C[Correct])(;B[bb];W[da];B[ab]C[Correct])(;B[ca];W[da];B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][ae][ba][bc][bd][cc][db]AW[af][be][bf][cb][cd][ce][dc][dd][eb][fd](;B[ab];W[da];B[ca]C[Correct])(;B[bb];W[da];B[ab]C[Correct])(;B[ca];W[da];B[ab]C[Correct]))"
     },
     {
         "id": 3610,
@@ -25293,7 +25293,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[fb][fc][gd][hb][hc][ja][jc][kb]AW[eb][ec][ed][fa][fe][gb][ge][ha][he][jd][kc][lb][lc]((;B[ga];W[ha];B[gc];W[ea];B[ga]C[Correct])(;B[gc];W[ea];B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[fb][fc][gd][hb][hc][ja][jc][kb]AW[eb][ec][ed][fa][fe][gb][ge][ha][he][jd][kc][lb][lc](;B[ga];W[ha];B[gc];W[ea];B[ga]C[Correct])(;B[gc];W[ea];B[ga]C[Correct]))"
     },
     {
         "id": 3612,
@@ -25314,7 +25314,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][ad][bc][bf][bg][cb][cc][cd][ce][cf]AW[ab][ba][bb][bh][ca][cg][cj][db][dc][dd][de][df][dg]((;B[ag];W[be];B[ae]C[Correct])(;B[be]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][ad][bc][bf][bg][cb][cc][cd][ce][cf]AW[ab][ba][bb][bh][ca][cg][cj][db][dc][dd][de][df][dg](;B[ag];W[be];B[ae]C[Correct])(;B[be]C[Correct]))"
     },
     {
         "id": 3615,
@@ -25328,7 +25328,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cc][cd][db][dd][eb][fc][hc][hd]AW[bb][bc][bd][cb][dc][ec][ed][fb]((;B[ee];W[fd];B[fe];W[gc];B[gd];W[fc](;B[fa]C[Correct])(;B[gb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[cc][cd][db][dd][eb][fc][hc][hd]AW[bb][bc][bd][cb][dc][ec][ed][fb](;B[ee];W[fd];B[fe];W[gc];B[gd];W[fc](;B[fa]C[Correct])(;B[gb]C[Correct])))"
     },
     {
         "id": 3617,
@@ -25356,7 +25356,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ae][be][ce][db][de][ea][eb][ec][ed]AW[ac][ad][ba][bd][ca][cb][cd][da][dc][dd]((;B[bb];W[bc];B[cc]C[Correct])(;B[bc];W[cc];B[bb];W[aa];B[bb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ae][be][ce][db][de][ea][eb][ec][ed]AW[ac][ad][ba][bd][ca][cb][cd][da][dc][dd](;B[bb];W[bc];B[cc]C[Correct])(;B[bc];W[cc];B[bb];W[aa];B[bb]C[Correct]))"
     },
     {
         "id": 3621,
@@ -25510,7 +25510,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][bd][cf][ec][ef][ff][gc][ge]AW[cb][cc][dd][ed][fc][hc][hd][kd]((;B[fb];W[fd];B[gd]C[Correct])(;B[gd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][bd][cf][ec][ef][ff][gc][ge]AW[cb][cc][dd][ed][fc][hc][hd][kd](;B[fb];W[fd];B[gd]C[Correct])(;B[gd]C[Correct]))"
     },
     {
         "id": 3643,
@@ -25531,7 +25531,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bc][bd][ca][cb][da][dc][dd][eb][ec][fb]AW[ba][bb][be][cc][cd][ce][de][ed][ee][fa][fc][ga][gb][gc]((;B[aa];W[ea];B[ad]C[Correct])(;B[ad]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bc][bd][ca][cb][da][dc][dd][eb][ec][fb]AW[ba][bb][be][cc][cd][ce][de][ed][ee][fa][fc][ga][gb][gc](;B[aa];W[ea];B[ad]C[Correct])(;B[ad]C[Correct]))"
     },
     {
         "id": 3646,
@@ -25566,7 +25566,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cd][ce][cf][cg][ch][db][dc][dg][ed][eh][fb][fd][fe][ge]AW[bc][bd][be][bf][bg][cc][dd][de][df][ee][ef][eg][ff][fg][gb][gc][jd][ke][kg]((;B[gh];W[fh];B[fj];W[ej](;B[gf];W[dh];B[gg];W[eh];B[ek]C[Correct])(;B[gg];W[dh];B[gf];W[eh];B[ek]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cd][ce][cf][cg][ch][db][dc][dg][ed][eh][fb][fd][fe][ge]AW[bc][bd][be][bf][bg][cc][dd][de][df][ee][ef][eg][ff][fg][gb][gc][jd][ke][kg](;B[gh];W[fh];B[fj];W[ej](;B[gf];W[dh];B[gg];W[eh];B[ek]C[Correct])(;B[gg];W[dh];B[gf];W[eh];B[ek]C[Correct])))"
     },
     {
         "id": 3651,
@@ -25615,14 +25615,14 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cc][dc][ec][ed][fa][fe][ff][gc][gd][hb][jd][kc]AW[bc][bd][dd][de][ee][eg][fb][fc][fd][fg][gb][ge][gf][gg]((;B[eb];W[ef];B[ga]C[Correct])(;B[ga];W[ef];B[eb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cc][dc][ec][ed][fa][fe][ff][gc][gd][hb][jd][kc]AW[bc][bd][dd][de][ee][eg][fb][fc][fd][fg][gb][ge][gf][gg](;B[eb];W[ef];B[ga]C[Correct])(;B[ga];W[ef];B[eb]C[Correct]))"
     },
     {
         "id": 3658,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][bd][be][bf][cc][cf][cg][db][dg][eb][eg][fb][fg][gb][gc][gf][gg][hc][hd][he][hf]AW[cd][ce][dc][df][ec][ed][ef][fc][ff][gd][ge]((;B[de];W[dd];B[fe];W[ee];B[fd]C[Correct])(;B[fe];W[fd];B[de]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][bd][be][bf][cc][cf][cg][db][dg][eb][eg][fb][fg][gb][gc][gf][gg][hc][hd][he][hf]AW[cd][ce][dc][df][ec][ed][ef][fc][ff][gd][ge](;B[de];W[dd];B[fe];W[ee];B[fd]C[Correct])(;B[fe];W[fd];B[de]C[Correct]))"
     },
     {
         "id": 3659,
@@ -25692,7 +25692,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][bd][ca][cd][da][dd][ed][fc][gb][gc]AW[aa][ac][bb][cb][cc][db][dc][ec][fa][fb]((;B[ea]C[Correct])(;B[ga];W[ba];B[ea];W[eb];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][bd][ca][cd][da][dd][ed][fc][gb][gc]AW[aa][ac][bb][cb][cc][db][dc][ec][fa][fb](;B[ea]C[Correct])(;B[ga];W[ba];B[ea];W[eb];B[da]C[Correct]))"
     },
     {
         "id": 3669,
@@ -25755,7 +25755,7 @@ const problems = [
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ab][bc][bd][cd][dd][ec][fc][hc]AW[bb][be][cb][cc][cf][dc][de][ed][ee]((;B[ba];W[ca](;B[da]C[Correct])(;B[db]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ab][bc][bd][cd][dd][ec][fc][hc]AW[bb][be][cb][cc][cf][dc][de][ed][ee](;B[ba];W[ca](;B[da]C[Correct])(;B[db]C[Correct])))"
     },
     {
         "id": 3678,
@@ -25804,7 +25804,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ag][bb][bf][bh][cc][cd][ce][cg][dg]AW[ae][be][cb][cf][db][dc][dd][de][df]((;B[ac];W[ba];B[ab];W[bd];B[bc]C[Correct])(;B[bc]C[Correct])(;B[bd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ag][bb][bf][bh][cc][cd][ce][cg][dg]AW[ae][be][cb][cf][db][dc][dd][de][df](;B[ac];W[ba];B[ab];W[bd];B[bc]C[Correct])(;B[bc]C[Correct])(;B[bd]C[Correct]))"
     },
     {
         "id": 3685,
@@ -25825,7 +25825,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][ca][cd][dc][dd][fa][fb][fc][fd]AW[ac][ad][bd][be][cb][cc][ce][db][de][eb][ee]((;B[ba];W[ab](;B[da]C[Correct])(;B[ea];W[aa];B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][ca][cd][dc][dd][fa][fb][fc][fd]AW[ac][ad][bd][be][cb][cc][ce][db][de][eb][ee](;B[ba];W[ab](;B[da]C[Correct])(;B[ea];W[aa];B[da]C[Correct])))"
     },
     {
         "id": 3688,
@@ -25895,7 +25895,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][da][db][dc][ec][fc][gc][hb][jb][jc]AW[ba][bc][be][cb][cd][dd][eb][ed][fb][fd][gb][gd][hc][hd]((;B[ea]C[Correct])(;B[fa]C[Correct])(;B[ga];W[ca];B[aa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][da][db][dc][ec][fc][gc][hb][jb][jc]AW[ba][bc][be][cb][cd][dd][eb][ed][fb][fd][gb][gd][hc][hd](;B[ea]C[Correct])(;B[fa]C[Correct])(;B[ga];W[ca];B[aa]C[Correct]))"
     },
     {
         "id": 3698,
@@ -26000,7 +26000,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bg][cb][cc][cg][da][db][dd][de][df]AW[aa][ab][ad][bc][bd][be][cd][dc][ea][eb][ec][ed]((;B[ac];W[ab](;B[bf]C[Correct])(;B[ce]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bg][cb][cc][cg][da][db][dd][de][df]AW[aa][ab][ad][bc][bd][be][cd][dc][ea][eb][ec][ed](;B[ac];W[ab](;B[bf]C[Correct])(;B[ce]C[Correct])))"
     },
     {
         "id": 3713,
@@ -26070,7 +26070,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ac][bc][bf][cd][ce][da][dd][df][dg][ea][ec][ed][fb][gc]AW[ba][bb][bd][be][bg][cb][cc][cf][cg][ch][db][dc][eb]((;B[af];W[ag];B[fa]C[Correct])(;B[fa];W[af];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ac][bc][bf][cd][ce][da][dd][df][dg][ea][ec][ed][fb][gc]AW[ba][bb][bd][be][bg][cb][cc][cf][cg][ch][db][dc][eb](;B[af];W[ag];B[fa]C[Correct])(;B[fa];W[af];B[ca]C[Correct]))"
     },
     {
         "id": 3723,
@@ -26112,7 +26112,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ac][bd][be][bg][cf][da][db][dc][dd][df][ea][ee][ef][gc][ge][hb][hd][hf]AW[ba][bb][bc][cb][cc][cd][ce][de][eb][ec][ed][fa][fd][gd]((;B[fb];W[ca](;B[dc];W[ea];B[db]C[Correct])(;B[ea];W[da];B[dc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ac][bd][be][bg][cf][da][db][dc][dd][df][ea][ee][ef][gc][ge][hb][hd][hf]AW[ba][bb][bc][cb][cc][cd][ce][de][eb][ec][ed][fa][fd][gd](;B[fb];W[ca](;B[dc];W[ea];B[db]C[Correct])(;B[ea];W[da];B[dc]C[Correct])))"
     },
     {
         "id": 3729,
@@ -26133,7 +26133,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][bb][bd][be][cb][cc][cd][ce][dd]AW[ab][ac][ae][af][bc][bf][cf][db][dc][df][ec][ed][ee]((;B[aa];W[ca];B[ac]C[Correct])(;B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][bb][bd][be][cb][cc][cd][ce][dd]AW[ab][ac][ae][af][bc][bf][cf][db][dc][df][ec][ed][ee](;B[aa];W[ca];B[ac]C[Correct])(;B[ca]C[Correct]))"
     },
     {
         "id": 3732,
@@ -26217,7 +26217,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ca][cb][cc][eb][ec][fc][fd][gb][gc][gd][hb][ja][jb]AW[bb][bc][cd][ce][db][dc][df][ea][ed][ee][fa][fb][fe][ga][ge][ha][hc][hd][jc][je][kb][kc]((;B[da];W[fa](;B[dd];W[dc];B[ga]C[Correct])(;B[ga]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ca][cb][cc][eb][ec][fc][fd][gb][gc][gd][hb][ja][jb]AW[bb][bc][cd][ce][db][dc][df][ea][ed][ee][fa][fb][fe][ga][ge][ha][hc][hd][jc][je][kb][kc](;B[da];W[fa](;B[dd];W[dc];B[ga]C[Correct])(;B[ga]C[Correct])))"
     },
     {
         "id": 3744,
@@ -26343,7 +26343,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bc][be][cb][cd][dd][ed][fb][fc]AW[ba][bb][cc][da][dc][eb][ec][fd][gd][hb][hc]((;B[fa];W[ea];B[ca];W[db](;B[ca];W[cb];B[ac];W[gc];B[aa]C[Correct])(;B[cb];W[ca];B[ac];W[gc];B[aa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bc][be][cb][cd][dd][ed][fb][fc]AW[ba][bb][cc][da][dc][eb][ec][fd][gd][hb][hc](;B[fa];W[ea];B[ca];W[db](;B[ca];W[cb];B[ac];W[gc];B[aa]C[Correct])(;B[cb];W[ca];B[ac];W[gc];B[aa]C[Correct])))"
     },
     {
         "id": 3762,
@@ -26378,7 +26378,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bc][cb][dc][eb][ec][ed][fc][gb][ha][hb][hc]AW[ab][bb][bd][cc][cd][da][dd][ee][fd][ff][gc][gd][he][hf][jb][jc][jd]((;B[ca];W[fa];B[ea]C[Correct])(;B[fa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bc][cb][dc][eb][ec][ed][fc][gb][ha][hb][hc]AW[ab][bb][bd][cc][cd][da][dd][ee][fd][ff][gc][gd][he][hf][jb][jc][jd](;B[ca];W[fa];B[ea]C[Correct])(;B[fa]C[Correct]))"
     },
     {
         "id": 3767,
@@ -26462,7 +26462,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[af][bc][bf][cd][ce][cf][da][db][dc][dd]AW[ab][bb][bd][be][ca][cb][cc]((;B[ad]C[Correct])(;B[ae];W[ad];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[af][bc][bf][cd][ce][cf][da][db][dc][dd]AW[ab][bb][bd][be][ca][cb][cc](;B[ad]C[Correct])(;B[ae];W[ad];B[ac]C[Correct]))"
     },
     {
         "id": 3779,
@@ -26490,7 +26490,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][cc][ce][db][dc][de][eb][ed][ee]AW[ac][bb][bd][cd][dd][ea][ec][fb][fc][fd][fe]((;B[ab];W[aa];B[be];W[ad];B[ae]C[Correct])(;B[be];W[ad];B[ab];W[aa];B[ae]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][cc][ce][db][dc][de][eb][ed][ee]AW[ac][bb][bd][cd][dd][ea][ec][fb][fc][fd][fe](;B[ab];W[aa];B[be];W[ad];B[ae]C[Correct])(;B[be];W[ad];B[ab];W[aa];B[ae]C[Correct]))"
     },
     {
         "id": 3783,
@@ -26518,14 +26518,14 @@ const problems = [
         "title": "死活题：黑先劫杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[bb][bg][cc][cg][cj][dc][ec][eg][fd][ff][fg][gd]AW[ac][bc][bd][bf][cd][dd][df][ed][ee][ef]((;B[af];W[ae];B[cf];W[ce];B[be]C[Correct])(;B[cf];W[ce];B[af];W[ae];B[be]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[bb][bg][cc][cg][cj][dc][ec][eg][fd][ff][fg][gd]AW[ac][bc][bd][bf][cd][dd][df][ed][ee][ef](;B[af];W[ae];B[cf];W[ce];B[be]C[Correct])(;B[cf];W[ce];B[af];W[ae];B[be]C[Correct]))"
     },
     {
         "id": 3787,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ad][ba][bb][bc][cd][ce][de][ee][fc][fe][gd]AW[bd][be][bf][ca][cb][cc][cf][db][dd][ed][fd][gc]((;B[eb];W[ab](;B[da]C[Correct])(;B[dc];W[ac];B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ad][ba][bb][bc][cd][ce][de][ee][fc][fe][gd]AW[bd][be][bf][ca][cb][cc][cf][db][dd][ed][fd][gc](;B[eb];W[ab](;B[da]C[Correct])(;B[dc];W[ac];B[da]C[Correct])))"
     },
     {
         "id": 3788,
@@ -26574,7 +26574,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][bh][ca][cb][cc][cd][ce][cf][cg][ch]AW[ab][ac][ba][bb][bd][be][bf][bg]((;B[ad]C[Correct])(;B[ag];W[af];B[ad]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][bh][ca][cb][cc][cd][ce][cf][cg][ch]AW[ab][ac][ba][bb][bd][be][bf][bg](;B[ad]C[Correct])(;B[ag];W[af];B[ad]C[Correct]))"
     },
     {
         "id": 3795,
@@ -26602,7 +26602,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][bb][bd][be][cb][cc][db]AW[ae][af][ba][bf][cd][ce][cf][dc][eb][ec]((;B[aa];W[ad];B[ca];W[bc];B[bd]C[Correct])(;B[ca];W[ad];B[aa];W[bc];B[bd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][bb][bd][be][cb][cc][db]AW[ae][af][ba][bf][cd][ce][cf][dc][eb][ec](;B[aa];W[ad];B[ca];W[bc];B[bd]C[Correct])(;B[ca];W[ad];B[aa];W[bc];B[bd]C[Correct]))"
     },
     {
         "id": 3799,
@@ -26630,7 +26630,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bc][cb][cc][dd][ed][fb][fc]AW[ab][ac][ae][bd][bf][cd][ce][db][dc][eb]((;B[ca]C[Correct])(;B[ea]C[Correct])(;B[ec];W[bb];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bc][cb][cc][dd][ed][fb][fc]AW[ab][ac][ae][bd][bf][cd][ce][db][dc][eb](;B[ca]C[Correct])(;B[ea]C[Correct])(;B[ec];W[bb];B[ca]C[Correct]))"
     },
     {
         "id": 3803,
@@ -26644,7 +26644,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][cd][de][ee][fe][gc]AW[bb][bc][bd][be][ce][dd][eb][ed]((;B[ec];W[dc];B[db];W[fc];B[fd];W[ec](;B[ea]C[Correct])(;B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][cd][de][ee][fe][gc]AW[bb][bc][bd][be][ce][dd][eb][ed](;B[ec];W[dc];B[db];W[fc];B[fd];W[ec](;B[ea]C[Correct])(;B[fb]C[Correct])))"
     },
     {
         "id": 3805,
@@ -26707,7 +26707,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ac][ae][bc][bd][bh][cd][ce][cf][cg]AW[bb][bf][bg][bk][cb][cc][ch][cj][dg][ec][ee]((;B[ag];W[bj];B[ah];W[aj];B[af]C[Correct])(;B[ah]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ac][ae][bc][bd][bh][cd][ce][cf][cg]AW[bb][bf][bg][bk][cb][cc][ch][cj][dg][ec][ee](;B[ag];W[bj];B[ah];W[aj];B[af]C[Correct])(;B[ah]C[Correct]))"
     },
     {
         "id": 3814,
@@ -26784,7 +26784,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bf][cb][cf][cj][dc][dd][de][dj][ef][eg][ej]AW[bc][be][cc][cd][ce][cg][df][dg][dh]((;B[bg];W[bh](;B[ch]C[Correct])(;B[eh]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bf][cb][cf][cj][dc][dd][de][dj][ef][eg][ej]AW[bc][be][cc][cd][ce][cg][df][dg][dh](;B[bg];W[bh](;B[ch]C[Correct])(;B[eh]C[Correct])))"
     },
     {
         "id": 3825,
@@ -26840,7 +26840,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][cb][cc][dd][gb]AW[bd][cd][da][db][dc]((;B[ec];W[ed];B[de];W[eb];B[fc];W[bc](;B[ea]C[Correct])(;B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ca][cb][cc][dd][gb]AW[bd][cd][da][db][dc](;B[ec];W[ed];B[de];W[eb];B[fc];W[bc](;B[ea]C[Correct])(;B[fb]C[Correct])))"
     },
     {
         "id": 3833,
@@ -26875,7 +26875,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ad][bb][bd][cd][dd][ea][eb][ec][fc][fd]AW[ae][ba][be][cc][ce][da][db][dc][de][ed][ee]((;B[bc]C[Correct])(;B[ca];W[cb];B[bc]C[Correct])(;B[cb];W[bc];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ad][bb][bd][cd][dd][ea][eb][ec][fc][fd]AW[ae][ba][be][cc][ce][da][db][dc][de][ed][ee](;B[bc]C[Correct])(;B[ca];W[cb];B[bc]C[Correct])(;B[cb];W[bc];B[ac]C[Correct]))"
     },
     {
         "id": 3838,
@@ -26931,14 +26931,14 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][bd][cd][da][de][eb][gc][gd][ge][jc]AW[ad][be][cb][cc][ce][cg][db][dd][ec][ed][ef][fd]((;B[ca];W[dc];B[fc]C[Correct])(;B[fc];W[dc];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][bd][cd][da][de][eb][gc][gd][ge][jc]AW[ad][be][cb][cc][ce][cg][db][dd][ec][ed][ef][fd](;B[ca];W[dc];B[fc]C[Correct])(;B[fc];W[dc];B[ca]C[Correct]))"
     },
     {
         "id": 3846,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][cc][ce][de][eb][ec][ed]AW[bc][cb][cd][dd][ee][ef][fb][fc][fd]((;B[bd];W[dc];B[db];W[cc](;B[ac]C[Correct])(;B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][cc][ce][de][eb][ec][ed]AW[bc][cb][cd][dd][ee][ef][fb][fc][fd](;B[bd];W[dc];B[db];W[cc](;B[ac]C[Correct])(;B[ca]C[Correct])))"
     },
     {
         "id": 3847,
@@ -26987,7 +26987,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bd][cb][cc][cd][da][dc][eb]AW[ba][bb][be][bg][ce][dd][ec][ed][fa][fb][fc]((;B[ad];W[ea];B[bc];W[db];B[ca]C[Correct])(;B[bc];W[ea];B[ad];W[db];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bd][cb][cc][cd][da][dc][eb]AW[ba][bb][be][bg][ce][dd][ec][ed][fa][fb][fc](;B[ad];W[ea];B[bc];W[db];B[ca]C[Correct])(;B[bc];W[ea];B[ad];W[db];B[ca]C[Correct]))"
     },
     {
         "id": 3854,
@@ -27127,7 +27127,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][ca][cc][cd][db][ea][eb]AW[bc][bd][be][bg][ce][dc][dd][ec][fb][fc]((;B[ab];W[cb];B[cc];W[cd];B[cb]C[Correct])(;B[ac];W[ad];B[ab];W[cb];B[cc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][ca][cc][cd][db][ea][eb]AW[bc][bd][be][bg][ce][dc][dd][ec][fb][fc](;B[ab];W[cb];B[cc];W[cd];B[cb]C[Correct])(;B[ac];W[ad];B[ab];W[cb];B[cc]C[Correct]))"
     },
     {
         "id": 3874,
@@ -27141,7 +27141,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ac][ae][be][cb][ce][da][de][ed][ee][fa][fb][fc]AW[aa][ad][bd][ca][cc][cd][db][dd][eb][ec]((;B[bb];W[ea](;B[ba]C[Correct])(;B[bc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ac][ae][be][cb][ce][da][de][ed][ee][fa][fb][fc]AW[aa][ad][bd][ca][cc][cd][db][dd][eb][ec](;B[bb];W[ea](;B[ba]C[Correct])(;B[bc]C[Correct])))"
     },
     {
         "id": 3876,
@@ -27211,7 +27211,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][bd][cb][ce][de][ee][fc]AW[ac][ad][be][bf][cc][cd][cg][db][dd]((;B[dc];W[ec];B[ed];W[dc](;B[da]C[Correct])(;B[eb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][bd][cb][ce][de][ee][fc]AW[ac][ad][be][bf][cc][cd][cg][db][dd](;B[dc];W[ec];B[ed];W[dc](;B[da]C[Correct])(;B[eb]C[Correct])))"
     },
     {
         "id": 3886,
@@ -27239,7 +27239,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][db][dc][dd][ed][fa][fb][fd][gb][gc]AW[bb][ca][cc][cd][ce][da][de][ee][fe][ga][ge][ha][hb][hc][hd]((;B[bc]C[Correct])(;B[ec];W[ea];B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][db][dc][dd][ed][fa][fb][fd][gb][gc]AW[bb][ca][cc][cd][ce][da][de][ee][fe][ga][ge][ha][hb][hc][hd](;B[bc]C[Correct])(;B[ec];W[ea];B[ba]C[Correct]))"
     },
     {
         "id": 3890,
@@ -27295,7 +27295,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bd][be][bf][cb][cc][db][dd][ec][ed][fc]AW[ba][bb][bc][cd][ce][de][eb][ee][fb][fe][gb][gc][gd]((;B[ca];W[fd](;B[aa]C[Correct])(;B[ab];W[dc];B[aa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bd][be][bf][cb][cc][db][dd][ec][ed][fc]AW[ba][bb][bc][cd][ce][de][eb][ee][fb][fe][gb][gc][gd](;B[ca];W[fd](;B[aa]C[Correct])(;B[ab];W[dc];B[aa]C[Correct])))"
     },
     {
         "id": 3898,
@@ -27351,7 +27351,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[be][cb][cc][dd][de][ec][fc][gd]AW[bf][cf][db][dc][df][ed][ee][ef]((;B[bd]C[Correct])(;B[cd]C[Correct])(;B[ce]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[be][cb][cc][dd][de][ec][fc][gd]AW[bf][cf][db][dc][df][ed][ee][ef](;B[bd]C[Correct])(;B[cd]C[Correct])(;B[ce]C[Correct]))"
     },
     {
         "id": 3906,
@@ -27365,7 +27365,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bb][be][cb][ce][db][dd][de][df][ec][fc]AW[ac][bc][bf][cc][cf][cg][dc][dg][eb][ed][ee][ef]((;B[ab];W[af](;B[bd]C[Correct])(;B[cd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bb][be][cb][ce][db][dd][de][df][ec][fc]AW[ac][bc][bf][cc][cf][cg][dc][dg][eb][ed][ee][ef](;B[ab];W[af](;B[bd]C[Correct])(;B[cd]C[Correct])))"
     },
     {
         "id": 3908,
@@ -27393,14 +27393,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][bd][cd][db][de][ea][ee][fe][ga][gb][gc][gd]AW[ad][be][ca][cb][cc][ce][cg][dc][dd][ed][fa][fb][fc]((;B[fd];W[ec](;B[da];W[eb];B[da]C[Correct])(;B[eb];W[da];B[eb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][bd][cd][db][de][ea][ee][fe][ga][gb][gc][gd]AW[ad][be][ca][cb][cc][ce][cg][dc][dd][ed][fa][fb][fc](;B[fd];W[ec](;B[da];W[eb];B[da]C[Correct])(;B[eb];W[da];B[eb]C[Correct])))"
     },
     {
         "id": 3912,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ae][be][cd][ce][dc][ea][eb][ed]AW[ad][ba][bb][bd][cc][da][db]((;B[bc];W[ac](;B[bc]C[Correct])(;B[cb]C[Correct]))(;B[cb];W[ca];B[bc];W[ac];B[bc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ae][be][cd][ce][dc][ea][eb][ed]AW[ad][ba][bb][bd][cc][da][db](;B[bc];W[ac](;B[bc]C[Correct])(;B[cb]C[Correct]))(;B[cb];W[ca];B[bc];W[ac];B[bc]C[Correct]))"
     },
     {
         "id": 3913,
@@ -27421,7 +27421,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ac][bd][cb][cc][ce][db][de][df][ef][fe]AW[be][bf][cd][cf][ch][dc][dd][ec][ee][ge][hb][hc][hd]((;B[fc];W[fd](;B[eb];W[ff];B[ed]C[Correct])(;B[ed]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ac][bd][cb][cc][ce][db][de][df][ef][fe]AW[be][bf][cd][cf][ch][dc][dd][ec][ee][ge][hb][hc][hd](;B[fc];W[fd](;B[eb];W[ff];B[ed]C[Correct])(;B[ed]C[Correct])))"
     },
     {
         "id": 3916,
@@ -27435,7 +27435,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][bd][cc][ce][cf][ch][dg][eb][fa][fc][fe][fg][gb][gc][gd]AW[ac][bc][cb][cd][db][dd][df][ec][ed][ef][fd]((;B[ab];W[dc];B[ad]C[Correct])(;B[ad];W[dc];B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][bd][cc][ce][cf][ch][dg][eb][fa][fc][fe][fg][gb][gc][gd]AW[ac][bc][cb][cd][db][dd][df][ec][ed][ef][fd](;B[ab];W[dc];B[ad]C[Correct])(;B[ad];W[dc];B[ab]C[Correct]))"
     },
     {
         "id": 3918,
@@ -27449,7 +27449,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ad][ba][bb][bd][cd][dd][ec][fb][fc][fd]AW[ae][bc][be][cc][ce][da][db][dc][de][ed][ee]((;B[ab];W[cb](;B[ea]C[Correct])(;B[eb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ad][ba][bb][bd][cd][dd][ec][fb][fc][fd]AW[ae][bc][be][cc][ce][da][db][dc][de][ed][ee](;B[ab];W[cb](;B[ea]C[Correct])(;B[eb]C[Correct])))"
     },
     {
         "id": 3920,
@@ -27505,21 +27505,21 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][cb][cc][dc][ec][fd][fe][gb][gc]AW[ab][bc][bd][cd][da][dd][ed][fb][fc]((;B[eb]C[Correct])(;B[fa];W[eb];B[db]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][cb][cc][dc][ec][fd][fe][gb][gc]AW[ab][bc][bd][cd][da][dd][ed][fb][fc](;B[eb]C[Correct])(;B[fa];W[eb];B[db]C[Correct]))"
     },
     {
         "id": 3928,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][cd][dd][ee][fe][gc][ge][hc]AW[bb][bc][bd][ce][de][eb][ed][fd]((;B[ec];W[fc];B[fb];W[dc];B[gd];W[ec](;B[db]C[Correct])(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][cd][dd][ee][fe][gc][ge][hc]AW[bb][bc][bd][ce][de][eb][ed][fd](;B[ec];W[fc];B[fb];W[dc];B[gd];W[ec](;B[db]C[Correct])(;B[ea]C[Correct])))"
     },
     {
         "id": 3929,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][be][ce][dd][de][ea][eb][ec]AW[bc][bd][cb][cd][db][dc][ed][fb][fd][gc]((;B[ba]C[Correct])(;B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][be][ce][dd][de][ea][eb][ec]AW[bc][bd][cb][cd][db][dc][ed][fb][fd][gc](;B[ba]C[Correct])(;B[ca]C[Correct]))"
     },
     {
         "id": 3930,
@@ -27575,7 +27575,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ec][fb][gc][gd][hd][je][kb][kc][kd][lc]AW[gb][hc][he][hf][jb][jc][jd][ke][kg][le]((;B[ja];W[jf](;B[ga]C[Correct])(;B[ha]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ec][fb][gc][gd][hd][je][kb][kc][kd][lc]AW[gb][hc][he][hf][jb][jc][jd][ke][kg][le](;B[ja];W[jf](;B[ga]C[Correct])(;B[ha]C[Correct])))"
     },
     {
         "id": 3938,
@@ -27617,7 +27617,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][bd][ce][da][de][eb][ec][ed][ga]AW[ca][cb][cd][db][dd][ee][fb][fc][fd][fe][gb][ha]((;B[cc];W[ea];B[dc]C[Correct])(;B[dc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][bc][bd][ce][da][de][eb][ec][ed][ga]AW[ca][cb][cd][db][dd][ee][fb][fc][fd][fe][gb][ha](;B[cc];W[ea];B[dc]C[Correct])(;B[dc]C[Correct]))"
     },
     {
         "id": 3944,
@@ -27631,14 +27631,14 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cb][cc][cd][ce][db][df][ed][ef][ff][gd]AW[bd][be][cf][cg][dc][dd][de][ec][ge][hb][hc][hd][he]((;B[fc];W[ee];B[fe];W[fd](;B[eb]C[Correct])(;B[fb];W[gc];B[eb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cb][cc][cd][ce][db][df][ed][ef][ff][gd]AW[bd][be][cf][cg][dc][dd][de][ec][ge][hb][hc][hd][he](;B[fc];W[ee];B[fe];W[fd](;B[eb]C[Correct])(;B[fb];W[gc];B[eb]C[Correct])))"
     },
     {
         "id": 3946,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][cc][cd][dd][df][ea][eb][ec]AW[ac][ba][bc][ca][cb][db][dc][ed][fd][gb][gc]((;B[bd];W[aa](;B[ab]C[Correct])(;B[ad]C[Correct])(;B[bb]C[Correct])(;B[da]C[Correct]))(;B[da];W[aa](;B[ab];W[bb];B[bd]C[Correct])(;B[bb];W[ab];B[bd];W[fc];B[ad]C[Correct])(;B[bd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][cc][cd][dd][df][ea][eb][ec]AW[ac][ba][bc][ca][cb][db][dc][ed][fd][gb][gc](;B[bd];W[aa](;B[ab]C[Correct])(;B[ad]C[Correct])(;B[bb]C[Correct])(;B[da]C[Correct]))(;B[da];W[aa](;B[ab];W[bb];B[bd]C[Correct])(;B[bb];W[ab];B[bd];W[fc];B[ad]C[Correct])(;B[bd]C[Correct])))"
     },
     {
         "id": 3947,
@@ -27652,14 +27652,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][ca][cc][dc][ed][ee][fc][gb][gc]AW[bd][cb][cd][da][db][dd][eb][ec][fb]((;B[ba];W[ac](;B[ea]C[Correct])(;B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][ca][cc][dc][ed][ee][fc][gb][gc]AW[bd][cb][cd][da][db][dd][eb][ec][fb](;B[ba];W[ac](;B[ea]C[Correct])(;B[fa]C[Correct])))"
     },
     {
         "id": 3949,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][bd][cc][cd][dd][ea][ed][fb][fd][gb][gd][hc][hd]AW[ba][bc][cb][db][dc][ec][fc][ga][gc][hb][jb][jc][jd]((;B[da];W[ca];B[ac]C[Correct])(;B[eb];W[ca];B[ac];W[ha];B[aa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][bd][cc][cd][dd][ea][ed][fb][fd][gb][gd][hc][hd]AW[ba][bc][cb][db][dc][ec][fc][ga][gc][hb][jb][jc][jd](;B[da];W[ca];B[ac]C[Correct])(;B[eb];W[ca];B[ac];W[ha];B[aa]C[Correct]))"
     },
     {
         "id": 3950,
@@ -27722,7 +27722,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[be][bf][cb][cc][cd][cg][eg][fe][gc][ge][hb][hc][he]AW[ce][dc][dd][de][ea][ec][ee][fc][fd][gb]((;B[db];W[ga];B[eb]C[Correct])(;B[ga];W[fb];B[db]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[be][bf][cb][cc][cd][cg][eg][fe][gc][ge][hb][hc][he]AW[ce][dc][dd][de][ea][ec][ee][fc][fd][gb](;B[db];W[ga];B[eb]C[Correct])(;B[ga];W[fb];B[db]C[Correct]))"
     },
     {
         "id": 3959,
@@ -27743,14 +27743,14 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bg][cb][ch][da][dc][de][df][dg][eb][ec][ed]AW[bb][bd][bf][cc][cd][ce][cf][dd]((;B[ac];W[ab];B[ae];W[af];B[ad]C[Correct])(;B[ae];W[af];B[ac];W[ab];B[ad]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bg][cb][ch][da][dc][de][df][dg][eb][ec][ed]AW[bb][bd][bf][cc][cd][ce][cf][dd](;B[ac];W[ab];B[ae];W[af];B[ad]C[Correct])(;B[ae];W[af];B[ac];W[ab];B[ad]C[Correct]))"
     },
     {
         "id": 3962,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][ba][be][cb][cd][ce][db][dc][eb][fa][fb]AW[ac][bb][bc][bd][ca][cc][dd][ed][fc][ga][gb][gc]((;B[aa];W[ec](;B[ad]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][ba][be][cb][cd][ce][db][dc][eb][fa][fb]AW[ac][bb][bc][bd][ca][cc][dd][ed][fc][ga][gb][gc](;B[aa];W[ec](;B[ad]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 3963,
@@ -27764,7 +27764,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[aa][ad][ba][bb][bd][cb][db][eb][ed]AW[ab][ac][bc][cc][cf][dd][df][ec][ef][fe][gb][gc][gd][ge]((;B[de];W[ee](;B[cd]C[Correct])(;B[dc];W[cd];B[ce]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[aa][ad][ba][bb][bd][cb][db][eb][ed]AW[ab][ac][bc][cc][cf][dd][df][ec][ef][fe][gb][gc][gd][ge](;B[de];W[ee](;B[cd]C[Correct])(;B[dc];W[cd];B[ce]C[Correct])))"
     },
     {
         "id": 3965,
@@ -27897,7 +27897,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[be][cd][cf][da][db][dc][dd]AW[aa][bc][bd][ca][cb]((;B[ad];W[ac];B[bb]C[Correct])(;B[bb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[be][cd][cf][da][db][dc][dd]AW[aa][bc][bd][ca][cb](;B[ad];W[ac];B[bb]C[Correct])(;B[bb]C[Correct]))"
     },
     {
         "id": 3984,
@@ -27918,7 +27918,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bb][bd][cb][cd][dd][ea][ec][fb][fc]AW[ac][bc][be][bf][cc][da][db][dc][df][eb][ed][ee]((;B[ab];W[fa];B[ca]C[Correct])(;B[ca];W[fa];B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bb][bd][cb][cd][dd][ea][ec][fb][fc]AW[ac][bc][be][bf][cc][da][db][dc][df][eb][ed][ee](;B[ab];W[fa];B[ca]C[Correct])(;B[ca];W[fa];B[ab]C[Correct]))"
     },
     {
         "id": 3987,
@@ -27953,14 +27953,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][ae][bb][bc][bd][cb][ce][dd][de][ec][fc][gb]AW[af][ba][be][bf][ca][cc][cd][cf][ch][db][dc][ea][eb]((;B[ab];W[da](;B[fa]C[Correct])(;B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][ae][bb][bc][bd][cb][ce][dd][de][ec][fc][gb]AW[af][ba][be][bf][ca][cc][cd][cf][ch][db][dc][ea][eb](;B[ab];W[da](;B[fa]C[Correct])(;B[fb]C[Correct])))"
     },
     {
         "id": 3992,
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bb][cb][da][dc][dd][de][eb][ec][ee][fe]AW[ba][bc][bg][cc][cd][cg][dg][ea][ed][fa][fb][fc][fd][fg][ge][gf][hd]((;B[ce];W[be](;B[bd];W[bf](;B[ac]C[Correct])(;B[ad]C[Correct]))(;B[bf];W[cf];B[bd];W[ad];B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bb][cb][da][dc][dd][de][eb][ec][ee][fe]AW[ba][bc][bg][cc][cd][cg][dg][ea][ed][fa][fb][fc][fd][fg][ge][gf][hd](;B[ce];W[be](;B[bd];W[bf](;B[ac]C[Correct])(;B[ad]C[Correct]))(;B[bf];W[cf];B[bd];W[ad];B[ac]C[Correct])))"
     },
     {
         "id": 3993,
@@ -28023,14 +28023,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][ba][bc][ca][cb][cc][cd][de][ee][fb][fd]AW[ab][bd][be][ce][cg][da][db][dc][dd][df]((;B[ea]C[Correct])(;B[eb]C[Correct])(;B[ec]C[Correct])(;B[ed]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][ba][bc][ca][cb][cc][cd][de][ee][fb][fd]AW[ab][bd][be][ce][cg][da][db][dc][dd][df](;B[ea]C[Correct])(;B[eb]C[Correct])(;B[ec]C[Correct])(;B[ed]C[Correct]))"
     },
     {
         "id": 4002,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cb][cc][ce][cf][dd][ec][ee][fc][gb][gc]AW[bc][bd][ca][cd][db][dc][ea][eb][fb]((;B[ab];W[ba](;B[ad]C[Correct])(;B[be];W[ac];B[ad]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cb][cc][ce][cf][dd][ec][ee][fc][gb][gc]AW[bc][bd][ca][cd][db][dc][ea][eb][fb](;B[ab];W[ba](;B[ad]C[Correct])(;B[be];W[ac];B[ad]C[Correct])))"
     },
     {
         "id": 4003,
@@ -28072,7 +28072,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[aj][ak][bb][bk][cb][cc][cd][ce][cf][cg][ch][cj][ck]AW[ah][bc][bd][be][bf][bg][bh][bj]((;B[ac];W[ad];B[af]C[Correct])(;B[af];W[ac];B[ae]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[aj][ak][bb][bk][cb][cc][cd][ce][cf][cg][ch][cj][ck]AW[ah][bc][bd][be][bf][bg][bh][bj](;B[ac];W[ad];B[af]C[Correct])(;B[af];W[ac];B[ae]C[Correct]))"
     },
     {
         "id": 4009,
@@ -28121,7 +28121,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[aa][ac][ba][bc][be][cb][cc][cf][dd][de]AW[ad][bd][ca][cd][da][db][dc][fc]((;B[ae];W[bb];B[ce]C[Correct])(;B[ce];W[bb];B[ae];W[ab];B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[aa][ac][ba][bc][be][cb][cc][cf][dd][de]AW[ad][bd][ca][cd][da][db][dc][fc](;B[ae];W[bb];B[ce]C[Correct])(;B[ce];W[bb];B[ae];W[ab];B[ba]C[Correct]))"
     },
     {
         "id": 4016,
@@ -28177,7 +28177,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[be][cc][ce][dd][de][ea][eb][ec]AW[bd][cb][cd][db][dc][ed][fb][fd][gc]((;B[bb];W[bc](;B[ba]C[Correct])(;B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[be][cc][ce][dd][de][ea][eb][ec]AW[bd][cb][cd][db][dc][ed][fb][fd][gc](;B[bb];W[bc](;B[ba]C[Correct])(;B[ca]C[Correct])))"
     },
     {
         "id": 4024,
@@ -28198,7 +28198,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][db][dd][ec][ed][fa][fe][gb][gc][ge][hc]AW[bb][bc][cd][ce][cf][ea][eb][ee][ef][fb][fc][fd]((;B[da];W[ga];B[gd];W[de];B[fa]C[Correct])(;B[gd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][db][dd][ec][ed][fa][fe][gb][gc][ge][hc]AW[bb][bc][cd][ce][cf][ea][eb][ee][ef][fb][fc][fd](;B[da];W[ga];B[gd];W[de];B[fa]C[Correct])(;B[gd]C[Correct]))"
     },
     {
         "id": 4027,
@@ -28212,7 +28212,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[be][bg][cb][cc][cd][cf][df]AW[bc][bd][ce][db][dc][dd][de][fd]((;B[bb];W[ab](;B[ac]C[Correct])(;B[ad]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[be][bg][cb][cc][cd][cf][df]AW[bc][bd][ce][db][dc][dd][de][fd](;B[bb];W[ab](;B[ac]C[Correct])(;B[ad]C[Correct])))"
     },
     {
         "id": 4029,
@@ -28247,7 +28247,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bd][be][cd][dc][eb][ec][fc]AW[bc][bf][cb][cc][cf][db][dd][de]((;B[ac];W[ba];B[ab];W[ce](;B[ca]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bd][be][cd][dc][eb][ec][fc]AW[bc][bf][cb][cc][cf][db][dd][de](;B[ac];W[ba];B[ab];W[ce](;B[ca]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 4034,
@@ -28303,7 +28303,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[aa][ae][bb][be][ce][dd][de][ea][eb][ec][ed]AW[ab][ac][ad][bd][cb][cd][da][db][dc]((;B[ba]C[Correct])(;B[cc];W[ba];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[aa][ae][bb][be][ce][dd][de][ea][eb][ec][ed]AW[ab][ac][ad][bd][cb][cd][da][db][dc](;B[ba]C[Correct])(;B[cc];W[ba];B[ca]C[Correct]))"
     },
     {
         "id": 4042,
@@ -28317,21 +28317,21 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][be][cb][cc][da][dc][eb]AW[bb][bc][cd][dd][ec][fa][fb][fc]((;B[ba];W[ea](;B[ab]C[Correct])(;B[ac];W[db];B[ab]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][be][cb][cc][da][dc][eb]AW[bb][bc][cd][dd][ec][fa][fb][fc](;B[ba];W[ea](;B[ab]C[Correct])(;B[ac];W[db];B[ab]C[Correct])))"
     },
     {
         "id": 4044,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ae][be][cc][ce][dd][de][ea][eb][ec]AW[ab][ad][ba][bd][cd][da][db][dc]((;B[bb];W[ac](;B[ca];W[cb];B[ca]C[Correct])(;B[cb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ae][be][cc][ce][dd][de][ea][eb][ec]AW[ab][ad][ba][bd][cd][da][db][dc](;B[bb];W[ac](;B[ca];W[cb];B[ca]C[Correct])(;B[cb]C[Correct])))"
     },
     {
         "id": 4045,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][cb][cc][cd][db][de][ee][fe][gc]AW[ab][ba][bc][bd][be][ce][dc][dd][eb][ed]((;B[ec];W[fc];B[fd];W[ec](;B[ea]C[Correct])(;B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][cb][cc][cd][db][de][ee][fe][gc]AW[ab][ba][bc][bd][be][ce][dc][dd][eb][ed](;B[ec];W[fc];B[fd];W[ec](;B[ea]C[Correct])(;B[fb]C[Correct])))"
     },
     {
         "id": 4046,
@@ -28380,7 +28380,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][ca][cc][cd][dd][ee][fe][ge][hb][hd][jb][jc][jd]AW[cb][da][dc][ec][ed][fb][fd][gb][gc][gd][hc]((;B[db];W[ea](;B[cb]C[Correct])(;B[ga]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][ca][cc][cd][dd][ee][fe][ge][hb][hd][jb][jc][jd]AW[cb][da][dc][ec][ed][fb][fd][gb][gc][gd][hc](;B[db];W[ea](;B[cb]C[Correct])(;B[ga]C[Correct])))"
     },
     {
         "id": 4053,
@@ -28492,7 +28492,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][cb][dc][dd][ed][fe][ge][ha][hb][hc][hd]AW[db][eb][ec][fd][ga][gb][gc][gd]((;B[da];W[ea];B[fb]C[Correct])(;B[fb];W[da];B[fa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][cb][dc][dd][ed][fe][ge][ha][hb][hc][hd]AW[db][eb][ec][fd][ga][gb][gc][gd](;B[da];W[ea];B[fb]C[Correct])(;B[fb];W[da];B[fa]C[Correct]))"
     },
     {
         "id": 4069,
@@ -28527,7 +28527,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][cd][cf][db][dd][ef][fa][fe][gb][gc][ge][hc][he][jc][jd][kd]AW[cc][da][dc][ec][fb][fd][gd][hb][hd][jb][je][kb][kc][ke][ld][le]((;B[ca]C[Correct])(;B[ea];W[cb];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][cd][cf][db][dd][ef][fa][fe][gb][gc][ge][hc][he][jc][jd][kd]AW[cc][da][dc][ec][fb][fd][gd][hb][hd][jb][je][kb][kc][ke][ld][le](;B[ca]C[Correct])(;B[ea];W[cb];B[ca]C[Correct]))"
     },
     {
         "id": 4074,
@@ -28576,14 +28576,14 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[aa][ae][ba][bc][bd][be][cb][cc][ce]AW[ab][ac][bh][cd][cf][cg][dd][de][ec][gc]((;B[db]C[Correct])(;B[eb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[aa][ae][ba][bc][bd][be][cb][cc][ce]AW[ab][ac][bh][cd][cf][cg][dd][de][ec][gc](;B[db]C[Correct])(;B[eb]C[Correct]))"
     },
     {
         "id": 4081,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][be][ce][db][dc][dd][ec][fc][gc]AW[bd][ca][cb][cc][cd][da][de][df][eb][fb][gb][hc][jc]((;B[ea];W[ad](;B[ac];W[fa];B[ae]C[Correct])(;B[ae];W[fa];B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][be][ce][db][dc][dd][ec][fc][gc]AW[bd][ca][cb][cc][cd][da][de][df][eb][fb][gb][hc][jc](;B[ea];W[ad](;B[ac];W[fa];B[ae]C[Correct])(;B[ae];W[fa];B[ac]C[Correct])))"
     },
     {
         "id": 4082,
@@ -28751,7 +28751,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][cd][ce][da][db][dc][de]AW[bc][ca][cb][cc][dd][ed][fc][gc]((;B[ba];W[bb](;B[ac];W[aa];B[ad];W[ec];B[ab]C[Correct])(;B[ad];W[aa];B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][cd][ce][da][db][dc][de]AW[bc][ca][cb][cc][dd][ed][fc][gc](;B[ba];W[bb](;B[ac];W[aa];B[ad];W[ec];B[ab]C[Correct])(;B[ad];W[aa];B[ac]C[Correct])))"
     },
     {
         "id": 4106,
@@ -28772,14 +28772,14 @@ const problems = [
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ac][ad][bd][cc][da][db][dd][eb][ec][ed]AW[ba][bb][bc][be][ca][cb][cd][ce][de][ee][fb][fc][fd]((;B[aa]C[Correct])(;B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ac][ad][bd][cc][da][db][dd][eb][ec][ed]AW[ba][bb][bc][be][ca][cb][cd][ce][de][ee][fb][fc][fd](;B[aa]C[Correct])(;B[ab]C[Correct]))"
     },
     {
         "id": 4109,
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bb][be][cb][cc][cd][ce]AW[ad][bc][bf][ca][cf][da][db][dc][dd][de][df]((;B[ab];W[ae](;B[ac];W[af];B[bd]C[Correct])(;B[bd];W[af];B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bb][be][cb][cc][cd][ce]AW[ad][bc][bf][ca][cf][da][db][dc][dd][de][df](;B[ab];W[ae](;B[ac];W[af];B[bd]C[Correct])(;B[bd];W[af];B[ac]C[Correct])))"
     },
     {
         "id": 4110,
@@ -28842,7 +28842,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cb][cc][dc][dd][ee][fd][fe][gb][gc][hd]AW[ac][bc][bd][cd][cf][db][de][ec][ed][ef][fa][fb][fc]((;B[ea];W[da](;B[ca];W[eb];B[ga]C[Correct])(;B[ga];W[eb];B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cb][cc][dc][dd][ee][fd][fe][gb][gc][hd]AW[ac][bc][bd][cd][cf][db][de][ec][ed][ef][fa][fb][fc](;B[ea];W[da](;B[ca];W[eb];B[ga]C[Correct])(;B[ga];W[eb];B[ca]C[Correct])))"
     },
     {
         "id": 4119,
@@ -28870,7 +28870,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][db][ec][fb][fc][gb][hb][hc][jc][ka][kb][kc]AW[bb][ca][cc][dc][de][ea][eb][ed][fa][fd][gc][gd][ha][hd][jd][kd][la][lb][lc][ld]((;B[ga];W[da];B[ja]C[Correct])(;B[ja];W[da];B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][db][ec][fb][fc][gb][hb][hc][jc][ka][kb][kc]AW[bb][ca][cc][dc][de][ea][eb][ed][fa][fd][gc][gd][ha][hd][jd][kd][la][lb][lc][ld](;B[ga];W[da];B[ja]C[Correct])(;B[ja];W[da];B[ga]C[Correct]))"
     },
     {
         "id": 4123,
@@ -28968,14 +28968,14 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][cc][ce][ee][fa][fc][fd][ge][jb][je][kc][kd]AW[cb][da][dc][eb][ec][fb][gb][hc]((;B[ba];W[ca];B[ga];W[ha];B[hb]C[Correct])(;B[ga];W[ha];B[hb];W[ea];B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][cc][ce][ee][fa][fc][fd][ge][jb][je][kc][kd]AW[cb][da][dc][eb][ec][fb][gb][hc](;B[ba];W[ca];B[ga];W[ha];B[hb]C[Correct])(;B[ga];W[ha];B[hb];W[ea];B[ga]C[Correct]))"
     },
     {
         "id": 4137,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ae][be][cd][ce][dc][ea][eb][ec]AW[ad][bb][bd][cc][da][db]((;B[ab];W[bc];B[ba]C[Correct])(;B[ba];W[cb];B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ae][be][cd][ce][dc][ea][eb][ec]AW[ad][bb][bd][cc][da][db](;B[ab];W[bc];B[ba]C[Correct])(;B[ba];W[cb];B[ab]C[Correct]))"
     },
     {
         "id": 4138,
@@ -29010,7 +29010,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][ba][bd][cb][cd][dd][ea][eb][ec]AW[ad][ae][be][ce][db][dc][de][ed][fa][fb][fc][fd]((;B[ab];W[cc];B[bc];W[da];B[ca]C[Correct])(;B[cc];W[da](;B[ab]C[Correct])(;B[bb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][ba][bd][cb][cd][dd][ea][eb][ec]AW[ad][ae][be][ce][db][dc][de][ed][fa][fb][fc][fd](;B[ab];W[cc];B[bc];W[da];B[ca]C[Correct])(;B[cc];W[da](;B[ab]C[Correct])(;B[bb]C[Correct])))"
     },
     {
         "id": 4143,
@@ -29073,7 +29073,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bb][bd][be][bf][cc]AW[ac][bg][cb][cd][cf][cg][db][dd][ec]((;B[ab];W[bc];B[ad];W[bc];B[af]C[Correct])(;B[ad];W[af];B[ab]C[Correct])(;B[bc];W[ab];B[af]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bb][bd][be][bf][cc]AW[ac][bg][cb][cd][cf][cg][db][dd][ec](;B[ab];W[bc];B[ad];W[bc];B[af]C[Correct])(;B[ad];W[af];B[ab]C[Correct])(;B[bc];W[ab];B[af]C[Correct]))"
     },
     {
         "id": 4152,
@@ -29108,7 +29108,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][ae][bc][be][cc][dc][dd][de][eb][fb]AW[ba][bd][bf][ce][cg][df][ea][ec][ee][ef][fa][fc][gb][gc]((;B[bb]C[Correct])(;B[ca];W[cb];B[bb];W[da];B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][ae][bc][be][cc][dc][dd][de][eb][fb]AW[ba][bd][bf][ce][cg][df][ea][ec][ee][ef][fa][fc][gb][gc](;B[bb]C[Correct])(;B[ca];W[cb];B[bb];W[da];B[ab]C[Correct]))"
     },
     {
         "id": 4157,
@@ -29129,7 +29129,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bf][cd][ce][cf][db][dc]AW[ba][bd][be][cb][cc]((;B[ab];W[ac];B[ae];W[bb];B[af]C[Correct])(;B[ae];W[ac];B[ab];W[bb];B[af];W[aa];B[ad]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bf][cd][ce][cf][db][dc]AW[ba][bd][be][cb][cc](;B[ab];W[ac];B[ae];W[bb];B[af]C[Correct])(;B[ae];W[ac];B[ab];W[bb];B[af];W[aa];B[ad]C[Correct]))"
     },
     {
         "id": 4160,
@@ -29157,7 +29157,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ag][bg][ca][cf][da][db][dc][dd][de][dg]AW[ad][ae][ba][bb][bf][cb][cd][ce]((;B[be];W[bd];B[cc];W[bc];B[af]C[Correct])(;B[cc];W[bc];B[be];W[bd];B[af]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ag][bg][ca][cf][da][db][dc][dd][de][dg]AW[ad][ae][ba][bb][bf][cb][cd][ce](;B[be];W[bd];B[cc];W[bc];B[af]C[Correct])(;B[cc];W[bc];B[be];W[bd];B[af]C[Correct]))"
     },
     {
         "id": 4164,
@@ -29276,7 +29276,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ad][bb][bd][cd][dd][de][eb][ec][ee][fb][gb]AW[ac][bc][cc][da][db][dc][ed][fc][fd][gc][hb][hc]((;B[ca];W[ba];B[ea];W[cb];B[ca]C[Correct])(;B[cb];W[ca];B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ad][bb][bd][cd][dd][de][eb][ec][ee][fb][gb]AW[ac][bc][cc][da][db][dc][ed][fc][fd][gc][hb][hc](;B[ca];W[ba];B[ea];W[cb];B[ca]C[Correct])(;B[cb];W[ca];B[ea]C[Correct]))"
     },
     {
         "id": 4181,
@@ -29304,7 +29304,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][cc][dd][ed][ef][fc][fd][ff]AW[bd][cb][cd][cf][db][dc][fb][gc][ge][hc][he]((;B[eb];W[ec](;B[ca];W[ea];B[da];W[gb];B[eb]C[Correct])(;B[da];W[ea];B[ca];W[eb];B[gb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][cc][dd][ed][ef][fc][fd][ff]AW[bd][cb][cd][cf][db][dc][fb][gc][ge][hc][he](;B[eb];W[ec](;B[ca];W[ea];B[da];W[gb];B[eb]C[Correct])(;B[da];W[ea];B[ca];W[eb];B[gb]C[Correct])))"
     },
     {
         "id": 4185,
@@ -29374,7 +29374,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][bd][be][bf][bh][bj][cf][cg][de]AW[ac][ag][bc][bk][cd][ce][ch][cj][dd][dk][ed][ee][eg]((;B[ad];W[cb];B[af]C[Correct])(;B[cc];W[cb];B[ad];W[dc];B[af]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][bd][be][bf][bh][bj][cf][cg][de]AW[ac][ag][bc][bk][cd][ce][ch][cj][dd][dk][ed][ee][eg](;B[ad];W[cb];B[af]C[Correct])(;B[cc];W[cb];B[ad];W[dc];B[af]C[Correct]))"
     },
     {
         "id": 4195,
@@ -29416,7 +29416,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bb][bc][bd][ca][dc][ec]AW[be][ce][da][db][dd][ee][fa][fb][fc][fd]((;B[ad];W[cb];B[ba]C[Correct])(;B[ea];W[eb];B[ad];W[cb];B[ba]C[Correct])(;B[eb];W[ea];B[ad];W[cb];B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bb][bc][bd][ca][dc][ec]AW[be][ce][da][db][dd][ee][fa][fb][fc][fd](;B[ad];W[cb];B[ba]C[Correct])(;B[ea];W[eb];B[ad];W[cb];B[ba]C[Correct])(;B[eb];W[ea];B[ad];W[cb];B[ba]C[Correct]))"
     },
     {
         "id": 4201,
@@ -29493,14 +29493,14 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][aj][bc][bd][bg][bh][bj][cd][ce][cg]AW[af][bb][bk][cb][cc][ch][cj][ck][db][de][df][dg][ec]((;B[ag];W[cf];B[bf]C[Correct])(;B[bf]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][aj][bc][bd][bg][bh][bj][cd][ce][cg]AW[af][bb][bk][cb][cc][ch][cj][ck][db][de][df][dg][ec](;B[ag];W[cf];B[bf]C[Correct])(;B[bf]C[Correct]))"
     },
     {
         "id": 4212,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cb][cc][ce][dd][de][ec][fb][gc][he]AW[bd][be][cd][cf][db][dc][dh][eb][ed]((;B[da];W[fc];B[ea];W[ec];B[ee]C[Correct])(;B[ea];W[fc];B[da];W[ec];B[ee]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cb][cc][ce][dd][de][ec][fb][gc][he]AW[bd][be][cd][cf][db][dc][dh][eb][ed](;B[da];W[fc];B[ea];W[ec];B[ee]C[Correct])(;B[ea];W[fc];B[da];W[ec];B[ee]C[Correct]))"
     },
     {
         "id": 4213,
@@ -29696,7 +29696,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bd][cd][ce][dc][de][ea][eb][ec]AW[bb][bc][cb][cc][da][db][dd][ed][fd][gb][gc]((;B[ac];W[ab];B[ad];W[fc](;B[aa];W[fb];B[ca]C[Correct])(;B[ca];W[fb];B[aa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bd][cd][ce][dc][de][ea][eb][ec]AW[bb][bc][cb][cc][da][db][dd][ed][fd][gb][gc](;B[ac];W[ab];B[ad];W[fc](;B[aa];W[fb];B[ca]C[Correct])(;B[ca];W[fb];B[aa]C[Correct])))"
     },
     {
         "id": 4241,
@@ -29717,7 +29717,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][bd][cd][dd][ec][fb][fc]AW[ba][be][cb][cc][ce][dc][de][eb][ed][fd][gd][hc]((;B[da];W[ca](;B[ab];W[ad];B[ea]C[Correct])(;B[ea];W[ab];B[db]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][bd][cd][dd][ec][fb][fc]AW[ba][be][cb][cc][ce][dc][de][eb][ed][fd][gd][hc](;B[da];W[ca](;B[ab];W[ad];B[ea]C[Correct])(;B[ea];W[ab];B[db]C[Correct])))"
     },
     {
         "id": 4244,
@@ -29752,14 +29752,14 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ae][bb][be][cc][ce][dd][de][ec][fc]AW[bc][bf][cf][db][dc][df][ed][ee][ef][gb][gc][gd]((;B[eb];W[cb](;B[ca];W[cd];B[da];W[cc];B[ac]C[Correct])(;B[da];W[cd];B[ca];W[cc];B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ae][bb][be][cc][ce][dd][de][ec][fc]AW[bc][bf][cf][db][dc][df][ed][ee][ef][gb][gc][gd](;B[eb];W[cb](;B[ca];W[cd];B[da];W[cc];B[ac]C[Correct])(;B[da];W[cd];B[ca];W[cc];B[ac]C[Correct])))"
     },
     {
         "id": 4249,
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][bc][cc][db][eb]AW[ac][bd][cd][da][dc][de][ec][gb][gc]((;B[ba];W[ab];B[ca]C[Correct])(;B[ca];W[ab];B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][bc][cc][db][eb]AW[ac][bd][cd][da][dc][de][ec][gb][gc](;B[ba];W[ab];B[ca]C[Correct])(;B[ca];W[ab];B[ba]C[Correct]))"
     },
     {
         "id": 4250,
@@ -29773,14 +29773,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bf][cb][cc][cd][cf][da][dc][df][eb][ed][ee][ef]AW[ab][bc][bd][be][ce][dd][de][ea][ec][fa][fb][fc]((;B[ae];W[db](;B[ac]C[Correct])(;B[ad];W[ca];B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bf][cb][cc][cd][cf][da][dc][df][eb][ed][ee][ef]AW[ab][bc][bd][be][ce][dd][de][ea][ec][fa][fb][fc](;B[ae];W[db](;B[ac]C[Correct])(;B[ad];W[ca];B[ac]C[Correct])))"
     },
     {
         "id": 4252,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][cb][cd][ch][db][dd][dg][ec][ee][eg][fb][fe][fg][hc][jd]AW[bb][bc][bd][cc][dc][ed][ef][fd][ff][gd][ge][gf][jf]((;B[ce]C[Correct])(;B[df];W[de];B[ce];W[cf];B[ee]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][cb][cd][ch][db][dd][dg][ec][ee][eg][fb][fe][fg][hc][jd]AW[bb][bc][bd][cc][dc][ed][ef][fd][ff][gd][ge][gf][jf](;B[ce]C[Correct])(;B[df];W[de];B[ce];W[cf];B[ee]C[Correct]))"
     },
     {
         "id": 4253,
@@ -29836,7 +29836,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][bd][be][cf][df][eb][ef][fc][ff][gc][gd][jb][jc]AW[cc][cd][ce][db][dc][de][ec][ed][fb]((;B[ca];W[gb];B[ga]C[Correct])(;B[fa];W[ea];B[ga];W[gb];B[ha]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][bd][be][cf][df][eb][ef][fc][ff][gc][gd][jb][jc]AW[cc][cd][ce][db][dc][de][ec][ed][fb](;B[ca];W[gb];B[ga]C[Correct])(;B[fa];W[ea];B[ga];W[gb];B[ha]C[Correct]))"
     },
     {
         "id": 4261,
@@ -29850,7 +29850,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][bc][bg][cb][cg][da][dg][eb][ec][ed][ee][ef]AW[ab][ae][bd][be][bf][cd][cf][db][dc][dd][de]((;B[ba]C[Correct])(;B[bb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][bc][bg][cb][cg][da][dg][eb][ec][ed][ee][ef]AW[ab][ae][bd][be][bf][cd][cf][db][dc][dd][de](;B[ba]C[Correct])(;B[bb]C[Correct]))"
     },
     {
         "id": 4263,
@@ -29892,7 +29892,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ba][be][ca][cb][ce][dc][de][df][eb][ec][ed][fc]AW[ab][ad][bb][bd][cc][cd][dd][ee][fb][fd][fe][gb][gc][hd]((;B[ea];W[fa](;B[ac];W[da];B[db];W[bc];B[ae]C[Correct])(;B[bc];W[db];B[da];W[ac];B[ae]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ba][be][ca][cb][ce][dc][de][df][eb][ec][ed][fc]AW[ab][ad][bb][bd][cc][cd][dd][ee][fb][fd][fe][gb][gc][hd](;B[ea];W[fa](;B[ac];W[da];B[db];W[bc];B[ae]C[Correct])(;B[bc];W[db];B[da];W[ac];B[ae]C[Correct])))"
     },
     {
         "id": 4269,
@@ -29934,7 +29934,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][cc][cd][dc][de][ee][fe][gd][ge][ha][he][jc][je][kb][kc]AW[cb][db][dd][ea][ec][ed][fa][fc][ga][gb][gc][hc][hd][jb]((;B[eb];W[fb];B[ca];W[da](;B[ja]C[Correct])(;B[ka]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][cc][cd][dc][de][ee][fe][gd][ge][ha][he][jc][je][kb][kc]AW[cb][db][dd][ea][ec][ed][fa][fc][ga][gb][gc][hc][hd][jb](;B[eb];W[fb];B[ca];W[da](;B[ja]C[Correct])(;B[ka]C[Correct])))"
     },
     {
         "id": 4275,
@@ -30053,7 +30053,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bd][ca][cc][ce][da][dd][ec][ed][ga][gd][ha][hd][jd][ka][kc][kd][la][lb][lc][ld]AW[cb][db][dc][eb][fa][fc][gb][gc][hc][ja][jb][jc][kb]((;B[ba];W[hb](;B[ea]C[Correct])(;B[ga];W[ha];B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bd][ca][cc][ce][da][dd][ec][ed][ga][gd][ha][hd][jd][ka][kc][kd][la][lb][lc][ld]AW[cb][db][dc][eb][fa][fc][gb][gc][hc][ja][jb][jc][kb](;B[ba];W[hb](;B[ea]C[Correct])(;B[ga];W[ha];B[ea]C[Correct])))"
     },
     {
         "id": 4292,
@@ -30081,7 +30081,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][cc][cd][dd][ed][fa][fb][fd][gc][gd]AW[ab][bc][cb][db][dc][ec][fc][gb][hb][hc][hd]((;B[da];W[ga](;B[ca]C[Correct])(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][cc][cd][dd][ed][fa][fb][fd][gc][gd]AW[ab][bc][cb][db][dc][ec][fc][gb][hb][hc][hd](;B[da];W[ga](;B[ca]C[Correct])(;B[ea]C[Correct])))"
     },
     {
         "id": 4296,
@@ -30095,7 +30095,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][bd][ca][ce][de][eb][ee][fe][gc][gd][ge][hb][jc]AW[cb][cc][cd][da][dd][ea][ed][fb][fc][fd][gb]((;B[db];W[ba];B[ga]C[Correct])(;B[ga];W[db];B[ec]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][bd][ca][ce][de][eb][ee][fe][gc][gd][ge][hb][jc]AW[cb][cc][cd][da][dd][ea][ed][fb][fc][fd][gb](;B[db];W[ba];B[ga]C[Correct])(;B[ga];W[db];B[ec]C[Correct]))"
     },
     {
         "id": 4298,
@@ -30130,7 +30130,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ae][bc][bd][bh][cd][ce][cf][cg]AW[bb][bf][bk][cb][cc][ch][cj][dg][dk][ec][ee]((;B[ac];W[bg](;B[ag];W[bj];B[ah]C[Correct])(;B[ah]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ae][bc][bd][bh][cd][ce][cf][cg]AW[bb][bf][bk][cb][cc][ch][cj][dg][dk][ec][ee](;B[ac];W[bg](;B[ag];W[bj];B[ah]C[Correct])(;B[ah]C[Correct])))"
     },
     {
         "id": 4303,
@@ -30151,7 +30151,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][bd][cc][cd][db][dd][ee][fe][ga][ge][ha][hb][hc][hd][he]AW[bb][bc][cb][eb][ec][ed][fb][fd][gb][gc][gd]((;B[da]C[Correct])(;B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][bd][cc][cd][db][dd][ee][fe][ga][ge][ha][hb][hc][hd][he]AW[bb][bc][cb][eb][ec][ed][fb][fd][gb][gc][gd](;B[da]C[Correct])(;B[ea]C[Correct]))"
     },
     {
         "id": 4306,
@@ -30179,7 +30179,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][ca][da][db][eb][ec][fb][gc][ha][hc][jb]AW[bb][bc][cb][cd][ce][dc][dd][ea][fc][fd][gd][hd][jc][jd][ka][kb][lc]((;B[fa]C[Correct])(;B[hb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][ca][da][db][eb][ec][fb][gc][ha][hc][jb]AW[bb][bc][cb][cd][ce][dc][dd][ea][fc][fd][gd][hd][jc][jd][ka][kb][lc](;B[fa]C[Correct])(;B[hb]C[Correct]))"
     },
     {
         "id": 4310,
@@ -30221,7 +30221,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][ae][bb][bc][bd][cc][dc][ec][fb][fc]AW[af][be][bf][cb][cd][db][de][eb][ee][fa][fd][gb][gc][gd][jb]((;B[ba];W[ea];B[ab]C[Correct])(;B[ea];W[da];B[ba];W[ga](;B[ab]C[Correct])(;B[ca];W[ea];B[ab]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][ae][bb][bc][bd][cc][dc][ec][fb][fc]AW[af][be][bf][cb][cd][db][de][eb][ee][fa][fd][gb][gc][gd][jb](;B[ba];W[ea];B[ab]C[Correct])(;B[ea];W[da];B[ba];W[ga](;B[ab]C[Correct])(;B[ca];W[ea];B[ab]C[Correct])))"
     },
     {
         "id": 4316,
@@ -30235,14 +30235,14 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][ae][af][ag][bd][bg][cf][da][db][dd][de][dg][ec][fc][gc][hb][hc][kb]AW[ac][ba][bb][bc][be][bf][ca][cc][cd][ce][dc][eb][fa][fb][gb][ha]((;B[aa]C[Correct])(;B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][ae][af][ag][bd][bg][cf][da][db][dd][de][dg][ec][fc][gc][hb][hc][kb]AW[ac][ba][bb][bc][be][bf][ca][cc][cd][ce][dc][eb][fa][fb][gb][ha](;B[aa]C[Correct])(;B[ab]C[Correct]))"
     },
     {
         "id": 4318,
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][bb][be][cb][cc][cd][ce][da]AW[ab][ae][af][bf][ca][cf][db][dc][dd][de][df][fb]((;B[ac];W[ea];B[ba]C[Correct])(;B[bc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][bb][be][cb][cc][cd][ce][da]AW[ab][ae][af][bf][ca][cf][db][dc][dd][de][df][fb](;B[ac];W[ea];B[ba]C[Correct])(;B[bc]C[Correct]))"
     },
     {
         "id": 4319,
@@ -30263,7 +30263,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][cb][cd][cj][ck][de][dg][ef][eg]AW[bd][be][bg][bh][cf][df]((;B[af];W[bj];B[bk];W[aj](;B[ad]C[Correct])(;B[ag]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][cb][cd][cj][ck][de][dg][ef][eg]AW[bd][be][bg][bh][cf][df](;B[af];W[bj];B[bk];W[aj](;B[ad]C[Correct])(;B[ag]C[Correct])))"
     },
     {
         "id": 4322,
@@ -30277,7 +30277,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][ae][ba][bd][ca][cd][da][db][dc][dd]AW[bb][bc][be][bg][ce][de][ea][eb][ed][ee][fb]((;B[ab];W[ac](;B[cb];W[aa];B[cc]C[Correct])(;B[cc];W[aa];B[cb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][ae][ba][bd][ca][cd][da][db][dc][dd]AW[bb][bc][be][bg][ce][de][ea][eb][ed][ee][fb](;B[ab];W[ac](;B[cb];W[aa];B[cc]C[Correct])(;B[cc];W[aa];B[cb]C[Correct])))"
     },
     {
         "id": 4324,
@@ -30326,14 +30326,14 @@ const problems = [
         "title": "死活题：黑先劫活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫活]AB[bc][cb][cc][dc][eb][fb]AW[aa][ac][bb][bd][cd][dd][ed][fc][gb][hc]((;B[ba];W[ca];B[da];W[fa];B[ba]C[Correct])(;B[da];W[fa];B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫活]AB[bc][cb][cc][dc][eb][fb]AW[aa][ac][bb][bd][cd][dd][ed][fc][gb][hc](;B[ba];W[ca];B[da];W[fa];B[ba]C[Correct])(;B[da];W[fa];B[ba]C[Correct]))"
     },
     {
         "id": 4331,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][af][bg][ce][cf][ch][da][dc][eb][ec][ee][ff][gc]AW[ad][ba][bb][be][bf][cc][cd][db][dd]((;B[ac];W[bc];B[ag]C[Correct])(;B[ag];W[bd];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][af][bg][ce][cf][ch][da][dc][eb][ec][ee][ff][gc]AW[ad][ba][bb][be][bf][cc][cd][db][dd](;B[ac];W[bc];B[ag]C[Correct])(;B[ag];W[bd];B[ac]C[Correct]))"
     },
     {
         "id": 4332,
@@ -30354,7 +30354,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bd][cd][db][de][ec][ee][fd][fe][gc]AW[cc][ce][cf][dc][dd][df][eb][ed][ef][ff][gf][hb][hc][hd]((;B[cb];W[bc](;B[ac];W[bb];B[ba];W[fc];B[ab]C[Correct])(;B[bb];W[fc];B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bd][cd][db][de][ec][ee][fd][fe][gc]AW[cc][ce][cf][dc][dd][df][eb][ed][ef][ff][gf][hb][hc][hd](;B[cb];W[bc](;B[ac];W[bb];B[ba];W[fc];B[ab]C[Correct])(;B[bb];W[fc];B[ac]C[Correct])))"
     },
     {
         "id": 4335,
@@ -30382,7 +30382,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[cb][cc][cd][ce][cf][eb]AW[bb][bc][bd][be][ca]((;B[bf];W[ae](;B[ac];W[ba];B[ab]C[Correct])(;B[ba];W[aa];B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[cb][cc][cd][ce][cf][eb]AW[bb][bc][bd][be][ca](;B[bf];W[ae](;B[ac];W[ba];B[ab]C[Correct])(;B[ba];W[aa];B[ac]C[Correct])))"
     },
     {
         "id": 4339,
@@ -30431,7 +30431,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][ba][bd][ca][cd][db][dc][dd][ed][fc][gc]AW[ac][bb][bc][be][bf][cb][da][de][ea][eb][ec][ee][fd][fe]((;B[fa];W[aa];B[ca];W[ba];B[fb];W[ca];B[cc]C[Correct])(;B[fb];W[aa];B[ca];W[ba];B[fa];W[ca];B[cc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][ba][bd][ca][cd][db][dc][dd][ed][fc][gc]AW[ac][bb][bc][be][bf][cb][da][de][ea][eb][ec][ee][fd][fe](;B[fa];W[aa];B[ca];W[ba];B[fb];W[ca];B[cc]C[Correct])(;B[fb];W[aa];B[ca];W[ba];B[fa];W[ca];B[cc]C[Correct]))"
     },
     {
         "id": 4346,
@@ -30459,7 +30459,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bd][be][bf][bk][bl][cg][ch][cj]AW[ad][ak][bb][bc][bg][bh][bj][cd][ce][cf]((;B[ag];W[ab](;B[af];W[ac](;B[ah]C[Correct])(;B[aj]C[Correct]))(;B[ah]C[Correct])(;B[aj]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bd][be][bf][bk][bl][cg][ch][cj]AW[ad][ak][bb][bc][bg][bh][bj][cd][ce][cf](;B[ag];W[ab](;B[af];W[ac](;B[ah]C[Correct])(;B[aj]C[Correct]))(;B[ah]C[Correct])(;B[aj]C[Correct])))"
     },
     {
         "id": 4350,
@@ -30487,7 +30487,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bc][ca][cb][ea][eb][ec]AW[ac][ad][ba][bb][bd][cd][dd][ed][fb][fc][ge]((;B[aa];W[bb];B[cc]C[Correct])(;B[cc];W[aa];B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bc][ca][cb][ea][eb][ec]AW[ac][ad][ba][bb][bd][cd][dd][ed][fb][fc][ge](;B[aa];W[bb];B[cc]C[Correct])(;B[cc];W[aa];B[ab]C[Correct]))"
     },
     {
         "id": 4354,
@@ -30501,14 +30501,14 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][ae][ba][bc][bd][be][cb]AW[ab][bb][bf][ca][cd][ce][cf][da][db][dc]((;B[aa];W[bb];B[cc]C[Correct])(;B[cc];W[aa];B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][ae][ba][bc][bd][be][cb]AW[ab][bb][bf][ca][cd][ce][cf][da][db][dc](;B[aa];W[bb];B[cc]C[Correct])(;B[cc];W[aa];B[ba]C[Correct]))"
     },
     {
         "id": 4356,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[cb][cc][cd][ce][cf][cg][cj][da][dd][dh][fb][fc][fh][ge][gf][gg][gh][hc][jc][je][lc]AW[db][dc][de][df][dg][eb][ed][eg][fd][fe][ff][fg][gb][gc][gd]((;B[ea];W[ec];B[fa];W[ga];B[ca];W[hb];B[jb]C[Correct])(;B[fa];W[ec];B[ea];W[ga];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[cb][cc][cd][ce][cf][cg][cj][da][dd][dh][fb][fc][fh][ge][gf][gg][gh][hc][jc][je][lc]AW[db][dc][de][df][dg][eb][ed][eg][fd][fe][ff][fg][gb][gc][gd](;B[ea];W[ec];B[fa];W[ga];B[ca];W[hb];B[jb]C[Correct])(;B[fa];W[ec];B[ea];W[ga];B[ca]C[Correct]))"
     },
     {
         "id": 4357,
@@ -30641,7 +30641,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bd][bg][cc][cg][da][db][dc][df][ed][gc]AW[aa][ab][ac][ba][bc][be][bf][cb][cd][ce]((;B[ad]C[Correct])(;B[af];W[ae];B[ca]C[Correct])(;B[ca];W[ad];B[af]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bd][bg][cc][cg][da][db][dc][df][ed][gc]AW[aa][ab][ac][ba][bc][be][bf][cb][cd][ce](;B[ad]C[Correct])(;B[af];W[ae];B[ca]C[Correct])(;B[ca];W[ad];B[af]C[Correct]))"
     },
     {
         "id": 4376,
@@ -30662,7 +30662,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][cc][cd][ce][de][ef][ff][ga][ge][ha][hb][hc][hd][he]AW[cb][dc][dd][ea][ed][ee][fc][fe][gb][gc][gd]((;B[eb];W[fb](;B[da];W[fa];B[db]C[Correct])(;B[db]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][cc][cd][ce][de][ef][ff][ga][ge][ha][hb][hc][hd][he]AW[cb][dc][dd][ea][ed][ee][fc][fe][gb][gc][gd](;B[eb];W[fb](;B[da];W[fa];B[db]C[Correct])(;B[db]C[Correct])))"
     },
     {
         "id": 4379,
@@ -30725,7 +30725,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bf][cb][cc][cd][ce][cf]AW[ba][bb][bc][bd][be]((;B[ab];W[ae];B[ac]C[Correct])(;B[ae];W[ab];B[ad]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bf][cb][cc][cd][ce][cf]AW[ba][bb][bc][bd][be](;B[ab];W[ae];B[ac]C[Correct])(;B[ae];W[ab];B[ad]C[Correct]))"
     },
     {
         "id": 4388,
@@ -30746,7 +30746,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bd][cd][dd][eb][ec][ed]AW[bb][bc][cc][db][dc]((;B[ac];W[ab];B[ca];W[da];B[ba]C[Correct])(;B[ca];W[da](;B[ac];W[ab];B[ba]C[Correct])(;B[ba];W[ac];B[aa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bd][cd][dd][eb][ec][ed]AW[bb][bc][cc][db][dc](;B[ac];W[ab];B[ca];W[da];B[ba]C[Correct])(;B[ca];W[da](;B[ac];W[ab];B[ba]C[Correct])(;B[ba];W[ac];B[aa]C[Correct])))"
     },
     {
         "id": 4391,
@@ -30809,7 +30809,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bb][bc][cb][dc][ec][ed][gb][gc][gd]AW[ad][bd][ca][cc][cd][db][dd][df][ea][eb][fa][fb]((;B[aa];W[da](;B[fc]C[Correct])(;B[ga]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bb][bc][cb][dc][ec][ed][gb][gc][gd]AW[ad][bd][ca][cc][cd][db][dd][df][ea][eb][fa][fb](;B[aa];W[da](;B[fc]C[Correct])(;B[ga]C[Correct])))"
     },
     {
         "id": 4400,
@@ -30886,14 +30886,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][bd][be][ce][de][ed][fa][fb][fc][fd]AW[cb][cc][cd][db][dd][eb][ec][ee][fe][gb][ge][hb][hd]((;B[ca];W[ea];B[ba];W[gd];B[da]C[Correct])(;B[ea];W[da];B[ba];W[gd];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][bd][be][ce][de][ed][fa][fb][fc][fd]AW[cb][cc][cd][db][dd][eb][ec][ee][fe][gb][ge][hb][hd](;B[ca];W[ea];B[ba];W[gd];B[da]C[Correct])(;B[ea];W[da];B[ba];W[gd];B[ca]C[Correct]))"
     },
     {
         "id": 4411,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][bb][bd][be][bg][cc][cd][cf][ed][ee][ef][gd][hb][hc][hd]AW[ba][bc][cb][ce][dc][dd][de][eb][ec][fc][gb][gc]((;B[da];W[ca];B[fa];W[ga];B[ea]C[Correct])(;B[fa];W[ga];B[da];W[ca];B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][bb][bd][be][bg][cc][cd][cf][ed][ee][ef][gd][hb][hc][hd]AW[ba][bc][cb][ce][dc][dd][de][eb][ec][fc][gb][gc](;B[da];W[ca];B[fa];W[ga];B[ea]C[Correct])(;B[fa];W[ga];B[da];W[ca];B[ea]C[Correct]))"
     },
     {
         "id": 4412,
@@ -30921,7 +30921,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bd][bf][cd][dc][ec][fb][fc]AW[ba][bc][cc][db][eb]((;B[ab];W[ac];B[ea]C[Correct])(;B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bd][bf][cd][dc][ec][fb][fc]AW[ba][bc][cc][db][eb](;B[ab];W[ac];B[ea]C[Correct])(;B[ea]C[Correct]))"
     },
     {
         "id": 4416,
@@ -30977,7 +30977,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ca][cb][cc][cd][de][eb][ee]AW[be][ce][cg][db][dc][dd][ec][hb][hc][hd]((;B[fc];W[fb](;B[da];W[ea];B[ed];W[eb];B[gb]C[Correct])(;B[ed];W[ea];B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ca][cb][cc][cd][de][eb][ee]AW[be][ce][cg][db][dc][dd][ec][hb][hc][hd](;B[fc];W[fb](;B[da];W[ea];B[ed];W[eb];B[gb]C[Correct])(;B[ed];W[ea];B[da]C[Correct])))"
     },
     {
         "id": 4424,
@@ -31019,7 +31019,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cb][cc][dc][ed][fd][gb][gc][gd]AW[ac][bc][bd][cd][db][dd][ec][fa][fb][fc]((;B[ea];W[da](;B[ca];W[eb];B[ga]C[Correct])(;B[ga];W[eb];B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cb][cc][dc][ed][fd][gb][gc][gd]AW[ac][bc][bd][cd][db][dd][ec][fa][fb][fc](;B[ea];W[da](;B[ca];W[eb];B[ga]C[Correct])(;B[ga];W[eb];B[ca]C[Correct])))"
     },
     {
         "id": 4430,
@@ -31068,7 +31068,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][bd][be][cb][dd][de][eb][ec]AW[ab][bb][cc][db][dc][ed][fd][gc]((;B[da];W[ca];B[ea];W[fc];B[cd];W[cb](;B[aa]C[Correct])(;B[ba]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][bd][be][cb][dd][de][eb][ec]AW[ab][bb][cc][db][dc][ed][fd][gc](;B[da];W[ca];B[ea];W[fc];B[cd];W[cb](;B[aa]C[Correct])(;B[ba]C[Correct])))"
     },
     {
         "id": 4437,
@@ -31103,7 +31103,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][ad][ae][af][bc][bf][cc][dc][eb][ec][ed][fa][fd]AW[ab][bd][be][bh][ca][cb][cd][cg][db][dd][de][df][ea][fb][fc][ff][gd][ge][hc][jb]((;B[bb];W[ba](;B[aa]C[Correct])(;B[da]C[Correct])(;B[ga]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][ad][ae][af][bc][bf][cc][dc][eb][ec][ed][fa][fd]AW[ab][bd][be][bh][ca][cb][cd][cg][db][dd][de][df][ea][fb][fc][ff][gd][ge][hc][jb](;B[bb];W[ba](;B[aa]C[Correct])(;B[da]C[Correct])(;B[ga]C[Correct])))"
     },
     {
         "id": 4442,
@@ -31117,7 +31117,7 @@ const problems = [
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ab][ac][bc][cc][da][db][dc][ed][fd][gc][hb][hc]AW[ad][bb][bd][ca][cd][dd][de][ea][eb][ec][ee][fb][gb]((;B[fc];W[aa];B[ba]C[Correct])(;B[ga];W[aa];B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ab][ac][bc][cc][da][db][dc][ed][fd][gc][hb][hc]AW[ad][bb][bd][ca][cd][dd][de][ea][eb][ec][ee][fb][gb](;B[fc];W[aa];B[ba]C[Correct])(;B[ga];W[aa];B[ba]C[Correct]))"
     },
     {
         "id": 4444,
@@ -31243,7 +31243,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ad][bb][bd][cd][dd][ed][fa][fb][fc]AW[ac][bc][ca][cc][dc][ea][eb][ec]((;B[cb];W[ba](;B[da];W[db];B[da]C[Correct])(;B[db]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ad][bb][bd][cd][dd][ed][fa][fb][fc]AW[ac][bc][ca][cc][dc][ea][eb][ec](;B[cb];W[ba](;B[da];W[db];B[da]C[Correct])(;B[db]C[Correct])))"
     },
     {
         "id": 4462,
@@ -31264,7 +31264,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[aa][ab][bc][bd][bg][ca][cb][cd][de][dg][ee]AW[ad][ae][be][cc][ce][dc][dd][fc][fd][gb]((;B[bb];W[db](;B[af]C[Correct])(;B[bf]C[Correct])(;B[cf];W[da];B[bf]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[aa][ab][bc][bd][bg][ca][cb][cd][de][dg][ee]AW[ad][ae][be][cc][ce][dc][dd][fc][fd][gb](;B[bb];W[db](;B[af]C[Correct])(;B[bf]C[Correct])(;B[cf];W[da];B[bf]C[Correct])))"
     },
     {
         "id": 4465,
@@ -31348,7 +31348,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bc][ca][cc][eb][ec]AW[bd][cd][db][dd][ea][ed][fb][fc]((;B[cb]C[Correct])(;B[dc];W[da];B[cb];W[fa];B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bc][ca][cc][eb][ec]AW[bd][cd][db][dd][ea][ed][fb][fc](;B[cb]C[Correct])(;B[dc];W[da];B[cb];W[fa];B[ba]C[Correct]))"
     },
     {
         "id": 4477,
@@ -31376,7 +31376,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bd][cb][cc][cd][db]AW[be][bg][ce][dc][dd][de][eb][fc]((;B[ab]C[Correct])(;B[bb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bd][cb][cc][cd][db]AW[be][bg][ce][dc][dd][de][eb][fc](;B[ab]C[Correct])(;B[bb]C[Correct]))"
     },
     {
         "id": 4481,
@@ -31390,7 +31390,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][be][ce][de][ea][eb][ec][ee][fd][fe]AW[cb][cd][db][dd][ed][fb][fc][gc][gd]((;B[ca];W[da](;B[cc];W[dc];B[bd]C[Correct])(;B[dc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][be][ce][de][ea][eb][ec][ee][fd][fe]AW[cb][cd][db][dd][ed][fb][fc][gc][gd](;B[ca];W[da](;B[cc];W[dc];B[bd]C[Correct])(;B[dc]C[Correct])))"
     },
     {
         "id": 4483,
@@ -31404,7 +31404,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ac][bc][cd][ce][dd][df][dg][ea][ec][ed][fb]AW[bb][bd][be][cb][cc][cf][cg][db][dc][eb]((;B[bf];W[bg](;B[ba]C[Correct])(;B[da];W[af](;B[ba]C[Correct])(;B[ca]C[Correct])))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ac][bc][cd][ce][dd][df][dg][ea][ec][ed][fb]AW[bb][bd][be][cb][cc][cf][cg][db][dc][eb](;B[bf];W[bg](;B[ba]C[Correct])(;B[da];W[af](;B[ba]C[Correct])(;B[ca]C[Correct]))))"
     },
     {
         "id": 4485,
@@ -31432,14 +31432,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cd][dd][ed][ee][fb][fc]AW[bd][be][cb][cc][ce][dc][de][ea][eb]((;B[ba];W[ca](;B[da]C[Correct])(;B[db]C[Correct])(;B[ec];W[ac](;B[da];W[db];B[fa]C[Correct])(;B[db];W[da];B[fa]C[Correct])))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cd][dd][ed][ee][fb][fc]AW[bd][be][cb][cc][ce][dc][de][ea][eb](;B[ba];W[ca](;B[da]C[Correct])(;B[db]C[Correct])(;B[ec];W[ac](;B[da];W[db];B[fa]C[Correct])(;B[db];W[da];B[fa]C[Correct]))))"
     },
     {
         "id": 4489,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ae][be][ca][ce][da][dd][ea][eb][ec][ed]AW[ab][ba][bd][cb][cd][db][dc]((;B[bc];W[bb](;B[ac]C[Correct])(;B[ad]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ae][be][ca][ce][da][dd][ea][eb][ec][ed]AW[ab][ba][bd][cb][cd][db][dc](;B[bc];W[bb](;B[ac]C[Correct])(;B[ad]C[Correct])))"
     },
     {
         "id": 4490,
@@ -31488,7 +31488,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][be][cd][ce][dc][de][ea][ee][fa][fd][ga][gb][gc][gd]AW[aa][bb][bd][cb][cc][da][dd][eb][ed][fb][fc]((;B[ac]C[Correct])(;B[ad];W[db](;B[ba];W[ab];B[ec]C[Correct])(;B[ec]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][be][cd][ce][dc][de][ea][ee][fa][fd][ga][gb][gc][gd]AW[aa][bb][bd][cb][cc][da][dd][eb][ed][fb][fc](;B[ac]C[Correct])(;B[ad];W[db](;B[ba];W[ab];B[ec]C[Correct])(;B[ec]C[Correct])))"
     },
     {
         "id": 4497,
@@ -31565,7 +31565,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ac][bd][cb][cd][dd][ea][eb][ec][fb]AW[ae][bc][be][cc][ce][dc][de][ed][ee][fc][gb][gc]((;B[bb];W[ad];B[db]C[Correct])(;B[db];W[ad];B[bb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ac][bd][cb][cd][dd][ea][eb][ec][fb]AW[ae][bc][be][cc][ce][dc][de][ed][ee][fc][gb][gc](;B[bb];W[ad];B[db]C[Correct])(;B[db];W[ad];B[bb]C[Correct]))"
     },
     {
         "id": 4508,
@@ -31586,7 +31586,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][af][bg][ce][cf][ch][da][dc][eb][ec][ee][ff]AW[ad][ba][bc][be][bf][cc][cd][db][dd]((;B[ac];W[bb];B[ag]C[Correct])(;B[ag];W[ae];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][af][bg][ce][cf][ch][da][dc][eb][ec][ee][ff]AW[ad][ba][bc][be][bf][cc][cd][db][dd](;B[ac];W[bb];B[ag]C[Correct])(;B[ag];W[ae];B[ac]C[Correct]))"
     },
     {
         "id": 4511,
@@ -31600,7 +31600,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bd][cd][cf][da][dc][ea][eb][ec]AW[ab][ac][bc][ca][cc][db][dd][ed][fb][fd][gc][gd]((;B[ba];W[cb](;B[aa]C[Correct])(;B[bb];W[aa](;B[ba]C[Correct])(;B[bb]C[Correct])))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bd][cd][cf][da][dc][ea][eb][ec]AW[ab][ac][bc][ca][cc][db][dd][ed][fb][fd][gc][gd](;B[ba];W[cb](;B[aa]C[Correct])(;B[bb];W[aa](;B[ba]C[Correct])(;B[bb]C[Correct]))))"
     },
     {
         "id": 4513,
@@ -31642,7 +31642,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ae][ba][bd][cb][cc][cd][da][db][dd]AW[ac][ad][bb][be][bg][ce][dc][de][eb][ec][ed][ee][gc]((;B[ab];W[aa];B[bc]C[Correct])(;B[bc];W[af];B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ae][ba][bd][cb][cc][cd][da][db][dd]AW[ac][ad][bb][be][bg][ce][dc][de][eb][ec][ed][ee][gc](;B[ab];W[aa];B[bc]C[Correct])(;B[bc];W[af];B[ab]C[Correct]))"
     },
     {
         "id": 4519,
@@ -31684,7 +31684,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[aa][ae][bb][be][cc][cd][ce][de][eb][ed][fb][fd]AW[af][ba][bf][cb][cf][da][db][dc][dd][df][ee][ef]((;B[bc];W[ad](;B[ea];W[ab];B[ec];W[ac];B[ca]C[Correct])(;B[ec];W[ab];B[ea];W[ac];B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[aa][ae][bb][be][cc][cd][ce][de][eb][ed][fb][fd]AW[af][ba][bf][cb][cf][da][db][dc][dd][df][ee][ef](;B[bc];W[ad](;B[ea];W[ab];B[ec];W[ac];B[ca]C[Correct])(;B[ec];W[ab];B[ea];W[ac];B[ca]C[Correct])))"
     },
     {
         "id": 4525,
@@ -31698,7 +31698,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ae][be][ce][de][ea][eb][ec][ed]AW[ac][ad][ba][bd][ca][cd][da][dc][dd]((;B[db](;W[bb](;B[cb];W[aa];B[cc]C[Correct])(;B[cc]C[Correct]))(;W[cb](;B[bb]C[Correct])(;B[bc]C[Correct])))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ae][be][ce][de][ea][eb][ec][ed]AW[ac][ad][ba][bd][ca][cd][da][dc][dd](;B[db](;W[bb](;B[cb];W[aa];B[cc]C[Correct])(;B[cc]C[Correct]))(;W[cb](;B[bb]C[Correct])(;B[bc]C[Correct]))))"
     },
     {
         "id": 4527,
@@ -31740,14 +31740,14 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ag][ba][bb][bc][be][bf][cd]AW[ad][af][bg][bh][cb][cc][cf][cg][dc][ed][ef]((;B[ac]C[Correct])(;B[ae]C[Correct])(;B[bd];W[ae];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ag][ba][bb][bc][be][bf][cd]AW[ad][af][bg][bh][cb][cc][cf][cg][dc][ed][ef](;B[ac]C[Correct])(;B[ae]C[Correct])(;B[bd];W[ae];B[ac]C[Correct]))"
     },
     {
         "id": 4533,
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][ba][bb][bc][cd][ce][dc][dd][eb][ec]AW[ae][af][bd][be][bg][ca][cb][cc][cf][de][df][ed][fb][fd][gc]((;B[da];W[ac];B[db];W[cb];B[ab]C[Correct])(;B[db];W[ac];B[da];W[ab];B[cb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][ba][bb][bc][cd][ce][dc][dd][eb][ec]AW[ae][af][bd][be][bg][ca][cb][cc][cf][de][df][ed][fb][fd][gc](;B[da];W[ac];B[db];W[cb];B[ab]C[Correct])(;B[db];W[ac];B[da];W[ab];B[cb]C[Correct]))"
     },
     {
         "id": 4534,
@@ -31796,7 +31796,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bd][be][ca][ce][da][de][ea][eb][ec][ed]AW[bb][cb][cc][cd][dd][ee][fa][fb][fc][fd][fe]((;B[ba];W[ab](;B[ac];W[aa];B[bc]C[Correct])(;B[bc];W[aa];B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[bd][be][ca][ce][da][de][ea][eb][ec][ed]AW[bb][cb][cc][cd][dd][ee][fa][fb][fc][fd][fe](;B[ba];W[ab](;B[ac];W[aa];B[bc]C[Correct])(;B[bc];W[aa];B[ac]C[Correct])))"
     },
     {
         "id": 4541,
@@ -31845,7 +31845,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][cc][ce][da][db][dd][ee][fe][ga][ge][ha][hb][hc][hd]AW[bb][cb][dc][eb][ec][ed][fa][fc][fd][gb][gc][gd]((;B[ab];W[ca];B[ba]C[Correct])(;B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][cc][ce][da][db][dd][ee][fe][ga][ge][ha][hb][hc][hd]AW[bb][cb][dc][eb][ec][ed][fa][fc][fd][gb][gc][gd](;B[ab];W[ca];B[ba]C[Correct])(;B[ba]C[Correct]))"
     },
     {
         "id": 4548,
@@ -31859,7 +31859,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][bb][be][cb][cd][ce][da][dc][dd]AW[ba][bc][bf][cc][cf][ch][db][ea][eb][ec][ed][ee]((;B[aa];W[ab];B[bd]C[Correct])(;B[ae]C[Correct])(;B[bd];W[ca];B[ae]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][bb][be][cb][cd][ce][da][dc][dd]AW[ba][bc][bf][cc][cf][ch][db][ea][eb][ec][ed][ee](;B[aa];W[ab];B[bd]C[Correct])(;B[ae]C[Correct])(;B[bd];W[ca];B[ae]C[Correct]))"
     },
     {
         "id": 4550,
@@ -31936,14 +31936,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ba][bb][bc][cb][dc][dd][ea][fc][fe][gb]AW[ac][ad][bd][cc][cd][cf][da][db][de][eb]((;B[ec];W[fa];B[fb]C[Correct])(;B[fb];W[fa];B[ec]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ba][bb][bc][cb][dc][dd][ea][fc][fe][gb]AW[ac][ad][bd][cc][cd][cf][da][db][de][eb](;B[ec];W[fa];B[fb]C[Correct])(;B[fb];W[fa];B[ec]C[Correct]))"
     },
     {
         "id": 4561,
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][bb][bc][bd][cc][dc][dd][ec][ed][fb][fc][gb]AW[ad][ae][be][cd][ce][da][db][de][ee][fa][fd][ga][gc][gd][hb][jc]((;B[ea];W[eb];B[ca];W[ha](;B[aa];W[ea];B[cb]C[Correct])(;B[cb];W[ea];B[aa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][bb][bc][bd][cc][dc][dd][ec][ed][fb][fc][gb]AW[ad][ae][be][cd][ce][da][db][de][ee][fa][fd][ga][gc][gd][hb][jc](;B[ea];W[eb];B[ca];W[ha](;B[aa];W[ea];B[cb]C[Correct])(;B[cb];W[ea];B[aa]C[Correct])))"
     },
     {
         "id": 4562,
@@ -31964,7 +31964,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][cc][ce][ee][fa][fc][fd][ga][gb][ge][je][kb][kc][kd]AW[cb][dc][ea][eb][ec][fb][gc][hc][jb]((;B[ca]C[Correct])(;B[ja];W[ha];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][cc][ce][ee][fa][fc][fd][ga][gb][ge][je][kb][kc][kd]AW[cb][dc][ea][eb][ec][fb][gc][hc][jb](;B[ca]C[Correct])(;B[ja];W[ha];B[ca]C[Correct]))"
     },
     {
         "id": 4565,
@@ -31992,7 +31992,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bd][cd][db][dc][fc]AW[ab][bc][cb][cc][cf][dd][de]((;B[ba];W[ca];B[ad];W[ce];B[ac];W[aa](;B[ba];W[bb];B[da]C[Correct])(;B[bb](;W[ba];B[da]C[Correct])(;W[be];B[ba]C[Correct])))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bd][cd][db][dc][fc]AW[ab][bc][cb][cc][cf][dd][de](;B[ba];W[ca];B[ad];W[ce];B[ac];W[aa](;B[ba];W[bb];B[da]C[Correct])(;B[bb](;W[ba];B[da]C[Correct])(;W[be];B[ba]C[Correct]))))"
     },
     {
         "id": 4569,
@@ -32055,7 +32055,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][bb][be][bh][cb][ce][cf][cg][dc][dd]AW[ad][ag][bd][bg][cd][ch][cj][de][df][dg]((;B[ah];W[bj](;B[ac]C[Correct])(;B[bc]C[Correct])(;B[cc];W[aj];B[bc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ae][bb][be][bh][cb][ce][cf][cg][dc][dd]AW[ad][ag][bd][bg][cd][ch][cj][de][df][dg](;B[ah];W[bj](;B[ac]C[Correct])(;B[bc]C[Correct])(;B[cc];W[aj];B[bc]C[Correct])))"
     },
     {
         "id": 4578,
@@ -32090,14 +32090,14 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][ae][be][ce][da][dd][de][ec][fa][fb][fc]AW[ab][ac][ba][bd][cd][db][dc][ea][eb]((;B[cb];W[ca](;B[bc]C[Correct])(;B[cc];W[da];B[bc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][ae][be][ce][da][dd][de][ec][fa][fb][fc]AW[ab][ac][ba][bd][cd][db][dc][ea][eb](;B[cb];W[ca](;B[bc]C[Correct])(;B[cc];W[da];B[bc]C[Correct])))"
     },
     {
         "id": 4583,
         "title": "死活题：黑先劫活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫活]AB[ba][bc][cc][dc][ea][eb]AW[bb][bd][ca][cd][dd][ec][fb][fc][gc]((;B[ab]C[Correct])(;B[cb];W[aa](;B[ac];W[ad];B[da];W[fa];B[ba]C[Correct])(;B[da];W[fa];B[ba]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫活]AB[ba][bc][cc][dc][ea][eb]AW[bb][bd][ca][cd][dd][ec][fb][fc][gc](;B[ab]C[Correct])(;B[cb];W[aa](;B[ac];W[ad];B[da];W[fa];B[ba]C[Correct])(;B[da];W[fa];B[ba]C[Correct])))"
     },
     {
         "id": 4584,
@@ -32139,7 +32139,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][bd][ce][cf][cg][dd][dg]AW[ba][be][bf][bg][bj][cb][cc][cd][ch][de][ef]((;B[dc];W[db];B[eb];W[ab](;B[ca]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][bd][ce][cf][cg][dd][dg]AW[ba][be][bf][bg][bj][cb][cc][cd][ch][de][ef](;B[dc];W[db];B[eb];W[ab](;B[ca]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 4590,
@@ -32230,7 +32230,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][be][cb][ce][db][de][eb][ed][fc][fd]AW[ad][bb][bd][cc][dc][ec][fb][gb][hc][kc]((;B[cd];W[ab];B[bc];W[ac](;B[ae];W[ea];B[dd]C[Correct])(;B[ba]C[Correct])(;B[dd];W[bc](;B[ae]C[Correct])(;B[ba]C[Correct])))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bc][be][cb][ce][db][de][eb][ed][fc][fd]AW[ad][bb][bd][cc][dc][ec][fb][gb][hc][kc](;B[cd];W[ab];B[bc];W[ac](;B[ae];W[ea];B[dd]C[Correct])(;B[ba]C[Correct])(;B[dd];W[bc](;B[ae]C[Correct])(;B[ba]C[Correct]))))"
     },
     {
         "id": 4603,
@@ -32279,7 +32279,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bd][cb][cd][cf][ee][ef][fd][gd][hd][jb][jc][jd]AW[cc][db][dd][ea][ec][ed][fc][gc][hb][hc]((;B[fb]C[Correct])(;B[ha];W[ga];B[fb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bd][cb][cd][cf][ee][ef][fd][gd][hd][jb][jc][jd]AW[cc][db][dd][ea][ec][ed][fc][gc][hb][hc](;B[fb]C[Correct])(;B[ha];W[ga];B[fb]C[Correct]))"
     },
     {
         "id": 4610,
@@ -32314,14 +32314,14 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ab][ac][ad][bb][bd][cb][ce][cf][eb][fc][fd]AW[bc][be][bf][bg][cc][cd][cg][ec][ed][fb][fe][gb][ge]((;B[ee];W[gd](;B[dc];W[gc];B[dd]C[Correct])(;B[dd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ab][ac][ad][bb][bd][cb][ce][cf][eb][fc][fd]AW[bc][be][bf][bg][cc][cd][cg][ec][ed][fb][fe][gb][ge](;B[ee];W[gd](;B[dc];W[gc];B[dd]C[Correct])(;B[dd]C[Correct])))"
     },
     {
         "id": 4615,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bf][cc][cd][cf][da][dd][de][eb][ec]AW[aa][ac][ba][bc][be][cb][db][dc][ed][fd][gb]((;B[bb];W[ab];B[ea];W[bd];B[ca];W[bb](;B[ad]C[Correct])(;B[ae]C[Correct])(;B[ce]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bf][cc][cd][cf][da][dd][de][eb][ec]AW[aa][ac][ba][bc][be][cb][db][dc][ed][fd][gb](;B[bb];W[ab];B[ea];W[bd];B[ca];W[bb](;B[ad]C[Correct])(;B[ae]C[Correct])(;B[ce]C[Correct])))"
     },
     {
         "id": 4616,
@@ -32356,14 +32356,14 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ae][ba][bd][cb][cc][cd][da][db]AW[ab][ad][bc][be][bg][ce][dc][de][ea][eb][ed]((;B[ac];W[ad];B[bb];W[af](;B[aa]C[Correct])(;B[ac]C[Correct]))(;B[bb];W[af](;B[aa]C[Correct])(;B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ae][ba][bd][cb][cc][cd][da][db]AW[ab][ad][bc][be][bg][ce][dc][de][ea][eb][ed](;B[ac];W[ad];B[bb];W[af](;B[aa]C[Correct])(;B[ac]C[Correct]))(;B[bb];W[af](;B[aa]C[Correct])(;B[ac]C[Correct])))"
     },
     {
         "id": 4621,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ce][fe][ff][gb][gc][gd][gf][ha][jf][kc][kd][ke]AW[cc][fb][fc][fd][ge][hc][he][jc][jd][kb]((;B[jb];W[hb](;B[hf];W[ja];B[je];W[ga];B[hd]C[Correct])(;B[je];W[ja];B[hf];W[ga];B[hd]C[Correct]))(;B[je];W[jb];B[hd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ce][fe][ff][gb][gc][gd][gf][ha][jf][kc][kd][ke]AW[cc][fb][fc][fd][ge][hc][he][jc][jd][kb](;B[jb];W[hb](;B[hf];W[ja];B[je];W[ga];B[hd]C[Correct])(;B[je];W[ja];B[hf];W[ga];B[hd]C[Correct]))(;B[je];W[jb];B[hd]C[Correct]))"
     },
     {
         "id": 4622,
@@ -32398,7 +32398,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bg][ca][cd][cf][db][dd][dg][eb][fd]AW[ac][bb][bd][cb][cc]((;B[ae]C[Correct])(;B[ba];W[be];B[ae];W[af];B[bf]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bg][ca][cd][cf][db][dd][dg][eb][fd]AW[ac][bb][bd][cb][cc](;B[ae]C[Correct])(;B[ba];W[be];B[ae];W[af];B[bf]C[Correct]))"
     },
     {
         "id": 4627,
@@ -32426,7 +32426,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bb][cc][dc][ea][eb][ec][fd][gd][hb][hd]AW[ad][bc][bd][ca][cb][cd][dd][ed][fa][fb][fc]((;B[ba];W[ab](;B[ga]C[Correct])(;B[gb]C[Correct])(;B[gc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bb][cc][dc][ea][eb][ec][fd][gd][hb][hd]AW[ad][bc][bd][ca][cb][cd][dd][ed][fa][fb][fc](;B[ba];W[ab](;B[ga]C[Correct])(;B[gb]C[Correct])(;B[gc]C[Correct])))"
     },
     {
         "id": 4631,
@@ -32461,7 +32461,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ae][be][ce][dc][dd][ea][eb][ec][ee]AW[ac][ba][bd][cb][cd][db]((;B[ab];W[cc];B[bb];W[da];B[ad]C[Correct])(;B[cc];W[bc];B[da];W[ab];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ae][be][ce][dc][dd][ea][eb][ec][ee]AW[ac][ba][bd][cb][cd][db](;B[ab];W[cc];B[bb];W[da];B[ad]C[Correct])(;B[cc];W[bc];B[da];W[ab];B[ca]C[Correct]))"
     },
     {
         "id": 4636,
@@ -32496,7 +32496,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bb][cb][ce][da][dc][dd][de][eb][ec][ee][fe]AW[ba][bc][be][bg][cc][cd][cg][dg][ea][ed][fa][fb][fc][fd][fg][ge][gf][hd]((;B[bd];W[ad];B[ac];W[bd];B[bf]C[Correct])(;B[bf];W[cf];B[bd];W[ad];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bb][cb][ce][da][dc][dd][de][eb][ec][ee][fe]AW[ba][bc][be][bg][cc][cd][cg][dg][ea][ed][fa][fb][fc][fd][fg][ge][gf][hd](;B[bd];W[ad];B[ac];W[bd];B[bf]C[Correct])(;B[bf];W[cf];B[bd];W[ad];B[ac]C[Correct]))"
     },
     {
         "id": 4641,
@@ -32545,7 +32545,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ad][ae][bc][bd][cc][db]AW[af][be][bf][cb][cd][ce][dc][dd][eb][fd]((;B[ba];W[da](;B[bb]C[Correct])(;B[ca]C[Correct]))(;B[bb];W[da];B[ba]C[Correct])(;B[ca];W[da];B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ad][ae][bc][bd][cc][db]AW[af][be][bf][cb][cd][ce][dc][dd][eb][fd](;B[ba];W[da](;B[bb]C[Correct])(;B[ca]C[Correct]))(;B[bb];W[da];B[ba]C[Correct])(;B[ca];W[da];B[ba]C[Correct]))"
     },
     {
         "id": 4648,
@@ -32566,7 +32566,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ac][ba][bb][bc][bd][cc][dd][ed][fd]AW[ad][ae][be][cb][cd][ce][cg][db][dc][gc][hc]((;B[eb];W[ec];B[fc];W[fb](;B[ca];W[ea];B[da];W[eb];B[gb]C[Correct])(;B[da];W[ea];B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ac][ba][bb][bc][bd][cc][dd][ed][fd]AW[ad][ae][be][cb][cd][ce][cg][db][dc][gc][hc](;B[eb];W[ec];B[fc];W[fb](;B[ca];W[ea];B[da];W[eb];B[gb]C[Correct])(;B[da];W[ea];B[ca]C[Correct])))"
     },
     {
         "id": 4651,
@@ -32608,14 +32608,14 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][cd][dd][ed][fd][gd][hc][jb][jc]AW[cb][cc][dc][eb][ec][gb][gc][hb]((;B[da];W[ca];B[fc];W[fb];B[ha];W[ga];B[ea]C[Correct])(;B[fc];W[fb];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][cd][dd][ed][fd][gd][hc][jb][jc]AW[cb][cc][dc][eb][ec][gb][gc][hb](;B[da];W[ca];B[fc];W[fb];B[ha];W[ga];B[ea]C[Correct])(;B[fc];W[fb];B[da]C[Correct]))"
     },
     {
         "id": 4657,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][cc][ce][dd][ec][ee][fe][gd]AW[cb][db][dc][ed][fc][fd][ge][hc][he][jd]((;B[fb];W[eb];B[gc];W[ec](;B[gb];W[hb](;B[ca];W[hd](;B[da]C[Correct])(;B[ea]C[Correct]))(;B[da]C[Correct])(;B[ea]C[Correct]))(;B[hb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][cc][ce][dd][ec][ee][fe][gd]AW[cb][db][dc][ed][fc][fd][ge][hc][he][jd](;B[fb];W[eb];B[gc];W[ec](;B[gb];W[hb](;B[ca];W[hd](;B[da]C[Correct])(;B[ea]C[Correct]))(;B[da]C[Correct])(;B[ea]C[Correct]))(;B[hb]C[Correct])))"
     },
     {
         "id": 4658,
@@ -32643,7 +32643,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[af][be][cb][cf][db][de][df][eb][ec][ed]AW[ac][ba][bb][bd][cc][ce][dc][dd]((;B[ad];W[ae];B[cd]C[Correct])(;B[cd];W[ce];B[ad];W[ae];B[cd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[af][be][cb][cf][db][de][df][eb][ec][ed]AW[ac][ba][bb][bd][cc][ce][dc][dd](;B[ad];W[ae];B[cd]C[Correct])(;B[cd];W[ce];B[ad];W[ae];B[cd]C[Correct]))"
     },
     {
         "id": 4662,
@@ -32678,7 +32678,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][be][cb][cd][ce][da][dc][dd]AW[ba][bc][bf][cc][cf][ch][db][eb][ec][ed][ee]((;B[ac];W[ea](;B[aa]C[Correct])(;B[ae];W[ca];B[bd]C[Correct])(;B[bd];W[ca];B[ae]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][be][cb][cd][ce][da][dc][dd]AW[ba][bc][bf][cc][cf][ch][db][eb][ec][ed][ee](;B[ac];W[ea](;B[aa]C[Correct])(;B[ae];W[ca];B[bd]C[Correct])(;B[bd];W[ca];B[ae]C[Correct])))"
     },
     {
         "id": 4667,
@@ -32741,7 +32741,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][bf][ce][cg][db][de][eb][ec][ed][ee]AW[bc][bd][be][ca][cb][cd][dc][dd]((;B[da];W[cc](;B[ab]C[Correct])(;B[ae]C[Correct])(;B[af]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][bf][ce][cg][db][de][eb][ec][ed][ee]AW[bc][bd][be][ca][cb][cd][dc][dd](;B[da];W[cc](;B[ab]C[Correct])(;B[ae]C[Correct])(;B[af]C[Correct])))"
     },
     {
         "id": 4676,
@@ -32755,7 +32755,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][cc][db][dd][eb][ed][fe][gb][gc][gd][ge]AW[ab][ac][bb][bd][cb][cd][de][ee][fa][fb][fc][fd]((;B[ec]C[Correct])(;B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][cc][db][dd][eb][ed][fe][gb][gc][gd][ge]AW[ab][ac][bb][bd][cb][cd][de][ee][fa][fb][fc][fd](;B[ec]C[Correct])(;B[ga]C[Correct]))"
     },
     {
         "id": 4678,
@@ -32783,7 +32783,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ae][bb][bd][be][cc][cd][db][dd]AW[af][ba][bf][cb][ce][cg][da][de][eb][ec][ed][ff]((;B[ac]C[Correct])(;B[ca];W[cb];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ae][bb][bd][be][cc][cd][db][dd]AW[af][ba][bf][cb][ce][cg][da][de][eb][ec][ed][ff](;B[ac]C[Correct])(;B[ca];W[cb];B[ac]C[Correct]))"
     },
     {
         "id": 4682,
@@ -32804,7 +32804,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ae][af][bb][bh][cc][cj][db][dc][dg][dh][dk][ec][ee]AW[ad][ag][ba][bc][be][bg][cb][cd][ce][cf][cg]((;B[ca];W[bf](;B[ac]C[Correct])(;B[ae];W[af];B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ae][af][bb][bh][cc][cj][db][dc][dg][dh][dk][ec][ee]AW[ad][ag][ba][bc][be][bg][cb][cd][ce][cf][cg](;B[ca];W[bf](;B[ac]C[Correct])(;B[ae];W[af];B[ac]C[Correct])))"
     },
     {
         "id": 4685,
@@ -32860,14 +32860,14 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][bd][cb][cc][cd][db][dd]AW[bb][be][bg][ce][dc][de][eb][ec][ed][ee][gc]((;B[ab];W[ba];B[bc];W[ae];B[ca]C[Correct])(;B[ba];W[ab];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][bd][cb][cc][cd][db][dd]AW[bb][be][bg][ce][dc][de][eb][ec][ed][ee][gc](;B[ab];W[ba];B[bc];W[ae];B[ca]C[Correct])(;B[ba];W[ab];B[da]C[Correct]))"
     },
     {
         "id": 4693,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[be][ce][cg][db][dc][dd][hb][hc][hd]AW[ca][cb][cc][cd][da][de][ee]((;B[eb]C[Correct])(;B[fc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[be][ce][cg][db][dc][dd][hb][hc][hd]AW[ca][cb][cc][cd][da][de][ee](;B[eb]C[Correct])(;B[fc]C[Correct]))"
     },
     {
         "id": 4694,
@@ -32965,7 +32965,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][cd][da][db][dc][ed][fd][gb][gc]AW[ab][ad][bc][bd][ce][dd][de][ea][eb][ec]((;B[ba];W[ac];B[be];W[bf](;B[fa]C[Correct])(;B[fb]C[Correct])(;B[fc];W[ae](;B[fa]C[Correct])(;B[fb]C[Correct])))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][cd][da][db][dc][ed][fd][gb][gc]AW[ab][ad][bc][bd][ce][dd][de][ea][eb][ec](;B[ba];W[ac];B[be];W[bf](;B[fa]C[Correct])(;B[fb]C[Correct])(;B[fc];W[ae](;B[fa]C[Correct])(;B[fb]C[Correct]))))"
     },
     {
         "id": 4708,
@@ -32979,7 +32979,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bd][cd][db][dc][eb]AW[ab][cb][cc][dd][ec][ed][fc][gb][hc]((;B[bb];W[bc];B[ba];W[ca];B[ac];W[aa](;B[ba];W[bb];B[da]C[Correct])(;B[bb];W[fb];B[ba]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bd][cd][db][dc][eb]AW[ab][cb][cc][dd][ec][ed][fc][gb][hc](;B[bb];W[bc];B[ba];W[ca];B[ac];W[aa](;B[ba];W[bb];B[da]C[Correct])(;B[bb];W[fb];B[ba]C[Correct])))"
     },
     {
         "id": 4710,
@@ -33042,14 +33042,14 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bc][cb][cc][ce][cf][df][ef][fb][fd][fe][ge][ha][hb][he][jc][jd][kc][lc]AW[ca][db][dc][dd][de][eb][fc][ga][gc][gd][hc][hd][jb][kb]((;B[ec];W[ed];B[gb];W[ec];B[lb]C[Correct])(;B[gb];W[ec];B[lb];W[fa];B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bc][cb][cc][ce][cf][df][ef][fb][fd][fe][ge][ha][hb][he][jc][jd][kc][lc]AW[ca][db][dc][dd][de][eb][fc][ga][gc][gd][hc][hd][jb][kb](;B[ec];W[ed];B[gb];W[ec];B[lb]C[Correct])(;B[gb];W[ec];B[lb];W[fa];B[ea]C[Correct]))"
     },
     {
         "id": 4719,
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bb][bd][cd][ea][eb][ec]AW[be][ca][cb][ce][dd][ed][fa][fb][fc][fd]((;B[cc];W[dc](;B[ac];W[ae];B[ad]C[Correct])(;B[ad]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bb][bd][cd][ea][eb][ec]AW[be][ca][cb][ce][dd][ed][fa][fb][fc][fd](;B[cc];W[dc](;B[ac];W[ae];B[ad]C[Correct])(;B[ad]C[Correct])))"
     },
     {
         "id": 4720,
@@ -33231,14 +33231,14 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bd][be][cb][cc][ce][de][ed][ee][ef][fb][fd][ff][gc][gd][ge]AW[bb][bc][bg][cd][cg][dc][dd][eb][ec][eg][fc][fg][gb][gf][gg][hc][he][hf][jc]((;B[ba];W[db];B[ca];W[fa](;B[ab]C[Correct])(;B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bd][be][cb][cc][ce][de][ed][ee][ef][fb][fd][ff][gc][gd][ge]AW[bb][bc][bg][cd][cg][dc][dd][eb][ec][eg][fc][fg][gb][gf][gg][hc][he][hf][jc](;B[ba];W[db];B[ca];W[fa](;B[ab]C[Correct])(;B[ac]C[Correct])))"
     },
     {
         "id": 4746,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ae][be][cb][cd][ce][db][dc][de][eb][ee][fb]AW[ad][bb][bc][bd][ca][cc][dd][ec][ed][fc][gb][gc]((;B[da];W[ba](;B[aa]C[Correct])(;B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ae][be][cb][cd][ce][db][dc][de][eb][ee][fb]AW[ad][bb][bc][bd][ca][cc][dd][ec][ed][fc][gb][gc](;B[da];W[ba](;B[aa]C[Correct])(;B[ac]C[Correct])))"
     },
     {
         "id": 4747,
@@ -33259,7 +33259,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bg][ca][ch][db][de][eb][ec][ed][ef][eh]AW[ac][bb][bd][cb][cd][ce][cf][dc][dd]((;B[ae]C[Correct])(;B[bf];W[be];B[ae]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bg][ca][ch][db][de][eb][ec][ed][ef][eh]AW[ac][bb][bd][cb][cd][ce][cf][dc][dd](;B[ae]C[Correct])(;B[bf];W[be];B[ae]C[Correct]))"
     },
     {
         "id": 4750,
@@ -33280,7 +33280,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][bd][be][cc][cf][df][eb][fa][fd][ff][gd][gg][hc][jc]AW[cd][ce][db][dc][de][ed][ee][fc][gb][gc]((;B[ga];W[hb];B[jb];W[ha];B[ec]C[Correct])(;B[hb];W[ga];B[ec];W[da];B[ha]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][bd][be][cc][cf][df][eb][fa][fd][ff][gd][gg][hc][jc]AW[cd][ce][db][dc][de][ed][ee][fc][gb][gc](;B[ga];W[hb];B[jb];W[ha];B[ec]C[Correct])(;B[hb];W[ga];B[ec];W[da];B[ha]C[Correct]))"
     },
     {
         "id": 4753,
@@ -33371,7 +33371,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bb][cc][da][dc][ec][fa][fc][gb]AW[ac][ba][bc][be][ca][cb][cd][dd][ed][fb][fd][gc][hc][jc][kb]((;B[db];W[aa];B[eb]C[Correct])(;B[eb];W[aa];B[db]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bb][cc][da][dc][ec][fa][fc][gb]AW[ac][ba][bc][be][ca][cb][cd][dd][ed][fb][fd][gc][hc][jc][kb](;B[db];W[aa];B[eb]C[Correct])(;B[eb];W[aa];B[db]C[Correct]))"
     },
     {
         "id": 4766,
@@ -33434,7 +33434,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bd][cd][cf][dd][ea][ed][fb][fc]AW[ab][bc][ca][cc][eb][ec]((;B[ba];W[bb](;B[db];W[dc](;B[da]C[Correct])(;B[fa]C[Correct]))(;B[fa];W[db];B[dc]C[Correct]))(;B[dc];W[db];B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bd][cd][cf][dd][ea][ed][fb][fc]AW[ab][bc][ca][cc][eb][ec](;B[ba];W[bb](;B[db];W[dc](;B[da]C[Correct])(;B[fa]C[Correct]))(;B[fa];W[db];B[dc]C[Correct]))(;B[dc];W[db];B[ba]C[Correct]))"
     },
     {
         "id": 4775,
@@ -33469,7 +33469,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][bd][be][cb][cf][cg][db][dg][eb][eg][fb][fg][gc][gg][hc][hd][he][hf]AW[cc][cd][ce][dc][df][ec][ef][fc][ff][gd][ge][gf]((;B[ed];W[ee];B[fd]C[Correct])(;B[ee];W[ed];B[de]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][bd][be][cb][cf][cg][db][dg][eb][eg][fb][fg][gc][gg][hc][hd][he][hf]AW[cc][cd][ce][dc][df][ec][ef][fc][ff][gd][ge][gf](;B[ed];W[ee];B[fd]C[Correct])(;B[ee];W[ed];B[de]C[Correct]))"
     },
     {
         "id": 4780,
@@ -33665,7 +33665,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[be][ce][db][dc][dd][de]AW[ac][bd][cb][cc][cd]((;B[ba];W[bb];B[ca]C[Correct])(;B[bb];W[ba];B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[be][ce][db][dc][dd][de]AW[ac][bd][cb][cc][cd](;B[ba];W[bb];B[ca]C[Correct])(;B[bb];W[ba];B[ab]C[Correct]))"
     },
     {
         "id": 4808,
@@ -33693,7 +33693,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bd][cd][dc][ed][fd][gc][gd]AW[ae][be][cb][cc][ce][dd][de][ee][fc]((;B[bb];W[db];B[ec];W[eb];B[fb];W[ba](;B[ca]C[Correct])(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bd][cd][dc][ed][fd][gc][gd]AW[ae][be][cb][cc][ce][dd][de][ee][fc](;B[bb];W[db];B[ec];W[eb];B[fb];W[ba](;B[ca]C[Correct])(;B[ea]C[Correct])))"
     },
     {
         "id": 4812,
@@ -33735,7 +33735,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bf][cd][ce][dc][df][dg][ec][fc][fg]AW[bb][bg][cb][cc][cf][cg][ch][dd][de][ee]((;B[fe];W[be];B[bd];W[af](;B[ed]C[Correct])(;B[ef]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bf][cd][ce][dc][df][dg][ec][fc][fg]AW[bb][bg][cb][cc][cf][cg][ch][dd][de][ee](;B[fe];W[be];B[bd];W[af](;B[ed]C[Correct])(;B[ef]C[Correct])))"
     },
     {
         "id": 4818,
@@ -33763,7 +33763,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][cc][cd][dc][de][ee][fe][gd][ge][ha][he][jc][je][kb][kc]AW[cb][da][db][dd][ec][ed][fa][fb][ga][gb][gc][hc][hd][jb]((;B[eb];W[ea];B[fd];W[fc](;B[ja]C[Correct])(;B[ka]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][cc][cd][dc][de][ee][fe][gd][ge][ha][he][jc][je][kb][kc]AW[cb][da][db][dd][ec][ed][fa][fb][ga][gb][gc][hc][hd][jb](;B[eb];W[ea];B[fd];W[fc](;B[ja]C[Correct])(;B[ka]C[Correct])))"
     },
     {
         "id": 4822,
@@ -33812,7 +33812,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ab][bb][cc][cf][dc][dd][df][ee]AW[bc][bd][bf][cd][cg][ch][de][eb][ec][eh][ff][hc]((;B[be];W[ce](;B[ac];W[ae];B[ad];W[be];B[bg]C[Correct])(;B[ad];W[ae];B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ab][bb][cc][cf][dc][dd][df][ee]AW[bc][bd][bf][cd][cg][ch][de][eb][ec][eh][ff][hc](;B[be];W[ce](;B[ac];W[ae];B[ad];W[be];B[bg]C[Correct])(;B[ad];W[ae];B[ac]C[Correct])))"
     },
     {
         "id": 4829,
@@ -33861,7 +33861,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bd][ce][dd][ec][ed][fa][fb]AW[bb][be][bf][cc][cd][dc][eb]((;B[cb];W[db](;B[da];W[ca];B[ea];W[cb];B[ab]C[Correct])(;B[ea];W[ca];B[da];W[cb];B[ab]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bd][ce][dd][ec][ed][fa][fb]AW[bb][be][bf][cc][cd][dc][eb](;B[cb];W[db](;B[da];W[ca];B[ea];W[cb];B[ab]C[Correct])(;B[ea];W[ca];B[da];W[cb];B[ab]C[Correct])))"
     },
     {
         "id": 4836,
@@ -33945,7 +33945,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ca][cb][cc][dd][ea][ec][ga][gb][gc][hb]AW[bb][bc][cd][ce][db][dg][fb][fd][ff][gd][ha][hc][jb][jc]((;B[fc];W[eb](;B[dc]C[Correct])(;B[ed]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ca][cb][cc][dd][ea][ec][ga][gb][gc][hb]AW[bb][bc][cd][ce][db][dg][fb][fd][ff][gd][ha][hc][jb][jc](;B[fc];W[eb](;B[dc]C[Correct])(;B[ed]C[Correct])))"
     },
     {
         "id": 4848,
@@ -34029,7 +34029,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][cc][dc][ec][fc][gb][gc][ha][hb]AW[bb][bc][bd][cd][dd][ed][fa][fd][gd][hc][jb][jc]((;B[da]C[Correct])(;B[eb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][cc][dc][ec][fc][gb][gc][ha][hb]AW[bb][bc][bd][cd][dd][ed][fa][fd][gd][hc][jb][jc](;B[da]C[Correct])(;B[eb]C[Correct]))"
     },
     {
         "id": 4860,
@@ -34085,7 +34085,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][bc][cb][cd][ce][da][db]AW[bd][bf][cc][cf][dc][dd][de][df][eb][ec]((;B[ac]C[Correct])(;B[ba];W[ac];B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][bc][cb][cd][ce][da][db]AW[bd][bf][cc][cf][dc][dd][de][df][eb][ec](;B[ac]C[Correct])(;B[ba];W[ac];B[ab]C[Correct]))"
     },
     {
         "id": 4868,
@@ -34148,7 +34148,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][bc][bf][cf][de][df][eb][ec][ed]AW[bd][be][ca][cb][cc][ce][db][dc][dd]((;B[ad];W[ae];B[ea];W[ac];B[da];W[cd];B[af]C[Correct])(;B[ea];W[ac];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][bc][bf][cf][de][df][eb][ec][ed]AW[bd][be][ca][cb][cc][ce][db][dc][dd](;B[ad];W[ae];B[ea];W[ac];B[da];W[cd];B[af]C[Correct])(;B[ea];W[ac];B[da]C[Correct]))"
     },
     {
         "id": 4877,
@@ -34176,7 +34176,7 @@ const problems = [
         "title": "死活题：黑先劫杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[bd][be][ca][ce][dd][ec][ed][fb][gc]AW[bc][cb][cc][cd][dc][ea][eb]((;B[ba];W[bb](;B[ac]C[Correct])(;B[fa];W[aa];B[ab]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[bd][be][ca][ce][dd][ec][ed][fb][gc]AW[bc][cb][cc][cd][dc][ea][eb](;B[ba];W[bb](;B[ac]C[Correct])(;B[fa];W[aa];B[ab]C[Correct])))"
     },
     {
         "id": 4881,
@@ -34211,7 +34211,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ad][bd][cb][dc][dd][ea][eb]AW[be][cc][cd][ce][de][ec][ed][ee][fa][fb]((;B[bc];W[db](;B[ba]C[Correct])(;B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ad][bd][cb][dc][dd][ea][eb]AW[be][cc][cd][ce][de][ec][ed][ee][fa][fb](;B[bc];W[db](;B[ba]C[Correct])(;B[ca]C[Correct])))"
     },
     {
         "id": 4886,
@@ -34232,7 +34232,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][be][cd][dd][ec]AW[bb][bc][bd][cc]((;B[db]C[Correct])(;B[eb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][be][cd][dd][ec]AW[bb][bc][bd][cc](;B[db]C[Correct])(;B[eb]C[Correct]))"
     },
     {
         "id": 4889,
@@ -34253,7 +34253,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][cb][cc][dd][ed][fb][fc]AW[ac][ae][bd][bf][cd][ce][db][dc][eb]((;B[ba];W[ab](;B[ca]C[Correct])(;B[ea];W[bb];B[ca]C[Correct])(;B[ec];W[bb];B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][cb][cc][dd][ed][fb][fc]AW[ac][ae][bd][bf][cd][ce][db][dc][eb](;B[ba];W[ab](;B[ca]C[Correct])(;B[ea];W[bb];B[ca]C[Correct])(;B[ec];W[bb];B[ca]C[Correct])))"
     },
     {
         "id": 4892,
@@ -34351,7 +34351,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bc][cc][eb][ec]AW[cd][cf][db][dd][ed][fb][fc]((;B[dc];W[ea];B[cb];W[da](;B[bd];W[be](;B[ab]C[Correct])(;B[ca];W[fa];B[ab]C[Correct]))(;B[ca];W[fa];B[bd];W[be];B[ab]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bc][cc][eb][ec]AW[cd][cf][db][dd][ed][fb][fc](;B[dc];W[ea];B[cb];W[da](;B[bd];W[be](;B[ab]C[Correct])(;B[ca];W[fa];B[ab]C[Correct]))(;B[ca];W[fa];B[bd];W[be];B[ab]C[Correct])))"
     },
     {
         "id": 4906,
@@ -34421,7 +34421,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[aa][ac][bb][bc][ca][cb][dc][ec][ed][fd][gc][gd][jb][jc][jd]AW[bd][cc][cd][da][db][dd][ea][ee][fe][ga][ge][he][ja][je][kb][kc][kd][ke]((;B[fb];W[fa];B[hb];W[ha];B[hd]C[Correct])(;B[hb];W[ha];B[fb];W[fa];B[hd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[aa][ac][bb][bc][ca][cb][dc][ec][ed][fd][gc][gd][jb][jc][jd]AW[bd][cc][cd][da][db][dd][ea][ee][fe][ga][ge][he][ja][je][kb][kc][kd][ke](;B[fb];W[fa];B[hb];W[ha];B[hd]C[Correct])(;B[hb];W[ha];B[fb];W[fa];B[hd]C[Correct]))"
     },
     {
         "id": 4916,
@@ -34456,7 +34456,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][bb][bf][cc][cf][db][dc][de][df][eb][ed][fb][fc][fd]AW[ac][ad][ba][bc][be][cb][cd][ce][da][dd]((;B[af];W[aa];B[ae]C[Correct])(;B[ca];W[cb];B[af];W[aa];B[ae]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][bb][bf][cc][cf][db][dc][de][df][eb][ed][fb][fc][fd]AW[ac][ad][ba][bc][be][cb][cd][ce][da][dd](;B[af];W[aa];B[ae]C[Correct])(;B[ca];W[cb];B[af];W[aa];B[ae]C[Correct]))"
     },
     {
         "id": 4921,
@@ -34547,7 +34547,7 @@ const problems = [
         "title": "死活题：黑先劫活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫活]AB[bc][cb][cc][cd][dc][ec][fa][fb][fc]AW[aa][ac][bb][bd][be][ce][dd][ed][fd][ga][gb][gc][gd]((;B[ba];W[ca];B[da];W[eb];B[ba]C[Correct])(;B[da];W[eb];B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫活]AB[bc][cb][cc][cd][dc][ec][fa][fb][fc]AW[aa][ac][bb][bd][be][ce][dd][ed][fd][ga][gb][gc][gd](;B[ba];W[ca];B[da];W[eb];B[ba]C[Correct])(;B[da];W[eb];B[ba]C[Correct]))"
     },
     {
         "id": 4934,
@@ -34568,7 +34568,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cb][cc][dc][ed][fd][gb][gc][gd]AW[bc][bd][cd][db][dd][ec][fa][fb][fc]((;B[ea];W[ab](;B[da]C[Correct])(;B[ga];W[ba];B[eb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cb][cc][dc][ed][fd][gb][gc][gd]AW[bc][bd][cd][db][dd][ec][fa][fb][fc](;B[ea];W[ab](;B[da]C[Correct])(;B[ga];W[ba];B[eb]C[Correct])))"
     },
     {
         "id": 4937,
@@ -34596,7 +34596,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][be][cc][cd][ce][de][eb][ee][fe][gb][hc][he][ja][jc][kb]AW[ab][bc][bd][ca][cb][da][dc][dd][ec][fa][fc][ga][gc]((;B[ad];W[aa](;B[bb];W[ba];B[fb]C[Correct])(;B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][be][cc][cd][ce][de][eb][ee][fe][gb][hc][he][ja][jc][kb]AW[ab][bc][bd][ca][cb][da][dc][dd][ec][fa][fc][ga][gc](;B[ad];W[aa](;B[bb];W[ba];B[fb]C[Correct])(;B[fb]C[Correct])))"
     },
     {
         "id": 4941,
@@ -34743,7 +34743,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][bc][cc][dc][de][ed][fe][ga][gb][ge][hb][he][jd][kb][kc][ke][lc]AW[bb][cb][db][eb][ec][fb][fd][gc][gd][ha][hc][hd][jb][jc]((;B[ja];W[fc](;B[ha]C[Correct])(;B[ka]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][bc][cc][dc][de][ed][fe][ga][gb][ge][hb][he][jd][kb][kc][ke][lc]AW[bb][cb][db][eb][ec][fb][fd][gc][gd][ha][hc][hd][jb][jc](;B[ja];W[fc](;B[ha]C[Correct])(;B[ka]C[Correct])))"
     },
     {
         "id": 4962,
@@ -34764,7 +34764,7 @@ const problems = [
         "title": "死活题：黑先劫活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫活]AB[cb][cc][da][dc][ea][eb]AW[ab][bd][cd][dd][ec][fa][fb][fc]((;B[ac];W[bc];B[bb];W[ba];B[aa]C[Correct])(;B[bb];W[ba];B[ac];W[bc];B[aa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫活]AB[cb][cc][da][dc][ea][eb]AW[ab][bd][cd][dd][ec][fa][fb][fc](;B[ac];W[bc];B[bb];W[ba];B[aa]C[Correct])(;B[bb];W[ba];B[ac];W[bc];B[aa]C[Correct]))"
     },
     {
         "id": 4965,
@@ -34813,7 +34813,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][bd][ce][de][ed][ee][fb][fc][fe]AW[be][bf][cb][cc][cd][cf][dd][df][eb][fa][gb][gc][gd]((;B[db](;W[da];B[ca];W[dc];B[ec]C[Correct])(;W[dc];B[ec];W[da];B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][bd][ce][de][ed][ee][fb][fc][fe]AW[be][bf][cb][cc][cd][cf][dd][df][eb][fa][gb][gc][gd](;B[db](;W[da];B[ca];W[dc];B[ec]C[Correct])(;W[dc];B[ec];W[da];B[ca]C[Correct])))"
     },
     {
         "id": 4972,
@@ -35037,7 +35037,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][bc][bd][cd][cf][db][de][ec][ef][ff][ga][gb][gc][gd][ge]AW[ab][ac][bb][cb][cc][dc][dd][ea][ee][fc][fd][fe]((;B[eb];W[fb](;B[da];W[ed];B[fa]C[Correct])(;B[fa];W[ed];B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][bc][bd][cd][cf][db][de][ec][ef][ff][ga][gb][gc][gd][ge]AW[ab][ac][bb][cb][cc][dc][dd][ea][ee][fc][fd][fe](;B[eb];W[fb](;B[da];W[ed];B[fa]C[Correct])(;B[fa];W[ed];B[da]C[Correct])))"
     },
     {
         "id": 5004,
@@ -35072,7 +35072,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][bc][cc][da][dc][eb][ec][fc]AW[ac][bd][bf][cd][dd][ea][ed][fa][gb][gc][gd]((;B[ba];W[ab];B[cb]C[Correct])(;B[cb];W[ab](;B[ae]C[Correct])(;B[ba];W[ae];B[bb]C[Correct])(;B[bb];W[ae];B[ba]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][bc][cc][da][dc][eb][ec][fc]AW[ac][bd][bf][cd][dd][ea][ed][fa][gb][gc][gd](;B[ba];W[ab];B[cb]C[Correct])(;B[cb];W[ab](;B[ae]C[Correct])(;B[ba];W[ae];B[bb]C[Correct])(;B[bb];W[ae];B[ba]C[Correct])))"
     },
     {
         "id": 5009,
@@ -35121,7 +35121,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ca][cb][cc][cd][de][ea][fd][gc][hc][jc][ka][kb][kc]AW[da][db][dc][ec][ga][gb][hb][ja][jb]((;B[fb];W[fc](;B[dd]C[Correct])(;B[ed];W[eb];B[dd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ca][cb][cc][cd][de][ea][fd][gc][hc][jc][ka][kb][kc]AW[da][db][dc][ec][ga][gb][hb][ja][jb](;B[fb];W[fc](;B[dd]C[Correct])(;B[ed];W[eb];B[dd]C[Correct])))"
     },
     {
         "id": 5016,
@@ -35142,7 +35142,7 @@ const problems = [
         "title": "死活题：黑先劫杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[ba][bc][bd][cd][da][dd][ed][fc][gb][gc]AW[ab][bb][cc][db][dc][ec][fa][fb]((;B[cb]C[Correct])(;B[ga];W[eb];B[cb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[ba][bc][bd][cd][da][dd][ed][fc][gb][gc]AW[ab][bb][cc][db][dc][ec][fa][fb](;B[cb]C[Correct])(;B[ga];W[eb];B[cb]C[Correct]))"
     },
     {
         "id": 5019,
@@ -35296,7 +35296,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][bc][cb][cc][da][dc][eb]AW[ba][bd][bf][cd][dd][ec][ed][fa][fb][gc]((;B[aa](;W[ab];B[ca];W[ea];B[bb]C[Correct])(;W[ea];B[bb];W[ab];B[ca]C[Correct]))(;B[bb];W[ea];B[aa];W[ab];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][bc][cb][cc][da][dc][eb]AW[ba][bd][bf][cd][dd][ec][ed][fa][fb][gc](;B[aa](;W[ab];B[ca];W[ea];B[bb]C[Correct])(;W[ea];B[bb];W[ab];B[ca]C[Correct]))(;B[bb];W[ea];B[aa];W[ab];B[ca]C[Correct]))"
     },
     {
         "id": 5041,
@@ -35317,7 +35317,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[aa][ab][ac][ba][bc][cc][dc][ec][fa][fb][gb][ha]AW[bb][bd][be][ca][cb][dd][df][ea][eb][ed][fc][fe][gc][hb][hc][kb]((;B[db];W[ga](;B[da];W[cb];B[fb];W[fa];B[gb]C[Correct])(;B[fb];W[fa];B[da];W[ja];B[cb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[aa][ab][ac][ba][bc][cc][dc][ec][fa][fb][gb][ha]AW[bb][bd][be][ca][cb][dd][df][ea][eb][ed][fc][fe][gc][hb][hc][kb](;B[db];W[ga](;B[da];W[cb];B[fb];W[fa];B[gb]C[Correct])(;B[fb];W[fa];B[da];W[ja];B[cb]C[Correct])))"
     },
     {
         "id": 5044,
@@ -35345,7 +35345,7 @@ const problems = [
         "title": "死活题：黑先劫杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[ab][af][bf][cf][db][dc][de][df][ec][ed][ee]AW[ac][ba][bd][be][cb][cc][ce][dd]((;B[ae];W[bb](;B[ad];W[aa];B[cd]C[Correct])(;B[cd];W[aa];B[ad]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[ab][af][bf][cf][db][dc][de][df][ec][ed][ee]AW[ac][ba][bd][be][cb][cc][ce][dd](;B[ae];W[bb](;B[ad];W[aa];B[cd]C[Correct])(;B[cd];W[aa];B[ad]C[Correct])))"
     },
     {
         "id": 5048,
@@ -35366,7 +35366,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][bb][bd][cb][ce][cg][dc][dd][df][dg][dh][dj][ee]AW[ac][bc][be][bf][bg][ca][cf][ch][cj][ck][db][dk][eb][ec][ed][ek][fe][ff][fh]((;B[ab]C[Correct])(;B[cc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][bb][bd][cb][ce][cg][dc][dd][df][dg][dh][dj][ee]AW[ac][bc][be][bf][bg][ca][cf][ch][cj][ck][db][dk][eb][ec][ed][ek][fe][ff][fh](;B[ab]C[Correct])(;B[cc]C[Correct]))"
     },
     {
         "id": 5051,
@@ -35415,21 +35415,21 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][bd][be][cf][df][ef][fc][ff][ga][gc][gd][ha][jb][jc]AW[cc][cd][ce][db][dc][de][ea][ec][ed][fb][fd][gb]((;B[ca];W[da];B[fa];W[hb];B[ja]C[Correct])(;B[fa];W[hb];B[ja]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][bd][be][cf][df][ef][fc][ff][ga][gc][gd][ha][jb][jc]AW[cc][cd][ce][db][dc][de][ea][ec][ed][fb][fd][gb](;B[ca];W[da];B[fa];W[hb];B[ja]C[Correct])(;B[fa];W[hb];B[ja]C[Correct]))"
     },
     {
         "id": 5058,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ac][ce][de][ee][fa][fb][fc][fd][fe]AW[bc][cc][cd][dd][ea][eb][ec][ed]((;B[ae];W[bb](;B[ba];W[ca];B[db]C[Correct])(;B[db];W[be];B[bf];W[bd];B[ad]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ac][ce][de][ee][fa][fb][fc][fd][fe]AW[bc][cc][cd][dd][ea][eb][ec][ed](;B[ae];W[bb](;B[ba];W[ca];B[db]C[Correct])(;B[db];W[be];B[bf];W[bd];B[ad]C[Correct])))"
     },
     {
         "id": 5059,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bd][bg][cb][ce][cf][cj][cl][df][dj][ef][ej]AW[be][bf][bh][cd][cg][dd][dh][ee][fe][ff][fg]((;B[ch];W[ag](;B[eg]C[Correct])(;B[eh];W[eg];B[dg]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bc][bd][bg][cb][ce][cf][cj][cl][df][dj][ef][ej]AW[be][bf][bh][cd][cg][dd][dh][ee][fe][ff][fg](;B[ch];W[ag](;B[eg]C[Correct])(;B[eh];W[eg];B[dg]C[Correct])))"
     },
     {
         "id": 5060,
@@ -35450,7 +35450,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bd][cd][dd][ea][eb][ec]AW[bb][bc][da][db][dc][ed][fd][gb][gc]((;B[cc];W[cb];B[ac];W[ab];B[ad];W[fc](;B[aa]C[Correct])(;B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bd][cd][dd][ea][eb][ec]AW[bb][bc][da][db][dc][ed][fd][gb][gc](;B[cc];W[cb];B[ac];W[ab];B[ad];W[fc](;B[aa]C[Correct])(;B[ca]C[Correct])))"
     },
     {
         "id": 5063,
@@ -35478,7 +35478,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ac][bb][bd][bg][bj][cb][ch][cj][dc][ec][eh][fd][fe][fg]AW[bc][bf][bh][cc][cd][ce][cf][cg][dd][dg][ee][ef]((;B[ah];W[af](;B[ab]C[Correct])(;B[ad]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ac][bb][bd][bg][bj][cb][ch][cj][dc][ec][eh][fd][fe][fg]AW[bc][bf][bh][cc][cd][ce][cf][cg][dd][dg][ee][ef](;B[ah];W[af](;B[ab]C[Correct])(;B[ad]C[Correct])))"
     },
     {
         "id": 5067,
@@ -35499,7 +35499,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bd][cc][dd][ec][ed][ef][fa][fb][gb][gf][he][jb][jc][jd]AW[ca][cb][db][dc][eb][fc][ga][gd][ha][hb][hc]((;B[ba];W[gc];B[ea];W[da];B[fb]C[Correct])(;B[ea];W[gc];B[ba];W[da];B[fb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bd][cc][dd][ec][ed][ef][fa][fb][gb][gf][he][jb][jc][jd]AW[ca][cb][db][dc][eb][fc][ga][gd][ha][hb][hc](;B[ba];W[gc];B[ea];W[da];B[fb]C[Correct])(;B[ea];W[gc];B[ba];W[da];B[fb]C[Correct]))"
     },
     {
         "id": 5070,
@@ -35576,7 +35576,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bb][bc][bd][cc][cd][dc][ea][eb][ec]AW[ac][ad][ba][be][bg][ca][ce][da][db][dd][ed][fa][fb][fc][fd]((;B[ae];W[ad](;B[aa]C[Correct])(;B[cb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bb][bc][bd][cc][cd][dc][ea][eb][ec]AW[ac][ad][ba][be][bg][ca][ce][da][db][dd][ed][fa][fb][fc][fd](;B[ae];W[ad](;B[aa]C[Correct])(;B[cb]C[Correct])))"
     },
     {
         "id": 5081,
@@ -35618,7 +35618,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bg][cg][cj][de][df][ec][ef][ej][fc][ff][gb][hb][jb][kb]AW[cc][cd][ce][cf][dg][ed][eg][fg][gc][gf][hc][he][jc]((;B[dd];W[dc];B[fe];W[fd];B[gd]C[Correct])(;B[fe];W[fd];B[dd];W[dc];B[gd]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bg][cg][cj][de][df][ec][ef][ej][fc][ff][gb][hb][jb][kb]AW[cc][cd][ce][cf][dg][ed][eg][fg][gc][gf][hc][he][jc](;B[dd];W[dc];B[fe];W[fd];B[gd]C[Correct])(;B[fe];W[fd];B[dd];W[dc];B[gd]C[Correct]))"
     },
     {
         "id": 5087,
@@ -35660,7 +35660,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][be][bf][cf][ch][dc][dg][ea][eb][ec][eh][fa][fd][fe][gb][gc][gg]AW[bb][bd][cc][cd][ce][da][db][dd][ed][ee][ef]((;B[ac];W[ad];B[cb]C[Correct])(;B[cb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][be][bf][cf][ch][dc][dg][ea][eb][ec][eh][fa][fd][fe][gb][gc][gg]AW[bb][bd][cc][cd][ce][da][db][dd][ed][ee][ef](;B[ac];W[ad];B[cb]C[Correct])(;B[cb]C[Correct]))"
     },
     {
         "id": 5093,
@@ -35716,7 +35716,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.UPPER_INTERMEDIATE,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ac][bb][bc][bf][cg][dc][dg][eg][fa][fb][fc][ff][gd][gf]AW[ae][be][ca][cc][cd][ce][db][de][ea][ed][ee]((;B[cb];W[ec];B[eb];W[dd](;B[ba]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ac][bb][bc][bf][cg][dc][dg][eg][fa][fb][fc][ff][gd][gf]AW[ae][be][ca][cc][cd][ce][db][de][ea][ed][ee](;B[cb];W[ec];B[eb];W[dd](;B[ba]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 5101,
@@ -35737,7 +35737,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bd][be][cc][ce][da][db][dc][de]AW[ab][bb][bc][ca][cd][dd][ed][fb][fd]((;B[ad];W[eb](;B[ba];W[ec];B[cb]C[Correct])(;B[cb];W[ec];B[ba]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bd][be][cc][ce][da][db][dc][de]AW[ab][bb][bc][ca][cd][dd][ed][fb][fd](;B[ad];W[eb](;B[ba];W[ec];B[cb]C[Correct])(;B[cb];W[ec];B[ba]C[Correct])))"
     },
     {
         "id": 5104,
@@ -35765,7 +35765,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cc][da][db][dc][ec][fc][gc][hb][jb][jc]AW[bc][be][cb][cd][dd][eb][ed][fb][fd][gb][gd][hc][hd]((;B[bb];W[ba](;B[ea]C[Correct])(;B[fa]C[Correct])(;B[ga]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cc][da][db][dc][ec][fc][gc][hb][jb][jc]AW[bc][be][cb][cd][dd][eb][ed][fb][fd][gb][gd][hc][hd](;B[bb];W[ba](;B[ea]C[Correct])(;B[fa]C[Correct])(;B[ga]C[Correct])))"
     },
     {
         "id": 5108,
@@ -35807,7 +35807,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][bc][bd][be][ce][de][ea][ec][ed][ee][fa][fb]AW[ab][ac][ad][ae][bf][cb][cc][cd][cf][df][ef][fc][fd][fe][ff][ga][gb]((;B[ba];W[db](;B[da]C[Correct])(;B[eb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][bc][bd][be][ce][de][ea][ec][ed][ee][fa][fb]AW[ab][ac][ad][ae][bf][cb][cc][cd][cf][df][ef][fc][fd][fe][ff][ga][gb](;B[ba];W[db](;B[da]C[Correct])(;B[eb]C[Correct])))"
     },
     {
         "id": 5114,
@@ -35898,7 +35898,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][af][bb][bf][ca][cg][db][dc][dg][ed][ee][ef]AW[ac][ae][bc][be][cb][cc][cf][dd][de][df]((;B[cd];W[ce];B[bd];W[ad](;B[bd]C[Correct])(;B[cd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][af][bb][bf][ca][cg][db][dc][dg][ed][ee][ef]AW[ac][ae][bc][be][cb][cc][cf][dd][de][df](;B[cd];W[ce];B[bd];W[ad](;B[bd]C[Correct])(;B[cd]C[Correct])))"
     },
     {
         "id": 5127,
@@ -35919,7 +35919,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ae][bb][bh][cc][cj][db][dc][dg][dh][dk][ec][ee][fb]AW[ad][ba][bc][be][bg][cb][cd][ce][cf][cg]((;B[af];W[ag];B[ca];W[bf](;B[ac]C[Correct])(;B[ae];W[af];B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ae][bb][bh][cc][cj][db][dc][dg][dh][dk][ec][ee][fb]AW[ad][ba][bc][be][bg][cb][cd][ce][cf][cg](;B[af];W[ag];B[ca];W[bf](;B[ac]C[Correct])(;B[ae];W[af];B[ac]C[Correct])))"
     },
     {
         "id": 5130,
@@ -35947,7 +35947,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bb][bc][bg][cc][cd][ce][cg][dd][df][ed][ee][ef]AW[ab][ac][be][bf][bh][ca][cb][cf][ch][da][dc][dg][eb][ec][eh][fa][fd][fe][fh][gf][gg]((;B[bd];W[ad](;B[aa]C[Correct])(;B[ae];W[af];B[aa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bb][bc][bg][cc][cd][ce][cg][dd][df][ed][ee][ef]AW[ab][ac][be][bf][bh][ca][cb][cf][ch][da][dc][dg][eb][ec][eh][fa][fd][fe][fh][gf][gg](;B[bd];W[ad](;B[aa]C[Correct])(;B[ae];W[af];B[aa]C[Correct])))"
     },
     {
         "id": 5134,
@@ -36010,14 +36010,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ad][ba][bb][bd][cd][dc][ec][fb][fd]AW[ab][bc][bf][ca][cb][cc][ce][cf][dd][de][ea]((;B[db];W[aa](;B[ba];W[bb];B[da];W[be];B[ba]C[Correct])(;B[bb];W[ae];B[ba];W[be];B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ad][ba][bb][bd][cd][dc][ec][fb][fd]AW[ab][bc][bf][ca][cb][cc][ce][cf][dd][de][ea](;B[db];W[aa](;B[ba];W[bb];B[da];W[be];B[ba]C[Correct])(;B[bb];W[ae];B[ba];W[be];B[da]C[Correct])))"
     },
     {
         "id": 5143,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][bb][bf][bk][cb][cc][ch][cj][dg][dk][ec][ee]AW[ab][ae][bc][bd][bh][cd][ce][cf][cg]((;B[bg];W[ag](;B[aj]C[Correct])(;B[bj];W[ah];B[aj]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][bb][bf][bk][cb][cc][ch][cj][dg][dk][ec][ee]AW[ab][ae][bc][bd][bh][cd][ce][cf][cg](;B[bg];W[ag](;B[aj]C[Correct])(;B[bj];W[ah];B[aj]C[Correct])))"
     },
     {
         "id": 5144,
@@ -36045,7 +36045,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bb][bc][bd][cd][dd][ed][fe][gb][gc][gd][ge]AW[ae][be][ca][cc][ce][db][dc][de][ea][eb][ec][ee][fc][fd]((;B[ab];W[ba];B[cb];W[da](;B[fa]C[Correct])(;B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][bb][bc][bd][cd][dd][ed][fe][gb][gc][gd][ge]AW[ae][be][ca][cc][ce][db][dc][de][ea][eb][ec][ee][fc][fd](;B[ab];W[ba];B[cb];W[da](;B[fa]C[Correct])(;B[fb]C[Correct])))"
     },
     {
         "id": 5148,
@@ -36073,7 +36073,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ca][cb][db][dc][ec][fc][fd][gc][hb][hc][ja][kb]AW[ba][bb][cc][cd][dd][eb][ee][fb][fe][gd][hd][jb][jc][jd][lb][ld]((;B[ea];W[fa];B[ga];W[da];B[gb]C[Correct])(;B[fa];W[ea];B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ca][cb][db][dc][ec][fc][fd][gc][hb][hc][ja][kb]AW[ba][bb][cc][cd][dd][eb][ee][fb][fe][gd][hd][jb][jc][jd][lb][ld](;B[ea];W[fa];B[ga];W[da];B[gb]C[Correct])(;B[fa];W[ea];B[ga]C[Correct]))"
     },
     {
         "id": 5152,
@@ -36087,7 +36087,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][cb][da][db][dd][de][ea][ec][ee][fc][fe][gc][hb][jb]AW[bb][bc][cc][cd][ce][dc][df][eb][ef][fa][fb][ff][gf][hd][jc][kb][lc]((;B[ga];W[ca];B[gb];W[db];B[ja]C[Correct])(;B[gb];W[ca];B[ga];W[ja];B[db]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][cb][da][db][dd][de][ea][ec][ee][fc][fe][gc][hb][jb]AW[bb][bc][cc][cd][ce][dc][df][eb][ef][fa][fb][ff][gf][hd][jc][kb][lc](;B[ga];W[ca];B[gb];W[db];B[ja]C[Correct])(;B[gb];W[ca];B[ga];W[ja];B[db]C[Correct]))"
     },
     {
         "id": 5154,
@@ -36108,7 +36108,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bd][be][bf][cd][cf][db][df][ea][ee][ef][fd][ga][gb][gc][gd]AW[cb][cc][ce][dc][dd][de][ec][ed][fa][fb][fc]((;B[ab];W[da];B[ca];W[eb];B[da];W[ba];B[da]C[Correct])(;B[bc];W[bb];B[ab];W[ca](;B[da]C[Correct])(;B[eb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bd][be][bf][cd][cf][db][df][ea][ee][ef][fd][ga][gb][gc][gd]AW[cb][cc][ce][dc][dd][de][ec][ed][fa][fb][fc](;B[ab];W[da];B[ca];W[eb];B[da];W[ba];B[da]C[Correct])(;B[bc];W[bb];B[ab];W[ca](;B[da]C[Correct])(;B[eb]C[Correct])))"
     },
     {
         "id": 5157,
@@ -36136,14 +36136,14 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][bb][bc][cc][db]AW[aa][be][ce][dc][dd][eb][fc]((;B[ca];W[ea];B[da];W[ba];B[ab]C[Correct])(;B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][bb][bc][cc][db]AW[aa][be][ce][dc][dd][eb][fc](;B[ca];W[ea];B[da];W[ba];B[ab]C[Correct])(;B[da]C[Correct]))"
     },
     {
         "id": 5161,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bc][be][bf][cb][cc][cf][ch][da][dc][dh][ed][ee][eh][fc][ff][ga][gb][gd]AW[ab][ac][ad][bb][bd][cd][ce][db][dd][de][df][dg][eb][ec][fb]((;B[ea];W[ca];B[cb]C[Correct])(;B[fa];W[ca];B[cb];W[cc];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bc][be][bf][cb][cc][cf][ch][da][dc][dh][ed][ee][eh][fc][ff][ga][gb][gd]AW[ab][ac][ad][bb][bd][cd][ce][db][dd][de][df][dg][eb][ec][fb](;B[ea];W[ca];B[cb]C[Correct])(;B[fa];W[ca];B[cb];W[cc];B[ca]C[Correct]))"
     },
     {
         "id": 5162,
@@ -36178,14 +36178,14 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][cb][dc][eb][ec][ed][gb][ha][hb][hc]AW[ab][bb][bd][cc][cd][da][dd][ee][fd][ff][gc][he][hf][jb][jc][jd]((;B[fc];W[ca];B[gd];W[hd];B[fe];W[ge];B[fd]C[Correct])(;B[gd];W[fc];B[fb];W[fe];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][cb][dc][eb][ec][ed][gb][ha][hb][hc]AW[ab][bb][bd][cc][cd][da][dd][ee][fd][ff][gc][he][hf][jb][jc][jd](;B[fc];W[ca];B[gd];W[hd];B[fe];W[ge];B[fd]C[Correct])(;B[gd];W[fc];B[fb];W[fe];B[ca]C[Correct]))"
     },
     {
         "id": 5167,
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ac][ag][aj][bb][bg][bh][cb][cc][cd][ce][cf]AW[ad][af][ba][bc][bd][bf][bj][bk][ca][cg][ch][cj][db][dd][df][eb][ed][ef]((;B[be];W[ah](;B[ae];W[bd];B[bg]C[Correct])(;B[bg];W[ag];B[ae];W[ak];B[bd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ac][ag][aj][bb][bg][bh][cb][cc][cd][ce][cf]AW[ad][af][ba][bc][bd][bf][bj][bk][ca][cg][ch][cj][db][dd][df][eb][ed][ef](;B[be];W[ah](;B[ae];W[bd];B[bg]C[Correct])(;B[bg];W[ag];B[ae];W[ak];B[bd]C[Correct])))"
     },
     {
         "id": 5168,
@@ -36227,7 +36227,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bd][bg][cc][cg][da][dc][df][ed][gc]AW[aa][ab][ac][ba][bc][bf][cb][cd][ce]((;B[ad];W[db];B[eb];W[be];B[ea]C[Correct])(;B[db];W[be](;B[ad];W[ae];B[ca]C[Correct])(;B[ca];W[af];B[ad]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bd][bg][cc][cg][da][dc][df][ed][gc]AW[aa][ab][ac][ba][bc][bf][cb][cd][ce](;B[ad];W[db];B[eb];W[be];B[ea]C[Correct])(;B[db];W[be](;B[ad];W[ae];B[ca]C[Correct])(;B[ca];W[af];B[ad]C[Correct])))"
     },
     {
         "id": 5174,
@@ -36248,7 +36248,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bc][be][cb][cc][cd][ce][ea][hb][hc][hd]AW[ab][ac][ad][ae][bb][bd][bf][ca][cf][df][eb][ec][ee][fc][fe]((;B[fa];W[da];B[db]C[Correct])(;B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bc][be][cb][cc][cd][ce][ea][hb][hc][hd]AW[ab][ac][ad][ae][bb][bd][bf][ca][cf][df][eb][ec][ee][fc][fe](;B[fa];W[da];B[db]C[Correct])(;B[ga]C[Correct]))"
     },
     {
         "id": 5177,
@@ -36269,7 +36269,7 @@ const problems = [
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ac][ad][bd][cc][cd][cf][db][de][eb]AW[ab][ba][bb][bc][cb][dc][dd][ea][fc][fe][gb]((;B[ca];W[da];B[fa];W[fb];B[ca];W[da];B[ea];W[ec];B[ca]C[Correct])(;B[fa];W[fb];B[ca];W[da];B[ca];W[da];B[ea];W[ga];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ac][ad][bd][cc][cd][cf][db][de][eb]AW[ab][ba][bb][bc][cb][dc][dd][ea][fc][fe][gb](;B[ca];W[da];B[fa];W[fb];B[ca];W[da];B[ea];W[ec];B[ca]C[Correct])(;B[fa];W[fb];B[ca];W[da];B[ca];W[da];B[ea];W[ga];B[ca]C[Correct]))"
     },
     {
         "id": 5180,
@@ -36458,7 +36458,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[be][ca][ce][da][dd][ed][fc][fd][ga][gb]AW[ba][cb][cd][dc][ea][ec][fb]((;B[bc];W[bb];B[ab];W[db](;B[da];W[ca];B[fa]C[Correct])(;B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[be][ca][ce][da][dd][ed][fc][fd][ga][gb]AW[ba][cb][cd][dc][ea][ec][fb](;B[bc];W[bb];B[ab];W[db](;B[da];W[ca];B[fa]C[Correct])(;B[fa]C[Correct])))"
     },
     {
         "id": 5207,
@@ -36493,7 +36493,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cc][dd][ec][ed][fb][gc]AW[ac][bd][cb][cd][ce][db][dc][de][eb]((;B[ba]C[Correct])(;B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][cc][dd][ec][ed][fb][gc]AW[ac][bd][cb][cd][ce][db][dc][de][eb](;B[ba]C[Correct])(;B[ca]C[Correct]))"
     },
     {
         "id": 5212,
@@ -36528,7 +36528,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ad][be][bf][cc][cd][cg][db][dc][ed][hb][hc][hd][he]AW[ab][bc][bd][ca][cb][ce][dd][de][ee][fd]((;B[eb];W[fb];B[fa];W[ga];B[fc];W[ea];B[gb];W[da];B[fa]C[Correct])(;B[fc];W[ec];B[eb];W[fb];B[gc];W[da];B[ed]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ad][be][bf][cc][cd][cg][db][dc][ed][hb][hc][hd][he]AW[ab][bc][bd][ca][cb][ce][dd][de][ee][fd](;B[eb];W[fb];B[fa];W[ga];B[fc];W[ea];B[gb];W[da];B[fa]C[Correct])(;B[fc];W[ec];B[eb];W[fb];B[gc];W[da];B[ed]C[Correct]))"
     },
     {
         "id": 5217,
@@ -36556,7 +36556,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][ae][bc][bd][cc][db]AW[af][be][bf][cd][ce][dc][dd][eb][fd]((;B[ab]C[Correct])(;B[ba];W[ab];B[da]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][ae][bc][bd][cc][db]AW[af][be][bf][cd][ce][dc][dd][eb][fd](;B[ab]C[Correct])(;B[ba];W[ab];B[da]C[Correct]))"
     },
     {
         "id": 5221,
@@ -36626,14 +36626,14 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ad][bc][cc][cf][dc][df][ec][fb][fe][ff][gb][gc][gd]AW[bb][be][cb][ce][db][dd][eb][ed][fc][fd]((;B[bf];W[ae](;B[de];W[bd];B[ee];W[ac];B[cd]C[Correct])(;B[ee];W[bd];B[de];W[ac];B[cd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ad][bc][cc][cf][dc][df][ec][fb][fe][ff][gb][gc][gd]AW[bb][be][cb][ce][db][dd][eb][ed][fc][fd](;B[bf];W[ae](;B[de];W[bd];B[ee];W[ac];B[cd]C[Correct])(;B[ee];W[bd];B[de];W[ac];B[cd]C[Correct])))"
     },
     {
         "id": 5231,
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ad][bc][bd][cc][db][dc][ea][ec]AW[aa][bb][be][ca][cd][cf][dd][eb][ed][fb][fc][gb]((;B[cb];W[ac];B[da]C[Correct])(;B[da];W[ac];B[cb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ad][bc][bd][cc][db][dc][ea][ec]AW[aa][bb][be][ca][cd][cf][dd][eb][ed][fb][fc][gb](;B[cb];W[ac];B[da]C[Correct])(;B[da];W[ac];B[cb]C[Correct]))"
     },
     {
         "id": 5232,
@@ -36668,14 +36668,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][be][ce][dc][de][ea][ec][ed][ee][ef][fb][fg][gb][gc][gg][hb]AW[ae][bf][cb][cc][cd][cf][db][df][dg][eb][eg][fc][fd][fe][ff]((;B[bd];W[bb](;B[gd]C[Correct])(;B[ge]C[Correct])(;B[gf]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][be][ce][dc][de][ea][ec][ed][ee][ef][fb][fg][gb][gc][gg][hb]AW[ae][bf][cb][cc][cd][cf][db][df][dg][eb][eg][fc][fd][fe][ff](;B[bd];W[bb](;B[gd]C[Correct])(;B[ge]C[Correct])(;B[gf]C[Correct])))"
     },
     {
         "id": 5237,
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ad][bc][ca][cb][db][dc][fb][fc][gb]AW[ae][ba][bb][be][cc][cd][ce][dd][de][ec][ee][fd][fe][hb][hc][hd]((;B[aa];W[bd];B[ea]C[Correct])(;B[ea];W[ga](;B[aa]C[Correct])(;B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ad][bc][ca][cb][db][dc][fb][fc][gb]AW[ae][ba][bb][be][cc][cd][ce][dd][de][ec][ee][fd][fe][hb][hc][hd](;B[aa];W[bd];B[ea]C[Correct])(;B[ea];W[ga](;B[aa]C[Correct])(;B[ac]C[Correct])))"
     },
     {
         "id": 5238,
@@ -36773,7 +36773,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bd][be][cb][cc][db]AW[ae][bf][cd][ce][cf][dc][eb][ec]((;B[ac];W[ba];B[bb];W[af](;B[aa];W[ad];B[ca];W[bc];B[bd]C[Correct])(;B[ca];W[ad];B[aa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bd][be][cb][cc][db]AW[ae][bf][cd][ce][cf][dc][eb][ec](;B[ac];W[ba];B[bb];W[af](;B[aa];W[ad];B[ca];W[bc];B[bd]C[Correct])(;B[ca];W[ad];B[aa]C[Correct])))"
     },
     {
         "id": 5252,
@@ -36864,7 +36864,7 @@ const problems = [
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ad][bc][bd][ca][ce][dd][de][ea][eb][ec]AW[ac][bb][cb][cc][cd][da][db][dc][ed][fd][gb][gc]((;B[ba];W[aa](;B[ab]C[Correct])(;B[ba];W[ca];B[ab]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ad][bc][bd][ca][ce][dd][de][ea][eb][ec]AW[ac][bb][cb][cc][cd][da][db][dc][ed][fd][gb][gc](;B[ba];W[aa](;B[ab]C[Correct])(;B[ba];W[ca];B[ab]C[Correct])))"
     },
     {
         "id": 5265,
@@ -37032,7 +37032,7 @@ const problems = [
         "title": "死活题：黑先劫杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[ba][bc][bd][cd][dd][ed][fc][gb][gc]AW[ab][bb][cc][dc][ec][fa][fb]((;B[cb];W[db];B[da]C[Correct])(;B[da];W[db](;B[cb]C[Correct])(;B[ga];W[eb];B[cb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[ba][bc][bd][cd][dd][ed][fc][gb][gc]AW[ab][bb][cc][dc][ec][fa][fb](;B[cb];W[db];B[da]C[Correct])(;B[da];W[db](;B[cb]C[Correct])(;B[ga];W[eb];B[cb]C[Correct])))"
     },
     {
         "id": 5289,
@@ -37088,7 +37088,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][ba][bd][bf][cc][ce][db][dc][df][ea][ec][fa][fb]AW[aa][bb][bc][cb][cd][dd][ed][fc][fd][ga][gb][hc]((;B[ab];W[ca];B[ac]C[Correct])(;B[ac];W[ca];B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][ba][bd][bf][cc][ce][db][dc][df][ea][ec][fa][fb]AW[aa][bb][bc][cb][cd][dd][ed][fc][fd][ga][gb][hc](;B[ab];W[ca];B[ac]C[Correct])(;B[ac];W[ca];B[ab]C[Correct]))"
     },
     {
         "id": 5297,
@@ -37144,7 +37144,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bb][bf][cc][cd][ce][cf][de]AW[bd][be][bg][ca][cb][cg][db][dc][dd][df][ee][ef]((;B[bc];W[af](;B[ad];W[ag];B[ae]C[Correct])(;B[ae];W[ad];B[ac]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bb][bf][cc][cd][ce][cf][de]AW[bd][be][bg][ca][cb][cg][db][dc][dd][df][ee][ef](;B[bc];W[af](;B[ad];W[ag];B[ae]C[Correct])(;B[ae];W[ad];B[ac]C[Correct])))"
     },
     {
         "id": 5305,
@@ -37207,7 +37207,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bb][bg][cb][cc][cg][da][db][dd][de][df]AW[aa][ad][bc][bd][be][ca][cd][dc][ea][eb][ec][ed]((;B[ba];W[ab];B[ac];W[ab](;B[bf];W[ac];B[ce]C[Correct])(;B[ce];W[ac];B[bf]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][bb][bg][cb][cc][cg][da][db][dd][de][df]AW[aa][ad][bc][bd][be][ca][cd][dc][ea][eb][ec][ed](;B[ba];W[ab];B[ac];W[ab](;B[bf];W[ac];B[ce]C[Correct])(;B[ce];W[ac];B[bf]C[Correct])))"
     },
     {
         "id": 5314,
@@ -37228,7 +37228,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][bc][bd][ce][cf][da][dc][df][ef][ff][ga][gc][gf][ha][hb][hc][hd][he]AW[ca][cb][cc][cd][de][eb][ee][fb][fc][fe][gb][gd][ge]((;B[db];W[dd];B[ed];W[fd](;B[ea]C[Correct])(;B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][bc][bd][ce][cf][da][dc][df][ef][ff][ga][gc][gf][ha][hb][hc][hd][he]AW[ca][cb][cc][cd][de][eb][ee][fb][fc][fe][gb][gd][ge](;B[db];W[dd];B[ed];W[fd](;B[ea]C[Correct])(;B[fa]C[Correct])))"
     },
     {
         "id": 5317,
@@ -37298,7 +37298,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][bb][bd][bj][cb][cf][ch][cj][dc][dg][ec][ed][ee][ef]AW[bc][be][bg][bh][cc][ce][cg][dd][de][df]((;B[ac];W[ah];B[af];W[bf];B[ae]C[Correct])(;B[ad];W[ah];B[af]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][bb][bd][bj][cb][cf][ch][cj][dc][dg][ec][ed][ee][ef]AW[bc][be][bg][bh][cc][ce][cg][dd][de][df](;B[ac];W[ah];B[af];W[bf];B[ae]C[Correct])(;B[ad];W[ah];B[af]C[Correct]))"
     },
     {
         "id": 5327,
@@ -37333,7 +37333,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ba][cb][cc][dc][dd][ed][fd][gb][gd][gf][ha][hf][jf][ka][kc][ke][lb][lc]AW[ca][da][db][eb][ec][fc][gc][hc][hd][he][ja][jb][kb]((;B[fa];W[hb];B[ga]C[Correct])(;B[hb];W[jc];B[fa];W[fb];B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ba][cb][cc][dc][dd][ed][fd][gb][gd][gf][ha][hf][jf][ka][kc][ke][lb][lc]AW[ca][da][db][eb][ec][fc][gc][hc][hd][he][ja][jb][kb](;B[fa];W[hb];B[ga]C[Correct])(;B[hb];W[jc];B[fa];W[fb];B[ga]C[Correct]))"
     },
     {
         "id": 5332,
@@ -37354,7 +37354,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][dc][eb][ec][fd][gd][hb][hc]AW[ab][bc][cb][cd][dd][ed][fb][fc][gb]((;B[ea];W[da](;B[ga]C[Correct])(;B[gc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][cc][dc][eb][ec][fd][gd][hb][hc]AW[ab][bc][cb][cd][dd][ed][fb][fc][gb](;B[ea];W[da](;B[ga]C[Correct])(;B[gc]C[Correct])))"
     },
     {
         "id": 5335,
@@ -37382,7 +37382,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][cc][cd][de][ee][fe][gd][ge][hc][ja][jb][jc]AW[ca][cb][da][dc][dd][ed][fc][fd][ga][gc][ha][hb]((;B[eb];W[db](;B[fa]C[Correct])(;B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][cc][cd][de][ee][fe][gd][ge][hc][ja][jb][jc]AW[ca][cb][da][dc][dd][ed][fc][fd][ga][gc][ha][hb](;B[eb];W[db](;B[fa]C[Correct])(;B[fb]C[Correct])))"
     },
     {
         "id": 5339,
@@ -37396,7 +37396,7 @@ const problems = [
         "title": "死活题：黑先劫杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[ac][bb][cc][dc][de][ed][gc][ge][hc][jb][kc]AW[ba][cb][db][ec][fa][fc][gb][hb]((;B[eb];W[ca](;B[aa]C[Correct])(;B[ea];W[ha];B[aa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[ac][bb][cc][dc][de][ed][gc][ge][hc][jb][kc]AW[ba][cb][db][ec][fa][fc][gb][hb](;B[eb];W[ca](;B[aa]C[Correct])(;B[ea];W[ha];B[aa]C[Correct])))"
     },
     {
         "id": 5341,
@@ -37487,7 +37487,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bb][bd][be][cb][cc][dc][dd][de][df][dg][ee]AW[ac][ad][ae][bf][cd][ce][cf][ch][db][dh][eb][ed][eh][fb][fd][ff][ge][gh]((;B[bc];W[af];B[cg];W[bg];B[bh]C[Correct])(;B[cg];W[bg];B[bc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bb][bd][be][cb][cc][dc][dd][de][df][dg][ee]AW[ac][ad][ae][bf][cd][ce][cf][ch][db][dh][eb][ed][eh][fb][fd][ff][ge][gh](;B[bc];W[af];B[cg];W[bg];B[bh]C[Correct])(;B[cg];W[bg];B[bc]C[Correct]))"
     },
     {
         "id": 5354,
@@ -37508,7 +37508,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ae][bc][bd][cb][cc][da][db][dc]AW[aa][af][bb][be][bf][ca][cd][dd][eb][ed][fc]((;B[ab];W[ac];B[ad];W[ec](;B[ab]C[Correct])(;B[ba]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ae][bc][bd][cb][cc][da][db][dc]AW[aa][af][bb][be][bf][ca][cd][dd][eb][ed][fc](;B[ab];W[ac];B[ad];W[ec](;B[ab]C[Correct])(;B[ba]C[Correct])))"
     },
     {
         "id": 5357,
@@ -37592,7 +37592,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][bb][bf][bg][bk][cb][cc][ch][cj][dg][dk][ec][ee]AW[ab][ae][ag][bc][bd][bh][cd][ce][cf][cg]((;B[aj];W[ah];B[bj]C[Correct])(;B[bj];W[ah];B[aj]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][bb][bf][bg][bk][cb][cc][ch][cj][dg][dk][ec][ee]AW[ab][ae][ag][bc][bd][bh][cd][ce][cf][cg](;B[aj];W[ah];B[bj]C[Correct])(;B[bj];W[ah];B[aj]C[Correct]))"
     },
     {
         "id": 5369,
@@ -37858,7 +37858,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][db][eb][fa][fc][fd][hb][hc]AW[ba][bb][cc][dc][de][ee][fe][gd][ha][hd][jb][jd][ka][kb][kc][kd]((;B[gb]C[Correct])(;B[gc];W[ga];B[gb];W[ja];B[ec]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][db][eb][fa][fc][fd][hb][hc]AW[ba][bb][cc][dc][de][ee][fe][gd][ha][hd][jb][jd][ka][kb][kc][kd](;B[gb]C[Correct])(;B[gc];W[ga];B[gb];W[ja];B[ec]C[Correct]))"
     },
     {
         "id": 5407,
@@ -37984,7 +37984,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][bb][be][cb][cd][cf][dd][ed][fb][fc][fd]AW[ad][ba][bc][bd][cc][da][dc][ec]((;B[db];W[eb];B[ca];W[ea](;B[ae]C[Correct])(;B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][bb][be][cb][cd][cf][dd][ed][fb][fc][fd]AW[ad][ba][bc][bd][cc][da][dc][ec](;B[db];W[eb];B[ca];W[ea](;B[ae]C[Correct])(;B[fa]C[Correct])))"
     },
     {
         "id": 5425,
@@ -38068,7 +38068,7 @@ const problems = [
         "title": "死活题：黑先劫杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[be][cd][ce][dc][eb][ec]AW[ac][bd][cb][cc][db]((;B[ba];W[bb];B[ae];W[aa](;B[ab];W[ca];B[ad];W[aa];B[bc]C[Correct])(;B[ad];W[ca];B[bc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[be][cd][ce][dc][eb][ec]AW[ac][bd][cb][cc][db](;B[ba];W[bb];B[ae];W[aa](;B[ab];W[ca];B[ad];W[aa];B[bc]C[Correct])(;B[ad];W[ca];B[bc]C[Correct])))"
     },
     {
         "id": 5437,
@@ -38110,7 +38110,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ad][ae][be][ce][de][eb][ed][fb][fc][fd]AW[ac][bc][bd][cd][db][dc][dd][ec]((;B[cb];W[ca];B[ba];W[da](;B[bb]C[Correct])(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ad][ae][be][ce][de][eb][ed][fb][fc][fd]AW[ac][bc][bd][cd][db][dc][dd][ec](;B[cb];W[ca];B[ba];W[da](;B[bb]C[Correct])(;B[ea]C[Correct])))"
     },
     {
         "id": 5443,
@@ -38131,7 +38131,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[be][bf][cc][ce][dd][ec][ed][fd]AW[bc][bd][bg][cd][cg][db][de][df]((;B[bb];W[cb](;B[ac];W[dc];B[ad];W[cc];B[eb]C[Correct])(;B[ad];W[dc];B[ac];W[cc];B[eb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[be][bf][cc][ce][dd][ec][ed][fd]AW[bc][bd][bg][cd][cg][db][de][df](;B[bb];W[cb](;B[ac];W[dc];B[ad];W[cc];B[eb]C[Correct])(;B[ad];W[dc];B[ac];W[cc];B[eb]C[Correct])))"
     },
     {
         "id": 5446,
@@ -38208,7 +38208,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ce][dc][dd][de][eb][ee][fe][gc][gf][gg][he]AW[cb][cc][cd][db][ec][ed][fc][gd][ge][hc][hf][jf][kd]((;B[gb];W[fb](;B[fd];W[ea];B[hd]C[Correct])(;B[hd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ce][dc][dd][de][eb][ee][fe][gc][gf][gg][he]AW[cb][cc][cd][db][ec][ed][fc][gd][ge][hc][hf][jf][kd](;B[gb];W[fb](;B[fd];W[ea];B[hd]C[Correct])(;B[hd]C[Correct])))"
     },
     {
         "id": 5457,
@@ -38243,14 +38243,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][cb][cc][dd][ed][fb][fc][ga]AW[ba][bd][be][cd][cf][db][dc][de][fa]((;B[da];W[ca](;B[eb]C[Correct])(;B[ec];W[ea];B[eb];W[ac];B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][cb][cc][dd][ed][fb][fc][ga]AW[ba][bd][be][cd][cf][db][dc][de][fa](;B[da];W[ca](;B[eb]C[Correct])(;B[ec];W[ea];B[eb];W[ac];B[da]C[Correct])))"
     },
     {
         "id": 5462,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][ba][bd][cd][dd][ed][fa][fb][fc]AW[ac][bc][cc][da][dc][ea][eb]((;B[ec];W[ca];B[cb];W[db](;B[ab]C[Correct])(;B[bb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][ba][bd][cd][dd][ed][fa][fb][fc]AW[ac][bc][cc][da][dc][ea][eb](;B[ec];W[ca];B[cb];W[db](;B[ab]C[Correct])(;B[bb]C[Correct])))"
     },
     {
         "id": 5463,
@@ -38299,14 +38299,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][dc][ea][eb][ec][fd][gd][hb][hc]AW[bb][bc][bd][cd][db][dd][ed][fa][fb][fc]((;B[ba];W[ab](;B[ga]C[Correct])(;B[gb]C[Correct])(;B[gc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][dc][ea][eb][ec][fd][gd][hb][hc]AW[bb][bc][bd][cd][db][dd][ed][fa][fb][fc](;B[ba];W[ab](;B[ga]C[Correct])(;B[gb]C[Correct])(;B[gc]C[Correct])))"
     },
     {
         "id": 5470,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bf][ce][cf][db][dc][dd]AW[ac][bb][be][cc][cd]((;B[bd];W[ae](;B[af];W[ad](;B[ba]C[Correct])(;B[cb];W[bc];B[ba]C[Correct]))(;B[ba]C[Correct])(;B[cb];W[bc](;B[af];W[ad];B[ba]C[Correct])(;B[ba]C[Correct])))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bf][ce][cf][db][dc][dd]AW[ac][bb][be][cc][cd](;B[bd];W[ae](;B[af];W[ad](;B[ba]C[Correct])(;B[cb];W[bc];B[ba]C[Correct]))(;B[ba]C[Correct])(;B[cb];W[bc](;B[af];W[ad];B[ba]C[Correct])(;B[ba]C[Correct]))))"
     },
     {
         "id": 5471,
@@ -38348,7 +38348,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][cc][cd][da][dd][ed][fc][fd][ga][gb][gd][ha][hc][hd]AW[ba][bb][bc][bd][ca][ce][de][ee][fa][fb][fe][ge][hb][he][ja][jb][jc][jd]((;B[eb];W[gc];B[gb];W[ga](;B[dc]C[Correct])(;B[ea];W[ha];B[dc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][cc][cd][da][dd][ed][fc][fd][ga][gb][gd][ha][hc][hd]AW[ba][bb][bc][bd][ca][ce][de][ee][fa][fb][fe][ge][hb][he][ja][jb][jc][jd](;B[eb];W[gc];B[gb];W[ga](;B[dc]C[Correct])(;B[ea];W[ha];B[dc]C[Correct])))"
     },
     {
         "id": 5477,
@@ -38404,7 +38404,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][cc][dc][eb][ec][fc][gb][gc][hb]AW[bb][bc][ca][cd][dd][ed][fa][fd][gd][hc][jb][jc]((;B[da];W[ba](;B[ea]C[Correct])(;B[fb]C[Correct])(;B[ga]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][cc][dc][eb][ec][fc][gb][gc][hb]AW[bb][bc][ca][cd][dd][ed][fa][fd][gd][hc][jb][jc](;B[da];W[ba](;B[ea]C[Correct])(;B[fb]C[Correct])(;B[ga]C[Correct])))"
     },
     {
         "id": 5485,
@@ -38418,7 +38418,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][db][dc][dd][ee][fa][fb][fc][fd][fe]AW[bb][be][ca][cc][cd][cg][da][de][df][ff][gb][gd][ge][gf][hc]((;B[bc]C[Correct])(;B[ec];W[ea];B[ba];W[aa];B[eb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][db][dc][dd][ee][fa][fb][fc][fd][fe]AW[bb][be][ca][cc][cd][cg][da][de][df][ff][gb][gd][ge][gf][hc](;B[bc]C[Correct])(;B[ec];W[ea];B[ba];W[aa];B[eb]C[Correct]))"
     },
     {
         "id": 5487,
@@ -38481,7 +38481,7 @@ const problems = [
         "title": "死活题：黑先劫杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[bd][bg][cc][cg][db][dc][df][ed][fb]AW[aa][ac][ba][bc][bf][cb][cd][ce]((;B[bb];W[da](;B[ca]C[Correct])(;B[ea];W[ab];B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[bd][bg][cc][cg][db][dc][df][ed][fb]AW[aa][ac][ba][bc][bf][cb][cd][ce](;B[bb];W[da](;B[ca]C[Correct])(;B[ea];W[ab];B[ca]C[Correct])))"
     },
     {
         "id": 5496,
@@ -38544,7 +38544,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ca][cb][cc][dd][ea][ec][gb][gc][hb]AW[bb][bc][cd][ce][db][dg][fd][ff][gd][ha][hc][jb][jc]((;B[ga];W[fb];B[fc];W[eb](;B[dc]C[Correct])(;B[ed]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ca][cb][cc][dd][ea][ec][gb][gc][hb]AW[bb][bc][cd][ce][db][dg][fd][ff][gd][ha][hc][jb][jc](;B[ga];W[fb];B[fc];W[eb](;B[dc]C[Correct])(;B[ed]C[Correct])))"
     },
     {
         "id": 5505,
@@ -38600,7 +38600,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ad][bb][bd][cd][dd][ec][fc][ga][gb][gc]AW[ac][ba][bc][cc][db][dc][eb][fb]((;B[fa];W[cb](;B[da];W[aa];B[ea]C[Correct])(;B[ea];W[aa];B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ad][bb][bd][cd][dd][ec][fc][ga][gb][gc]AW[ac][ba][bc][cc][db][dc][eb][fb](;B[fa];W[cb](;B[da];W[aa];B[ea]C[Correct])(;B[ea];W[aa];B[da]C[Correct])))"
     },
     {
         "id": 5513,
@@ -38712,7 +38712,7 @@ const problems = [
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[bb][bc][ca][cc][da][dd][ed][fb][fc]AW[ac][bd][cb][cd][cf][db][dc][de][ea][eb]((;B[aa];W[ba];B[ca];W[da](;B[ec]C[Correct])(;B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[bb][bc][ca][cc][da][dd][ed][fb][fc]AW[ac][bd][cb][cd][cf][db][dc][de][ea][eb](;B[aa];W[ba];B[ca];W[da](;B[ec]C[Correct])(;B[fa]C[Correct])))"
     },
     {
         "id": 5529,
@@ -38726,7 +38726,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][cc][cd][da][dd][ed][fb][fc][fd][gb]AW[bb][bc][bd][ca][ce][de][ea][ee][fe][gc][gd][ge][hb][jc]((;B[db];W[eb](;B[ec]C[Correct])(;B[ga]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][cc][cd][da][dd][ed][fb][fc][fd][gb]AW[bb][bc][bd][ca][ce][de][ea][ee][fe][gc][gd][ge][hb][jc](;B[db];W[eb](;B[ec]C[Correct])(;B[ga]C[Correct])))"
     },
     {
         "id": 5531,
@@ -38810,7 +38810,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ba][bd][bg][cd][cf][eb][ef][fb][fc][ff][gd][ge][gf][hc]AW[bb][ca][da][db][dc][dd][de][ec][ee][fd][fe]((;B[cc];W[ac](;B[bc];W[aa];B[cb]C[Correct])(;B[cb];W[aa];B[bc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ba][bd][bg][cd][cf][eb][ef][fb][fc][ff][gd][ge][gf][hc]AW[bb][ca][da][db][dc][dd][de][ec][ee][fd][fe](;B[cc];W[ac](;B[bc];W[aa];B[cb]C[Correct])(;B[cb];W[aa];B[bc]C[Correct])))"
     },
     {
         "id": 5543,
@@ -38831,7 +38831,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ac][bd][be][bf][de][df][eb][ec][ed]AW[bb][bc][cb][cd][dc][dd][ee][fb][fd][fe][gb][gd]((;B[db];W[fc];B[ce];W[cc](;B[ba]C[Correct])(;B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][ac][bd][be][bf][de][df][eb][ec][ed]AW[bb][bc][cb][cd][dc][dd][ee][fb][fd][fe][gb][gd](;B[db];W[fc];B[ce];W[cc](;B[ba]C[Correct])(;B[ca]C[Correct])))"
     },
     {
         "id": 5546,
@@ -38852,14 +38852,14 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[aa][ab][ac][bc][bd][bf][ce][de][ea][eb][ec][ee][fd][gd][hd][ja][jb][jc][jd]AW[ba][bb][cc][cd][da][db][dd][ed][fb][fc][gc][ha][hb][hc]((;B[cb];W[ca](;B[fa]C[Correct])(;B[ga]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[aa][ab][ac][bc][bd][bf][ce][de][ea][eb][ec][ee][fd][gd][hd][ja][jb][jc][jd]AW[ba][bb][cc][cd][da][db][dd][ed][fb][fc][gc][ha][hb][hc](;B[cb];W[ca](;B[fa]C[Correct])(;B[ga]C[Correct])))"
     },
     {
         "id": 5549,
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ca][cb][dc][eb][ec][fc][ga][gd][hb][hc][jc]AW[ba][bb][bd][cc][dd][ed][ef][fd][gb][gc][gf][hd][he][jb][kb][kc][kd]((;B[da];W[ge](;B[fa]C[Correct])(;B[fb];W[gd];B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ca][cb][dc][eb][ec][fc][ga][gd][hb][hc][jc]AW[ba][bb][bd][cc][dd][ed][ef][fd][gb][gc][gf][hd][he][jb][kb][kc][kd](;B[da];W[ge](;B[fa]C[Correct])(;B[fb];W[gd];B[fa]C[Correct])))"
     },
     {
         "id": 5550,
@@ -38922,7 +38922,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bb][be][cb][cd][ce][da][dc][dd]AW[ac][bc][bf][ca][cc][cf][ch][db][eb][ec][ed][ee]((;B[ba];W[ae](;B[ad]C[Correct])(;B[bd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bb][be][cb][cd][ce][da][dc][dd]AW[ac][bc][bf][ca][cc][cf][ch][db][eb][ec][ed][ee](;B[ba];W[ae](;B[ad]C[Correct])(;B[bd]C[Correct])))"
     },
     {
         "id": 5559,
@@ -38978,7 +38978,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ad][bb][bd][cd][cf][db][dc][eb]AW[ab][bc][ca][cb][cc][dd][ed][fb][fc]((;B[ba];W[aa](;B[ba]C[Correct])(;B[bb];W[ea];B[ba]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ac][ad][bb][bd][cd][cf][db][dc][eb]AW[ab][bc][ca][cb][cc][dd][ed][fb][fc](;B[ba];W[aa](;B[ba]C[Correct])(;B[bb];W[ea];B[ba]C[Correct])))"
     },
     {
         "id": 5567,
@@ -38992,7 +38992,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][ce][de][eb][ec][ed][fa]AW[db][dc][dd][ee][fb][fe][gb][gd][hc]((;B[da];W[ca];B[ea];W[cb](;B[ba]C[Correct])(;B[cc]C[Correct])(;B[cd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][ce][de][eb][ec][ed][fa]AW[db][dc][dd][ee][fb][fe][gb][gd][hc](;B[da];W[ca];B[ea];W[cb](;B[ba]C[Correct])(;B[cc]C[Correct])(;B[cd]C[Correct])))"
     },
     {
         "id": 5569,
@@ -39006,7 +39006,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][cc][ce][da][db][dd][ee][fe][ga][ge][ha][hb][hc][hd]AW[bb][cb][dc][eb][ec][ed][fa][fd][gb][gc][gd]((;B[fb];W[fc](;B[ab]C[Correct])(;B[ba]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][cc][ce][da][db][dd][ee][fe][ga][ge][ha][hb][hc][hd]AW[bb][cb][dc][eb][ec][ed][fa][fd][gb][gc][gd](;B[fb];W[fc](;B[ab]C[Correct])(;B[ba]C[Correct])))"
     },
     {
         "id": 5571,
@@ -39041,14 +39041,14 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ca][cb][cc][cd][cf][dc][df][fa][ff][gb][gc][ge][hd][he][jc][kc][lb][ld]AW[da][db][dd][eb][ec][ed][fb][fd][gd][hb][hc][jb][kb]((;B[ha];W[fc];B[ka];W[ga];B[gb];W[gc];B[ga]C[Correct])(;B[ka];W[fc];B[ha];W[ga];B[gb];W[gc];B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ca][cb][cc][cd][cf][dc][df][fa][ff][gb][gc][ge][hd][he][jc][kc][lb][ld]AW[da][db][dd][eb][ec][ed][fb][fd][gd][hb][hc][jb][kb](;B[ha];W[fc];B[ka];W[ga];B[gb];W[gc];B[ga]C[Correct])(;B[ka];W[fc];B[ha];W[ga];B[gb];W[gc];B[ga]C[Correct]))"
     },
     {
         "id": 5576,
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ca][cc][dc][ec][fb][fc][gc]AW[ba][bd][cd][db][dd][ed][fa][fd][gb][gd][hb][hc]((;B[cb];W[ea](;B[da];W[ga];B[eb]C[Correct])(;B[eb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ca][cc][dc][ec][fb][fc][gc]AW[ba][bd][cd][db][dd][ed][fa][fd][gb][gd][hb][hc](;B[cb];W[ea](;B[da];W[ga];B[eb]C[Correct])(;B[eb]C[Correct])))"
     },
     {
         "id": 5577,
@@ -39160,7 +39160,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cd][db][dd][ec][fa][fb][fc]AW[bc][bd][ce][de][ed][fd][ga][gb][gc][gd]((;B[cb];W[cc](;B[bb];W[ab](;B[ba]C[Correct])(;B[ea]C[Correct]))(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cd][db][dd][ec][fa][fb][fc]AW[bc][bd][ce][de][ed][fd][ga][gb][gc][gd](;B[cb];W[cc](;B[bb];W[ab](;B[ba]C[Correct])(;B[ea]C[Correct]))(;B[ea]C[Correct])))"
     },
     {
         "id": 5593,
@@ -39349,7 +39349,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bd][cd][da][dd][ec][fb][fc][gb][hc][jc]AW[bb][bf][cc][ce][cf][db][dc][eb][ed][ef][fd][gc][gd][gf]((;B[ea];W[cb](;B[ab];W[ba];B[ac];W[de];B[aa]C[Correct])(;B[ba]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bd][cd][da][dd][ec][fb][fc][gb][hc][jc]AW[bb][bf][cc][ce][cf][db][dc][eb][ed][ef][fd][gc][gd][gf](;B[ea];W[cb](;B[ab];W[ba];B[ac];W[de];B[aa]C[Correct])(;B[ba]C[Correct])))"
     },
     {
         "id": 5620,
@@ -39384,14 +39384,14 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][bf][bh][ce][cf][db][dc][dd][de]AW[ad][be][ca][cb][cc][cd]((;B[af];W[bb];B[aa];W[ac];B[bd];W[bc];B[ae]C[Correct])(;B[bb];W[bc];B[af];W[ae];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][bf][bh][ce][cf][db][dc][dd][de]AW[ad][be][ca][cb][cc][cd](;B[af];W[bb];B[aa];W[ac];B[bd];W[bc];B[ae]C[Correct])(;B[bb];W[bc];B[af];W[ae];B[ac]C[Correct]))"
     },
     {
         "id": 5625,
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bc][cb][cc][dc][ec][fb][gb]AW[ac][bb][bd][cd][dd][ed][fc][fd][gc][hb][jc]((;B[ab];W[aa];B[ca];W[ad];B[ea];W[db];B[ga]C[Correct])(;B[ca];W[ab];B[ea];W[ga];B[db]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bc][cb][cc][dc][ec][fb][gb]AW[ac][bb][bd][cd][dd][ed][fc][fd][gc][hb][jc](;B[ab];W[aa];B[ca];W[ad];B[ea];W[db];B[ga]C[Correct])(;B[ca];W[ab];B[ea];W[ga];B[db]C[Correct]))"
     },
     {
         "id": 5626,
@@ -39419,7 +39419,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bd][cb][cd][dd][ed][fc][ga][gb][gc]AW[ac][ba][ca][cc][dc][eb][ec][fb]((;B[bc];W[bb](;B[ea];W[db];B[fa];W[ab];B[da]C[Correct])(;B[fa];W[db];B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bd][cb][cd][dd][ed][fc][ga][gb][gc]AW[ac][ba][ca][cc][dc][eb][ec][fb](;B[bc];W[bb](;B[ea];W[db];B[fa];W[ab];B[da]C[Correct])(;B[fa];W[db];B[ea]C[Correct])))"
     },
     {
         "id": 5630,
@@ -39447,7 +39447,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][be][cb][cc][cf][dc][ec][fa][fb][fd][fe]AW[ba][bb][bc][ca][cd][dd][ed][fc][gb][gc][hb]((;B[eb];W[da](;B[ce]C[Correct])(;B[de]C[Correct])(;B[ee]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][be][cb][cc][cf][dc][ec][fa][fb][fd][fe]AW[ba][bb][bc][ca][cd][dd][ed][fc][gb][gc][hb](;B[eb];W[da](;B[ce]C[Correct])(;B[de]C[Correct])(;B[ee]C[Correct])))"
     },
     {
         "id": 5634,
@@ -39461,7 +39461,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][bd][cd][dd][ec][fc][ga][gb][gc]AW[ab][ba][bb][cc][dc][eb][fb]((;B[da];W[db](;B[ea];W[cb];B[fa]C[Correct])(;B[fa];W[cb];B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][bd][cd][dd][ec][fc][ga][gb][gc]AW[ab][ba][bb][cc][dc][eb][fb](;B[da];W[db](;B[ea];W[cb];B[fa]C[Correct])(;B[fa];W[cb];B[ea]C[Correct])))"
     },
     {
         "id": 5636,
@@ -39496,14 +39496,14 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ak][bb][bd][bg][bh][bm][cd][ch][cm][dd][de][df][dk][dl][eg][eh][ej][em]AW[ad][ae][aj][be][bj][ce][cf][cj][ck][cl][dg][dh][dj]((;B[cg];W[ag](;B[ac];W[ah];B[bf];W[af];B[bg]C[Correct])(;B[bf]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ak][bb][bd][bg][bh][bm][cd][ch][cm][dd][de][df][dk][dl][eg][eh][ej][em]AW[ad][ae][aj][be][bj][ce][cf][cj][ck][cl][dg][dh][dj](;B[cg];W[ag](;B[ac];W[ah];B[bf];W[af];B[bg]C[Correct])(;B[bf]C[Correct])))"
     },
     {
         "id": 5641,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][be][dc][dd][de][eb][fb]AW[cb][cc][db][ec][ed][ff][gc][gd][gf][hb]((;B[bc];W[cd];B[ce];W[gb](;B[bd]C[Correct])(;B[ca]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][be][dc][dd][de][eb][fb]AW[cb][cc][db][ec][ed][ff][gc][gd][gf][hb](;B[bc];W[cd];B[ce];W[gb](;B[bd]C[Correct])(;B[ca]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 5642,
@@ -39594,7 +39594,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ca][cb][cc][cd][de][ee]AW[be][ce][cg][db][dc][dd][hb][hc][hd]((;B[eb];W[ec];B[fc];W[fb](;B[da];W[ea];B[ed]C[Correct])(;B[ed];W[ea];B[da];W[eb];B[gb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ca][cb][cc][cd][de][ee]AW[be][ce][cg][db][dc][dd][hb][hc][hd](;B[eb];W[ec];B[fc];W[fb](;B[da];W[ea];B[ed]C[Correct])(;B[ed];W[ea];B[da];W[eb];B[gb]C[Correct])))"
     },
     {
         "id": 5655,
@@ -39643,14 +39643,14 @@ const problems = [
         "title": "死活题：黑先劫杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[bd][cd][dd][ec][fa][fb][fc]AW[cb][cc][da][dc][ea][eb]((;B[ab];W[bb];B[ba];W[ac];B[bc]C[Correct])(;B[ba];W[bb];B[ab];W[ac];B[bc]C[Correct])(;B[bb];W[bc];B[ac];W[ab];B[aa];W[ba];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[bd][cd][dd][ec][fa][fb][fc]AW[cb][cc][da][dc][ea][eb](;B[ab];W[bb];B[ba];W[ac];B[bc]C[Correct])(;B[ba];W[bb];B[ab];W[ac];B[bc]C[Correct])(;B[bb];W[bc];B[ac];W[ab];B[aa];W[ba];B[ca]C[Correct]))"
     },
     {
         "id": 5662,
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][be][bf][cb][cc][cd][cg]AW[ab][bc][bd][bh][ce][cj][db][dc][dd][de][eg][ej]((;B[ac];W[ca];B[ad];W[ba];B[af]C[Correct])(;B[ad];W[ca];B[ac];W[ba](;B[af]C[Correct])(;B[bg]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][be][bf][cb][cc][cd][cg]AW[ab][bc][bd][bh][ce][cj][db][dc][dd][de][eg][ej](;B[ac];W[ca];B[ad];W[ba];B[af]C[Correct])(;B[ad];W[ca];B[ac];W[ba](;B[af]C[Correct])(;B[bg]C[Correct])))"
     },
     {
         "id": 5663,
@@ -39692,14 +39692,14 @@ const problems = [
         "title": "死活题：黑先劫杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[bb][bd][ca][cd][cf][db][de][ee][fb][fd][fe][gb][gc]AW[ab][bc][cc][da][dd][ea][eb][ec][ed][fc]((;B[cb];W[ba];B[aa]C[Correct])(;B[fa];W[dc];B[aa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[bb][bd][ca][cd][cf][db][de][ee][fb][fd][fe][gb][gc]AW[ab][bc][cc][da][dd][ea][eb][ec][ed][fc](;B[cb];W[ba];B[aa]C[Correct])(;B[fa];W[dc];B[aa]C[Correct]))"
     },
     {
         "id": 5669,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bd][be][cc][dd][de][eb][ec][fa][fd]AW[aa][ac][bb][bc][cd][db][dc][ea]((;B[ca]C[Correct])(;B[da];W[cb];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bd][be][cc][dd][de][eb][ec][fa][fd]AW[aa][ac][bb][bc][cd][db][dc][ea](;B[ca]C[Correct])(;B[da];W[cb];B[ca]C[Correct]))"
     },
     {
         "id": 5670,
@@ -39720,7 +39720,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ca][cb][dc][eb][ec][fc][gc][hb][hc][ja][jb]AW[bb][bd][be][cc][db][dd][ea][ed][fb][ga][ge][hd][jc][je][ka][kb][kc]((;B[gb];W[ba](;B[fa];W[da];B[ha]C[Correct])(;B[ha];W[da];B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ca][cb][dc][eb][ec][fc][gc][hb][hc][ja][jb]AW[bb][bd][be][cc][db][dd][ea][ed][fb][ga][ge][hd][jc][je][ka][kb][kc](;B[gb];W[ba](;B[fa];W[da];B[ha]C[Correct])(;B[ha];W[da];B[fa]C[Correct])))"
     },
     {
         "id": 5673,
@@ -39734,7 +39734,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bc][be][cd][cf][dd][ec][fb][fd]AW[ab][ad][bb][cc][db][dc]((;B[ca];W[da](;B[ae]C[Correct])(;B[bd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bc][be][cd][cf][dd][ec][fb][fd]AW[ab][ad][bb][cc][db][dc](;B[ca];W[da](;B[ae]C[Correct])(;B[bd]C[Correct])))"
     },
     {
         "id": 5675,
@@ -39811,7 +39811,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][ae][bb][bc][bd][cc][dc][ec][fb][fc]AW[af][be][bf][cb][cd][da][db][de][eb][ee][fa][fd][gb][gc][gd]((;B[ba];W[ga](;B[ab]C[Correct])(;B[ca];W[ea];B[ab]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][ae][bb][bc][bd][cc][dc][ec][fb][fc]AW[af][be][bf][cb][cd][da][db][de][eb][ee][fa][fd][gb][gc][gd](;B[ba];W[ga](;B[ab]C[Correct])(;B[ca];W[ea];B[ab]C[Correct])))"
     },
     {
         "id": 5686,
@@ -39825,7 +39825,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][ba][bd][ca][cd][dd][ed][fa][fd][ga][gb][gc]AW[ac][bb][bc][cb][da][ea][ec][fb][fc]((;B[db];W[aa];B[ca];W[ba](;B[cc]C[Correct])(;B[dc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][ba][bd][ca][cd][dd][ed][fa][fd][ga][gb][gc]AW[ac][bb][bc][cb][da][ea][ec][fb][fc](;B[db];W[aa];B[ca];W[ba](;B[cc]C[Correct])(;B[dc]C[Correct])))"
     },
     {
         "id": 5688,
@@ -39839,7 +39839,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cc][cd][ce][de][ed][ee][fc][fd][ga][gb][gc]AW[bc][bd][be][cb][cf][dc][dd][df][ec][ef][fb][ff][ge][ha][hb][hc][hd]((;B[db];W[eb](;B[ea];W[da];B[fa]C[Correct])(;B[fa];W[da];B[ea];W[db];B[bb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cc][cd][ce][de][ed][ee][fc][fd][ga][gb][gc]AW[bc][bd][be][cb][cf][dc][dd][df][ec][ef][fb][ff][ge][ha][hb][hc][hd](;B[db];W[eb](;B[ea];W[da];B[fa]C[Correct])(;B[fa];W[da];B[ea];W[db];B[bb]C[Correct])))"
     },
     {
         "id": 5690,
@@ -39867,7 +39867,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bf][bg][bh][cc][cd][cg][dd][de][df][ed][ef][fd][fe]AW[aj][bb][bd][be][bj][cb][ch][cj][dc][dg][ec][eg][ej][fc][ff][gd][ge][gg]((;B[bc];W[ac](;B[ad];W[ae](;B[af]C[Correct])(;B[ce];W[ab];B[af];W[ad];B[ah]C[Correct]))(;B[af];W[ad];B[ah]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bf][bg][bh][cc][cd][cg][dd][de][df][ed][ef][fd][fe]AW[aj][bb][bd][be][bj][cb][ch][cj][dc][dg][ec][eg][ej][fc][ff][gd][ge][gg](;B[bc];W[ac](;B[ad];W[ae](;B[af]C[Correct])(;B[ce];W[ab];B[af];W[ad];B[ah]C[Correct]))(;B[af];W[ad];B[ah]C[Correct])))"
     },
     {
         "id": 5694,
@@ -39895,7 +39895,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bb][bd][bf][cc][cd][cg][ch][dd][df]AW[ba][bg][bh][cb][ce][cj][da][dc][dg][dj][eb][ed][ee][eg]((;B[de];W[cf];B[be];W[cf](;B[ac]C[Correct])(;B[af]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][bb][bd][bf][cc][cd][cg][ch][dd][df]AW[ba][bg][bh][cb][ce][cj][da][dc][dg][dj][eb][ed][ee][eg](;B[de];W[cf];B[be];W[cf](;B[ac]C[Correct])(;B[af]C[Correct])))"
     },
     {
         "id": 5698,
@@ -39944,7 +39944,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][bd][cd][de][ee][fb][fe][ga][gd][hd][jc][jd][lc]AW[cb][cc][dd][eb][ec][ed][fd][gc][hb][hc]((;B[ha];W[jb];B[kb];W[ja];B[fc]C[Correct])(;B[jb];W[ha];B[fc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][bd][cd][de][ee][fb][fe][ga][gd][hd][jc][jd][lc]AW[cb][cc][dd][eb][ec][ed][fd][gc][hb][hc](;B[ha];W[jb];B[kb];W[ja];B[fc]C[Correct])(;B[jb];W[ha];B[fc]C[Correct]))"
     },
     {
         "id": 5705,
@@ -40133,7 +40133,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ad][ae][be][ce][de][ed][fa][fb][fc][fd]AW[ac][ba][bc][bd][cd][dd][ea][eb][ec]((;B[dc];W[db](;B[bb];W[cc];B[cb]C[Correct])(;B[cb];W[cc];B[bb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ad][ae][be][ce][de][ed][fa][fb][fc][fd]AW[ac][ba][bc][bd][cd][dd][ea][eb][ec](;B[dc];W[db](;B[bb];W[cc];B[cb]C[Correct])(;B[cb];W[cc];B[bb]C[Correct])))"
     },
     {
         "id": 5732,
@@ -40294,7 +40294,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][be][cb][cc][cf][dc][de][ed][ee]AW[ab][bc][bd][cd][da][db][dd][ec][fc][hc]((;B[eb];W[fb](;B[ac]C[Correct])(;B[ad]C[Correct])(;B[ce]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ba][bb][be][cb][cc][cf][dc][de][ed][ee]AW[ab][bc][bd][cd][da][db][dd][ec][fc][hc](;B[eb];W[fb](;B[ac]C[Correct])(;B[ad]C[Correct])(;B[ce]C[Correct])))"
     },
     {
         "id": 5755,
@@ -40329,7 +40329,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][bd][be][cf][df][eb][ef][fc][ff][ga][gc][gd][jb][jc]AW[cc][cd][ce][dc][de][ea][ec][ed][fb][fd][gb]((;B[da];W[db];B[ca]C[Correct])(;B[ha];W[fa];B[da];W[db];B[ca]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bc][bd][be][cf][df][eb][ef][fc][ff][ga][gc][gd][jb][jc]AW[cc][cd][ce][dc][de][ea][ec][ed][fb][fd][gb](;B[da];W[db];B[ca]C[Correct])(;B[ha];W[fa];B[da];W[db];B[ca]C[Correct]))"
     },
     {
         "id": 5760,
@@ -40420,28 +40420,28 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][cc][cd][ce][dc][de][eb][ed][ee][fd]AW[ab][bc][bd][be][bg][cb][cf][df][ec][ef][fc][fe][gd][ge][hc]((;B[db];W[ba];B[gb];W[gc];B[fb];W[hb](;B[da]C[Correct])(;B[ga]C[Correct]))(;B[gb];W[gc];B[db];W[ba];B[fb];W[hb];B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bb][cc][cd][ce][dc][de][eb][ed][ee][fd]AW[ab][bc][bd][be][bg][cb][cf][df][ec][ef][fc][fe][gd][ge][hc](;B[db];W[ba];B[gb];W[gc];B[fb];W[hb](;B[da]C[Correct])(;B[ga]C[Correct]))(;B[gb];W[gc];B[db];W[ba];B[fb];W[hb];B[ga]C[Correct]))"
     },
     {
         "id": 5773,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ae][bc][bd][bf][ca][cb][ce][cf][db][ee][eg][fb][fc][ge][hc][he]AW[ab][ac][bb][cc][cd][da][dd][ea][eb][ec][ed][fd]((;B[ad];W[dc];B[ba];W[aa];B[cb]C[Correct])(;B[ba];W[dc];B[ad];W[aa];B[cb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ae][bc][bd][bf][ca][cb][ce][cf][db][ee][eg][fb][fc][ge][hc][he]AW[ab][ac][bb][cc][cd][da][dd][ea][eb][ec][ed][fd](;B[ad];W[dc];B[ba];W[aa];B[cb]C[Correct])(;B[ba];W[dc];B[ad];W[aa];B[cb]C[Correct]))"
     },
     {
         "id": 5774,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[db][ec][fc][ga][gb][gc][gd][he][jd][je][kb][kc]AW[dc][dd][ea][eb][ed][fd][fe][ge][ha][hb][hc][hd]((;B[da];W[cb](;B[ja]C[Correct])(;B[jb]C[Correct])(;B[jc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[db][ec][fc][ga][gb][gc][gd][he][jd][je][kb][kc]AW[dc][dd][ea][eb][ed][fd][fe][ge][ha][hb][hc][hd](;B[da];W[cb](;B[ja]C[Correct])(;B[jb]C[Correct])(;B[jc]C[Correct])))"
     },
     {
         "id": 5775,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][be][cd][ce][dc][ec][fb][fd][gb]AW[ba][bc][bd][cc][db][eb]((;B[ab];W[ac];B[ea]C[Correct])(;B[ea];W[da](;B[ab];W[ac];B[cb]C[Correct])(;B[cb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ad][be][cd][ce][dc][ec][fb][fd][gb]AW[ba][bc][bd][cc][db][eb](;B[ab];W[ac];B[ea]C[Correct])(;B[ea];W[da](;B[ab];W[ac];B[cb]C[Correct])(;B[cb]C[Correct])))"
     },
     {
         "id": 5776,
@@ -40455,7 +40455,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ac][ba][bb][cb][cc][dc][ec]AW[ad][bc][bd][ca][cd][cf][eb][ed][fc][fd][gb]((;B[db]C[Correct])(;B[ea]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ac][ba][bb][cb][cc][dc][ec]AW[ad][bc][bd][ca][cd][cf][eb][ed][fc][fd][gb](;B[db]C[Correct])(;B[ea]C[Correct]))"
     },
     {
         "id": 5778,
@@ -40483,7 +40483,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[aa][af][bb][bf][ca][cf][db][df][eb][ec][ee][fa][fe][gb][gc][gd][ge]AW[bc][bd][be][cb][cc][ce][dc][dd][de][ed][fb][fc][fd]((;B[ad];W[ae];B[ac];W[ab];B[ac]C[Correct])(;B[ae];W[ac];B[ad]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[aa][af][bb][bf][ca][cf][db][df][eb][ec][ee][fa][fe][gb][gc][gd][ge]AW[bc][bd][be][cb][cc][ce][dc][dd][de][ed][fb][fc][fd](;B[ad];W[ae];B[ac];W[ab];B[ac]C[Correct])(;B[ae];W[ac];B[ad]C[Correct]))"
     },
     {
         "id": 5782,
@@ -40525,14 +40525,14 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][bc][cd][ce][dc][df][ef][ff][gc][gd][ge][gf][ha][hb]AW[ca][cb][cc][dd][de][ec][ee][fc][fd][fe][ga][gb]((;B[eb];W[fb](;B[da]C[Correct])(;B[db]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][bc][cd][ce][dc][df][ef][ff][gc][gd][ge][gf][ha][hb]AW[ca][cb][cc][dd][de][ec][ee][fc][fd][fe][ga][gb](;B[eb];W[fb](;B[da]C[Correct])(;B[db]C[Correct])))"
     },
     {
         "id": 5788,
         "title": "对杀题：黑先劫",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ac][bc][be][cc][da][dc][dd][de][eb][fb]AW[ab][bb][ca][cb][db][ec][ed][gb][gc][gd]((;B[aa];W[ea];B[fa];W[ga];B[da]C[Correct])(;B[ba];W[ea];B[fa];W[ga];B[da]C[Correct])(;B[fa];W[ga](;B[aa]C[Correct])(;B[ba]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先劫]AB[ac][bc][be][cc][da][dc][dd][de][eb][fb]AW[ab][bb][ca][cb][db][ec][ed][gb][gc][gd](;B[aa];W[ea];B[fa];W[ga];B[da]C[Correct])(;B[ba];W[ea];B[fa];W[ga];B[da]C[Correct])(;B[fa];W[ga](;B[aa]C[Correct])(;B[ba]C[Correct])))"
     },
     {
         "id": 5789,
@@ -40560,14 +40560,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][bd][ce][db][de][ea][ee][fb][fc][fd]AW[ba][be][bf][cb][cc][cd][dd][eb][ec][ed][fe][ff]((;B[da];W[ca](;B[ab];W[ad];B[fa]C[Correct])(;B[fa];W[ad];B[dc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bb][bc][bd][ce][db][de][ea][ee][fb][fc][fd]AW[ba][be][bf][cb][cc][cd][dd][eb][ec][ed][fe][ff](;B[da];W[ca](;B[ab];W[ad];B[fa]C[Correct])(;B[fa];W[ad];B[dc]C[Correct])))"
     },
     {
         "id": 5793,
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[be][cc][cd][ce][db][de][eb][fb]AW[bb][bd][cb][dc][dd][fc][fd][gb][hc]((;B[bc];W[ab](;B[ac];W[fa];B[ca];W[ec];B[ba]C[Correct])(;B[ba]C[Correct])(;B[ca];W[da];B[ba]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[be][cc][cd][ce][db][de][eb][fb]AW[bb][bd][cb][dc][dd][fc][fd][gb][hc](;B[bc];W[ab](;B[ac];W[fa];B[ca];W[ec];B[ba]C[Correct])(;B[ba]C[Correct])(;B[ca];W[da];B[ba]C[Correct])))"
     },
     {
         "id": 5794,
@@ -40581,7 +40581,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[da][dc][dd][de][eb][ee][fb][fe][gb][ge][ha][hc][hd][he][jb]AW[bb][cb][cc][ce][cf][db][df][ec][ef][fa][fc][fd][gf][hf][ja][jc][jd][je][jf][ka][kb]((;B[ea];W[hb];B[ga]C[Correct])(;B[ga]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[da][dc][dd][de][eb][ee][fb][fe][gb][ge][ha][hc][hd][he][jb]AW[bb][cb][cc][ce][cf][db][df][ec][ef][fa][fc][fd][gf][hf][ja][jc][jd][je][jf][ka][kb](;B[ea];W[hb];B[ga]C[Correct])(;B[ga]C[Correct]))"
     },
     {
         "id": 5796,
@@ -40672,7 +40672,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ac][ad][be][bf][ca][cf][db][df][eb][eg][fc][fg][gb][gd][ge][gf]AW[bc][bd][cb][ce][dc][de][ec][ef][fd][fe][ff]((;B[ed];W[ee](;B[bb];W[cc];B[dd]C[Correct])(;B[cc];W[cd];B[bb]C[Correct])(;B[dd];W[cd];B[bb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ac][ad][be][bf][ca][cf][db][df][eb][eg][fc][fg][gb][gd][ge][gf]AW[bc][bd][cb][ce][dc][de][ec][ef][fd][fe][ff](;B[ed];W[ee](;B[bb];W[cc];B[dd]C[Correct])(;B[cc];W[cd];B[bb]C[Correct])(;B[dd];W[cd];B[bb]C[Correct])))"
     },
     {
         "id": 5809,
@@ -40700,7 +40700,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][be][ca][cd][cf][dd][ed][fa][fb][fc][fd]AW[aa][bb][bc][cb][ea][eb][ec]((;B[ac]C[Correct])(;B[dc];W[db];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][be][ca][cd][cf][dd][ed][fa][fb][fc][fd]AW[aa][bb][bc][cb][ea][eb][ec](;B[ac]C[Correct])(;B[dc];W[db];B[ac]C[Correct]))"
     },
     {
         "id": 5813,
@@ -40728,7 +40728,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][bc][cc][cd][db][dd][eb][ed][ge][hc][hd][ja][jb]AW[ba][bb][cb][dc][ec][fa][fc][gc][ha][hb]((;B[fb];W[gb];B[da];W[ga](;B[ea]C[Correct])(;B[fd]C[Correct])(;B[gd]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][bc][cc][cd][db][dd][eb][ed][ge][hc][hd][ja][jb]AW[ba][bb][cb][dc][ec][fa][fc][gc][ha][hb](;B[fb];W[gb];B[da];W[ga](;B[ea]C[Correct])(;B[fd]C[Correct])(;B[gd]C[Correct])))"
     },
     {
         "id": 5817,
@@ -40798,7 +40798,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][cb][cf][db][de][ec][ed][ee]AW[bc][ca][cc][cd][ce][da][dc][dd][df][eb][fc][gb]((;B[be];W[bf];B[cg];W[ae](;B[ac];W[bd];B[ad];W[be](;B[af]C[Correct])(;B[bg]C[Correct]))(;B[ad];W[bd];B[ac];W[be](;B[af]C[Correct])(;B[bg]C[Correct])))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][cb][cf][db][de][ec][ed][ee]AW[bc][ca][cc][cd][ce][da][dc][dd][df][eb][fc][gb](;B[be];W[bf];B[cg];W[ae](;B[ac];W[bd];B[ad];W[be](;B[af]C[Correct])(;B[bg]C[Correct]))(;B[ad];W[bd];B[ac];W[be](;B[af]C[Correct])(;B[bg]C[Correct]))))"
     },
     {
         "id": 5827,
@@ -40854,7 +40854,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][ba][bb][bd][cd][dc][dd][ea][eb]AW[ab][ac][ae][be][cb][ce][db][de][ed][ee][fa][fb][fc]((;B[ca];W[ec];B[da]C[Correct])(;B[da];W[bc];B[ca];W[cc];B[aa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ad][ba][bb][bd][cd][dc][dd][ea][eb]AW[ab][ac][ae][be][cb][ce][db][de][ed][ee][fa][fb][fc](;B[ca];W[ec];B[da]C[Correct])(;B[da];W[bc];B[ca];W[cc];B[aa]C[Correct]))"
     },
     {
         "id": 5835,
@@ -40868,7 +40868,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][ca][cc][ce][dd][de][eb][fc][fd][gb][ha]AW[bd][be][bf][cb][cd][cf][db][dc][ec][fa][fb][gc][hb][hc]((;B[da];W[ea];B[ba];W[ga];B[ed];W[ja];B[eb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bb][bc][ca][cc][ce][dd][de][eb][fc][fd][gb][ha]AW[bd][be][bf][cb][cd][cf][db][dc][ec][fa][fb][gc][hb][hc](;B[da];W[ea];B[ba];W[ga];B[ed];W[ja];B[eb]C[Correct]))"
     },
     {
         "id": 5837,
@@ -40945,7 +40945,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][ba][bd][ca][cd][dd][ec][fa][fb][fc]AW[ab][bc][cb][cc][db][dc][ea][eb][ed][fd][gd][hb]((;B[ac];W[gc](;B[bb];W[gb];B[da]C[Correct])(;B[da];W[gb];B[bb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ad][ba][bd][ca][cd][dd][ec][fa][fb][fc]AW[ab][bc][cb][cc][db][dc][ea][eb][ed][fd][gd][hb](;B[ac];W[gc](;B[bb];W[gb];B[da]C[Correct])(;B[da];W[gb];B[bb]C[Correct])))"
     },
     {
         "id": 5848,
@@ -41008,14 +41008,14 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cd][ce][dc][de][df][eb][ec][eg][fc][fg][gc][gg][hb]AW[bb][bc][bf][cc][cg][da][db][dd][dg][ed][ef][fe][hc][he][hf][jb][jc][jg]((;B[ge];W[gd];B[fd];W[gf](;B[ee]C[Correct])(;B[ff]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[cd][ce][dc][de][df][eb][ec][eg][fc][fg][gc][gg][hb]AW[bb][bc][bf][cc][cg][da][db][dd][dg][ed][ef][fe][hc][he][hf][jb][jc][jg](;B[ge];W[gd];B[fd];W[gf](;B[ee]C[Correct])(;B[ff]C[Correct])))"
     },
     {
         "id": 5857,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][bc][cc][dc][ea][ed][fd][gd][ha][hd][ja][jb][jc][jd]AW[bb][cb][db][eb][fc][ga][gc][hb][hc]((;B[fb];W[ec](;B[ba];W[da];B[fa];W[gb];B[fa]C[Correct])(;B[fa];W[da];B[ba];W[gb];B[fa]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][bc][cc][dc][ea][ed][fd][gd][ha][hd][ja][jb][jc][jd]AW[bb][cb][db][eb][fc][ga][gc][hb][hc](;B[fb];W[ec](;B[ba];W[da];B[fa];W[gb];B[fa]C[Correct])(;B[fa];W[da];B[ba];W[gb];B[fa]C[Correct])))"
     },
     {
         "id": 5858,
@@ -41099,7 +41099,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ac][bd][cb][cd][da][db][dd][ea][ed][fd][ga][gb][gc]AW[bb][bc][cc][dc][ec][fa][fb][fc]((;B[ab];W[ba](;B[ca]C[Correct])(;B[eb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ac][bd][cb][cd][da][db][dd][ea][ed][fd][ga][gb][gc]AW[bb][bc][cc][dc][ec][fa][fb][fc](;B[ab];W[ba](;B[ca]C[Correct])(;B[eb]C[Correct])))"
     },
     {
         "id": 5870,
@@ -41127,7 +41127,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ae][be][cb][ce][dc][de][ed][ee]AW[ad][bb][bd][cd][dd][eb][ec][fd][gc]((;B[bc];W[ac](;B[ab];W[aa];B[cc]C[Correct])(;B[cc];W[ab](;B[aa]C[Correct])(;B[ba]C[Correct])(;B[ca]C[Correct])))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ae][be][cb][ce][dc][de][ed][ee]AW[ad][bb][bd][cd][dd][eb][ec][fd][gc](;B[bc];W[ac](;B[ab];W[aa];B[cc]C[Correct])(;B[cc];W[ab](;B[aa]C[Correct])(;B[ba]C[Correct])(;B[ca]C[Correct]))))"
     },
     {
         "id": 5874,
@@ -41232,14 +41232,14 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bd][bf][cb][cd][dc][de][df][ec][ef][ff][gb][gc][gd][ge][gf]AW[ac][bc][cc][db][dd][eb][ee][fb][fc][fd][fe]((;B[ab];W[ed];B[dc]C[Correct])(;B[ad];W[ed];B[dc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bd][bf][cb][cd][dc][de][df][ec][ef][ff][gb][gc][gd][ge][gf]AW[ac][bc][cc][db][dd][eb][ee][fb][fc][fd][fe](;B[ab];W[ed];B[dc]C[Correct])(;B[ad];W[ed];B[dc]C[Correct]))"
     },
     {
         "id": 5889,
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ce][fe][ff][gb][gc][gd][gf][ha][jf][kc][kd][ke]AW[cc][fb][fc][fd][ge][hc][he][jb][jc][jd]((;B[kb];W[ja](;B[hf];W[hb];B[je]C[Correct])(;B[je];W[hb];B[hf]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ce][fe][ff][gb][gc][gd][gf][ha][jf][kc][kd][ke]AW[cc][fb][fc][fd][ge][hc][he][jb][jc][jd](;B[kb];W[ja](;B[hf];W[hb];B[je]C[Correct])(;B[je];W[hb];B[hf]C[Correct])))"
     },
     {
         "id": 5890,
@@ -41274,7 +41274,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bf][ce][dd][de][dh][dj][ec][ef][eg][ek]AW[bd][be][cb][cd][cf][cg][dg][eh][fe][fg][fh][gc][gd][gh]((;B[bg];W[ch];B[bh];W[cj];B[ck];W[bj];B[bk];W[af](;B[aj]C[Correct])(;B[df]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[bf][ce][dd][de][dh][dj][ec][ef][eg][ek]AW[bd][be][cb][cd][cf][cg][dg][eh][fe][fg][fh][gc][gd][gh](;B[bg];W[ch];B[bh];W[cj];B[ck];W[bj];B[bk];W[af](;B[aj]C[Correct])(;B[df]C[Correct])))"
     },
     {
         "id": 5895,
@@ -41330,7 +41330,7 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ac][ad][ae][bc][be][ce][db][dd][de][ec][fa][fb][fc][ga][gc]AW[ab][bb][bd][cb][cc][cd][dc][ed][fd][gb][gd][ha][hb][hc][hd]((;B[ea];W[ca](;B[aa]C[Correct])(;B[ba]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ac][ad][ae][bc][be][ce][db][dd][de][ec][fa][fb][fc][ga][gc]AW[ab][bb][bd][cb][cc][cd][dc][ed][fd][gb][gd][ha][hb][hc][hd](;B[ea];W[ca](;B[aa]C[Correct])(;B[ba]C[Correct])))"
     },
     {
         "id": 5903,
@@ -41344,7 +41344,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ad][ba][bd][cd][db][dc][dd][ec]AW[ae][bc][be][ca][cb][ce][de][eb][ed][fb][fc][fd]((;B[bb];W[da](;B[ac];W[ea];B[cc]C[Correct])(;B[ea];W[fa];B[ac];W[ea];B[cc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ad][ba][bd][cd][db][dc][dd][ec]AW[ae][bc][be][ca][cb][ce][de][eb][ed][fb][fc][fd](;B[bb];W[da](;B[ac];W[ea];B[cc]C[Correct])(;B[ea];W[fa];B[ac];W[ea];B[cc]C[Correct])))"
     },
     {
         "id": 5905,
@@ -41372,7 +41372,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ad][bd][cd][da][db][dd][ed][ee][fe][gc][gd][ge][hb][jc]AW[ac][bb][bc][cb][dc][ec][fb][fc][fd][gb]((;B[cc];W[ea](;B[ca];W[aa];B[ga]C[Correct])(;B[ga];W[aa];B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ad][bd][cd][da][db][dd][ed][ee][fe][gc][gd][ge][hb][jc]AW[ac][bb][bc][cb][dc][ec][fb][fc][fd][gb](;B[cc];W[ea](;B[ca];W[aa];B[ga]C[Correct])(;B[ga];W[aa];B[ca]C[Correct])))"
     },
     {
         "id": 5909,
@@ -41519,7 +41519,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bd][bg][cc][cg][da][dc][df][ed][gc]AW[aa][ac][ba][bc][bf][ca][cb][cd][ce]((;B[ad];W[ab];B[db]C[Correct])(;B[db];W[ab];B[ad]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bd][bg][cc][cg][da][dc][df][ed][gc]AW[aa][ac][ba][bc][bf][ca][cb][cd][ce](;B[ad];W[ab];B[db]C[Correct])(;B[db];W[ab];B[ad]C[Correct]))"
     },
     {
         "id": 5930,
@@ -41624,14 +41624,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][cb][cc][dd][ec][ed][fb]AW[ba][bd][be][cd][cf][da][db][dc][de]((;B[bb];W[ac](;B[ea];W[bc];B[eb]C[Correct])(;B[eb];W[bc];B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][cb][cc][dd][ec][ed][fb]AW[ba][bd][be][cd][cf][da][db][dc][de](;B[bb];W[ac](;B[ea];W[bc];B[eb]C[Correct])(;B[eb];W[bc];B[ea]C[Correct])))"
     },
     {
         "id": 5945,
         "title": "死活题：黑先劫杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[ad][bd][cc][cd][db][dc][dd][ee][fa][fe][ga][ge][ha][hb][hc][hd][he]AW[bb][bc][cb][da][ea][eb][ec][ed][fb][fd][gb][gc][gd]((;B[ab];W[ac];B[ba]C[Correct])(;B[ba];W[ac];B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[ad][bd][cc][cd][db][dc][dd][ee][fa][fe][ga][ge][ha][hb][hc][hd][he]AW[bb][bc][cb][da][ea][eb][ec][ed][fb][fd][gb][gc][gd](;B[ab];W[ac];B[ba]C[Correct])(;B[ba];W[ac];B[ab]C[Correct]))"
     },
     {
         "id": 5946,
@@ -41673,7 +41673,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[aa][ae][ba][bb][bd][be][ce][de][ed][ee][fc][gc][hb]AW[ab][ac][ad][bc][cc][cd][dd][ea][ec][fb]((;B[cb];W[dc];B[da];W[eb](;B[fa];W[ga];B[gb]C[Correct])(;B[gb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[aa][ae][ba][bb][bd][be][ce][de][ed][ee][fc][gc][hb]AW[ab][ac][ad][bc][cc][cd][dd][ea][ec][fb](;B[cb];W[dc];B[da];W[eb](;B[fa];W[ga];B[gb]C[Correct])(;B[gb]C[Correct])))"
     },
     {
         "id": 5952,
@@ -41701,7 +41701,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][bb][be][ce][de][ed][fb][fc][fd]AW[aa][ba][ca][cb][cd][ea][eb][ec]((;B[ad];W[bd](;B[ac];W[dd];B[ae];W[db];B[cc]C[Correct])(;B[ae];W[dd];B[ac];W[db];B[cc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][bb][be][ce][de][ed][fb][fc][fd]AW[aa][ba][ca][cb][cd][ea][eb][ec](;B[ad];W[bd](;B[ac];W[dd];B[ae];W[db];B[cc]C[Correct])(;B[ae];W[dd];B[ac];W[db];B[cc]C[Correct])))"
     },
     {
         "id": 5956,
@@ -41736,7 +41736,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cc][da][db][dc][ed][fd][gb][gc]AW[bc][bd][cb][cd][dd][eb][ec][fb]((;B[bb];W[ba](;B[fa]C[Correct])(;B[fc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cc][da][db][dc][ed][fd][gb][gc]AW[bc][bd][cb][cd][dd][eb][ec][fb](;B[bb];W[ba](;B[fa]C[Correct])(;B[fc]C[Correct])))"
     },
     {
         "id": 5961,
@@ -41799,7 +41799,7 @@ const problems = [
         "title": "手筋题：黑先最佳着手",
         "category": CATEGORIES.TESUJI,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][bd][cd][eb][gc][gd]AW[be][cb][cc][ce][dd][ec][ed][ef][fd]((;B[ca]C[Correct])(;B[da]C[Correct])(;B[db];W[dc];B[ca];W[fb];B[fc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[手筋题：黑先最佳着手]AB[ba][bb][bc][bd][cd][eb][gc][gd]AW[be][cb][cc][ce][dd][ec][ed][ef][fd](;B[ca]C[Correct])(;B[da]C[Correct])(;B[db];W[dc];B[ca];W[fb];B[fc]C[Correct]))"
     },
     {
         "id": 5970,
@@ -41911,7 +41911,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][cc][ec][fc][gc][hb][jb]AW[aa][bb][bc][be][cd][db][dd][ed][fd][gd][hd][jc][kb][lc]((;B[dc];W[ca];B[eb];W[da](;B[ea];W[ba];B[ga];W[ja];B[fb]C[Correct])(;B[ga];W[ja];B[ea];W[ba];B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][cc][ec][fc][gc][hb][jb]AW[aa][bb][bc][be][cd][db][dd][ed][fd][gd][hd][jc][kb][lc](;B[dc];W[ca];B[eb];W[da](;B[ea];W[ba];B[ga];W[ja];B[fb]C[Correct])(;B[ga];W[ja];B[ea];W[ba];B[fb]C[Correct])))"
     },
     {
         "id": 5986,
@@ -41995,7 +41995,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bb][bc][bd][be][cd][dd][eb][ec][ed]AW[ad][ae][bf][ca][cb][ce][cg][de][ea][ee][fb][fc][fd][fe]((;B[cc];W[fa];B[db]C[Correct])(;B[db];W[da];B[cc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bb][bc][bd][be][cd][dd][eb][ec][ed]AW[ad][ae][bf][ca][cb][ce][cg][de][ea][ee][fb][fc][fd][fe](;B[cc];W[fa];B[db]C[Correct])(;B[db];W[da];B[cc]C[Correct]))"
     },
     {
         "id": 5998,
@@ -42009,7 +42009,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[aa][ac][ba][bc][cb][db][ec][ed][fd][gd][hb][hc]AW[cc][cf][da][dc][dd][de][ea][eb][fb][fc]((;B[bb];W[bd](;B[fa]C[Correct])(;B[gb];W[ad];B[fa]C[Correct])(;B[gc];W[ad](;B[fa]C[Correct])(;B[gb]C[Correct])))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[aa][ac][ba][bc][cb][db][ec][ed][fd][gd][hb][hc]AW[cc][cf][da][dc][dd][de][ea][eb][fb][fc](;B[bb];W[bd](;B[fa]C[Correct])(;B[gb];W[ad];B[fa]C[Correct])(;B[gc];W[ad](;B[fa]C[Correct])(;B[gb]C[Correct]))))"
     },
     {
         "id": 6000,
@@ -42023,7 +42023,7 @@ const problems = [
         "title": "死活题：黑先劫杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[ab][bc][cc][ce][db][dd][ee][fe][ge][ha][hb][hc][hd]AW[ba][bb][cb][dc][ec][ed][fd][ga][gb][gc][gd]((;B[eb];W[fb](;B[da];W[ea];B[fa]C[Correct])(;B[ea];W[da];B[ca]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[ab][bc][cc][ce][db][dd][ee][fe][ge][ha][hb][hc][hd]AW[ba][bb][cb][dc][ec][ed][fd][ga][gb][gc][gd](;B[eb];W[fb](;B[da];W[ea];B[fa]C[Correct])(;B[ea];W[da];B[ca]C[Correct])))"
     },
     {
         "id": 6002,
@@ -42128,14 +42128,14 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][dd][ed][fb][fd][ga][gc]AW[ba][bd][cd][db][dc][fa]((;B[da];W[ca](;B[eb];W[ea];B[ec];W[da];B[bb]C[Correct])(;B[ec];W[ea];B[eb];W[da];B[bb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[cb][cc][dd][ed][fb][fd][ga][gc]AW[ba][bd][cd][db][dc][fa](;B[da];W[ca](;B[eb];W[ea];B[ec];W[da];B[bb]C[Correct])(;B[ec];W[ea];B[eb];W[da];B[bb]C[Correct])))"
     },
     {
         "id": 6017,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ad][af][bb][bd][bf][cf][df][eb][ef][fb][fc][fd][fe]AW[ae][be][ca][cd][ce][dc][de][ec][ed][ee]((;B[bc];W[ba];B[db];W[cb];B[cc]C[Correct])(;B[cb];W[db];B[ba]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ad][af][bb][bd][bf][cf][df][eb][ef][fb][fc][fd][fe]AW[ae][be][ca][cd][ce][dc][de][ec][ed][ee](;B[bc];W[ba];B[db];W[cb];B[cc]C[Correct])(;B[cb];W[db];B[ba]C[Correct]))"
     },
     {
         "id": 6018,
@@ -42184,7 +42184,7 @@ const problems = [
         "title": "死活题：黑先劫杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[bb][be][bg][ce][da][de][eb][ec][ed][ee][gb]AW[ab][bd][cb][cd][db][dc][dd]((;B[bc];W[ac];B[ca];W[ba];B[aa]C[Correct])(;B[ca];W[ba];B[aa]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫杀]AB[bb][be][bg][ce][da][de][eb][ec][ed][ee][gb]AW[ab][bd][cb][cd][db][dc][dd](;B[bc];W[ac];B[ca];W[ba];B[aa]C[Correct])(;B[ca];W[ba];B[aa]C[Correct]))"
     },
     {
         "id": 6025,
@@ -42247,7 +42247,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][cd][dc][ea][ec][fb][fd]AW[bc][bf][cc][cf][db][dd][de][eb]((;B[bb];W[cb];B[ac];W[ce](;B[ab]C[Correct])(;B[ad]C[Correct])(;B[ca]C[Correct])(;B[da]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bd][cd][dc][ea][ec][fb][fd]AW[bc][bf][cc][cf][db][dd][de][eb](;B[bb];W[cb];B[ac];W[ce](;B[ab]C[Correct])(;B[ad]C[Correct])(;B[ca]C[Correct])(;B[da]C[Correct])))"
     },
     {
         "id": 6034,
@@ -42268,14 +42268,14 @@ const problems = [
         "title": "基础题：黑先最佳着手",
         "category": CATEGORIES.BASIC,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ae][be][cb][ce][cg][da][dc][dd][ea][eb][ec]AW[ba][bb][bd][cc][cd][de][ed][ee][fa][fb][fc][gd]((;B[bc];W[ac];B[ad];W[bc](;B[aa]C[Correct])(;B[ab]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[基础题：黑先最佳着手]AB[ae][be][cb][ce][cg][da][dc][dd][ea][eb][ec]AW[ba][bb][bd][cc][cd][de][ed][ee][fa][fb][fc][gd](;B[bc];W[ac];B[ad];W[bc](;B[aa]C[Correct])(;B[ab]C[Correct])))"
     },
     {
         "id": 6037,
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][bd][bf][cd][db][de][df][ec][ef][ff][ga][gb][gc][gd][ge]AW[aa][ac][bb][ca][cc][dc][dd][ee][fa][fb][fc][fd][fe]((;B[cb]C[Correct])(;B[eb];W[cb];B[ed]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][bd][bf][cd][db][de][df][ec][ef][ff][ga][gb][gc][gd][ge]AW[aa][ac][bb][ca][cc][dc][dd][ee][fa][fb][fc][fd][fe](;B[cb]C[Correct])(;B[eb];W[cb];B[ed]C[Correct]))"
     },
     {
         "id": 6038,
@@ -42296,7 +42296,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][bc][bg][cc][cd][cf][ch][de][df]AW[ba][bd][be][bf][ca][cb][ce][dc][dd][fc]((;B[db];W[eb](;B[ad]C[Correct])(;B[af]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[ab][bb][bc][bg][cc][cd][cf][ch][de][df]AW[ba][bd][be][bf][ca][cb][ce][dc][dd][fc](;B[db];W[eb](;B[ad]C[Correct])(;B[af]C[Correct])))"
     },
     {
         "id": 6041,
@@ -42310,7 +42310,7 @@ const problems = [
         "title": "死活题：黑先劫活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫活]AB[bb][bd][cd][db][dc][dd]AW[ab][be][bf][cb][de][eb][ec][ed][ee]((;B[ac];W[ba](;B[aa]C[Correct])(;B[cc]C[Correct]))(;B[cc];W[ad];B[ac]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先劫活]AB[bb][bd][cd][db][dc][dd]AW[ab][be][bf][cb][de][eb][ec][ed][ee](;B[ac];W[ba](;B[aa]C[Correct])(;B[cc]C[Correct]))(;B[cc];W[ad];B[ac]C[Correct]))"
     },
     {
         "id": 6043,
@@ -42366,7 +42366,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ba][bd][bg][cd][cf][eb][ef][fb][fc][ff][gd][ge][gf][hc]AW[ac][bb][da][db][dc][dd][de][ec][ee][fd][fe]((;B[bc];W[aa];B[cb];W[ca];B[cc]C[Correct])(;B[cb];W[aa](;B[bc];W[ca];B[cc]C[Correct])(;B[cc];W[ca];B[bc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ab][ba][bd][bg][cd][cf][eb][ef][fb][fc][ff][gd][ge][gf][hc]AW[ac][bb][da][db][dc][dd][de][ec][ee][fd][fe](;B[bc];W[aa];B[cb];W[ca];B[cc]C[Correct])(;B[cb];W[aa](;B[bc];W[ca];B[cc]C[Correct])(;B[cc];W[ca];B[bc]C[Correct])))"
     },
     {
         "id": 6051,
@@ -42457,7 +42457,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bc][be][cb][cc][cd][ce][db][de][ec][ee][fc][fe][ge]AW[ab][ac][ad][ae][af][bb][bd][bf][cf][da][dc][df][eb][ef][fb][ff][gb][gf][hb][hc][hd][he]((;B[dd]C[Correct])(;B[gd];W[dd];B[ed]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bc][be][cb][cc][cd][ce][db][de][ec][ee][fc][fe][ge]AW[ab][ac][ad][ae][af][bb][bd][bf][cf][da][dc][df][eb][ef][fb][ff][gb][gf][hb][hc][hd][he](;B[dd]C[Correct])(;B[gd];W[dd];B[ed]C[Correct]))"
     },
     {
         "id": 6064,
@@ -42520,14 +42520,14 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bd][bg][cb][cd][cf][ea][ee][fb][fd][gb][gc][gd]AW[ac][bc][cc][da][db][dd][eb][ec][fc]((;B[ab]C[Correct])(;B[ed];W[ba];B[ab]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bb][bd][bg][cb][cd][cf][ea][ee][fb][fd][gb][gc][gd]AW[ac][bc][cc][da][db][dd][eb][ec][fc](;B[ab]C[Correct])(;B[ed];W[ba];B[ab]C[Correct]))"
     },
     {
         "id": 6073,
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bc][bd][be][bg][bh][bj][cd][cf][cg]AW[af][bb][bk][cb][cc][ce][ch][cj][ck][de][df][dg][ec]((;B[ac];W[ae];B[aj];W[ag];B[bf]C[Correct])(;B[aj];W[ag];B[ac];W[ae];B[bf]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[bc][bd][be][bg][bh][bj][cd][cf][cg]AW[af][bb][bk][cb][cc][ce][ch][cj][ck][de][df][dg][ec](;B[ac];W[ae];B[aj];W[ag];B[bf]C[Correct])(;B[aj];W[ag];B[ac];W[ae];B[bf]C[Correct]))"
     },
     {
         "id": 6074,
@@ -42590,14 +42590,14 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][cc][dc][ec][fa][fc][gb][hb]AW[bb][bc][cd][dd][eb][ed][fd][gc][hc][jb][jc]((;B[ha];W[ca](;B[db]C[Correct])(;B[ea]C[Correct])(;B[fb]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[cb][cc][dc][ec][fa][fc][gb][hb]AW[bb][bc][cd][dd][eb][ed][fd][gc][hc][jb][jc](;B[ha];W[ca](;B[db]C[Correct])(;B[ea]C[Correct])(;B[fb]C[Correct])))"
     },
     {
         "id": 6083,
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ad][bc][cc][db][dc][ec]AW[aa][bb][bf][ca][cd][ce][eb][ed][ee][fb][fc][fd]((;B[cb];W[ac];B[da];W[bd];B[ba]C[Correct])(;B[da];W[bd](;B[ba]C[Correct])(;B[cb];W[ac];B[ba]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ab][ad][bc][cc][db][dc][ec]AW[aa][bb][bf][ca][cd][ce][eb][ed][ee][fb][fc][fd](;B[cb];W[ac];B[da];W[bd];B[ba]C[Correct])(;B[da];W[bd](;B[ba]C[Correct])(;B[cb];W[ac];B[ba]C[Correct])))"
     },
     {
         "id": 6084,
@@ -42660,7 +42660,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][bc][bd][be][cf][df][eb][ed][ef][ff][ga][gb][gc][gd][ge]AW[ca][cb][cd][ce][de][ea][ee][fb][fc][fd][fe]((;B[db];W[cc];B[fa];W[da](;B[dc]C[Correct])(;B[ec]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[ba][bb][bc][bd][be][cf][df][eb][ed][ef][ff][ga][gb][gc][gd][ge]AW[ca][cb][cd][ce][de][ea][ee][fb][fc][fd][fe](;B[db];W[cc];B[fa];W[da](;B[dc]C[Correct])(;B[ec]C[Correct])))"
     },
     {
         "id": 6093,
@@ -42709,7 +42709,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][be][cc][cd][de][ee][fc][fd][gb][hc]AW[ab][bb][cb][dd][eb][ec][ed][fb]((;B[fa];W[ea];B[db];W[da](;B[ca];W[ba];B[dc]C[Correct])(;B[dc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bc][be][cc][cd][de][ee][fc][fd][gb][hc]AW[ab][bb][cb][dd][eb][ec][ed][fb](;B[fa];W[ea];B[db];W[da](;B[ca];W[ba];B[dc]C[Correct])(;B[dc]C[Correct])))"
     },
     {
         "id": 6100,
@@ -42751,7 +42751,7 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[da][db][dd][ec][ed][fb][fc][fd][gd][hb][hc][jb][kb]AW[ca][cb][cc][cd][cf][dc][df][fa][ff][gb][ge][ha][hd][he][jc][kc][lb][ld]((;B[gc];W[eb](;B[ga];W[ea];B[ja]C[Correct])(;B[ja];W[ea];B[ga]C[Correct]))(;B[ja];W[eb](;B[ga];W[ea];B[gc]C[Correct])(;B[gc]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[da][db][dd][ec][ed][fb][fc][fd][gd][hb][hc][jb][kb]AW[ca][cb][cc][cd][cf][dc][df][fa][ff][gb][ge][ha][hd][he][jc][kc][lb][ld](;B[gc];W[eb](;B[ga];W[ea];B[ja]C[Correct])(;B[ja];W[ea];B[ga]C[Correct]))(;B[ja];W[eb](;B[ga];W[ea];B[gc]C[Correct])(;B[gc]C[Correct])))"
     },
     {
         "id": 6106,
@@ -42800,7 +42800,7 @@ const problems = [
         "title": "对杀题：黑先胜",
         "category": CATEGORIES.KILLING,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bd][cd][da][dd][ec][fb][fc][gb][hc][jc]AW[af][bb][bf][cb][cc][ce][cf][dc][df][eb][ed][ef][fd][gc][gd][gf]((;B[ab];W[ba](;B[db];W[de];B[ea];W[be];B[ca]C[Correct])(;B[ea]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[对杀题：黑先胜]AB[bc][bd][cd][da][dd][ec][fb][fc][gb][hc][jc]AW[af][bb][bf][cb][cc][ce][cf][dc][df][eb][ed][ef][fd][gc][gd][gf](;B[ab];W[ba](;B[db];W[de];B[ea];W[be];B[ca]C[Correct])(;B[ea]C[Correct])))"
     },
     {
         "id": 6113,
@@ -42828,14 +42828,14 @@ const problems = [
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][bb][ca][db][dc][ec][fa][fb][fc]AW[ad][bd][cb][cc][cd][dd][eb][ed][fd][gd][hb][hc]((;B[ba];W[bc];B[ab]C[Correct])(;B[bc]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ac][bb][ca][db][dc][ec][fa][fb][fc]AW[ad][bd][cb][cc][cd][dd][eb][ed][fd][gd][hb][hc](;B[ba];W[bc];B[ab]C[Correct])(;B[bc]C[Correct]))"
     },
     {
         "id": 6117,
         "title": "死活题：黑先净活",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bb][bc][cc][da][dc][ed][fa][fb][fc][fd][gc]AW[ab][ac][bd][cd][db][dd][ea][eb][ee][fe][ga][gd][ge][hb][hc]((;B[cb];W[ca];B[ec]C[Correct])(;B[ec];W[ca];B[cb]C[Correct])))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净活]AB[ba][bb][bc][cc][da][dc][ed][fa][fb][fc][fd][gc]AW[ab][ac][bd][cd][db][dd][ea][eb][ee][fe][ga][gd][ge][hb][hc](;B[cb];W[ca];B[ec]C[Correct])(;B[ec];W[ca];B[cb]C[Correct]))"
     },
     {
         "id": 6118,
@@ -42877,7 +42877,7 @@ const problems = [
         "title": "死活题：黑先净杀",
         "category": CATEGORIES.LIFE_DEATH,
         "difficulty": DIFFICULTIES.ADVANCED,
-        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bf][cc][cf][dc][dd][de][eb][fc]AW[bb][bc][cb][cd][ce][da][db]((;B[ba];W[ad](;B[ae];W[bd];B[ab]C[Correct])(;B[be];W[bd];B[ab]C[Correct]))))"
+        "sgf": "(;GM[1]FF[4]CA[UTF-8]AP[go-6k]RU[Japanese]SZ[19]KM[0.00]PW[White]PB[Black]C[死活题：黑先净杀]AB[bf][cc][cf][dc][dd][de][eb][fc]AW[bb][bc][cb][cd][ce][da][db](;B[ba];W[ad](;B[ae];W[bd];B[ab]C[Correct])(;B[be];W[bd];B[ab]C[Correct])))"
     },
     {
         "id": 6124,
