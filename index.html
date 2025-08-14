@@ -353,6 +353,103 @@
         let currentGliftInstance = null;
         let autoNextEnabled = true;
 
+        window.onProblemIncorrect = ({ goban, problem, widget }) => {
+          // Example: log or trigger custom behavior
+          const size = goban?.intersections?.();
+          const stones = goban?.getAllPlacedStones?.() || [];
+          console.log('Incorrect on problem', problem.id, 'size', size, 'stones', stones.length);
+      
+          // Your custom logic here…
+          if (widget && widget.controller) {
+            (async () => {
+              try {
+                const ctrl = widget.controller;
+                const gob = ctrl.goban || goban || null;
+                // Serve over HTTP(S) to load the model files.
+                const proto = window.location && window.location.protocol;
+                if (!proto || (proto !== 'http:' && proto !== 'https:')) {
+                  // Fallback: just show next refutation move if available.
+                  const next = ctrl.nextMove && ctrl.nextMove();
+                  if (next) widget.applyBoardData(next);
+                  return;
+                }
+                // Ensure TensorFlow.js is loaded.
+                if (!window.tf) {
+                  await new Promise((resolve, reject) => {
+                    const s = document.createElement('script');
+                    s.src = './js/tensorflow.js';
+                    s.onload = resolve;
+                    s.onerror = reject;
+                    document.head.appendChild(s);
+                  });
+                }
+                const BoardModule = await import('./js/board.js');
+                const { runInference } = await import('./js/inference.js');
+                // Convert goban to Board
+                const board = BoardModule.Board.fromGliftGoban(gob);
+                // Determine player to act
+                const nextColor = ctrl.getCurrentPlayer();
+                const pla = nextColor === glift.enums.states.BLACK ? BoardModule.P_BLACK : BoardModule.P_WHITE;
+                // Compute crop box around stones with small padding
+                const stones = gob && gob.getAllPlacedStones ? gob.getAllPlacedStones() : [];
+                const size = gob && gob.intersections ? gob.intersections() : 19;
+                let xMin = 0, yMin = 0, xMax = size - 1, yMax = size - 1;
+                if (stones.length) {
+                  xMin = Math.min(...stones.map(s => s.point.x()));
+                  yMin = Math.min(...stones.map(s => s.point.y()));
+                  xMax = Math.max(...stones.map(s => s.point.x()));
+                  yMax = Math.max(...stones.map(s => s.point.y()));
+                }
+                const pad = 2;
+                const crop = {
+                  xMin: Math.max(0, xMin - pad),
+                  yMin: Math.max(0, yMin - pad),
+                  xMax: Math.min(size - 1, xMax + pad),
+                  yMax: Math.min(size - 1, yMax + pad)
+                };
+                // Run inference
+                const { topMoves } = await runInference(board, pla, {
+                  tfLib: window.tf,
+                  modelPath: './model/b10c128-s1141046784-d204142634/model.json'
+                });
+                const nnX = size;
+                // Pick first move inside crop box
+                let best = null;
+                for (const idx of topMoves) {
+                  const row = Math.floor(idx / nnX);
+                  const col = idx % nnX;
+                  if (col >= crop.xMin && col <= crop.xMax && row >= crop.yMin && row <= crop.yMax) {
+                    best = { row, col };
+                    break;
+                  }
+                }
+                if (!best && topMoves && topMoves.length) {
+                  const idx = topMoves[0];
+                  best = { row: Math.floor(idx / nnX), col: idx % nnX };
+                }
+                if (best) {
+                  const pt = glift.util.point(best.col, best.row);
+                  const cur = gob && gob.getStone ? gob.getStone(pt) : null;
+                  if (!cur || cur === glift.enums.states.EMPTY) {
+                    const state = ctrl.addStone(pt, nextColor);
+                    if (state) widget.applyBoardData(state);
+                    return;
+                  }
+                }
+                // Fallback to nextMove()
+                const next = ctrl.nextMove && ctrl.nextMove();
+                if (next) widget.applyBoardData(next);
+              } catch (e) {
+                console.warn('Inference suggestion failed, falling back:', e);
+                try {
+                  const next = widget.controller.nextMove && widget.controller.nextMove();
+                  if (next) widget.applyBoardData(next);
+                } catch {}
+              }
+            })();
+          }
+        };
+
         function initFilters() {
             const categories = window.goProblems.getAvailableCategories();
             const difficulties = window.goProblems.getAvailableDifficulties();
@@ -511,6 +608,19 @@
                         saveWrongProblems();
                         updateProblemInfo();
                         updateProgress();
+
+                        // Optional user hook after updating progress on incorrect attempt
+                        try {
+                            const widget = (currentGliftInstance && currentGliftInstance.currentWidget)
+                                || (arguments && arguments[0])
+                                || null;
+                            const goban = (widget && widget.controller && widget.controller.goban) || null;
+                            if (typeof window.onProblemIncorrect === 'function') {
+                                window.onProblemIncorrect({ goban, problem, widget: widget || currentGliftInstance });
+                            }
+                        } catch (e) {
+                            console.warn('onProblemIncorrect handler error:', e);
+                        }
                     }
                 }
             });
