@@ -4,6 +4,44 @@ import { Board, Location, C_EMPTY, C_BLACK, C_WHITE, P_BLACK, P_WHITE, NULL_LOC 
 import { NNPos } from "./nnpos.js";
 import { NNInputs, inputTensor } from "./nninputs.js";
 
+// Keep a single model instance per page and persist it in IndexedDB
+let _modelPromise = null;
+
+function deriveModelName(modelPath, fallback = "go-model") {
+  try {
+    // e.g. ./model/b10c128-s1141046784-d204142634/model.json -> b10c128-s1141046784-d204142634
+    const m = modelPath.match(/model\/(.*?)\//);
+    if (m && m[1]) return m[1];
+  } catch (_) {}
+  return fallback;
+}
+
+async function loadOrGetModel(tfLib, modelPath, modelName) {
+  if (_modelPromise) return _modelPromise;
+  const name = modelName || deriveModelName(modelPath);
+
+  // 1) Try IndexedDB first (no network)
+  try {
+    _modelPromise = tfLib.loadGraphModel(`indexeddb://${name}`);
+    const m = await _modelPromise;
+    return m;
+  } catch (_) {
+    // ignore and fall through
+  }
+
+  // 2) Fallback to HTTP, then save to IndexedDB for next time
+  _modelPromise = (async () => {
+    const m = await tfLib.loadGraphModel(modelPath);
+    try {
+      await m.save(`indexeddb://${name}`);
+    } catch (e) {
+      console.warn("Failed to save model to IndexedDB, continuing without persistent cache:", e);
+    }
+    return m;
+  })();
+  return _modelPromise;
+}
+
 // logs a float array to the console, with one number per line
 function logFloatArray(f) {
   const rowSize = 19;
@@ -20,7 +58,7 @@ function logFloatArray(f) {
 
 
 async function runInference(board, nextPlayer, options = {}) {
-  const { modelPath, tfLib, model: providedModel } = options;
+  const { modelPath, tfLib, model: providedModel, modelName } = options;
   if (!tfLib) throw new Error("runInference requires a tfLib option");
 
   if (typeof tfLib.setBackend === 'function') {
@@ -34,7 +72,7 @@ async function runInference(board, nextPlayer, options = {}) {
     }
   }
 
-  const model = providedModel || (await tfLib.loadGraphModel(modelPath));
+  const model = providedModel || (await loadOrGetModel(tfLib, modelPath, modelName));
   const { bin_inputs, global_inputs } = inputTensor(board, nextPlayer);
 
   const batches = 1;
