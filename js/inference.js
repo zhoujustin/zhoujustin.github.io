@@ -88,15 +88,23 @@ async function runInference(board, nextPlayer, options = {}) {
   console.log(results);
   let flatPolicyArray = [];
   if (results[1] && typeof results[1].reshape === 'function') {
-    const policyTensor = tfLib.reshape(tfLib.slice(results[1], [0, 0, 0], [1, 1, -1]), [-1]);
+    const policyTensor1 = tfLib.reshape(tfLib.slice(results[1], [0, 0, 0], [1, 1, -1]), [-1]);
     
-    console.log(`policyTensor: ${policyTensor}`);
+    console.log(`policyTensor1: ${policyTensor1}`);
+    const flatPolicyArray1 = (await policyTensor1.array()) || [];
+    console.log("flatPolicyArray1: ", flatPolicyArray1);
+    logFloatArray(flatPolicyArray1);
+    const policyTensor2 = tfLib.reshape(tfLib.slice(results[1], [0, 1, 0], [1, 1, -1]), [-1]);
+    
+    console.log(`policyTensor2: ${policyTensor2}`);
+    const flatPolicyArray2 = (await policyTensor2.array()) || [];
+    console.log("flatPolicyArray2: ", flatPolicyArray2);
+    logFloatArray(flatPolicyArray2);
+
+    const policyTensor = tfLib.add(policyTensor1, policyTensor2);
     flatPolicyArray = (await policyTensor.array()) || [];
     console.log("flatPolicyArray: ", flatPolicyArray);
     logFloatArray(flatPolicyArray);
-    const policyTensor2 = tfLib.reshape(tfLib.slice(results[1], [0, 1, 0], [1, 1, -1]), [-1]);
-    console.log(`policyTensor2: ${policyTensor2}`);
-    logFloatArray(await policyTensor2.array());
   }
   let flatScores = [];
   if (results[2] && typeof results[2].dataSync === 'function') {
