@@ -318,7 +318,7 @@
             <div class="progress-bar">
                 <div class="progress-fill" id="progressFill"></div>
             </div>
-            <div class="version-info">v1.4.1</div>
+            <div class="version-info">v2.0.1</div>
         </div>
     </div>
 
@@ -342,6 +342,7 @@
             <input type="checkbox" id="autoNextCheckbox" checked>
             <label for="autoNextCheckbox">成功后自动下一题</label>
         </div>
+        <span id="bottomNotify" style="min-width:72px;color:#666;font-size:14px;"></span>
     </div>
 
     <script>
@@ -352,6 +353,19 @@
         let wrongProblems = new Set(JSON.parse(localStorage.getItem('wrongProblems') || '[]'));
         let currentGliftInstance = null;
         let autoNextEnabled = true;
+        function setGliftComment(text, prefix) {
+            const el = document.querySelector('#gliftContainer .glift-comment-box');
+            if (!el) return;
+            el.innerHTML = '';
+            if (prefix) {
+                const em = document.createElement('em');
+                em.textContent = prefix;
+                el.appendChild(em);
+            }
+            const span = document.createElement('span');
+            span.textContent = text;
+            el.appendChild(span);
+        }
 
         window.onProblemIncorrect = ({ goban, problem, widget }) => {
           // Example: log or trigger custom behavior
@@ -408,6 +422,11 @@
                   yMax: Math.min(size - 1, yMax + pad)
                 };
                 // Run inference
+                const notifyEl = document.getElementById('bottomNotify');
+                if (notifyEl) {
+                    notifyEl.textContent = '推理中...';
+                }
+                setGliftComment('推理中...', 'AI: ');
                 const { topMoves } = await runInference(board, pla, {
                   tfLib: window.tf,
                   modelPath: './model/b10c128-s1141046784-d204142634/model.json'
@@ -423,9 +442,12 @@
                     break;
                   }
                 }
-                if (!best && topMoves && topMoves.length) {
-                  const idx = topMoves[0];
-                  best = { row: Math.floor(idx / nnX), col: idx % nnX };
+                if (!best) {
+                    if (notifyEl) notifyEl.textContent = '脱先';
+                    setGliftComment('脱先', 'AI: ');
+                } else {
+                    if (notifyEl) notifyEl.textContent = '';
+                    setGliftComment('', 'AI: ');
                 }
                 if (best) {
                   const pt = glift.util.point(best.col, best.row);
@@ -436,9 +458,6 @@
                     return;
                   }
                 }
-                // Fallback to nextMove()
-                const next = ctrl.nextMove && ctrl.nextMove();
-                if (next) widget.applyBoardData(next);
               } catch (e) {
                 console.warn('Inference suggestion failed, falling back:', e);
                 try {
