@@ -94,7 +94,7 @@
         #gliftContainer {
             width: 100%;
             height: calc(100vh - 300px);
-            min-height: 400px;
+            min-height: 300px;
             max-height: 800px;
             margin: 0 auto;
             margin-bottom: 20px;
@@ -788,6 +788,35 @@
             }
         }
 
+        function resizeLayout() {
+            try {
+                const container = document.getElementById('gliftContainer');
+                const header = document.querySelector('.header');
+                const info = document.querySelector('.problem-info');
+                const controls = document.querySelector('.controls');
+                if (!container || !controls) return;
+
+                const vh = window.innerHeight || document.documentElement.clientHeight || 0;
+                const headerH = header ? header.offsetHeight + 20 : 0; // + header margin-bottom
+                const infoH = info ? info.offsetHeight + 20 : 0; // + info margin
+                const controlsH = controls.offsetHeight; // fixed bar height actually rendered
+
+                // Ensure content reserves space for the fixed controls bar
+                const bodyStyles = window.getComputedStyle(document.body);
+                const paddingTop = parseInt(bodyStyles.paddingTop || '0', 10) || 0;
+                const existingPadBottom = parseInt(bodyStyles.paddingBottom || '0', 10) || 0;
+                const reservedBottom = controlsH + 20; // small breathing room
+                document.body.style.paddingBottom = Math.max(existingPadBottom, reservedBottom) + 'px';
+
+                // Compute available height for the Glift container
+                const minH = 300;
+                const maxH = 800;
+                let available = Math.floor(vh - paddingTop - headerH - infoH - reservedBottom - 20);
+                const target = Math.max(minH, Math.min(available, maxH));
+                container.style.height = target + 'px';
+            } catch (_) { /* noop */ }
+        }
+
         window.onload = function() {
             const savedAutoNext = localStorage.getItem('autoNextEnabled');
             if (savedAutoNext !== null) {
@@ -800,12 +829,15 @@
 
             initFilters();
             filteredProblems = window.goProblems.getAllProblems();
+            // Layout must be computed before initializing Glift so it uses the correct container size
+            resizeLayout();
             restoreFromCache();
         };
 
         window.addEventListener('resize', function() {
             clearTimeout(resizeTimeout);
             resizeTimeout = setTimeout(function() {
+                resizeLayout();
                 clearCurrentBoard();
                 initGlift();
             }, 250);
