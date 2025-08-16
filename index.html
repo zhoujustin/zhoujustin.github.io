@@ -354,6 +354,7 @@
         let wrongProblems = new Set(JSON.parse(localStorage.getItem('wrongProblems') || '[]'));
         let currentGliftInstance = null;
         let autoNextEnabled = true;
+        let resizeTimeout; // debounce timer for resize
         function setGliftComment(text, prefix) {
             const el = document.querySelector('#gliftContainer .glift-comment-box');
             if (!el) return;
