@@ -53,7 +53,9 @@ function logFloatArray(f) {
     }
     console.log(line);
   }
-  console.log(f[rowSize * colSize].toFixed(2));
+  if (f[rowSize * colSize]) {
+    console.log(f[rowSize * colSize].toFixed(2));
+  }
 }
 
 
@@ -86,24 +88,39 @@ async function runInference(board, nextPlayer, options = {}) {
   });
 
   console.log(results);
+  if (results[0] && typeof results[0].dataSync === 'function') {
+    const flatPolicyArray = Array.from(results[0].dataSync());
+    // console.log("flatPolicyArray: ", flatPolicyArray);
+    console.log("owner: ");
+    logFloatArray(flatPolicyArray);
+  }
+
   let flatPolicyArray = [];
+  let flatPolicyArray1 = [];
+  let flatPolicyArray2 = [];
   if (results[1] && typeof results[1].reshape === 'function') {
     const policyTensor1 = tfLib.reshape(tfLib.slice(results[1], [0, 0, 0], [1, 1, -1]), [-1]);
     
-    console.log(`policyTensor1: ${policyTensor1}`);
-    const flatPolicyArray1 = (await policyTensor1.array()) || [];
-    console.log("flatPolicyArray1: ", flatPolicyArray1);
+    // console.log(`policyTensor1: ${policyTensor1}`);
+    flatPolicyArray1 = (await policyTensor1.array()) || [];
+    // console.log("flatPolicyArray1: ", flatPolicyArray1);
+    console.log("probe: ");
     logFloatArray(flatPolicyArray1);
-    const policyTensor2 = tfLib.reshape(tfLib.slice(results[1], [0, 1, 0], [1, 1, -1]), [-1]);
     
-    console.log(`policyTensor2: ${policyTensor2}`);
-    const flatPolicyArray2 = (await policyTensor2.array()) || [];
-    console.log("flatPolicyArray2: ", flatPolicyArray2);
+    // const policyTensor2 = tfLib.reshape(tfLib.slice(results[1], [0, 1, 0], [1, 1, -1]), [-1]);
+    const policyTensor2 = tfLib.relu(
+      tfLib.reshape(tfLib.slice(results[1], [0, 1, 0], [1, 1, -1]), [-1])
+    );
+    // console.log(`policyTensor2: ${policyTensor2}`);
+    flatPolicyArray2 = (await policyTensor2.array()) || [];
+    // console.log("flatPolicyArray2: ", flatPolicyArray2);
+    console.log("aux probe: ")
     logFloatArray(flatPolicyArray2);
-
+    
     const policyTensor = tfLib.add(policyTensor1, policyTensor2);
     flatPolicyArray = (await policyTensor.array()) || [];
-    console.log("flatPolicyArray: ", flatPolicyArray);
+    // console.log("flatPolicyArray: ", flatPolicyArray);
+    console.log("policy: ");
     logFloatArray(flatPolicyArray);
   }
   let flatScores = [];
@@ -117,7 +134,10 @@ async function runInference(board, nextPlayer, options = {}) {
   let topMoves = [];
   for (let move of topPolicies) {
     let index = flatPolicyArray.indexOf(move);
-    console.log("loc", index%19, Math.floor(index/19));
+    let val = flatPolicyArray[index];
+    let val1 = flatPolicyArray1[index];
+    let val2 = flatPolicyArray2[index];
+    console.log("loc: (", index%19, Math.floor(index/19), ")", val, val1, val2);
     topMoves.push(index);
   }
 
