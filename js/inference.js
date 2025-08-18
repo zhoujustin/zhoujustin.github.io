@@ -145,4 +145,4 @@ async function runInference(board, nextPlayer, options = {}) {
   return { topMoves, flatScores };
 }
 
-export { runInference };
+export { runInference, loadOrGetModel };

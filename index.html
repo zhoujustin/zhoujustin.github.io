@@ -319,7 +319,7 @@
             <div class="progress-bar">
                 <div class="progress-fill" id="progressFill"></div>
             </div>
-            <div class="version-info">v2.0.4</div>
+            <div class="version-info">v2.0.5</div>
         </div>
     </div>
 
@@ -760,6 +760,19 @@
 
             const searchClear = document.getElementById('searchClear');
             searchClear.style.display = state.searchText ? 'block' : 'none';
+
+            // Preload and cache the model in IndexedDB for faster first inference
+            (async () => {
+                try {
+                    const proto = window.location && window.location.protocol;
+                    if (!proto || (proto !== 'http:' && proto !== 'https:')) return; // only preload when served
+                    const { loadOrGetModel } = await import('./js/inference.js');
+                    await loadOrGetModel(window.tf, './model/b10c128-s1141046784-d204142634/model.json');
+                    console.log('Model preloaded and cached');
+                } catch (e) {
+                    console.warn('Model preload failed:', e);
+                }
+            })();
         }
 
         function updateAndSave() {
