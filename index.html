@@ -343,6 +343,10 @@
             <input type="checkbox" id="autoNextCheckbox" checked>
             <label for="autoNextCheckbox">成功后自动下一题</label>
         </div>
+        <div class="auto-next-container">
+            <input type="checkbox" id="aiAssistCheckbox" checked>
+            <label for="aiAssistCheckbox">启用AI助手</label>
+        </div>
     </div>
 
     <script>
@@ -380,6 +384,16 @@
               try {
                 const ctrl = widget.controller;
                 const gob = ctrl.goban || goban || null;
+
+                // Respect AI assistant toggle: if disabled, just try next refutation move and return.
+                const aiToggleEl = document.getElementById('aiAssistCheckbox');
+                if (!aiToggleEl || !aiToggleEl.checked) {
+                  try {
+                    const next = ctrl.nextMove && ctrl.nextMove();
+                    if (next) widget.applyBoardData(next);
+                  } catch {}
+                  return;
+                }
                 // Serve over HTTP(S) to load the model files.
                 const proto = window.location && window.location.protocol;
                 if (!proto || (proto !== 'http:' && proto !== 'https:')) {
@@ -714,6 +728,27 @@
             }
         });
 
+        async function preloadModel() {
+            try {
+                const proto = window.location && window.location.protocol;
+                if (!proto || (proto !== 'http:' && proto !== 'https:')) return; // only preload when served
+                if (!window.tf) {
+                    await new Promise((resolve, reject) => {
+                        const s = document.createElement('script');
+                        s.src = './js/tensorflow.js';
+                        s.onload = resolve;
+                        s.onerror = reject;
+                        document.head.appendChild(s);
+                    });
+                }
+                const { loadOrGetModel } = await import('./js/inference.js');
+                await loadOrGetModel(window.tf, './model/b10c128-s1141046784-d204142634/model.json');
+                console.log('Model preloaded and cached');
+            } catch (e) {
+                console.warn('Model preload failed:', e);
+            }
+        }
+
         function saveToCache() {
             const state = {
                 currentProblem,
@@ -721,9 +756,13 @@
                 difficulty: document.getElementById('difficultyFilter').value,
                 searchText: document.getElementById('searchInput').value,
                 autoNext: document.getElementById('autoNextCheckbox').checked,
+                aiAssist: (document.getElementById('aiAssistCheckbox') || {}).checked,
                 timestamp: new Date().getTime()
             };
             localStorage.setItem('problemState', JSON.stringify(state));
+            try {
+                localStorage.setItem('aiAssistEnabled', String(state.aiAssist));
+            } catch (_) { /* noop */ }
         }
 
         function restoreFromCache() {
@@ -754,18 +793,21 @@
             const searchClear = document.getElementById('searchClear');
             searchClear.style.display = state.searchText ? 'block' : 'none';
 
-            // Preload and cache the model in IndexedDB for faster first inference
-            (async () => {
-                try {
-                    const proto = window.location && window.location.protocol;
-                    if (!proto || (proto !== 'http:' && proto !== 'https:')) return; // only preload when served
-                    const { loadOrGetModel } = await import('./js/inference.js');
-                    await loadOrGetModel(window.tf, './model/b10c128-s1141046784-d204142634/model.json');
-                    console.log('Model preloaded and cached');
-                } catch (e) {
-                    console.warn('Model preload failed:', e);
+            // Restore AI assistant toggle
+            try {
+                const savedAi = localStorage.getItem('aiAssistEnabled');
+                const aiCb = document.getElementById('aiAssistCheckbox');
+                if (aiCb && savedAi !== null) aiCb.checked = savedAi === 'true';
+                if (aiCb) {
+                    aiCb.addEventListener('change', function() {
+                        localStorage.setItem('aiAssistEnabled', aiCb.checked);
+                        saveToCache();
+                    });
                 }
-            })();
+            } catch (_) { /* noop */ }
+
+            // Always preload model on initial load (independent of toggle)
+            preloadModel();
         }
 
         function updateAndSave() {
