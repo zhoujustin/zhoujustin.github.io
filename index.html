@@ -343,7 +343,6 @@
             <input type="checkbox" id="autoNextCheckbox" checked>
             <label for="autoNextCheckbox">成功后自动下一题</label>
         </div>
-        <span id="bottomNotify" style="min-width:72px;color:#666;font-size:14px;"></span>
     </div>
 
     <script>
@@ -424,10 +423,6 @@
                   yMax: Math.min(size - 1, yMax + pad)
                 };
                 // Run inference
-                const notifyEl = document.getElementById('bottomNotify');
-                if (notifyEl) {
-                    notifyEl.textContent = '推理中...';
-                }
                 setGliftComment('推理中...', 'AI: ');
                 const { topMoves } = await runInference(board, pla, {
                   tfLib: window.tf,
@@ -445,10 +440,8 @@
                   }
                 }
                 if (!best) {
-                    if (notifyEl) notifyEl.textContent = '脱先';
                     setGliftComment('脱先', 'AI: ');
                 } else {
-                    if (notifyEl) notifyEl.textContent = '';
                     setGliftComment('', 'AI: ');
                 }
                 if (best) {
